@@ -1,5 +1,130 @@
 {
-  "gerado_em": null,
-  "clima": null,
-  "noticias": []
+  "gerado_em": "2026-08-12T11:55:22.638Z",
+  "clima": {
+    "max": 24.6,
+    "min": 13.8,
+    "chuva": 4
+  },
+  "noticias": [
+    {
+      "titulo": "Os trabalhadores que 'dão adeus à CLT' atrás do sonho de viver fazendo vídeos de IA",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c5yzyy730nro?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 07:44:18 GMT",
+      "tema": "mundo",
+      "motivo": "Sem palavra-chave específica — tema geral"
+    },
+    {
+      "titulo": "Pesquisa para presidente mostra Lula e Flávio estáveis e pouca força de outros candidatos; veja no agregador da BBC News Brasil",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 11:48:25 GMT",
+      "tema": "politica",
+      "motivo": "Palavra-chave: \"eleicao\""
+    },
+    {
+      "titulo": "O que é o Cinturão de Fogo do Pacífico em que está a Colômbia — e por que 90% dos terremotos do mundo ocorrem nesta região",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c24m2nge2g1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 09:42:09 GMT",
+      "tema": "mundo",
+      "motivo": "Sem palavra-chave específica — tema geral"
+    },
+    {
+      "titulo": "Tomar cerveja com proteína e refrigerante com fibra funciona?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c62vjqwzvg7o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 11:03:04 GMT",
+      "tema": "mundo",
+      "motivo": "Sem palavra-chave específica — tema geral"
+    },
+    {
+      "titulo": "A desesperada busca por sobreviventes na Colômbia: 'Cada vez que anunciam uma pessoa com vida, espero ser meu irmão'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c1512z32jkeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 10:06:12 GMT",
+      "tema": "mundo",
+      "motivo": "Sem palavra-chave específica — tema geral"
+    },
+    {
+      "titulo": "Quem é o homem que a Irlanda acusa de ser líder de um dos cartéis mais perigosos do mundo",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c3w03ydgn9eo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 09:02:01 GMT",
+      "tema": "mundo",
+      "motivo": "Sem palavra-chave específica — tema geral"
+    },
+    {
+      "titulo": "Equipes de resgate buscam sobreviventes após terremoto na Colômbia deixar 181 mortos e mais de 2.500 feridos",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crmr1nzz84jo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 11 Aug 2026 19:40:32 GMT",
+      "tema": "brasil",
+      "motivo": "Palavra-chave: \"brasil\""
+    },
+    {
+      "titulo": "O fenômeno que causou terremoto devastador na Colômbia — e não tem relação com tremores na Venezuela",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ckg3e7dy4z1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 11 Aug 2026 16:14:10 GMT",
+      "tema": "mundo",
+      "motivo": "Sem palavra-chave específica — tema geral"
+    },
+    {
+      "titulo": "Trump confirma que trocou secretamente de avião devido a possível ameaça",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c1m1kj89gero?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 02:30:00 GMT",
+      "tema": "politica",
+      "motivo": "Palavra-chave: \"presidente\""
+    },
+    {
+      "titulo": "Clique aqui",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 11:48:25 GMT",
+      "tema": "politica",
+      "motivo": "Palavra-chave: \"eleicao\""
+    },
+    {
+      "titulo": "Os mapas e gráficos que mostram o epicentro, a magnitude e o impacto do potente terremoto na Colômbia",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c78glgn7661o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 11 Aug 2026 19:53:10 GMT",
+      "tema": "mundo",
+      "motivo": "Sem palavra-chave específica — tema geral"
+    },
+    {
+      "titulo": "Eclipse solar e lunar: quando e como observar os dois fenômenos previstos para agosto",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cvgx349yzdgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 10 Aug 2026 13:12:18 GMT",
+      "tema": "brasil",
+      "motivo": "Palavra-chave: \"brasil\""
+    },
+    {
+      "titulo": "A doutrina do século 19 que orienta política externa do governo Trump para a América Latina",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwyev4yw89po?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 11 Aug 2026 22:08:41 GMT",
+      "tema": "financas",
+      "motivo": "Palavra-chave: \"acoes\""
+    },
+    {
+      "titulo": "Como 'Botas Verdes', congelado há 30 anos no Everest, deve finalmente voltar para casa ",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c3v07p6q24lo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 11 Aug 2026 16:44:30 GMT",
+      "tema": "mundo",
+      "motivo": "Sem palavra-chave específica — tema geral"
+    },
+    {
+      "titulo": "Renan Santos: por que parte da Faria Lima embarcou na campanha do candidato estreante em eleições",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cvg9j2qjp4no?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 11 Aug 2026 08:06:16 GMT",
+      "tema": "financas",
+      "motivo": "Palavra-chave: \"mercado financeiro\""
+    }
+  ]
 }
