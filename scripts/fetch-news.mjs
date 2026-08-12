@@ -28,12 +28,6 @@ const FONTES = [
 // 2) TEMAS E EXCLUSÕES (espelha o que foi definido na conversa)
 // ---------------------------------------------------------------------------
 const TEMAS_PRINCIPAIS = [
-  "mundo",       // grande impacto - Mundo
-  "brasil",      // grande impacto - Brasil
-  "sp",          // grande impacto - São Paulo
-  "realeza",     // realeza britânica
-];
-const TEMAS_PRINCIPAIS = [
   "mundo",         // grande impacto - Mundo
   "brasil",        // grande impacto - Brasil
   "sp",            // grande impacto - São Paulo
