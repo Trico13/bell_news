@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-12T15:57:35.217Z",
+  "gerado_em": "2026-08-12T16:59:38.297Z",
   "clima": {
     "max": 24.3,
     "min": 13.7,
@@ -23,6 +23,14 @@
       "motivo": "Palavra-chave: \"brasil\""
     },
     {
+      "titulo": "Eclipse solar total: as imagens do fenômeno que acontece nesta quarta-feira na Europa",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cd9wp02y9y0o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 16:32:11 GMT",
+      "tema": "brasil",
+      "motivo": "Palavra-chave: \"brasil\""
+    },
+    {
       "titulo": "Eclipse solar total e eclipse da lua: que horas começa e como observar",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cvgx349yzdgo?at_medium=RSS&at_campaign=rss",
@@ -31,12 +39,20 @@
       "motivo": "Sem palavra-chave específica — tema geral"
     },
     {
+      "titulo": "'Tenho dúvidas se vou continuar jogando futebol': a emocionante mensagem de Lionel Messi dedicada a seu pai após a sua morte",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c5y49gy8845o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 16:55:28 GMT",
+      "tema": "mundo",
+      "motivo": "Sem palavra-chave específica — tema geral"
+    },
+    {
       "titulo": "Pesquisa para presidente mostra Lula e Flávio estáveis e pouca força de outros candidatos; veja no agregador da BBC News Brasil",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 12 Aug 2026 11:48:25 GMT",
-      "tema": "politica",
-      "motivo": "Palavra-chave: \"eleicao\""
+      "tema": "brasil",
+      "motivo": "Palavra-chave: \"brasil\""
     },
     {
       "titulo": "Tomar cerveja com proteína e refrigerante com fibra funciona?",
@@ -51,14 +67,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/czekxzd2j2zo?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 12 Aug 2026 14:05:12 GMT",
-      "tema": "esportes",
-      "motivo": "Palavra-chave: \"copa do mundo\""
-    },
-    {
-      "titulo": "Candidatas ao Miss Universo no Canadá pedem desculpas por usar trajes indígenas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cn8nplynkvno?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 12 Aug 2026 12:33:50 GMT",
       "tema": "mundo",
       "motivo": "Sem palavra-chave específica — tema geral"
     },
@@ -75,8 +83,8 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 12 Aug 2026 11:48:25 GMT",
-      "tema": "politica",
-      "motivo": "Palavra-chave: \"eleicao\""
+      "tema": "brasil",
+      "motivo": "Palavra-chave: \"brasil\""
     },
     {
       "titulo": "O que é o Cinturão de Fogo do Pacífico em que está a Colômbia — e por que 90% dos terremotos do mundo ocorrem nesta região",
@@ -99,8 +107,8 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cwyev4yw89po?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 11 Aug 2026 22:08:41 GMT",
-      "tema": "financas",
-      "motivo": "Palavra-chave: \"acoes\""
+      "tema": "mundo",
+      "motivo": "Sem palavra-chave específica — tema geral"
     },
     {
       "titulo": "Como 'Botas Verdes', congelado há 30 anos no Everest, deve finalmente voltar para casa ",
@@ -115,16 +123,120 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c1m1kj89gero?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 12 Aug 2026 02:30:00 GMT",
-      "tema": "politica",
-      "motivo": "Palavra-chave: \"presidente\""
+      "tema": "mundo",
+      "motivo": "Sem palavra-chave específica — tema geral"
     },
     {
-      "titulo": "Renan Santos: por que parte da Faria Lima embarcou na campanha do candidato estreante em eleições",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvg9j2qjp4no?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 11 Aug 2026 08:06:16 GMT",
-      "tema": "financas",
-      "motivo": "Palavra-chave: \"mercado financeiro\""
+      "titulo": "Internato estruturado revoluciona a formação médica",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pr/parana/especial-publicitario/centro-universitario-integrado/noticia/2026/08/12/internato-estruturado-revoluciona-a-formacao-medica.ghtml",
+      "hora": "Wed, 12 Aug 2026 16:52:40 -0000",
+      "tema": "brasil",
+      "motivo": "Palavra-chave: \"brasil\""
+    },
+    {
+      "titulo": "Eclipse solar já começou de forma parcial em regiões remotas do planeta; SIGA",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ciencia/ao-vivo/eclipse-solar-total-12-agosto.ghtml",
+      "hora": "Wed, 12 Aug 2026 16:50:07 -0000",
+      "tema": "brasil",
+      "motivo": "Palavra-chave: \"brasil\""
+    },
+    {
+      "titulo": "Primárias democratas expõem racha entre esquerda e centro antes das eleições de meio de mandato nos EUA",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/08/12/primarias-democratas-expoem-racha-entre-esquerda-e-centro-antes-das-eleicoes-de-meio-de-mandato-nos-eua.ghtml",
+      "hora": "Wed, 12 Aug 2026 16:47:43 -0000",
+      "tema": "brasil",
+      "motivo": "Palavra-chave: \"eleicao\""
+    },
+    {
+      "titulo": "Terremoto na Colômbia: buscas entram no 3º dia, e número de mortos é revisado para 233",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/ao-vivo/ao-vivo-terremoto-colombia-destruicao.ghtml",
+      "hora": "Wed, 12 Aug 2026 16:45:41 -0000",
+      "tema": "mundo",
+      "motivo": "Sem palavra-chave específica — tema geral"
+    },
+    {
+      "titulo": "Dupla suspeita de aplicar golpe do Pix ao pedir torta, coxinha e pudim é presa após denúncia de comerciante no interior de SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/12/dupla-suspeita-de-aplicar-golpe-do-pix-ao-pedir-torta-coxinha-e-pudim-e-presa-apos-denuncia-de-comerciante-no-interior-de-sp.ghtml",
+      "hora": "Wed, 12 Aug 2026 16:45:35 -0000",
+      "tema": "mundo",
+      "motivo": "Sem palavra-chave específica — tema geral"
+    },
+    {
+      "titulo": "MP aponta irregularidades no Conjunto Hospitalar de Sorocaba e vai cobrar estado e gestora quanto a melhorias",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/08/12/mp-irregularidades-chs.ghtml",
+      "hora": "Wed, 12 Aug 2026 16:44:06 -0000",
+      "tema": "sp",
+      "motivo": "Palavra-chave: \"sao paulo\""
+    },
+    {
+      "titulo": "Eleições em Sergipe: Valmir de Francisquinho declara R$ 258 mil em bens ao Tribunal Superior Eleitoral",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/12/eleicoes-em-sergipe-valmir-de-francisquinho-declara-r-258-mil-em-bens-ao-tribunal-superior-eleitoral.ghtml",
+      "hora": "Wed, 12 Aug 2026 16:42:35 -0000",
+      "tema": "brasil",
+      "motivo": "Palavra-chave: \"eleicao\""
+    },
+    {
+      "titulo": "Eleições em Sergipe: Fábio Mitidieri declara R$ 1,6 mi em bens ao Tribunal Superior Eleitoral",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/12/eleicoes-em-sergipe-fabio-mitidieri-declara-r-16-mi-em-bens-ao-tribunal-superior-eleitoral.ghtml",
+      "hora": "Wed, 12 Aug 2026 16:40:09 -0000",
+      "tema": "brasil",
+      "motivo": "Palavra-chave: \"eleicao\""
+    },
+    {
+      "titulo": "Eleições em Sergipe: Dr. Helton do PSOL declara R$ 47 mil em bens ao Tribunal Superior Eleitoral",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/12/eleicoes-em-sergipe-dr-helton-do-psol-declara-r-47-mil-em-bens-ao-tribunal-superior-eleitoral.ghtml",
+      "hora": "Wed, 12 Aug 2026 16:40:08 -0000",
+      "tema": "brasil",
+      "motivo": "Palavra-chave: \"eleicoes\""
+    },
+    {
+      "titulo": "Homem é preso após ameaçar e xingar a mãe de 101 anos no Acre",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/08/12/homem-e-preso-apos-ameacar-e-xingar-a-mae-de-101-anos-no-acre.ghtml",
+      "hora": "Wed, 12 Aug 2026 16:39:18 -0000",
+      "tema": "entretenimento",
+      "motivo": "Palavra-chave: \"rainha\""
+    },
+    {
+      "titulo": "Professor do Paraná investigado por pedir fotos de adolescente nua e chantageá-la com ameaça de reprovação foi afastado do cargo",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/12/professor-do-parana-investigado-por-pedir-fotos-de-adolescente-nua-e-chantagea-la-com-ameaca-de-reprovacao-foi-afastado-do-cargo.ghtml",
+      "hora": "Wed, 12 Aug 2026 16:38:18 -0000",
+      "tema": "mundo",
+      "motivo": "Sem palavra-chave específica — tema geral"
+    },
+    {
+      "titulo": "Motoboy morre após sofrer parada cardíaca dentro de panificadora em Boa Vista",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/08/12/motoboy-morre-dentro-de-panificadora-em-boa-vista.ghtml",
+      "hora": "Wed, 12 Aug 2026 16:37:20 -0000",
+      "tema": "mundo",
+      "motivo": "Sem palavra-chave específica — tema geral"
+    },
+    {
+      "titulo": "Suspeitos envolvidos na morte de fazendeiro no interior de SP são presos em MG",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/08/12/suspeitos-envolvidos-na-morte-de-fazendeiro-no-interior-de-sp-sao-presos-em-mg.ghtml",
+      "hora": "Wed, 12 Aug 2026 16:36:44 -0000",
+      "tema": "mundo",
+      "motivo": "Sem palavra-chave específica — tema geral"
+    },
+    {
+      "titulo": "Viúva encontra carta de amor quase um ano após marido morrer na explosão de fábrica da Enaex, na Grande Curitiba: 'Obrigado por ser tão maravilhosa'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pr/parana/noticia/2026/08/12/carta-de-amor-um-ano-explosao-fabrica-grande-curitiba.ghtml",
+      "hora": "Wed, 12 Aug 2026 16:35:55 -0000",
+      "tema": "brasil",
+      "motivo": "Palavra-chave: \"brasil\""
     }
   ]
 }
