@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-08-12T11:55:22.638Z",
+  "gerado_em": "2026-08-12T15:57:35.217Z",
   "clima": {
-    "max": 24.6,
-    "min": 13.8,
+    "max": 24.3,
+    "min": 13.7,
     "chuva": 4
   },
   "noticias": [
@@ -15,7 +15,63 @@
       "motivo": "Sem palavra-chave específica — tema geral"
     },
     {
+      "titulo": "Discord no Brasil: a decisão que suspende lives da rede social no país e o que acontece agora",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cd69p29eq6go?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 15:52:25 GMT",
+      "tema": "brasil",
+      "motivo": "Palavra-chave: \"brasil\""
+    },
+    {
+      "titulo": "Eclipse solar total e eclipse da lua: que horas começa e como observar",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cvgx349yzdgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 14:29:32 GMT",
+      "tema": "mundo",
+      "motivo": "Sem palavra-chave específica — tema geral"
+    },
+    {
       "titulo": "Pesquisa para presidente mostra Lula e Flávio estáveis e pouca força de outros candidatos; veja no agregador da BBC News Brasil",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 11:48:25 GMT",
+      "tema": "politica",
+      "motivo": "Palavra-chave: \"eleicao\""
+    },
+    {
+      "titulo": "Tomar cerveja com proteína e refrigerante com fibra funciona?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c62vjqwzvg7o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 11:03:04 GMT",
+      "tema": "mundo",
+      "motivo": "Sem palavra-chave específica — tema geral"
+    },
+    {
+      "titulo": "O gráfico que mostra como o mundo está dividido sobre Infantino",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czekxzd2j2zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 14:05:12 GMT",
+      "tema": "esportes",
+      "motivo": "Palavra-chave: \"copa do mundo\""
+    },
+    {
+      "titulo": "Candidatas ao Miss Universo no Canadá pedem desculpas por usar trajes indígenas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cn8nplynkvno?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 12:33:50 GMT",
+      "tema": "mundo",
+      "motivo": "Sem palavra-chave específica — tema geral"
+    },
+    {
+      "titulo": "Quem é o homem que a Irlanda acusa de ser líder de um dos cartéis mais perigosos do mundo",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c3w03ydgn9eo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 09:02:01 GMT",
+      "tema": "mundo",
+      "motivo": "Sem palavra-chave específica — tema geral"
+    },
+    {
+      "titulo": "Clique aqui",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 12 Aug 2026 11:48:25 GMT",
@@ -31,76 +87,12 @@
       "motivo": "Sem palavra-chave específica — tema geral"
     },
     {
-      "titulo": "Tomar cerveja com proteína e refrigerante com fibra funciona?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c62vjqwzvg7o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 12 Aug 2026 11:03:04 GMT",
-      "tema": "mundo",
-      "motivo": "Sem palavra-chave específica — tema geral"
-    },
-    {
-      "titulo": "A desesperada busca por sobreviventes na Colômbia: 'Cada vez que anunciam uma pessoa com vida, espero ser meu irmão'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c1512z32jkeo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 12 Aug 2026 10:06:12 GMT",
-      "tema": "mundo",
-      "motivo": "Sem palavra-chave específica — tema geral"
-    },
-    {
-      "titulo": "Quem é o homem que a Irlanda acusa de ser líder de um dos cartéis mais perigosos do mundo",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3w03ydgn9eo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 12 Aug 2026 09:02:01 GMT",
-      "tema": "mundo",
-      "motivo": "Sem palavra-chave específica — tema geral"
-    },
-    {
-      "titulo": "Equipes de resgate buscam sobreviventes após terremoto na Colômbia deixar 181 mortos e mais de 2.500 feridos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crmr1nzz84jo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 11 Aug 2026 19:40:32 GMT",
-      "tema": "brasil",
-      "motivo": "Palavra-chave: \"brasil\""
-    },
-    {
-      "titulo": "O fenômeno que causou terremoto devastador na Colômbia — e não tem relação com tremores na Venezuela",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckg3e7dy4z1o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 11 Aug 2026 16:14:10 GMT",
-      "tema": "mundo",
-      "motivo": "Sem palavra-chave específica — tema geral"
-    },
-    {
-      "titulo": "Trump confirma que trocou secretamente de avião devido a possível ameaça",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c1m1kj89gero?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 12 Aug 2026 02:30:00 GMT",
-      "tema": "politica",
-      "motivo": "Palavra-chave: \"presidente\""
-    },
-    {
-      "titulo": "Clique aqui",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 12 Aug 2026 11:48:25 GMT",
-      "tema": "politica",
-      "motivo": "Palavra-chave: \"eleicao\""
-    },
-    {
       "titulo": "Os mapas e gráficos que mostram o epicentro, a magnitude e o impacto do potente terremoto na Colômbia",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c78glgn7661o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 11 Aug 2026 19:53:10 GMT",
       "tema": "mundo",
       "motivo": "Sem palavra-chave específica — tema geral"
-    },
-    {
-      "titulo": "Eclipse solar e lunar: quando e como observar os dois fenômenos previstos para agosto",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvgx349yzdgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 10 Aug 2026 13:12:18 GMT",
-      "tema": "brasil",
-      "motivo": "Palavra-chave: \"brasil\""
     },
     {
       "titulo": "A doutrina do século 19 que orienta política externa do governo Trump para a América Latina",
@@ -117,6 +109,14 @@
       "hora": "Tue, 11 Aug 2026 16:44:30 GMT",
       "tema": "mundo",
       "motivo": "Sem palavra-chave específica — tema geral"
+    },
+    {
+      "titulo": "Trump confirma que trocou secretamente de avião devido a possível ameaça",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c1m1kj89gero?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 02:30:00 GMT",
+      "tema": "politica",
+      "motivo": "Palavra-chave: \"presidente\""
     },
     {
       "titulo": "Renan Santos: por que parte da Faria Lima embarcou na campanha do candidato estreante em eleições",
