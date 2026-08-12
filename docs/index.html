@@ -46,8 +46,7 @@
 
 <script>
 const LABELS = {
-  mundo: "Mundo", brasil: "Brasil", sp: "São Paulo", tempo: "Clima",
-  realeza: "Realeza britânica", esportes: "Esportes", financas: "Finanças", politica: "Política"
+  mundo: "Mundo", brasil: "Brasil", sp: "São Paulo", entretenimento: "Entretenimento"
 };
 
 async function carregar() {
@@ -66,7 +65,9 @@ async function carregar() {
     }
 
     const noticias = data.noticias || [];
-    const temas = [...new Set(noticias.map(n => n.tema))];
+    const ORDEM_TEMAS = ["brasil", "sp", "mundo", "entretenimento"];
+    const presentes = new Set(noticias.map(n => n.tema));
+    const temas = ORDEM_TEMAS.filter(t => presentes.has(t));
     const filtersEl = document.getElementById('filters');
     temas.forEach(t => {
       const b = document.createElement('button');
