@@ -94,14 +94,19 @@ function classificarItem(item) {
 async function buscarClima() {
   const lat = -23.55, lon = -46.63; // São Paulo
   const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max,weathercode&timezone=America%2FSao_Paulo`;
-  const resp = await fetch(url);
-  if (!resp.ok) return null;
-  const data = await resp.json();
-  return {
-    max: data.daily.temperature_2m_max[0],
-    min: data.daily.temperature_2m_min[0],
-    chuva: data.daily.precipitation_probability_max[0],
-  };
+  try {
+    const resp = await fetch(url);
+    if (!resp.ok) return null;
+    const data = await resp.json();
+    return {
+      max: data.daily.temperature_2m_max[0],
+      min: data.daily.temperature_2m_min[0],
+      chuva: data.daily.precipitation_probability_max[0],
+    };
+  } catch (err) {
+    console.error("Falha ao buscar clima (seguindo sem isso):", err.message);
+    return null;
+  }
 }
 
 // ---------------------------------------------------------------------------
