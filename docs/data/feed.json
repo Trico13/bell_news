@@ -1,5 +1,6 @@
 {
-  "gerado_em": "2026-08-12T16:59:38.297Z",
+  "gerado_em": "2026-08-12T17:43:59.710Z",
+  "modo": "ia",
   "clima": {
     "max": 24.3,
     "min": 13.7,
@@ -7,84 +8,188 @@
   },
   "noticias": [
     {
+      "titulo": "12º Brotas Gourmet reúne sabores caipiras, música e atrações em quatro dias de festival",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/08/12/12o-brotas-gourmet-reune-sabores-caipiras-musica-e-atracoes-em-quatro-dias-de-festival.ghtml",
+      "hora": "Wed, 12 Aug 2026 17:29:15 -0000",
+      "tema": "sp",
+      "resumo": "Festival gastronômico em Brotas (SP) celebra a culinária caipira com música e atrações culturais durante quatro dias."
+    },
+    {
+      "titulo": "70% dos argentinos desaprovam ataques de Milei a Lula, diz pesquisa ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/08/12/milei-x-lula-70percent-dos-argentinos-desaprova-ataques-ao-brasil-diz-pesquisa.ghtml",
+      "hora": "Wed, 12 Aug 2026 17:28:14 -0000",
+      "tema": "mundo",
+      "resumo": "Pesquisa mostra que maioria dos argentinos desaprova ataques do presidente Milei ao presidente Lula."
+    },
+    {
+      "titulo": "Eclipse solar começa a ser visto de forma parcial na Europa; SIGA",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ciencia/ao-vivo/eclipse-solar-total-12-agosto.ghtml",
+      "hora": "Wed, 12 Aug 2026 17:27:24 -0000",
+      "tema": "mundo",
+      "resumo": "Eclipse solar é visível de forma parcial na Europa, com totalidade registrada no norte da Rússia e passando por Groenlândia e Islândia."
+    },
+    {
+      "titulo": "Mulheres são presas suspeitas de aplicar golpes com falso escritório de advocacia no Pará",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/08/12/mulheres-sao-presas-suspeitas-de-aplicar-golpes-com-falso-escritorio-de-advocacia-no-para.ghtml",
+      "hora": "Wed, 12 Aug 2026 17:23:13 -0000",
+      "tema": "brasil",
+      "resumo": "Quadrilha de mulheres é desarticulada por aplicar golpes fingindo ser funcionárias de escritório de advocacia para enganar aposentados no Pará."
+    },
+    {
+      "titulo": "Acidente entre 2 ônibus e carro bloqueia trecho da Av. Orosimbo Maia em Campinas",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/12/acidente-entre-onibus-e-carro-bloqueia-trecho-da-av-orosimbo-maia-em-campinas.ghtml",
+      "hora": "Wed, 12 Aug 2026 17:22:59 -0000",
+      "tema": "sp",
+      "resumo": "Acidente envolvendo dois ônibus e um carro bloqueia trecho de avenida em Campinas durante a tarde."
+    },
+    {
+      "titulo": "Marcela Zaidem fala sobre liderança e conquista de resultados por meio da gestão de pessoas em evento para mulheres, em Goiânia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/08/12/marcela-zaidem-fala-sobre-lideranca-e-conquista-de-resultados-por-meio-da-gestao-de-pessoas-em-evento-para-mulheres-em-goiania.ghtml",
+      "hora": "Wed, 12 Aug 2026 17:22:09 -0000",
+      "tema": "cultura",
+      "resumo": "Especialista em liderança e desenvolvimento organizacional participa de evento exclusivo para filiadas da LIDE Mulher em Goiânia."
+    },
+    {
+      "titulo": "Prédios tortos de Santos não precisam de intervenção estrutural no momento, diz prefeitura",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/12/predios-tortos-em-santos-nao-precisam-de-intervencao-estrutural-no-momento-diz-prefeitura.ghtml",
+      "hora": "Wed, 12 Aug 2026 17:21:43 -0000",
+      "tema": "sp",
+      "resumo": "Prefeitura de Santos informa que prédios inclinados da orla não necessitam de intervenção estrutural no momento."
+    },
+    {
+      "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
+      "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
+      "tema": "sp",
+      "resumo": "Festival de bicicletas na Zona Sul de São Paulo reúne ciclistas profissionais e amadores com competições de manobras e atividades para crianças."
+    },
+    {
+      "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
+      "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
+      "tema": "sp",
+      "resumo": "Desempregado percorre 20 quilômetros de bicicleta e aguarda 12 horas em fila para concorrer a uma de 500 vagas de emprego em Bauru."
+    },
+    {
+      "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
+      "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
+      "tema": "cultura",
+      "resumo": "Cantor Zé Ramalho apresenta sucessos de sua carreira e homenageia Raul Seixas em show na Festa Junina de Sorocaba."
+    },
+    {
+      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
+      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
+      "tema": "brasil",
+      "resumo": "Polícia Rodoviária Federal apreende 927 quilos de maconha transportados em carreta com destino a São Paulo."
+    },
+    {
+      "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
+      "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
+      "tema": "sp",
+      "resumo": "Jundiaí realiza terceira edição de festa junina dedicada a cães e gatos, com brincadeiras e atividades para os animais."
+    },
+    {
+      "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
+      "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
+      "tema": "entretenimento",
+      "resumo": "Festival de música em São Paulo reúne 35 mil pessoas para 10 horas de shows com atrações como Anitta e diversos MCs."
+    },
+    {
+      "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
+      "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
+      "tema": "brasil",
+      "resumo": "PSTU oficializa a candidata Vera Lúcia à Presidência da República para as próximas eleições."
+    },
+    {
+      "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
+      "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
+      "tema": "sp",
+      "resumo": "Feira de imóvel, construção e decoração ocorre em Jundiaí com entrada gratuita e creditamento prévio via internet."
+    },
+    {
+      "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
+      "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
+      "tema": "sp",
+      "resumo": "Prefeitura de Tabapuã mantém inscrições abertas para concurso público com 34 vagas em diversos cargos."
+    },
+    {
+      "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
+      "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
+      "tema": "sp",
+      "resumo": "Homem em situação de rua em Campinas reencontra a família depois de 37 anos de separação, graças a um boletim de ocorrência."
+    },
+    {
+      "titulo": "Entrada da China na ação do Brasil na OMC ajuda a combater guerra tarifária contra os EUA?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c5yvrwxd6zzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 17:31:47 GMT",
+      "tema": "mundo",
+      "resumo": "Brasil recebe apoio da China em ação na Organização Mundial do Comércio para enfrentar tarifas impostas pelos Estados Unidos."
+    },
+    {
+      "titulo": "Ao vivo: acompanhe o eclipse solar total",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c4gj4e99xe5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 17:38:30 GMT",
+      "tema": "mundo",
+      "resumo": "Um eclipse solar total ocorrerá nesta quarta-feira (12/08), visível em partes da Europa e do Hemisfério Norte, mas não será observável no Brasil."
+    },
+    {
       "titulo": "Os trabalhadores que 'dão adeus à CLT' atrás do sonho de viver fazendo vídeos de IA",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c5yzyy730nro?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 12 Aug 2026 07:44:18 GMT",
-      "tema": "mundo",
-      "motivo": "Sem palavra-chave específica — tema geral"
-    },
-    {
-      "titulo": "Discord no Brasil: a decisão que suspende lives da rede social no país e o que acontece agora",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cd69p29eq6go?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 12 Aug 2026 15:52:25 GMT",
-      "tema": "brasil",
-      "motivo": "Palavra-chave: \"brasil\""
-    },
-    {
-      "titulo": "Eclipse solar total: as imagens do fenômeno que acontece nesta quarta-feira na Europa",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cd9wp02y9y0o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 12 Aug 2026 16:32:11 GMT",
-      "tema": "brasil",
-      "motivo": "Palavra-chave: \"brasil\""
-    },
-    {
-      "titulo": "Eclipse solar total e eclipse da lua: que horas começa e como observar",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvgx349yzdgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 12 Aug 2026 14:29:32 GMT",
-      "tema": "mundo",
-      "motivo": "Sem palavra-chave específica — tema geral"
+      "tema": "cultura",
+      "resumo": "Profissionais deixam empregos convencionais para criar vídeos automatizados com inteligência artificial, alimentando um mercado de canais, cursos e mentorias, enquanto plataformas como YouTube tentam controlar a proliferação de conteúdo de baixa qualidade."
     },
     {
       "titulo": "'Tenho dúvidas se vou continuar jogando futebol': a emocionante mensagem de Lionel Messi dedicada a seu pai após a sua morte",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c5y49gy8845o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 12 Aug 2026 16:55:28 GMT",
-      "tema": "mundo",
-      "motivo": "Sem palavra-chave específica — tema geral"
+      "tema": "entretenimento",
+      "resumo": "Lionel Messi expressou dúvidas sobre sua continuidade no futebol em uma homenagem pública dedicada ao seu pai, recentemente falecido."
     },
     {
-      "titulo": "Pesquisa para presidente mostra Lula e Flávio estáveis e pouca força de outros candidatos; veja no agregador da BBC News Brasil",
+      "titulo": "Por quanto tempo o Irã pode sustentar a guerra com os EUA e Israel?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 12 Aug 2026 11:48:25 GMT",
-      "tema": "brasil",
-      "motivo": "Palavra-chave: \"brasil\""
+      "link": "https://www.bbc.com/portuguese/articles/c0l52gxn7xlo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 17:03:44 GMT",
+      "tema": "mundo",
+      "resumo": "Análise sobre a capacidade financeira e estratégica do Irã de manter indefinidamente sua participação no conflito com os EUA e Israel, apesar da pressão econômica."
     },
     {
       "titulo": "Tomar cerveja com proteína e refrigerante com fibra funciona?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c62vjqwzvg7o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 12 Aug 2026 11:03:04 GMT",
-      "tema": "mundo",
-      "motivo": "Sem palavra-chave específica — tema geral"
-    },
-    {
-      "titulo": "O gráfico que mostra como o mundo está dividido sobre Infantino",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czekxzd2j2zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 12 Aug 2026 14:05:12 GMT",
-      "tema": "mundo",
-      "motivo": "Sem palavra-chave específica — tema geral"
-    },
-    {
-      "titulo": "Quem é o homem que a Irlanda acusa de ser líder de um dos cartéis mais perigosos do mundo",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3w03ydgn9eo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 12 Aug 2026 09:02:01 GMT",
-      "tema": "mundo",
-      "motivo": "Sem palavra-chave específica — tema geral"
-    },
-    {
-      "titulo": "Clique aqui",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 12 Aug 2026 11:48:25 GMT",
-      "tema": "brasil",
-      "motivo": "Palavra-chave: \"brasil\""
+      "tema": "cultura",
+      "resumo": "Marcas lançam bebidas e alimentos com adições funcionais, como cerveja com proteína e refrigerante com fibra, refletindo a expansão do mercado de produtos com apelo de bem-estar."
     },
     {
       "titulo": "O que é o Cinturão de Fogo do Pacífico em que está a Colômbia — e por que 90% dos terremotos do mundo ocorrem nesta região",
@@ -92,7 +197,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c24m2nge2g1o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 12 Aug 2026 09:42:09 GMT",
       "tema": "mundo",
-      "motivo": "Sem palavra-chave específica — tema geral"
+      "resumo": "O Cinturão de Fogo do Pacífico, que abrange países da América e Ásia, é responsável por aproximadamente 90% dos terremotos mundiais devido à sua alta atividade tectônica."
     },
     {
       "titulo": "Os mapas e gráficos que mostram o epicentro, a magnitude e o impacto do potente terremoto na Colômbia",
@@ -100,143 +205,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c78glgn7661o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 11 Aug 2026 19:53:10 GMT",
       "tema": "mundo",
-      "motivo": "Sem palavra-chave específica — tema geral"
-    },
-    {
-      "titulo": "A doutrina do século 19 que orienta política externa do governo Trump para a América Latina",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwyev4yw89po?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 11 Aug 2026 22:08:41 GMT",
-      "tema": "mundo",
-      "motivo": "Sem palavra-chave específica — tema geral"
-    },
-    {
-      "titulo": "Como 'Botas Verdes', congelado há 30 anos no Everest, deve finalmente voltar para casa ",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3v07p6q24lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 11 Aug 2026 16:44:30 GMT",
-      "tema": "mundo",
-      "motivo": "Sem palavra-chave específica — tema geral"
-    },
-    {
-      "titulo": "Trump confirma que trocou secretamente de avião devido a possível ameaça",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c1m1kj89gero?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 12 Aug 2026 02:30:00 GMT",
-      "tema": "mundo",
-      "motivo": "Sem palavra-chave específica — tema geral"
-    },
-    {
-      "titulo": "Internato estruturado revoluciona a formação médica",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pr/parana/especial-publicitario/centro-universitario-integrado/noticia/2026/08/12/internato-estruturado-revoluciona-a-formacao-medica.ghtml",
-      "hora": "Wed, 12 Aug 2026 16:52:40 -0000",
-      "tema": "brasil",
-      "motivo": "Palavra-chave: \"brasil\""
-    },
-    {
-      "titulo": "Eclipse solar já começou de forma parcial em regiões remotas do planeta; SIGA",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ciencia/ao-vivo/eclipse-solar-total-12-agosto.ghtml",
-      "hora": "Wed, 12 Aug 2026 16:50:07 -0000",
-      "tema": "brasil",
-      "motivo": "Palavra-chave: \"brasil\""
-    },
-    {
-      "titulo": "Primárias democratas expõem racha entre esquerda e centro antes das eleições de meio de mandato nos EUA",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/08/12/primarias-democratas-expoem-racha-entre-esquerda-e-centro-antes-das-eleicoes-de-meio-de-mandato-nos-eua.ghtml",
-      "hora": "Wed, 12 Aug 2026 16:47:43 -0000",
-      "tema": "brasil",
-      "motivo": "Palavra-chave: \"eleicao\""
-    },
-    {
-      "titulo": "Terremoto na Colômbia: buscas entram no 3º dia, e número de mortos é revisado para 233",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/ao-vivo/ao-vivo-terremoto-colombia-destruicao.ghtml",
-      "hora": "Wed, 12 Aug 2026 16:45:41 -0000",
-      "tema": "mundo",
-      "motivo": "Sem palavra-chave específica — tema geral"
-    },
-    {
-      "titulo": "Dupla suspeita de aplicar golpe do Pix ao pedir torta, coxinha e pudim é presa após denúncia de comerciante no interior de SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/12/dupla-suspeita-de-aplicar-golpe-do-pix-ao-pedir-torta-coxinha-e-pudim-e-presa-apos-denuncia-de-comerciante-no-interior-de-sp.ghtml",
-      "hora": "Wed, 12 Aug 2026 16:45:35 -0000",
-      "tema": "mundo",
-      "motivo": "Sem palavra-chave específica — tema geral"
-    },
-    {
-      "titulo": "MP aponta irregularidades no Conjunto Hospitalar de Sorocaba e vai cobrar estado e gestora quanto a melhorias",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/08/12/mp-irregularidades-chs.ghtml",
-      "hora": "Wed, 12 Aug 2026 16:44:06 -0000",
-      "tema": "sp",
-      "motivo": "Palavra-chave: \"sao paulo\""
-    },
-    {
-      "titulo": "Eleições em Sergipe: Valmir de Francisquinho declara R$ 258 mil em bens ao Tribunal Superior Eleitoral",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/12/eleicoes-em-sergipe-valmir-de-francisquinho-declara-r-258-mil-em-bens-ao-tribunal-superior-eleitoral.ghtml",
-      "hora": "Wed, 12 Aug 2026 16:42:35 -0000",
-      "tema": "brasil",
-      "motivo": "Palavra-chave: \"eleicao\""
-    },
-    {
-      "titulo": "Eleições em Sergipe: Fábio Mitidieri declara R$ 1,6 mi em bens ao Tribunal Superior Eleitoral",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/12/eleicoes-em-sergipe-fabio-mitidieri-declara-r-16-mi-em-bens-ao-tribunal-superior-eleitoral.ghtml",
-      "hora": "Wed, 12 Aug 2026 16:40:09 -0000",
-      "tema": "brasil",
-      "motivo": "Palavra-chave: \"eleicao\""
-    },
-    {
-      "titulo": "Eleições em Sergipe: Dr. Helton do PSOL declara R$ 47 mil em bens ao Tribunal Superior Eleitoral",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/12/eleicoes-em-sergipe-dr-helton-do-psol-declara-r-47-mil-em-bens-ao-tribunal-superior-eleitoral.ghtml",
-      "hora": "Wed, 12 Aug 2026 16:40:08 -0000",
-      "tema": "brasil",
-      "motivo": "Palavra-chave: \"eleicoes\""
-    },
-    {
-      "titulo": "Homem é preso após ameaçar e xingar a mãe de 101 anos no Acre",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/08/12/homem-e-preso-apos-ameacar-e-xingar-a-mae-de-101-anos-no-acre.ghtml",
-      "hora": "Wed, 12 Aug 2026 16:39:18 -0000",
-      "tema": "entretenimento",
-      "motivo": "Palavra-chave: \"rainha\""
-    },
-    {
-      "titulo": "Professor do Paraná investigado por pedir fotos de adolescente nua e chantageá-la com ameaça de reprovação foi afastado do cargo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/12/professor-do-parana-investigado-por-pedir-fotos-de-adolescente-nua-e-chantagea-la-com-ameaca-de-reprovacao-foi-afastado-do-cargo.ghtml",
-      "hora": "Wed, 12 Aug 2026 16:38:18 -0000",
-      "tema": "mundo",
-      "motivo": "Sem palavra-chave específica — tema geral"
-    },
-    {
-      "titulo": "Motoboy morre após sofrer parada cardíaca dentro de panificadora em Boa Vista",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/08/12/motoboy-morre-dentro-de-panificadora-em-boa-vista.ghtml",
-      "hora": "Wed, 12 Aug 2026 16:37:20 -0000",
-      "tema": "mundo",
-      "motivo": "Sem palavra-chave específica — tema geral"
-    },
-    {
-      "titulo": "Suspeitos envolvidos na morte de fazendeiro no interior de SP são presos em MG",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/08/12/suspeitos-envolvidos-na-morte-de-fazendeiro-no-interior-de-sp-sao-presos-em-mg.ghtml",
-      "hora": "Wed, 12 Aug 2026 16:36:44 -0000",
-      "tema": "mundo",
-      "motivo": "Sem palavra-chave específica — tema geral"
-    },
-    {
-      "titulo": "Viúva encontra carta de amor quase um ano após marido morrer na explosão de fábrica da Enaex, na Grande Curitiba: 'Obrigado por ser tão maravilhosa'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pr/parana/noticia/2026/08/12/carta-de-amor-um-ano-explosao-fabrica-grande-curitiba.ghtml",
-      "hora": "Wed, 12 Aug 2026 16:35:55 -0000",
-      "tema": "brasil",
-      "motivo": "Palavra-chave: \"brasil\""
+      "resumo": "A Colômbia, localizada na intersecção de três placas tectônicas, registrou um terremoto potente, reforçando seu histórico de alta sismicidade na América Latina."
     }
   ]
 }
