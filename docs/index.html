@@ -5,29 +5,90 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Panorama</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,600&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg:#EFEDE4; --paper:#F8F7F1; --ink:#22201B; --ink-soft:#5B584F;
-    --line:#DAD6C8; --pine:#23473F; --pine-soft:#E3EAE6; --gold:#A6753A; --gold-soft:#F1E4CF;
+    --bg:#EDF1EE; --paper:#FAFCFB; --ink:#1C2A26; --ink-soft:#5A6B65;
+    --line:#DCE5E1;
+    --sea:#2E5E58; --sea-soft:#DCEAE6;
+    /* cores por tema */
+    --c-brasil:#2E7D5B;   --c-brasil-bg:#E1F0E8;
+    --c-sp:#3E6E8E;       --c-sp-bg:#E0ECF3;
+    --c-mundo:#4B6B9C;    --c-mundo-bg:#E3E9F4;
+    --c-cultura:#8A5A9E;  --c-cultura-bg:#EFE4F3;
+    --c-entret:#C77A3E;   --c-entret-bg:#F7E9DB;
+    --c-checagem:#B03A48; --c-checagem-bg:#F6E1E3;
   }
-  *{box-sizing:border-box;}
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
   body{margin:0;background:var(--bg);color:var(--ink);font-family:'Public Sans',sans-serif;display:flex;justify-content:center;min-height:100vh;}
-  .frame{width:100%;max-width:480px;min-height:100vh;background:var(--paper);}
-  header{padding:28px 20px 16px;border-bottom:1px solid var(--line);}
-  .eyebrow{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--pine);display:flex;align-items:center;gap:8px;margin-bottom:6px;}
-  .eyebrow::before{content:"";width:6px;height:6px;background:var(--pine);border-radius:50%;}
-  h1{font-family:'Fraunces',serif;font-weight:500;font-size:26px;margin:0;}
-  .clima{display:flex;align-items:center;gap:10px;margin-top:14px;padding:10px 14px;background:var(--pine-soft);border-radius:10px;font-size:13px;color:var(--pine);}
-  .filters{display:flex;gap:8px;padding:14px 20px;overflow-x:auto;border-bottom:1px solid var(--line);}
-  .chip{flex:0 0 auto;font-size:13px;font-weight:600;padding:8px 14px;border-radius:20px;border:1px solid var(--line);background:transparent;color:var(--ink-soft);cursor:pointer;}
-  .chip.active{background:var(--pine);border-color:var(--pine);color:#fff;}
-  .feed{padding:10px 20px 40px;display:flex;flex-direction:column;gap:18px;}
-  .card{border-bottom:1px solid var(--line);padding-bottom:18px;}
-  .meta{display:flex;gap:8px;font-family:'IBM Plex Mono',monospace;font-size:10.5px;text-transform:uppercase;color:var(--ink-soft);margin-bottom:8px;}
-  .headline{font-family:'Fraunces',serif;font-size:18px;font-weight:500;line-height:1.3;margin:0 0 10px;}
-  .resumo{font-size:14px;line-height:1.55;color:var(--ink);margin:0 0 10px;}
-  a.ler{font-size:13px;font-weight:600;color:var(--pine);text-decoration:none;}
+  .frame{width:100%;max-width:480px;min-height:100vh;background:var(--paper);box-shadow:0 0 40px rgba(0,0,0,.05);}
+
+  /* ---- banner ---- */
+  header{
+    position:relative;
+    padding:30px 20px 20px;
+    background:linear-gradient(155deg,#2E5E58 0%,#3B7A6E 45%,#5AA88C 100%);
+    color:#fff;
+    overflow:hidden;
+  }
+  header::after{
+    content:"";position:absolute;right:-40px;top:-40px;
+    width:180px;height:180px;border-radius:50%;
+    background:radial-gradient(circle,rgba(255,255,255,.18) 0%,transparent 70%);
+  }
+  .eyebrow{
+    font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.12em;
+    text-transform:uppercase;color:rgba(255,255,255,.82);
+    display:flex;align-items:center;gap:8px;margin-bottom:8px;position:relative;
+  }
+  .eyebrow::before{content:"";width:6px;height:6px;background:#B8E6D2;border-radius:50%;}
+  h1{font-family:'Fraunces',serif;font-weight:600;font-size:30px;margin:0;letter-spacing:-.01em;position:relative;}
+  .clima{
+    display:none;align-items:center;gap:8px;margin-top:16px;padding:11px 14px;
+    background:rgba(255,255,255,.16);backdrop-filter:blur(4px);border-radius:12px;
+    font-size:13px;color:#fff;position:relative;
+  }
+  .clima svg{flex:0 0 auto;opacity:.9;}
+
+  /* ---- filtros ---- */
+  .filters{display:flex;gap:8px;padding:16px 20px;overflow-x:auto;scrollbar-width:none;border-bottom:1px solid var(--line);}
+  .filters::-webkit-scrollbar{display:none;}
+  .chip{
+    flex:0 0 auto;font-size:13px;font-weight:600;padding:8px 15px;border-radius:20px;
+    border:1.5px solid var(--line);background:transparent;color:var(--ink-soft);cursor:pointer;
+    transition:all .15s ease;white-space:nowrap;
+  }
+  .chip.active{background:var(--sea);border-color:var(--sea);color:#fff;}
+  /* chip ativo herda a cor do tema */
+  .chip.active[data-cat="brasil"]{background:var(--c-brasil);border-color:var(--c-brasil);}
+  .chip.active[data-cat="sp"]{background:var(--c-sp);border-color:var(--c-sp);}
+  .chip.active[data-cat="mundo"]{background:var(--c-mundo);border-color:var(--c-mundo);}
+  .chip.active[data-cat="cultura"]{background:var(--c-cultura);border-color:var(--c-cultura);}
+  .chip.active[data-cat="entretenimento"]{background:var(--c-entret);border-color:var(--c-entret);}
+  .chip.active[data-cat="checagem"]{background:var(--c-checagem);border-color:var(--c-checagem);}
+
+  /* ---- feed ---- */
+  .feed{padding:14px 20px 44px;display:flex;flex-direction:column;gap:16px;}
+  .card{
+    background:#fff;border:1px solid var(--line);border-left-width:4px;border-radius:14px;
+    padding:15px 16px;animation:rise .3s ease both;
+  }
+  @keyframes rise{from{opacity:0;transform:translateY(6px);}to{opacity:1;transform:translateY(0);}}
+  .tagrow{display:flex;align-items:center;gap:8px;margin-bottom:9px;}
+  .tag{font-size:10.5px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;padding:3px 9px;border-radius:20px;}
+  .fonte{font-family:'IBM Plex Mono',monospace;font-size:10.5px;text-transform:uppercase;color:var(--ink-soft);}
+  .headline{font-family:'Fraunces',serif;font-size:18px;font-weight:600;line-height:1.32;margin:0 0 8px;letter-spacing:-.01em;}
+  .resumo{font-size:14px;line-height:1.55;color:var(--ink-soft);margin:0 0 12px;}
+  a.ler{display:inline-block;font-size:13px;font-weight:600;text-decoration:none;}
+
+  /* cores por tema aplicadas ao card */
+  .t-brasil{border-left-color:var(--c-brasil);}   .t-brasil .tag{background:var(--c-brasil-bg);color:var(--c-brasil);}   .t-brasil a.ler{color:var(--c-brasil);}
+  .t-sp{border-left-color:var(--c-sp);}           .t-sp .tag{background:var(--c-sp-bg);color:var(--c-sp);}             .t-sp a.ler{color:var(--c-sp);}
+  .t-mundo{border-left-color:var(--c-mundo);}     .t-mundo .tag{background:var(--c-mundo-bg);color:var(--c-mundo);}     .t-mundo a.ler{color:var(--c-mundo);}
+  .t-cultura{border-left-color:var(--c-cultura);} .t-cultura .tag{background:var(--c-cultura-bg);color:var(--c-cultura);} .t-cultura a.ler{color:var(--c-cultura);}
+  .t-entretenimento{border-left-color:var(--c-entret);} .t-entretenimento .tag{background:var(--c-entret-bg);color:var(--c-entret);} .t-entretenimento a.ler{color:var(--c-entret);}
+  .t-checagem{border-left-color:var(--c-checagem);} .t-checagem .tag{background:var(--c-checagem-bg);color:var(--c-checagem);} .t-checagem a.ler{color:var(--c-checagem);}
+
   .empty{padding:40px 20px;text-align:center;color:var(--ink-soft);font-size:14px;line-height:1.6;}
 </style>
 </head>
@@ -35,8 +96,11 @@
 <div class="frame">
   <header>
     <div class="eyebrow" id="hora">Panorama</div>
-    <h1>Bom dia.</h1>
-    <div class="clima" id="clima" style="display:none;"></div>
+    <h1 id="saudacao">Bom dia.</h1>
+    <div class="clima" id="clima">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+      <span id="clima-txt"></span>
+    </div>
   </header>
   <div class="filters" id="filters">
     <button class="chip active" data-cat="todos">Todos</button>
@@ -46,29 +110,37 @@
 
 <script>
 const LABELS = {
-  brasil: "Brasil", sp: "São Paulo", mundo: "Mundo",
-  cultura: "Cultura", entretenimento: "Entretenimento", checagem: "Checagem"
+  brasil:"Brasil", sp:"São Paulo", mundo:"Mundo",
+  cultura:"Cultura", entretenimento:"Entretenimento", checagem:"Checagem"
 };
 
-async function carregar() {
+function saudacao(){
+  const h = new Date().getHours();
+  if (h < 12) return "Bom dia.";
+  if (h < 18) return "Boa tarde.";
+  return "Boa noite.";
+}
+
+async function carregar(){
   const feedEl = document.getElementById('feed');
-  try {
+  document.getElementById('saudacao').textContent = saudacao();
+  try{
     const resp = await fetch('data/feed.json?_=' + Date.now());
     const data = await resp.json();
 
     document.getElementById('hora').textContent =
-      'Panorama · atualizado ' + new Date(data.gerado_em).toLocaleString('pt-BR', {hour:'2-digit', minute:'2-digit', day:'2-digit', month:'2-digit'});
+      'Panorama · ' + new Date(data.gerado_em).toLocaleString('pt-BR',{hour:'2-digit',minute:'2-digit',day:'2-digit',month:'2-digit'});
 
-    if (data.clima) {
-      const c = document.getElementById('clima');
-      c.style.display = 'flex';
-      c.textContent = `Hoje em São Paulo: ${Math.round(data.clima.min)}° - ${Math.round(data.clima.max)}° · chance de chuva ${data.clima.chuva}%`;
+    if (data.clima){
+      document.getElementById('clima').style.display = 'flex';
+      document.getElementById('clima-txt').textContent =
+        `São Paulo hoje: ${Math.round(data.clima.min)}° a ${Math.round(data.clima.max)}° · chuva ${data.clima.chuva}%`;
     }
 
     const noticias = data.noticias || [];
-    const ORDEM_TEMAS = ["brasil", "sp", "mundo", "cultura", "entretenimento", "checagem"];
+    const ORDEM = ["brasil","sp","mundo","cultura","entretenimento","checagem"];
     const presentes = new Set(noticias.map(n => n.tema));
-    const temas = ORDEM_TEMAS.filter(t => presentes.has(t));
+    const temas = ORDEM.filter(t => presentes.has(t));
     const filtersEl = document.getElementById('filters');
     temas.forEach(t => {
       const b = document.createElement('button');
@@ -84,15 +156,18 @@ async function carregar() {
     function render(cat){
       feedEl.innerHTML = '';
       const lista = cat === 'todos' ? noticias : noticias.filter(n => n.tema === cat);
-      if (lista.length === 0) { feedEl.innerHTML = '<div class="empty">Nada por aqui ainda.</div>'; return; }
+      if (lista.length === 0){ feedEl.innerHTML = '<div class="empty">Nada por aqui ainda.</div>'; return; }
       lista.forEach(n => {
         const card = document.createElement('div');
-        card.className = 'card';
-        const resumoHtml = n.resumo ? `<p class="resumo">${n.resumo}</p>` : '';
+        card.className = 'card t-' + (n.tema || 'mundo');
+        const resumo = n.resumo ? `<p class="resumo">${n.resumo}</p>` : '';
         card.innerHTML = `
-          <div class="meta">${n.fonte}<span>·</span>${LABELS[n.tema] || n.tema}</div>
+          <div class="tagrow">
+            <span class="tag">${LABELS[n.tema] || n.tema}</span>
+            <span class="fonte">${n.fonte}</span>
+          </div>
           <h2 class="headline">${n.titulo}</h2>
-          ${resumoHtml}
+          ${resumo}
           <a class="ler" href="${n.link}" target="_blank" rel="noopener">Ler no ${n.fonte} →</a>
         `;
         feedEl.appendChild(card);
@@ -100,8 +175,8 @@ async function carregar() {
     }
 
     render('todos');
-  } catch (err) {
-    feedEl.innerHTML = '<div class="empty">Ainda não há um feed gerado. O primeiro robô precisa rodar (aba Actions no GitHub).</div>';
+  }catch(err){
+    feedEl.innerHTML = '<div class="empty">Ainda não há um feed gerado. O robô precisa rodar (aba Actions no GitHub).</div>';
   }
 }
 carregar();
