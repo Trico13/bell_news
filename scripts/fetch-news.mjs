@@ -18,8 +18,8 @@ const parser = new Parser({
 // ---------------------------------------------------------------------------
 const FONTES = [
   { nome: "BBC Brasil", url: "https://feeds.bbci.co.uk/portuguese/rss.xml" },
+  { nome: "G1", url: "https://g1.globo.com/rss/g1/" },
   // { nome: "DW Brasil", url: "" },              // TODO: confirmar feed
-  // { nome: "G1", url: "" },                     // TODO: confirmar feed
   // { nome: "O Estado de S. Paulo", url: "" },   // TODO: confirmar feed
   // { nome: "CNN Brasil", url: "" },              // TODO: confirmar feed
 ];
@@ -33,8 +33,13 @@ const TEMAS_PRINCIPAIS = [
   "sp",          // grande impacto - São Paulo
   "realeza",     // realeza britânica
 ];
-const TEMAS_MODERADOS = ["esportes", "financas", "politica"];
-const TEMAS_VALIDOS = [...TEMAS_PRINCIPAIS, ...TEMAS_MODERADOS];
+const TEMAS_PRINCIPAIS = [
+  "mundo",         // grande impacto - Mundo
+  "brasil",        // grande impacto - Brasil
+  "sp",            // grande impacto - São Paulo
+  "entretenimento", // notícias leves / fofocas do bem
+];
+const TEMAS_VALIDOS = [...TEMAS_PRINCIPAIS];
 
 // Palavras que, se aparecerem no título ou no trecho, descartam a notícia
 // na hora — sem exceção. Tudo em minúsculas, sem acento (a checagem remove
@@ -49,16 +54,14 @@ const PALAVRAS_EXCLUSAO = [
 // Palavras-chave por tema, checadas nessa ordem (a primeira que bater define
 // o tema da notícia). Ajuste livremente conforme o feed for rodando.
 const PALAVRAS_TEMA = {
-  realeza: ["familia real", "realeza", "rei charles", "rainha", "princesa kate",
-    "principe william", "principe harry", "buckingham", "monarquia britanica", "windsor"],
+  entretenimento: ["familia real", "realeza", "rei charles", "rainha", "princesa kate",
+    "kate middleton", "principe william", "principe harry", "buckingham",
+    "monarquia britanica", "windsor", "sandy", "xororo", "wanessa camargo",
+    "zeze di camargo", "zeze camargo"],
   sp: ["sao paulo", "prefeitura de sp", "capital paulista", "sp e regiao"],
-  esportes: ["futebol", "campeonato", "libertadores", "brasileirao", "selecao brasileira",
-    "olimpiad", "copa do mundo", "atleta", "gol", " jogo ", "final da copa"],
-  financas: ["bolsa de valores", "dolar", "inflacao", "juros", "banco central",
-    "pib", "mercado financeiro", "acoes", "b3", "poupanca", "investimento"],
-  politica: ["eleicao", "eleicoes", "presidente", "ministro", "congresso nacional",
-    "camara dos deputados", "senado federal", "stf", "partido politico", "governo federal"],
-  brasil: ["brasil", "brasilia", "governo brasileiro", "estado de sao paulo"],
+  brasil: ["brasil", "brasilia", "governo brasileiro", "governo federal",
+    "congresso nacional", "camara dos deputados", "senado federal", "stf",
+    "eleicao", "eleicoes", "presidente lula", "ministro"],
 };
 
 function semAcento(txt) {
