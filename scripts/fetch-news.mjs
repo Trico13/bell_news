@@ -1,93 +1,143 @@
 // scripts/fetch-news.mjs
-// Coleta notícias das fontes definidas, classifica por tema e aplica os
-// filtros de exclusão usando palavras-chave (sem IA, sem custo), e salva
-// o resultado em docs/data/feed.json — que é o arquivo que o site
-// (docs/index.html) lê.
+// Coleta notícias das fontes (RSS), usa a API da Claude para SELECIONAR as
+// mais relevantes, classificá-las por tema, aplicar as exclusões e gerar um
+// RESUMO curto e neutro de cada uma — sempre com o link pro original.
+// Se a IA falhar ou não houver chave configurada, cai automaticamente num
+// filtro por palavras-chave (sem custo), pra o feed nunca quebrar.
 
 import Parser from "rss-parser";
 import { writeFile, mkdir } from "fs/promises";
 
 const parser = new Parser({
+  timeout: 15000,
   headers: { "User-Agent": "Mozilla/5.0 (compatible; PanoramaFeed/1.0)" },
 });
 
 // ---------------------------------------------------------------------------
-// 1) FONTES
-// Ajuste/adicione URLs de RSS aqui. Se uma fonte não tiver RSS confiável,
-// dá pra trocar por outra do mesmo veículo ou remover a linha.
+// 1) FONTES  (nome + url do RSS)
+// O script avisa no log quais responderam e quais falharam, sem derrubar
+// as demais. Se uma fonte falhar sempre, comente ou remova a linha dela.
 // ---------------------------------------------------------------------------
 const FONTES = [
-  { nome: "BBC Brasil", url: "https://feeds.bbci.co.uk/portuguese/rss.xml" },
   { nome: "G1", url: "https://g1.globo.com/rss/g1/" },
-  // { nome: "DW Brasil", url: "" },              // TODO: confirmar feed
-  // { nome: "O Estado de S. Paulo", url: "" },   // TODO: confirmar feed
-  // { nome: "CNN Brasil", url: "" },              // TODO: confirmar feed
+  { nome: "G1 São Paulo", url: "https://g1.globo.com/dynamo/sao-paulo/rss2.xml" },
+  { nome: "BBC Brasil", url: "https://feeds.bbci.co.uk/portuguese/rss.xml" },
+  { nome: "DW Brasil", url: "https://rss.dw.com/rdf/rss-br-all" },
+  { nome: "UOL Notícias", url: "https://rss.uol.com.br/feed/noticias.xml" },
 ];
 
 // ---------------------------------------------------------------------------
-// 2) TEMAS E EXCLUSÕES (espelha o que foi definido na conversa)
+// 2) TEMAS E EXCLUSÕES
 // ---------------------------------------------------------------------------
-const TEMAS_PRINCIPAIS = [
-  "mundo",         // grande impacto - Mundo
-  "brasil",        // grande impacto - Brasil
-  "sp",            // grande impacto - São Paulo
-  "entretenimento", // notícias leves / fofocas do bem
-];
-const TEMAS_VALIDOS = [...TEMAS_PRINCIPAIS];
+const TEMAS = {
+  brasil: "Brasil",
+  sp: "São Paulo",
+  mundo: "Mundo",
+  cultura: "Cultura",
+  entretenimento: "Entretenimento",
+  checagem: "Checagem de fatos",
+};
 
-// Palavras que, se aparecerem no título ou no trecho, descartam a notícia
-// na hora — sem exceção. Tudo em minúsculas, sem acento (a checagem remove
-// acentos antes de comparar).
+const EXCLUSOES_TEXTO = [
+  "crimes hediondos, violência explícita, crueldade",
+  "crimes contra crianças",
+  "conteúdo sexual ou pornográfico",
+  "sensacionalismo / clickbait sem substância",
+];
+
+// usado só no modo sem-IA (fallback)
 const PALAVRAS_EXCLUSAO = [
   "estupro", "abuso sexual", "pedofilia", "pornografia", "conteudo adulto",
   "chacina", "linchamento", "tortura", "mutilacao", "decapita",
   "assassinato brutal", "crime hediondo", "feminicidio", "violencia sexual",
   "abuso infantil", "exploracao infantil", "crianca morta", "crianca assassinada",
 ];
-
-// Palavras-chave por tema, checadas nessa ordem (a primeira que bater define
-// o tema da notícia). Ajuste livremente conforme o feed for rodando.
 const PALAVRAS_TEMA = {
-  entretenimento: ["familia real", "realeza", "rei charles", "rainha", "princesa kate",
-    "kate middleton", "principe william", "principe harry", "buckingham",
-    "monarquia britanica", "windsor", "sandy", "xororo", "wanessa camargo",
-    "zeze di camargo", "zeze camargo"],
-  sp: ["sao paulo", "prefeitura de sp", "capital paulista", "sp e regiao"],
-  brasil: ["brasil", "brasilia", "governo brasileiro", "governo federal",
-    "congresso nacional", "camara dos deputados", "senado federal", "stf",
-    "eleicao", "eleicoes", "presidente lula", "ministro"],
+  entretenimento: ["familia real", "realeza", "rei charles", "rainha", "kate middleton",
+    "principe william", "principe harry", "sandy", "xororo", "wanessa camargo",
+    "zeze di camargo", "celebridade", "novela", "gshow"],
+  cultura: ["cinema", "filme", "musica", "show", "exposicao", "livro", "teatro", "arte"],
+  sp: ["sao paulo", "capital paulista", "prefeitura de sp"],
+  checagem: ["checagem", "fact-check", "verificamos", "e falso", "e enganoso"],
+  brasil: ["brasil", "brasilia", "governo federal", "congresso", "stf", "lula", "ministro"],
 };
 
 function semAcento(txt) {
   return (txt || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 }
 
-function classificarItem(item) {
-  const texto = semAcento(`${item.title} ${item.contentSnippet || ""}`);
+// ---------------------------------------------------------------------------
+// 3) SELEÇÃO + RESUMO COM IA (Claude)
+// ---------------------------------------------------------------------------
+const SYSTEM_PROMPT = `Você é o curador de um feed de notícias pessoal, calmo e confiável, para uma leitora que saiu das redes sociais e quer se informar sem sensacionalismo.
 
-  const excluida = PALAVRAS_EXCLUSAO.find((p) => texto.includes(p));
-  if (excluida) {
-    return { incluir: false, tema: null, motivo: `Excluída por conteúdo sensível` };
+Você recebe uma lista de notícias (id, título, trecho, fonte). Para cada uma, decida se entra no feed e, se entrar, classifique e resuma.
+
+TEMAS válidos: ${Object.keys(TEMAS).join(", ")}.
+
+EXCLUA (incluir=false) qualquer notícia que envolva:
+${EXCLUSOES_TEXTO.map((e) => "- " + e).join("\n")}
+
+Para as incluídas, escreva um "resumo" de 1 a 2 frases, em português, tom neutro e informativo (sem alarmismo, sem opinião, sem ponto de exclamação). O resumo deve dar o essencial para quem talvez não clique — mas nunca copie o texto original: escreva com suas próprias palavras.
+
+Priorize notícias de real interesse e impacto; descarte conteúdo repetido, promocional ou fútil. É melhor um feed enxuto e bom do que longo.
+
+Responda APENAS com um array JSON válido, sem markdown, cada item assim:
+{"id": "...", "incluir": true/false, "tema": "um dos temas", "resumo": "..."}`;
+
+async function classificarComIA(itens) {
+  const payload = itens.map((it) => ({
+    id: it.id,
+    titulo: it.title,
+    trecho: (it.contentSnippet || "").slice(0, 300),
+    fonte: it.fonte,
+  }));
+
+  const resp = await fetch("https://api.anthropic.com/v1/messages", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "x-api-key": process.env.ANTHROPIC_API_KEY,
+      "anthropic-version": "2023-06-01",
+    },
+    body: JSON.stringify({
+      model: "claude-3-5-haiku-20241022",
+      max_tokens: 4000,
+      system: SYSTEM_PROMPT,
+      messages: [{ role: "user", content: JSON.stringify(payload) }],
+    }),
+  });
+
+  if (!resp.ok) {
+    throw new Error(`API ${resp.status}: ${await resp.text()}`);
   }
-
-  for (const tema of Object.keys(PALAVRAS_TEMA)) {
-    const achou = PALAVRAS_TEMA[tema].find((p) => texto.includes(p));
-    if (achou) {
-      return { incluir: true, tema, motivo: `Palavra-chave: "${achou.trim()}"` };
-    }
-  }
-
-  // fallback: nada específico bateu — assume tema "mundo" (a maioria das
-  // fontes internacionais cai aqui) e deixa passar.
-  return { incluir: true, tema: "mundo", motivo: "Sem palavra-chave específica — tema geral" };
+  const data = await resp.json();
+  const texto = data.content.map((b) => b.text || "").join("");
+  const limpo = texto.replace(/```json|```/g, "").trim();
+  return JSON.parse(limpo);
 }
 
 // ---------------------------------------------------------------------------
-// 3) CLIMA (Open-Meteo, gratuito, sem chave) — São Paulo por padrão
+// 3b) FALLBACK sem IA (palavras-chave) — usado se a API falhar
+// ---------------------------------------------------------------------------
+function classificarPorPalavra(item) {
+  const texto = semAcento(`${item.title} ${item.contentSnippet || ""}`);
+  if (PALAVRAS_EXCLUSAO.find((p) => texto.includes(p))) {
+    return { incluir: false };
+  }
+  for (const tema of Object.keys(PALAVRAS_TEMA)) {
+    if (PALAVRAS_TEMA[tema].find((p) => texto.includes(p))) {
+      return { incluir: true, tema, resumo: null };
+    }
+  }
+  return { incluir: true, tema: "mundo", resumo: null };
+}
+
+// ---------------------------------------------------------------------------
+// 4) CLIMA (Open-Meteo, gratuito, sem chave) — São Paulo
 // ---------------------------------------------------------------------------
 async function buscarClima() {
-  const lat = -23.55, lon = -46.63; // São Paulo
-  const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max,weathercode&timezone=America%2FSao_Paulo`;
+  const url = "https://api.open-meteo.com/v1/forecast?latitude=-23.55&longitude=-46.63&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=America%2FSao_Paulo";
   try {
     const resp = await fetch(url);
     if (!resp.ok) return null;
@@ -98,69 +148,112 @@ async function buscarClima() {
       chuva: data.daily.precipitation_probability_max[0],
     };
   } catch (err) {
-    console.error("Falha ao buscar clima (seguindo sem isso):", err.message);
+    console.error("Clima falhou (seguindo sem):", err.message);
     return null;
   }
 }
 
 // ---------------------------------------------------------------------------
-// 4) COLETA
+// 5) COLETA DOS RSS
 // ---------------------------------------------------------------------------
 async function coletar() {
   let contador = 0;
   const brutos = [];
-
   for (const fonte of FONTES) {
     try {
       const feed = await parser.parseURL(fonte.url);
-      for (const item of feed.items.slice(0, 15)) {
+      const n = feed.items.length;
+      for (const item of feed.items.slice(0, 12)) {
         brutos.push({
           id: `n${contador++}`,
           title: item.title,
           link: item.link,
-          contentSnippet: item.contentSnippet,
-          pubDate: item.pubDate,
+          contentSnippet: item.contentSnippet || item.content || "",
+          pubDate: item.pubDate || item.isoDate,
           fonte: fonte.nome,
         });
       }
+      console.log(`OK  ${fonte.nome}: ${n} itens`);
     } catch (err) {
-      console.error(`Falha ao ler ${fonte.nome} (${fonte.url}):`, err.message);
+      console.error(`FALHOU  ${fonte.nome} (${fonte.url}): ${err.message}`);
     }
   }
-
-  if (brutos.length === 0) {
-    console.warn("Nenhuma notícia coletada — confira as URLs em FONTES.");
-    return [];
-  }
-
-  return brutos
-    .map((b) => ({ ...b, classificacao: classificarItem(b) }))
-    .filter((b) => b.classificacao.incluir)
-    .map((b) => ({
-      titulo: b.title,
-      fonte: b.fonte,
-      link: b.link,
-      hora: b.pubDate,
-      tema: b.classificacao.tema,
-      motivo: b.classificacao.motivo,
-    }));
+  return brutos;
 }
 
 // ---------------------------------------------------------------------------
-// 5) MAIN
+// 6) MAIN
 // ---------------------------------------------------------------------------
 async function main() {
-  const [noticias, clima] = await Promise.all([coletar(), buscarClima()]);
+  const brutos = await coletar();
+  const clima = await buscarClima();
 
+  if (brutos.length === 0) {
+    console.warn("Nenhuma notícia coletada — confira as URLs em FONTES.");
+    await salvar([], clima, "nenhuma fonte respondeu");
+    return;
+  }
+
+  let selecao = null;
+  let modo = "ia";
+
+  if (process.env.ANTHROPIC_API_KEY) {
+    try {
+      const resultado = [];
+      for (let i = 0; i < brutos.length; i += 25) {
+        const lote = brutos.slice(i, i + 25);
+        resultado.push(...(await classificarComIA(lote)));
+      }
+      selecao = Object.fromEntries(resultado.map((r) => [r.id, r]));
+      console.log(`IA classificou ${resultado.length} itens`);
+    } catch (err) {
+      console.error("IA falhou, usando fallback por palavra-chave:", err.message);
+      selecao = null;
+    }
+  } else {
+    console.log("Sem ANTHROPIC_API_KEY — usando fallback por palavra-chave.");
+  }
+
+  let noticias;
+  if (selecao) {
+    noticias = brutos
+      .filter((b) => selecao[b.id]?.incluir)
+      .map((b) => ({
+        titulo: b.title,
+        fonte: b.fonte,
+        link: b.link,
+        hora: b.pubDate,
+        tema: selecao[b.id].tema,
+        resumo: selecao[b.id].resumo || null,
+      }));
+  } else {
+    modo = "palavras-chave";
+    noticias = brutos
+      .map((b) => ({ ...b, c: classificarPorPalavra(b) }))
+      .filter((b) => b.c.incluir)
+      .map((b) => ({
+        titulo: b.title,
+        fonte: b.fonte,
+        link: b.link,
+        hora: b.pubDate,
+        tema: b.c.tema,
+        resumo: null,
+      }));
+  }
+
+  await salvar(noticias, clima, modo);
+}
+
+async function salvar(noticias, clima, modo) {
   const saida = {
     gerado_em: new Date().toISOString(),
+    modo,
     clima,
     noticias,
   };
-
   await mkdir("docs/data", { recursive: true });
   await writeFile("docs/data/feed.json", JSON.stringify(saida, null, 2));
-  console.log(`OK: ${noticias.length} notícias salvas em docs/data/feed.json`);
+  console.log(`OK: ${noticias.length} notícias salvas (modo: ${modo})`);
 }
 
 main().catch((err) => {
