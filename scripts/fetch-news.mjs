@@ -22,8 +22,6 @@ const FONTES = [
   { nome: "G1", url: "https://g1.globo.com/rss/g1/" },
   { nome: "G1 São Paulo", url: "https://g1.globo.com/dynamo/sao-paulo/rss2.xml" },
   { nome: "BBC Brasil", url: "https://feeds.bbci.co.uk/portuguese/rss.xml" },
-  { nome: "DW Brasil", url: "https://rss.dw.com/rdf/rss-br-all" },
-  { nome: "UOL Notícias", url: "https://rss.uol.com.br/feed/noticias.xml" },
 ];
 
 // ---------------------------------------------------------------------------
@@ -101,7 +99,7 @@ async function classificarComIA(itens) {
       "anthropic-version": "2023-06-01",
     },
     body: JSON.stringify({
-      model: "claude-3-5-haiku-20241022",
+      model: "claude-haiku-4-5-20251001",
       max_tokens: 4000,
       system: SYSTEM_PROMPT,
       messages: [{ role: "user", content: JSON.stringify(payload) }],
