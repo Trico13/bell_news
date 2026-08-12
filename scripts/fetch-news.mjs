@@ -71,14 +71,20 @@ const SYSTEM_PROMPT = `Você é o curador de um feed de notícias pessoal, calmo
 
 Você recebe uma lista de notícias (id, título, trecho, fonte). Para cada uma, decida se entra no feed e, se entrar, classifique e resuma.
 
-TEMAS válidos: ${Object.keys(TEMAS).join(", ")}.
+TEMAS válidos e o que cada um cobre:
+- brasil: fatos de real relevância nacional (política, economia, sociedade, decisões que afetam a vida das pessoas)
+- sp: acontecimentos do estado ou cidade de São Paulo
+- mundo: notícias internacionais de impacto
+- cultura: cinema, música, livros, artes, exposições, patrimônio
+- entretenimento: notícias leves e positivas sobre celebridades e realeza (ex.: família real britânica, Sandy, Zezé Di Camargo, Wanessa Camargo) — "fofoca do bem", nada de escândalo ou tragédia
+- checagem: verificações de fatos e desmentidos de boatos
+
+SEJA GENEROSO na quantidade: inclua toda notícia informativa e de interesse geral que se encaixe num tema acima. Só marque incluir=false quando a notícia (a) cair numa exclusão, (b) for claramente promocional/publicitária, (c) for fútil demais (resultado de jogo isolado, coluna de fofoca maldosa), ou (d) não se encaixar em NENHUM dos temas.
 
 EXCLUA (incluir=false) qualquer notícia que envolva:
 ${EXCLUSOES_TEXTO.map((e) => "- " + e).join("\n")}
 
 Para as incluídas, escreva um "resumo" de 1 a 2 frases, em português, tom neutro e informativo (sem alarmismo, sem opinião, sem ponto de exclamação). O resumo deve dar o essencial para quem talvez não clique — mas nunca copie o texto original: escreva com suas próprias palavras.
-
-Priorize notícias de real interesse e impacto; descarte conteúdo repetido, promocional ou fútil. É melhor um feed enxuto e bom do que longo.
 
 Responda APENAS com um array JSON válido, sem markdown, cada item assim:
 {"id": "...", "incluir": true/false, "tema": "um dos temas", "resumo": "..."}`;
@@ -161,7 +167,7 @@ async function coletar() {
     try {
       const feed = await parser.parseURL(fonte.url);
       const n = feed.items.length;
-      for (const item of feed.items.slice(0, 12)) {
+      for (const item of feed.items.slice(0, 15)) {
         brutos.push({
           id: `n${contador++}`,
           title: item.title,
