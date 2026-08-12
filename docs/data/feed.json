@@ -1,115 +1,99 @@
 {
-  "gerado_em": "2026-08-12T18:52:10.725Z",
+  "gerado_em": "2026-08-12T21:42:49.751Z",
   "modo": "ia",
   "clima": {
-    "max": 24.3,
+    "max": 24.5,
     "min": 13.7,
     "chuva": 4
   },
   "noticias": [
     {
-      "titulo": "Cleber Rabelo declara R$ R$ 52,2 mil em bens ao TSE; Well não tem bens a declarar",
+      "titulo": "Produtores do Amapá destacam benefícios da agroecologia na Expofeira 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/08/12/cleber-rabelo-declara-r-r-522-mil-em-bens-ao-tse-well-nao-tem-bens-a-declarar.ghtml",
-      "hora": "Wed, 12 Aug 2026 18:40:38 -0000",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/08/12/produtores-do-amapa-destacam-beneficios-da-agroecologia-na-expofeira-2026.ghtml",
+      "hora": "Wed, 12 Aug 2026 21:31:07 -0000",
       "tema": "brasil",
-      "resumo": "Candidato do PSTU ao governo do Pará declarou R$ 52,2 mil em bens à Justiça Eleitoral, enquanto sua vice informou não possuir bens a declarar."
+      "resumo": "Produtores de agricultura sustentável do Amapá apresentam práticas agroecológicas na Expofeira 2026, demonstrando alternativas de cultivo menos impactantes ao meio ambiente."
     },
     {
-      "titulo": "'Dominguinho' em Uberlândia: saiba tudo sobre o show de João Gomes, Mestrinho e Jota.Pê na próxima sexta-feira ",
+      "titulo": "Associação Internacional de Radiodifusão pede proteção ao exercício do jornalismo em caso de suposta perseguição a Dino",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/12/dominguinho-em-uberlandia-saiba-tudo-sobre-o-show-de-joao-gomes-mestrinho-e-jotape-na-proxima-sexta-feira.ghtml",
-      "hora": "Wed, 12 Aug 2026 18:40:27 -0000",
-      "tema": "cultura",
-      "resumo": "O projeto 'Dominguinho', formado pelos músicos João Gomes, Mestrinho e Jota.Pê, apresenta sua turnê em Uberlândia na próxima sexta-feira."
-    },
-    {
-      "titulo": "Inscrições para curso de Robótica em Angra dos Reis terminam na quinta-feira",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/12/inscricoes-para-curso-de-robotica-em-angra-dos-reis-terminam-na-quinta-feira.ghtml",
-      "hora": "Wed, 12 Aug 2026 18:38:02 -0000",
+      "link": "https://g1.globo.com/politica/noticia/2026/08/12/associacao-internacional-de-radiodifusao-pede-protecao-ao-exercicio-do-jornalismo-em-caso-de-suposta-perseguicao-a-dino.ghtml",
+      "hora": "Wed, 12 Aug 2026 21:26:22 -0000",
       "tema": "brasil",
-      "resumo": "Inscrições para curso de Robótica no Parque Tecnológico do Mar em Angra dos Reis encerram nesta quinta-feira, com 15 vagas para jovens."
+      "resumo": "Associação Internacional de Radiodifusão expressa preocupação com medidas judiciais aplicadas a jornalista do Maranhão, alertando sobre a necessidade de proteção à liberdade de imprensa."
     },
     {
-      "titulo": "Câmara de BH aprova exame toxicológico para contratação de agentes públicos temporários",
+      "titulo": "João Pessoa registra três dias de 'maré zero' a partir desta quarta (12); entenda o fenômeno",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/08/12/camara-de-bh-aprova-exame-toxicologico-para-contratacao-de-agentes-publicos-temporarios.ghtml",
-      "hora": "Wed, 12 Aug 2026 18:37:50 -0000",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/08/12/joao-pessoa-registra-tres-dias-de-mare-zero-a-partir-entenda-o-fenomeno.ghtml",
+      "hora": "Wed, 12 Aug 2026 21:25:28 -0000",
       "tema": "brasil",
-      "resumo": "Câmara de Belo Horizonte aprovou em segundo turno exigência de exame toxicológico para contratação de agentes públicos temporários."
+      "resumo": "João Pessoa registra fenômeno natural de maré zero por três dias consecutivos, que provoca recuo do mar e ampliação da faixa de areia no litoral."
     },
     {
-      "titulo": "Ataques dos EUA contra Houthis mataram 153 civis no Iêmen em 2025, diz Pentágono",
+      "titulo": "Operação prende três suspeitos e apreende maconha e cocaína em Presidente Dutra",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/08/12/ataques-dos-eua-contra-houthis-mataram-153-civis-no-iemen-em-2025-diz-pentagono.ghtml",
-      "hora": "Wed, 12 Aug 2026 18:37:47 -0000",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/08/12/operacao-prende-tres-suspeitos-e-apreende-maconha-e-cocaina-em-presidente-dutra.ghtml",
+      "hora": "Wed, 12 Aug 2026 21:24:08 -0000",
+      "tema": "brasil",
+      "resumo": "Operação da Polícia Civil do Maranhão prende três pessoas e cumpre mandados de busca durante ação em Presidente Dutra."
+    },
+    {
+      "titulo": "EUA anunciam ações militares conjuntas com a Colômbia para o combate ao narcotráfico",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/08/12/eua-anunciam-acoes-militares-conjuntas-com-a-colombia-para-o-combate-ao-narcotrafico.ghtml",
+      "hora": "Wed, 12 Aug 2026 21:23:58 -0000",
       "tema": "mundo",
-      "resumo": "Segundo o Pentágono, ataques dos EUA contra os Houthis no Iêmen resultaram em 153 mortes de civis em 2025."
+      "resumo": "Estados Unidos e Colômbia autorizam operações militares conjuntas no combate ao narcotráfico, conforme anúncio do secretário de Defesa americano."
     },
     {
-      "titulo": "Tigre oferece cursos gratuitos de instalação hidráulica em Salvador; veja como se inscrever",
+      "titulo": "‘Mente no currículo’ e ‘constrangedor’: adversários criticam Flávio por pós-graduação que não fez",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/08/12/empresa-oferece-cursos-gratuitos-em-salvador.ghtml",
-      "hora": "Wed, 12 Aug 2026 18:37:40 -0000",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/12/adversarios-criticam-flavio-por-pos-graduacao-que-nao-fez.ghtml",
+      "hora": "Wed, 12 Aug 2026 21:22:25 -0000",
       "tema": "brasil",
-      "resumo": "A empresa Tigre oferece 45 vagas gratuitas para cursos de instalação hidráulica em Salvador, com inscrições abertas."
+      "resumo": "Adversários de Flávio Bolsonaro criticam menção a pós-graduação não realizada em suas páginas oficiais, questionando a informação divulgada."
     },
     {
-      "titulo": "TRE-RS intima Zucco por ausência de plano de governo no registro de candidatura",
+      "titulo": "Caminhão tomba e interdita parcialmente a Via Dutra, em Piraí ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/08/12/tre-rs-intima-zucco-por-ausencia-de-plano-de-governo-no-registro-de-candidatura.ghtml",
-      "hora": "Wed, 12 Aug 2026 18:35:43 -0000",
-      "tema": "brasil",
-      "resumo": "Tribunal Regional Eleitoral do Rio Grande do Sul intimou o candidato Luciano Zucco pela ausência de plano de governo no registro de candidatura."
-    },
-    {
-      "titulo": "Caminhoneiro é preso com quase 200 kg de cocaína escondida embaixo de gado em MS",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/12/caminhoneiro-e-preso-com-quase-200-kg-de-cocaina-escondida-embaixo-de-gado-em-ms.ghtml",
-      "hora": "Wed, 12 Aug 2026 18:35:13 -0000",
-      "tema": "brasil",
-      "resumo": "Polícia Rodoviária Federal apreendeu 195,8 kg de cocaína em caminhão na BR-262 em Mato Grosso do Sul."
-    },
-    {
-      "titulo": "Erupção do Etna atrai multidão de turistas na Itália; veja FOTOS",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/turismo-e-viagem/noticia/2026/08/12/erupcao-do-etna-atrai-multidao-de-turistas-na-italia-veja-fotos.ghtml",
-      "hora": "Wed, 12 Aug 2026 18:33:49 -0000",
-      "tema": "mundo",
-      "resumo": "A erupção recente do monte Etna, vulcão ativo mais alto da Europa, tem atraído grandes multidões de turistas à região."
-    },
-    {
-      "titulo": "Eclipse solar é visto de forma total na Europa; SIGA",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ciencia/ao-vivo/eclipse-solar-total-12-agosto.ghtml",
-      "hora": "Wed, 12 Aug 2026 18:33:30 -0000",
-      "tema": "mundo",
-      "resumo": "Eclipse solar foi visto de forma total em várias regiões da Europa, incluindo norte da Rússia, Groenlândia e Islândia."
-    },
-    {
-      "titulo": "'Nenhum grande artista está disponível', diz Nunes sobre megashow na Avenida Paulista neste ano",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/12/nenhum-grande-artista-esta-disponivel-diz-nunes-sobre-megashow-na-avenida-paulista-neste-ano.ghtml",
-      "hora": "Wed, 12 Aug 2026 18:30:30 -0000",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/12/caminhao-tomba-e-interdita-parcialmente-a-via-dutra-em-pirai.ghtml",
+      "hora": "Wed, 12 Aug 2026 21:22:16 -0000",
       "tema": "sp",
-      "resumo": "Prefeito Ricardo Nunes informou que o plano de megashow gratuito na Avenida Paulista deve ser adiado para o próximo ano por indisponibilidade de artistas."
+      "resumo": "Caminhão tomba na Via Dutra em Piraí e interdita parcialmente a rodovia no sentido Rio-São Paulo."
     },
     {
-      "titulo": "FLA Araru 2026 terá operação especial e estrutura apresentada em visita técnica nesta quinta-feira",
+      "titulo": "André Gadelha, candidato a senador pela Paraíba, declara patrimônio de R$ 1,2 milhão ao TSE",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/08/12/fla-araru-2026-tera-operacao-especial-e-estrutura-apresentada-em-visita-tecnica-nesta-quinta-feira.ghtml",
-      "hora": "Wed, 12 Aug 2026 18:27:16 -0000",
+      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/12/andre-gadelha-candidato-a-senador-pela-paraiba-declara-patrimonio-de-r-12-milhao-ao-tse.ghtml",
+      "hora": "Wed, 12 Aug 2026 21:17:27 -0000",
       "tema": "brasil",
-      "resumo": "Prefeitura de Araruama realiza visita técnica para apresentar estrutura e preparativos da 5ª edição da Feira Literária de Araruama."
+      "resumo": "Candidato a senador pela Paraíba declara patrimônio de aproximadamente 1,2 milhão de reais à Justiça Eleitoral."
     },
     {
-      "titulo": "VÍDEO mostra lustre balançando em Bogotá durante terremoto; brasileiros relatam evacuação de prédios",
+      "titulo": "PM Ambiental apreende espingardas não registradas usadas para caçar javalis em Avaí",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/12/video-mostra-lustre-balancando-bogota-terremoto-catarinenses-evacuacao-predios.ghtml",
-      "hora": "Wed, 12 Aug 2026 18:24:08 -0000",
-      "tema": "mundo",
-      "resumo": "Terremoto atingiu a Colômbia e foi sentido em Bogotá a cerca de 400 quilômetros do epicentro, causando evacuação de prédios."
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/12/pm-ambiental-apreende-espingardas-nao-registradas-usadas-para-cacar-javalis-em-avai.ghtml",
+      "hora": "Wed, 12 Aug 2026 21:17:05 -0000",
+      "tema": "sp",
+      "resumo": "Polícia Militar Ambiental apreende armas não registradas em fiscalização em propriedade rural de Avaí, usadas para caça de javalis."
+    },
+    {
+      "titulo": "Amazonas tem 38 escolas acima da média nacional no Ideb, mas tem o pior desempenho no ensino médio do país",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/08/12/amazonas-tem-38-escolas-acima-da-media-nacional-no-ideb-mas-tem-o-pior-desempenho-no-ensino-medio-do-pais.ghtml",
+      "hora": "Wed, 12 Aug 2026 21:15:31 -0000",
+      "tema": "brasil",
+      "resumo": "Amazonas apresenta contraste no desempenho educacional: enquanto tem o pior resultado em ensino médio entre os estados, 38 escolas da rede estadual registram notas acima da média nacional."
+    },
+    {
+      "titulo": "Justiça libera nove advogados presos por suspeita de atuar como 'pombo-correio' de facções no Ceará",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/08/12/justica-libera-nove-advogados-presos-por-suspeita-de-atuar-como-pombo-correio-de-faccoes-no-ceara.ghtml",
+      "hora": "Wed, 12 Aug 2026 21:13:51 -0000",
+      "tema": "brasil",
+      "resumo": "Justiça manda soltar nove advogados presos sob suspeita de atuar como mensageiros de facções criminosas no Ceará, em ação realizada em junho."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -117,7 +101,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival Bike Brasil acontece este domingo na Zona Sul de São Paulo com competições de manobras radicais e atividades para crianças."
+      "resumo": "Festival de bicicletas ocorre neste domingo na Zona Sul de São Paulo, com competições de manobras e atividades voltadas para crianças."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -125,15 +109,15 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado pedala 20 km e passa 12 horas em fila em Bauru para concorrer a uma das 500 vagas de emprego oferecidas."
+      "resumo": "Desempregado pedala 20 quilômetros e aguarda 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "sp",
-      "resumo": "Zé Ramalho apresenta sucessos da carreira e canções de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
+      "tema": "cultura",
+      "resumo": "Zé Ramalho apresenta sucessos da carreira e interpreta canções de Raul Seixas na Festa Junina de Sorocaba."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
@@ -141,7 +125,7 @@
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "Polícia Rodoviária Federal apreende 927 quilos de maconha em carreta que seria entregue em São Paulo."
+      "resumo": "PRF apreende 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo, e motorista da carreta confessa o tráfico."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -149,7 +133,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza 3ª edição da Festa Junina Canina com entrada gratuita, oferecendo brincadeiras e atividades para cães e gatos."
+      "resumo": "Jundiaí realiza terceira edição de Festa Junina Canina com entrada gratuita, incluindo brincadeiras e diversões para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -157,7 +141,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "Festival 'Maior Baile do Mundo' acontece domingo em São Paulo com Anitta e MCs, esperando reunir 35 mil pessoas em dez horas de shows."
+      "resumo": "Festival Maior Baile do Mundo reúne 35 mil pessoas em São Paulo com dez horas de shows de artistas em alta nas plataformas digitais."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -165,7 +149,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "PSTU oficializa a candidatura de Vera Lúcia, militante sindical, à Presidência da República nas eleições."
+      "resumo": "PSTU oficializa a candidatura de Vera Lúcia, militante sindical, para a Presidência da República."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -173,7 +157,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "15ª edição da Feiccad (Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração) ocorre em Jundiaí até domingo com entrada gratuita."
+      "resumo": "Fifecund, feira da construção civil, decora, imóveis e condomínios, acontece até domingo em Jundiaí com entrada gratuita mediante credenciamento."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -181,7 +165,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diferentes funções, com prazos até 31 de julho e provas realizadas na própria cidade."
+      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diferentes funções do Executivo municipal."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -189,7 +173,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Um homem que vivia nas ruas de Campinas reencontra sua família após 37 anos, благодаря circunstâncias que começaram com um boletim de ocorrência por roubo."
+      "resumo": "Homem que vivia em situação de rua em Campinas reencontra sua família após 37 anos de separação, em uma história de coincidências que levou ao reencontro."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -197,7 +181,7 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Um motorista de 75 anos morre em acidente de trânsito dias antes de seu filho ser ordenado bispo em cerimônia programada em Itapetininga."
+      "resumo": "Motorista de 75 anos morre em acidente de trânsito em Capela do Alto poucos dias antes de seu filho ser ordenado bispo em Itapetininga."
     },
     {
       "titulo": "'Há razões para esse mal-estar', diz José Dirceu sobre alta rejeição a Lula ",
@@ -205,15 +189,15 @@
       "link": "https://www.bbc.com/portuguese/articles/clyq97rv175o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 12 Aug 2026 18:02:39 GMT",
       "tema": "brasil",
-      "resumo": "José Dirceu, aos 80 anos, anuncia candidatura a deputado federal com campanha online e comenta sobre a rejeição ao governo Lula, enquanto se trata de linfoma."
+      "resumo": "José Dirceu, ex-ministro, lança candidatura a deputado federal aos 80 anos e comenta sobre a alta rejeição a Lula, sugerindo que o PT precisa atender aos descontentes."
     },
     {
-      "titulo": "Ao vivo: acompanhe o eclipse solar total",
+      "titulo": "Eclipse solar total: as imagens do fenômeno que aconteceu nesta quarta-feira na Europa",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c4gj4e99xe5o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 12 Aug 2026 18:25:22 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cd9wp02y9y0o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 19:37:58 GMT",
       "tema": "mundo",
-      "resumo": "Um eclipse solar total ocorre no Hemisfério Norte nesta quarta-feira, visível em partes da Europa, mas não será observado no Brasil."
+      "resumo": "Eclipse solar total ocorreu na Europa nesta quarta-feira, visível em partes da Espanha, Portugal e Islândia, mas não será observável no Brasil."
     },
     {
       "titulo": "Padres brasileiros são excomungados em meio a conflito entre Vaticano e grupo ultraconservador",
@@ -221,7 +205,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cn8n9d24n43o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 12 Aug 2026 18:35:02 GMT",
       "tema": "brasil",
-      "resumo": "Padres brasileiros são excomungados em novo episódio de conflito entre o Vaticano e a Fraternidade Sacerdotal São Pio X, grupo ultraconservador."
+      "resumo": "Padres brasileiros são excomungados em decorrência de conflito histórico entre o Vaticano e a Fraternidade Sacerdotal São Pio X, movimento ultraconservador."
     },
     {
       "titulo": "Entrada da China na ação do Brasil na OMC ajuda a combater guerra tarifária contra os EUA?",
@@ -229,7 +213,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c5yvrwxd6zzo?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 12 Aug 2026 17:31:47 GMT",
       "tema": "brasil",
-      "resumo": "A China anuncia apoio ao Brasil em disputa comercial na OMC contra as tarifas impostas pelos Estados Unidos, fortalecendo a posição brasileira."
+      "resumo": "China acompanha ação do Brasil na OMC contra as tarifas dos EUA, reforçando o posicionamento brasileiro no confronto comercial com os americanos."
     },
     {
       "titulo": "Discord no Brasil: a decisão que suspende lives da rede social no país e o que acontece agora",
@@ -237,7 +221,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cd69p29eq6go?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 12 Aug 2026 18:02:38 GMT",
       "tema": "brasil",
-      "resumo": "A plataforma Discord tem suas lives suspensas no Brasil após solicitação da primeira-dama em resposta a caso de morte de uma menor na plataforma."
+      "resumo": "A plataforma Discord teve as lives suspensas no Brasil seguindo decisão judicial, em contexto de preocupações com segurança de menores na rede social."
     },
     {
       "titulo": "'Tenho dúvidas se vou continuar jogando futebol': a emocionante mensagem de Lionel Messi dedicada a seu pai após a sua morte",
@@ -245,7 +229,23 @@
       "link": "https://www.bbc.com/portuguese/articles/c5y49gy8845o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 12 Aug 2026 16:55:28 GMT",
       "tema": "entretenimento",
-      "resumo": "Lionel Messi expressa dúvidas sobre sua continuidade no futebol em homenagem emocional ao pai falecido recentemente nas redes sociais."
+      "resumo": "Lionel Messi compartilha mensagem emocional nas redes sociais homenageando seu pai recentemente falecido e expressa incerteza sobre seu futuro no futebol."
+    },
+    {
+      "titulo": "Cármen Lúcia participa de evento gratuito da BBC em SP sobre desinformação",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c4gwzww3p0wo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 06 Aug 2026 16:41:33 GMT",
+      "tema": "sp",
+      "resumo": "Ministra Cármen Lúcia participa de evento gratuito da BBC em São Paulo com oficinas sobre identificação de desinformação e conteúdos enganosos."
+    },
+    {
+      "titulo": "Pesquisa para presidente mostra Lula e Flávio estáveis e pouca força de outros candidatos; veja no agregador da BBC News Brasil",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 11:48:25 GMT",
+      "tema": "brasil",
+      "resumo": "Pesquisa eleitoral mostra Lula e Flávio Bolsonaro com intenções de voto estáveis para eleição presidencial de 2026, enquanto outros candidatos apresentam pouca força."
     },
     {
       "titulo": "Tomar cerveja com proteína e refrigerante com fibra funciona?",
@@ -253,7 +253,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c62vjqwzvg7o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 12 Aug 2026 11:03:04 GMT",
       "tema": "cultura",
-      "resumo": "Novos produtos alimentares com apelo funcional ganham espaço no mercado, com bebidas e alimentos adicionados de nutrientes em estratégia de diferenciação."
+      "resumo": "Indústria de alimentos funcionais lança novos produtos como cerveja com proteína e refrigerante com fibra, ampliando o mercado de bebidas com apelo de bem-estar."
     },
     {
       "titulo": "Os trabalhadores que 'dão adeus à CLT' atrás do sonho de viver fazendo vídeos de IA",
@@ -261,7 +261,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c5yzyy730nro?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 12 Aug 2026 07:44:18 GMT",
       "tema": "brasil",
-      "resumo": "Trabalhadores abandonam empregos convencionais para criar conteúdo automatizado usando ferramentas de IA, alimentando mercado de canais dark e cursos online."
+      "resumo": "Crescente número de trabalhadores abandona empregos convencionais para criar conteúdo automatizado com IA, alimentando mercado de canais dark e cursos de monetização."
+    },
+    {
+      "titulo": "Os EUA estão ficando sem armas na guerra contra o Irã?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c998l04pnp4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 12 Aug 2026 18:05:53 GMT",
+      "tema": "mundo",
+      "resumo": "Trump reuniu CEOs de empresas de defesa dos EUA para aumentar produção de armas em contexto de tensões geopolíticas envolvendo o Irã."
     },
     {
       "titulo": "O que é o Cinturão de Fogo do Pacífico em que está a Colômbia — e por que 90% dos terremotos do mundo ocorrem nesta região",
@@ -269,7 +277,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c24m2nge2g1o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 12 Aug 2026 09:42:09 GMT",
       "tema": "mundo",
-      "resumo": "O Cinturão de Fogo do Pacífico é explicado como a região onde ocorrem 90% dos terremotos mundiais, abrangendo países das Américas e Ásia."
+      "resumo": "O Cinturão de Fogo do Pacífico, que abrange países da América e Ásia, é responsável por cerca de 90% dos terremotos do planeta, fruto da intensa atividade tectônica."
     },
     {
       "titulo": "Os mapas e gráficos que mostram o epicentro, a magnitude e o impacto do potente terremoto na Colômbia",
@@ -277,7 +285,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c78glgn7661o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 11 Aug 2026 19:53:10 GMT",
       "tema": "mundo",
-      "resumo": "Um terremoto potente atinge a Colômbia, país localizado em zona de alta atividade sísmica devido à interação de três placas tectônicas."
+      "resumo": "Colômbia sofre potente terremoto em região de alta atividade sísmica, localizada sobre a interação de três placas tectônicas."
     },
     {
       "titulo": "A doutrina do século 19 que orienta política externa do governo Trump para a América Latina",
@@ -285,15 +293,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cwyev4yw89po?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 11 Aug 2026 22:08:41 GMT",
       "tema": "mundo",
-      "resumo": "A política externa do governo Trump para a América Latina se baseia em doutrina do século 19 criada em 1823, que passou por várias reinterpretações."
-    },
-    {
-      "titulo": "Como 'Botas Verdes', congelado há 30 anos no Everest, deve finalmente voltar para casa ",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3v07p6q24lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 11 Aug 2026 16:44:30 GMT",
-      "tema": "mundo",
-      "resumo": "Um corpo preservado no gelo do Everest há 30 anos pode ser finalmente repatriado, mediante operação arriscada de resgate no topo da montanha."
+      "resumo": "Governo Trump retoma a Doutrina Monroe do século 19 como orientação para sua política externa na América Latina, segundo material divulgado oficialmente."
     }
   ]
 }
