@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Panorama</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#EFEDE4; --paper:#F8F7F1; --ink:#22201B; --ink-soft:#5B584F;
+    --line:#DAD6C8; --pine:#23473F; --pine-soft:#E3EAE6; --gold:#A6753A; --gold-soft:#F1E4CF;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:'Public Sans',sans-serif;display:flex;justify-content:center;min-height:100vh;}
+  .frame{width:100%;max-width:480px;min-height:100vh;background:var(--paper);}
+  header{padding:28px 20px 16px;border-bottom:1px solid var(--line);}
+  .eyebrow{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--pine);display:flex;align-items:center;gap:8px;margin-bottom:6px;}
+  .eyebrow::before{content:"";width:6px;height:6px;background:var(--pine);border-radius:50%;}
+  h1{font-family:'Fraunces',serif;font-weight:500;font-size:26px;margin:0;}
+  .clima{display:flex;align-items:center;gap:10px;margin-top:14px;padding:10px 14px;background:var(--pine-soft);border-radius:10px;font-size:13px;color:var(--pine);}
+  .filters{display:flex;gap:8px;padding:14px 20px;overflow-x:auto;border-bottom:1px solid var(--line);}
+  .chip{flex:0 0 auto;font-size:13px;font-weight:600;padding:8px 14px;border-radius:20px;border:1px solid var(--line);background:transparent;color:var(--ink-soft);cursor:pointer;}
+  .chip.active{background:var(--pine);border-color:var(--pine);color:#fff;}
+  .feed{padding:10px 20px 40px;display:flex;flex-direction:column;gap:18px;}
+  .card{border-bottom:1px solid var(--line);padding-bottom:18px;}
+  .meta{display:flex;gap:8px;font-family:'IBM Plex Mono',monospace;font-size:10.5px;text-transform:uppercase;color:var(--ink-soft);margin-bottom:8px;}
+  .headline{font-family:'Fraunces',serif;font-size:18px;font-weight:500;line-height:1.3;margin:0 0 10px;}
+  .why{display:flex;gap:7px;background:var(--gold-soft);border-radius:10px;padding:9px 11px;font-size:12px;color:#7A5423;margin-bottom:10px;}
+  a.ler{font-size:13px;font-weight:600;color:var(--pine);text-decoration:none;}
+  .empty{padding:40px 20px;text-align:center;color:var(--ink-soft);font-size:14px;line-height:1.6;}
+</style>
+</head>
+<body>
+<div class="frame">
+  <header>
+    <div class="eyebrow" id="hora">Panorama</div>
+    <h1>Bom dia.</h1>
+    <div class="clima" id="clima" style="display:none;"></div>
+  </header>
+  <div class="filters" id="filters">
+    <button class="chip active" data-cat="todos">Todos</button>
+  </div>
+  <div class="feed" id="feed"><div class="empty">Carregando…</div></div>
+</div>
+
+<script>
+const LABELS = {
+  mundo: "Mundo", brasil: "Brasil", sp: "São Paulo", tempo: "Clima",
+  realeza: "Realeza britânica", esportes: "Esportes", financas: "Finanças", politica: "Política"
+};
+
+async function carregar() {
+  const feedEl = document.getElementById('feed');
+  try {
+    const resp = await fetch('data/feed.json?_=' + Date.now());
+    const data = await resp.json();
+
+    document.getElementById('hora').textContent =
+      'Panorama · atualizado ' + new Date(data.gerado_em).toLocaleString('pt-BR', {hour:'2-digit', minute:'2-digit', day:'2-digit', month:'2-digit'});
+
+    if (data.clima) {
+      const c = document.getElementById('clima');
+      c.style.display = 'flex';
+      c.textContent = `Hoje em São Paulo: ${Math.round(data.clima.min)}° - ${Math.round(data.clima.max)}° · chance de chuva ${data.clima.chuva}%`;
+    }
+
+    const noticias = data.noticias || [];
+    const temas = [...new Set(noticias.map(n => n.tema))];
+    const filtersEl = document.getElementById('filters');
+    temas.forEach(t => {
+      const b = document.createElement('button');
+      b.className = 'chip'; b.dataset.cat = t;
+      b.textContent = LABELS[t] || t;
+      b.onclick = () => { setActive(b); render(t); };
+      filtersEl.appendChild(b);
+    });
+    document.querySelector('.chip[data-cat="todos"]').onclick = (e) => { setActive(e.target); render('todos'); };
+
+    function setActive(btn){ document.querySelectorAll('.chip').forEach(c=>c.classList.remove('active')); btn.classList.add('active'); }
+
+    function render(cat){
+      feedEl.innerHTML = '';
+      const lista = cat === 'todos' ? noticias : noticias.filter(n => n.tema === cat);
+      if (lista.length === 0) { feedEl.innerHTML = '<div class="empty">Nada por aqui ainda.</div>'; return; }
+      lista.forEach(n => {
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.innerHTML = `
+          <div class="meta">${n.fonte}<span>·</span>${LABELS[n.tema] || n.tema}</div>
+          <h2 class="headline">${n.titulo}</h2>
+          <div class="why">${n.motivo || ''}</div>
+          <a class="ler" href="${n.link}" target="_blank" rel="noopener">Ler no ${n.fonte} →</a>
+        `;
+        feedEl.appendChild(card);
+      });
+    }
+
+    render('todos');
+  } catch (err) {
+    feedEl.innerHTML = '<div class="empty">Ainda não há um feed gerado. O primeiro robô precisa rodar (aba Actions no GitHub).</div>';
+  }
+}
+carregar();
+</script>
+</body>
+</html>
