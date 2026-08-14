@@ -1,59 +1,75 @@
 {
-  "gerado_em": "2026-08-14T10:57:09.384Z",
+  "gerado_em": "2026-08-14T15:50:09.837Z",
   "modo": "ia",
   "clima": {
-    "max": 23.6,
-    "min": 16.1,
-    "chuva": 30
+    "max": 25.4,
+    "min": 17,
+    "chuva": 57
   },
   "noticias": [
     {
-      "titulo": "Mutirão de castração terá atendimentos gratuitos neste fim de semana em Palmas",
+      "titulo": "Empresário do agro e 5 empresas são alvos de operação que investiga desvio de grãos em MT",
       "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/08/14/mutirao-de-castracao-tera-atendimentos-gratuitos-neste-fim-de-semana-em-palmas.ghtml",
-      "hora": "Fri, 14 Aug 2026 10:43:45 -0000",
-      "tema": "sp",
-      "resumo": "A prefeitura de Palmas oferece atendimento gratuito de castração para cães e gatos neste fim de semana, com agendamento disponível para tutores interessados."
-    },
-    {
-      "titulo": "De lei que proíbe termo 'marginal' a 90 mil carros por dia: Avenida Dom Aguirre completa 50 anos em Sorocaba",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/08/14/de-lei-que-proibe-termo-marginal-a-90-mil-carros-por-dia-avenida-dom-aguirre-completa-50-anos-em-sorocaba.ghtml",
-      "hora": "Fri, 14 Aug 2026 10:43:07 -0000",
-      "tema": "sp",
-      "resumo": "A Avenida Dom Aguirre em Sorocaba completa 50 anos como cartão postal da cidade, marcando cinco décadas de importância para o desenvolvimento urbano municipal."
-    },
-    {
-      "titulo": "Conheça o abacaxi que dura mais tempo após a colheita",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/08/14/conheca-o-abacaxi-que-dura-mais-tempo-apos-a-colheita.ghtml",
-      "hora": "Fri, 14 Aug 2026 10:42:14 -0000",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/14/empresario-do-agro-e-5-empresas-sao-alvos-de-operacao-que-investiga-desvio-de-graos-em-mt.ghtml",
+      "hora": "Fri, 14 Aug 2026 15:41:00 -0000",
       "tema": "brasil",
-      "resumo": "A Embrapa apresenta o abacaxi BRS Sol Bahia, uma variedade que se conserva por mais tempo após a colheita, ajudando produtores a identificar o melhor momento para comercialização."
+      "resumo": "Operação investiga esquema de desvio de cargas de grãos em Mato Grosso, com um empresário do agronegócio e cinco empresas como alvos da investigação."
     },
     {
-      "titulo": "Casamentos em cachoeira impressionam em Goiás: ‘Parece um conto de fadas’",
+      "titulo": "Feriado da Padroeira em Jundiaí: veja o que abre e o que fecha no sábado",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/08/14/casamentos-em-cachoeira-impressionam-em-goias-parece-um-conto-de-fadas.ghtml",
-      "hora": "Fri, 14 Aug 2026 10:41:34 -0000",
-      "tema": "entretenimento",
-      "resumo": "Casais estão realizando cerimônias de casamento em cachoeiras de Goiás, aproveitando cenários naturais para criar celebrações memoráveis."
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/08/14/feriado-da-padroeira-em-jundiai-veja-o-que-abre-e-o-que-fecha-no-sabado.ghtml",
+      "hora": "Fri, 14 Aug 2026 15:39:26 -0000",
+      "tema": "sp",
+      "resumo": "Jundiaí celebra feriado municipal do Dia da Padroeira neste sábado, com alterações no funcionamento de estabelecimentos."
     },
     {
-      "titulo": "Terremoto na Colômbia: número de mortos sobe para 281 enquanto esperança de achar sobreviventes diminui",
+      "titulo": "Capitão Wagner declara patrimônio de R$ 2,3 milhões ao TSE",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/08/14/terremoto-colombia-mortos-esperanca-de-achar-sobreviventes-diminui.ghtml",
-      "hora": "Fri, 14 Aug 2026 10:35:09 -0000",
-      "tema": "mundo",
-      "resumo": "O número de mortos no terremoto que atingiu a Colômbia chegou a 281, com mais de 3,9 mil feridos e centenas de desaparecidos ainda sendo buscados."
-    },
-    {
-      "titulo": "PM prende foragido suspeito de chefiar tráfico em Angra dos Reis",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/14/pm-prende-foragido-suspeito-de-chefiar-trafico-em-angra-dos-reis.ghtml",
-      "hora": "Fri, 14 Aug 2026 10:29:53 -0000",
+      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/08/14/capitao-wagner-declara-patrimonio-de-r-23-milhoes.ghtml",
+      "hora": "Fri, 14 Aug 2026 15:39:13 -0000",
       "tema": "brasil",
-      "resumo": "Polícia Militar prende foragido da Justiça desde 2019 apontado como gerente do tráfico de drogas em Angra dos Reis, no Rio de Janeiro."
+      "resumo": "Candidato a senador pelo Ceará declara patrimônio de R$ 2,3 milhões à Justiça Eleitoral, representando aumento de 135% em relação à declaração anterior."
+    },
+    {
+      "titulo": "Prefeitura de Macapá assina acordo para integrar o programa Município Mais Seguro",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/08/14/prefeitura-de-macapa-assina-acordo-para-integrar-o-programa-municipio-mais-seguro.ghtml",
+      "hora": "Fri, 14 Aug 2026 15:36:41 -0000",
+      "tema": "brasil",
+      "resumo": "Macapá integra o programa Município Mais Seguro da Secretaria Nacional de Segurança Pública, com acesso a projetos de polícia comunitária e qualificação profissional."
+    },
+    {
+      "titulo": "Mostra de Teatro Águas de Manaus tem espetáculos gratuitos até domingo (16)",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/am/amazonas/especial-publicitario/aguas-de-manaus/aguas-de-manaus/noticia/2026/08/14/mostra-de-teatro-aguas-de-manaus-tem-espetaculos-gratuitos-ate-domingo-16.ghtml",
+      "hora": "Fri, 14 Aug 2026 15:36:20 -0000",
+      "tema": "cultura",
+      "resumo": "A Mostra de Teatro Águas de Manaus oferece espetáculos gratuitos com atrações circenses e musicais até domingo em diferentes zonas da capital amazonense."
+    },
+    {
+      "titulo": "Operação contra furto de gado prende dois suspeitos e apreende arma, veículos e animais em cidades de MG",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/08/14/operacao-contra-furto-de-gado-prende-dois-suspeitos-e-apreende-arma-veiculos-e-animais-em-cidades-de-mg.ghtml",
+      "hora": "Fri, 14 Aug 2026 15:34:03 -0000",
+      "tema": "brasil",
+      "resumo": "Polícia Civil de Minas Gerais realiza operação contra furto de gado, prendendo dois suspeitos e apreendendo armas, veículos e animais."
+    },
+    {
+      "titulo": "Cidade de MT decreta emergência após paralisação de obra deixar moradores sem água",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/14/cidade-de-mt-decreta-emergencia-apos-paralisacao-de-obra-deixar-moradores-sem-agua.ghtml",
+      "hora": "Fri, 14 Aug 2026 15:32:05 -0000",
+      "tema": "brasil",
+      "resumo": "Município de Mato Grosso decreta emergência por 90 dias após paralisação de obras deixar moradores sem acesso à água."
+    },
+    {
+      "titulo": "Prefeitura de Campinas tenta resgatar ave com material preso no bico na Lagoa do Taquaral",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/14/prefeitura-de-campinas-tenta-resgatar-ave-com-material-preso-no-bico-na-lagoa-do-taquaral.ghtml",
+      "hora": "Fri, 14 Aug 2026 15:29:35 -0000",
+      "tema": "sp",
+      "resumo": "Prefeitura de Campinas tenta resgatar uma ave que está com material preso no bico desde terça-feira na Lagoa do Taquaral."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -61,7 +77,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival de bicicletas ocorre neste domingo na Zona Sul de São Paulo com competições de manobras radicais e atividades para crianças."
+      "resumo": "Festival de bicicletas acontece neste domingo na Zona Sul de São Paulo com competições de manobras radicais e atividades para crianças."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -69,7 +85,7 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Homem desempregado pedalou 20 km e aguardou 12 horas em fila em Bauru para concorrer a uma das 500 vagas de emprego oferecidas."
+      "resumo": "Homem percorre 20 quilômetros de bicicleta e passa 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -77,7 +93,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "cultura",
-      "resumo": "Zé Ramalho apresentou sucessos de sua carreira e interpretou canções de Raul Seixas na Festa Junina de Sorocaba."
+      "resumo": "Cantor Zé Ramalho apresenta sucessos da carreira e canções de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
+    },
+    {
+      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
+      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
+      "tema": "brasil",
+      "resumo": "PRF apreende 927 quilos de maconha em carreta em Mato Grosso do Sul que seria entregue em São Paulo; motorista confessa tráfico."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -85,15 +109,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí promove a terceira edição da Festa Junina Canina com entrada gratuita, oferecendo brincadeiras e atrações para cães e gatos."
+      "resumo": "Jundiaí realiza 3ª edição da Festa Junina Canina neste sábado com entrada gratuita, brincadeiras e atrações para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
-      "tema": "cultura",
-      "resumo": "Festival de música O Maior Baile do Mundo ocorre em São Paulo neste domingo reunindo 35 mil pessoas para dez horas de shows, com Anitta como uma das atrações principais."
+      "tema": "entretenimento",
+      "resumo": "Festival de música com Anitta e MCs acontece neste domingo em São Paulo com expectativa de receber 35 mil pessoas e 10 horas de shows."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -101,7 +125,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializa a militante sindical Vera Lúcia como candidata à Presidência da República nas próximas eleições."
+      "resumo": "PSTU oficializa a candidatura de Vera Lúcia à Presidência da República nas próximas eleições."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -109,15 +133,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A 15ª Feira do Imóvel, Construção e Decoração ocorre em Jundiaí até domingo com entrada gratuita e programação voltada ao setor da construção civil."
-    },
-    {
-      "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
-      "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
-      "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diversos cargos administrativos do Executivo municipal."
+      "resumo": "A 15ª edição da Feiccad, feira dedicada a imóvel, construção e decoração, acontece até domingo em Jundiaí com entrada gratuita."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -125,31 +141,79 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Um homem que estava em situação de rua em Campinas reencontra sua família após 37 anos de separação, facilitado por um boletim de ocorrência após ser roubado."
+      "resumo": "Homem que estava em situação de rua em Campinas reencontra sua família após 37 anos de separação, com a ajuda de um boletim de ocorrência registrado durante um roubo que sofreu."
     },
     {
-      "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
+      "titulo": "Chefe de facção que atua dentro e fora dos presídios brasileiros é transferido da PF em Foz do Iguaçu",
       "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
-      "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
-      "tema": "sp",
-      "resumo": "Um motorista de 75 anos morre em acidente de trânsito dias antes de seu filho ser ordenado bispo em Itapetininga."
+      "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2018/07/20/chefe-de-faccao-que-atua-dentro-e-fora-dos-presidios-brasileiros-e-transferido-da-pf-em-foz-do-iguacu.ghtml",
+      "hora": "Fri, 20 Jul 2018 10:55:41 -0000",
+      "tema": "brasil",
+      "resumo": "Eduardo Aparecido de Almeida, um dos líderes da facção PCC, foi transferido da Delegacia da Polícia Federal em Foz do Iguaçu para a Penitenciária Federal de Catanduvas."
+    },
+    {
+      "titulo": "Beach Park diz que checa peso e altura dos visitantes nos brinquedos; testemunha nega",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2018/07/19/beach-park-diz-que-checa-peso-e-altura-dos-visitantes-nos-brinquedos-testemunha-nega.ghtml",
+      "hora": "Thu, 19 Jul 2018 21:48:36 -0000",
+      "tema": "brasil",
+      "resumo": "Parque aquático Beach Park emitiu nota sobre protocolo de segurança após morte de visitante em brinquedo, enquanto testemunha questiona o cumprimento dessas verificações de peso e altura."
+    },
+    {
+      "titulo": "Ministra do TSE que vai julgar  uso de 'Bolsonaro de IA' por campanha de Flávio: 'Autenticidade é um direito básico'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ceqed2992ppo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 14 Aug 2026 15:23:22 GMT",
+      "tema": "brasil",
+      "resumo": "Ministra do TSE se posiciona sobre julgamento do uso de avatar de Bolsonaro em campanha, afirmando que autenticidade é um direito básico em processos eleitorais."
+    },
+    {
+      "titulo": "Deepfake decide eleição? O que revelam 6 exemplos de outros países",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cedje8yeq7qo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 14 Aug 2026 15:19:05 GMT",
+      "tema": "mundo",
+      "resumo": "Análise de casos internacionais mostra como vídeos deepfake influenciaram eleições na Irlanda, Alemanha e outros países, gerando desinformação e questionamentos sobre segurança eleitoral."
     },
     {
       "titulo": "Ele contou ao ChatGPT que queria matar o filho e foi preso — conversas com IA podem ser prova de crime no Brasil?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c8dn1l7vr6ro?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 14 Aug 2026 08:51:48 GMT",
-      "tema": "checagem",
-      "resumo": "Especialistas debatem se conversas com inteligência artificial podem ser usadas como prova de crime no Brasil, questionando o valor legal e contextual desse tipo de evidência."
+      "tema": "brasil",
+      "resumo": "Conversas com ChatGPT figuram em investigação criminal no Brasil, levantando questões jurídicas sobre validade de diálogos com inteligência artificial como evidência de crimes."
     },
     {
-      "titulo": "A causa do acidente em que homem quase foi sugado para fora de avião pela janela, segundo relatório preliminar",
+      "titulo": "Os irmãos que perderam a mãe no terremoto da Venezuela e agora sofrem com o tremor na Colômbia: 'Eles nos perseguem'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c70gy6l9xj1o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 14 Aug 2026 09:22:50 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cvgx58gv7x4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 14 Aug 2026 14:20:04 GMT",
       "tema": "mundo",
-      "resumo": "Investigadores americanos apontam que o acidente em que um passageiro quase foi sugado pela janela de um avião foi causado pela ruptura de uma pá da turbina durante voo da Grécia para a Alemanha."
+      "resumo": "Dois irmãos venezuelanos que perderam a mãe em terremoto no país enfrentam novo trauma ao sofrer tremor pouco depois de se mudarem para a Colômbia com o pai."
+    },
+    {
+      "titulo": "Brasil inicia processo de reciprocidade contra tarifaço dos EUA; o que acontece agora",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cpd734wdz85o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 14 Aug 2026 10:55:34 GMT",
+      "tema": "brasil",
+      "resumo": "Brasil ativa pela primeira vez mecanismo de reciprocidade econômica para avaliar retaliação contra tarifas impostas pelos Estados Unidos em exportações brasileiras."
+    },
+    {
+      "titulo": "Pai conta como descobriu que filha se automutilava em desafios no Discord: 'Ela podia ter morrido pela minha ignorância'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c77gyl834dvo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 14 Aug 2026 11:48:01 GMT",
+      "tema": "brasil",
+      "resumo": "Pai relata descoberta de automutilação da filha através de desafios na plataforma Discord e celebra decisão da ANPD de suspender transmissões ao vivo, alertando sobre riscos para menores."
+    },
+    {
+      "titulo": "Obras de Matisse roubadas de biblioteca em São Paulo são recuperadas; veja o que se sabe",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c0ejyp5j1j4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 14 Aug 2026 11:10:12 GMT",
+      "tema": "sp",
+      "resumo": "Obras de Matisse roubadas de biblioteca em São Paulo foram recuperadas, mas outras cinco telas de Cândido Portinari levadas no mesmo roubo permanecem desaparecidas."
     },
     {
       "titulo": "Qual a importância das Colinas de Golã e por que decisão da Colômbia de reconhecer a soberania de Israel é polêmica?",
@@ -157,23 +221,23 @@
       "link": "https://www.bbc.com/portuguese/articles/c4g3yle4k0zo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 14 Aug 2026 10:05:34 GMT",
       "tema": "mundo",
-      "resumo": "A decisão da Colômbia de reconhecer a soberania de Israel sobre as Colinas de Golã gera controvérsia, já que apenas os EUA reconheciam esse status até então nessa região estratégica."
+      "resumo": "Colômbia reconhece soberania de Israel sobre as Colinas de Golã, territórios ocupados desde 1967 e de grande importância estratégica, decisão que diverge da maioria da comunidade internacional."
     },
     {
-      "titulo": "EUA pretendem atacar em terra cartéis de droga na América Latina: 'Alvo como Estado Islâmico e Al-Qaeda'",
+      "titulo": "Como nova onda de ataques às vacinas gerou efeito reverso nas redes sociais, segundo levantamento",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckge4n1427eo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 14 Aug 2026 02:09:31 GMT",
-      "tema": "mundo",
-      "resumo": "Os Estados Unidos anunciam intenção de intensificar operações militares contra cartéis de droga na América Latina com mesmo nível de prioridade dado a grupos terroristas."
-    },
-    {
-      "titulo": "O que acontece após Flávio Bolsonaro não conseguir registrar candidatura no TSE por ter sido filiado ao Missão?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cg5lp58rnpqo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 13 Aug 2026 20:10:42 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c36d27g1d62o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 13 Aug 2026 16:55:14 GMT",
       "tema": "brasil",
-      "resumo": "O TSE determinou correção de informação sobre filiação de Flávio Bolsonaro e identificou uso indevido do sistema por alguém com credenciais do partido Missão para fazer filiações."
+      "resumo": "Ataques contra vacinação por políticos nas redes sociais geraram efeito reverso, ampliando discussão sobre o tema e aumentando manifestações favoráveis à imunização nos dias seguintes."
+    },
+    {
+      "titulo": "A causa do acidente em que homem quase foi sugado para fora de avião pela janela, segundo relatório preliminar",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c70gy6l9xj1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 14 Aug 2026 09:22:50 GMT",
+      "tema": "mundo",
+      "resumo": "Investigadores americanos apontam que quebra de pá de turbina foi a causa do acidente em voo da Grécia para a Alemanha onde passageiro quase foi sugado para fora da aeronave."
     },
     {
       "titulo": "Guia do eleitor: tudo o que você precisa saber sobre as eleições de 2026",
@@ -181,31 +245,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c75gxk1vlnqo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 13 Aug 2026 14:31:45 GMT",
       "tema": "brasil",
-      "resumo": "As eleições de 2026 ocorrem em 4 de outubro, com informações sobre cronograma de campanhas e debates entre candidatos até a data do primeiro turno."
-    },
-    {
-      "titulo": "Como nova onda de ataques às vacinas gerou efeito reverso nas redes sociais, segundo levantamento",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c36d27g1d62o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 13 Aug 2026 16:55:14 GMT",
-      "tema": "checagem",
-      "resumo": "Ataques de políticos às vacinas em redes sociais tiveram efeito reverso, gerando aumento nas manifestações favoráveis à imunização, embora a reação tenha perdido força após 48 horas."
-    },
-    {
-      "titulo": "Cármen Lúcia participa de evento gratuito da BBC em SP sobre desinformação nesta sexta-feira",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c4gwzww3p0wo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 14 Aug 2026 10:41:32 GMT",
-      "tema": "sp",
-      "resumo": "A ministra Cármen Lúcia participa de evento gratuito da BBC em São Paulo sobre desinformação com painéis, oficinas e técnicas práticas para identificar conteúdos desinformativos."
-    },
-    {
-      "titulo": "Pesquisa para presidente mostra Lula e Flávio estáveis e pouca força de outros candidatos; veja no agregador da BBC News Brasil",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 14 Aug 2026 10:51:45 GMT",
-      "tema": "brasil",
-      "resumo": "Pesquisas eleitorais para presidente mostram Lula e Flávio estáveis nas intenções de voto enquanto outros candidatos apresentam pouca força nas estimativas."
+      "resumo": "Guia informativo reúne informações essenciais sobre as eleições presidenciais de 2026, marcadas para 4 de outubro, com calendário de debates e campanha eleitoral."
     },
     {
       "titulo": "Como Mãe Menininha do Gantois se tornou a maior mãe de santo do Brasil e aconselhou de Pelé a Jorge Amado",
@@ -213,39 +253,7 @@
       "link": "https://www.bbc.com/portuguese/articles/czrjyv10xgpo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 13 Aug 2026 15:28:19 GMT",
       "tema": "cultura",
-      "resumo": "Mãe Menininha do Gantois foi a maior mãe de santo do Brasil e desempenhou papel importante na inserção do candomblé na sociedade, aconselhando personalidades como Pelé e Jorge Amado."
-    },
-    {
-      "titulo": "Filha rebelde de Fidel Castro fala da relação com pai: 'Ele me deu um boneco vestido como ele'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c2k72yvd5wyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 13 Aug 2026 20:07:21 GMT",
-      "tema": "entretenimento",
-      "resumo": "Alina Fernández, filha de Fidel Castro que não sabia da paternidade na infância, relembra a relação com o líder cubano em entrevista próximo aos 100 anos do nascimento dele."
-    },
-    {
-      "titulo": "Decisão de Moraes sobre fonte de jornalista: entidades internacionais veem 'precedente perigoso' e 'grave ameaça' à imprensa no Brasil",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cj9dpdy98g2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 13 Aug 2026 15:15:10 GMT",
-      "tema": "brasil",
-      "resumo": "Entidades internacionais de defesa da liberdade de imprensa criticam decisão do ministro Moraes sobre sigilo de fonte jornalística, alertando para precedente perigoso aos direitos da imprensa no Brasil."
-    },
-    {
-      "titulo": "Lula sem 'frente ampla' e Flávio isolado: por que líderes nas pesquisas têm apoio reduzido nesta eleição",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cy4kxjg99k0o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 13 Aug 2026 14:14:03 GMT",
-      "tema": "brasil",
-      "resumo": "Líderes nas pesquisas presidenciais têm reduzido apoio político porque grandes partidos do Centrão optaram por neutralidade na disputa presidencial para focar na eleição pelo Congresso."
-    },
-    {
-      "titulo": "'Há razões para esse mal-estar', diz José Dirceu sobre alta rejeição a Lula ",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/clyq97rv175o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 12 Aug 2026 18:02:39 GMT",
-      "tema": "brasil",
-      "resumo": "José Dirceu, aos 80 anos, lança candidatura a deputado federal com estratégia online enquanto trata linfoma, e defende que o PT atenda descontentes com o governo Lula."
+      "resumo": "Documentário resgata a trajetória de Mãe Menininha do Gantois, importante líder religiosa que ajudou a inserir o candomblé na sociedade brasileira e conquistou reconhecimento de personalidades como Pelé e Jorge Amado."
     }
   ]
 }
