@@ -1,43 +1,91 @@
 {
-  "gerado_em": "2026-08-15T21:19:03.389Z",
+  "gerado_em": "2026-08-16T10:20:58.651Z",
   "modo": "ia",
   "clima": {
-    "max": 22.5,
-    "min": 16.4,
-    "chuva": 98
+    "max": 26.7,
+    "min": 15.5,
+    "chuva": 0
   },
   "noticias": [
     {
-      "titulo": "Patrimônio declarado por Arthur Lira cresce 335% em quatro anos e chega a R$ 25,9 milhões",
+      "titulo": "Círio de Nazaré 2026: quem são a desenhista e o estilista responsáveis pelo manto de Nossa Senhora",
       "fonte": "G1",
-      "link": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/15/patrimonio-declarado-por-arthur-lira-cresce-335percent-em-quatro-anos-e-chega-a-r-259-milhoes.ghtml",
-      "hora": "Sat, 15 Aug 2026 20:55:55 -0000",
-      "tema": "brasil",
-      "resumo": "O patrimônio declarado do candidato ao Senado Arthur Lira cresceu 335% em quatro anos, passando de cerca de R$ 6 milhões para R$ 25,9 milhões junto à Justiça Eleitoral."
+      "link": "https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/08/16/cirio-de-nazare-2026-quem-sao-a-desenhista-e-o-estilista-responsaveis-pelo-manto-de-nossa-senhora.ghtml",
+      "hora": "Sun, 16 Aug 2026 10:00:16 -0000",
+      "tema": "cultura",
+      "resumo": "A designer Celeste Heitman e o estilista Artur Maciel finalizaram o manto que vestirá a imagem peregrina do Círio de Nazaré 2026, com apresentação oficial prevista para 8 de outubro na Basílica Santuário de Nazaré."
     },
     {
-      "titulo": "Victor Assis não declara nenhum bem ao TSE; vice também informa não ter patrimônio",
+      "titulo": "Cenário de novela e terra do biscoito Amor Perfeito: conheça a cidade mais antiga do Tocantins",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/08/15/victor-assis-nao-declara-nenhum-bem-ao-tse-vice-tambem-informa-nao-ter-patrimonio.ghtml",
-      "hora": "Sat, 15 Aug 2026 20:53:08 -0000",
-      "tema": "brasil",
-      "resumo": "O candidato à governança de Pernambuco Victor Assis não declarou nenhum bem à Justiça Eleitoral, assim como sua candidata a vice."
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/08/16/cenario-de-novela-e-terra-do-biscoito-amor-perfeito-conheca-a-cidade-mais-antiga-do-tocantins.ghtml",
+      "hora": "Sun, 16 Aug 2026 10:00:10 -0000",
+      "tema": "cultura",
+      "resumo": "Natividade, no Tocantins, cidade com 292 anos de história fundada em 1734, atrai turistas com paisagens naturais, patrimônio histórico, cultura e gastronomia local."
     },
     {
-      "titulo": "Inspiração em Florença e artista sepultado em parede: igreja da Boa Morte, em Piracicaba completa 100 anos",
+      "titulo": "'Michael Jacksons' roraimenses encontram cover oficial do rei do pop em evento de motos de alta cilindrada",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/15/inspiracao-em-florenca-e-artista-sepultado-em-parede-igreja-da-boa-morte-em-piracicaba-completa-100-anos.ghtml",
-      "hora": "Sat, 15 Aug 2026 20:50:08 -0000",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/08/16/michael-jacksons-roraimenses-encontram-cover-oficial-do-rei-do-pop-em-evento-de-motos-de-alta-cilindrada.ghtml",
+      "hora": "Sun, 16 Aug 2026 10:00:08 -0000",
+      "tema": "entretenimento",
+      "resumo": "O 18º Encontro Internacional de Motos de Alta Cilindrada de Roraima reuniu motociclistas em Boa Vista, onde participantes conheceram Rodrigo Teaser, cover oficial do Michael Jackson."
+    },
+    {
+      "titulo": "Ucrânia lança quase 900 drones contra a Rússia; ataque deixou 6 mortos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/08/16/ucrania-lanca-um-dos-maiores-ataques-aereos-da-guerra-e-deixa-mortos-na-russia.ghtml",
+      "hora": "Sun, 16 Aug 2026 09:28:24 -0000",
+      "tema": "mundo",
+      "resumo": "A Ucrânia lançou aproximadamente 900 drones contra a Rússia em um dos maiores ataques aéreos desde o início da guerra, resultando em ao menos 6 mortos."
+    },
+    {
+      "titulo": "Catedral de Santos abriga capela subterrânea com restos mortais de mais de 1,5 mil pessoas; VEJA",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/16/catedral-de-santos-abriga-capela-subterranea-com-restos-mortais-de-mais-de-15-mil-pessoas-veja.ghtml",
+      "hora": "Sun, 16 Aug 2026 09:14:53 -0000",
       "tema": "sp",
-      "resumo": "A Igreja Nossa Senhora da Boa Morte e Assunção, em Piracicaba, completa 100 anos neste sábado. O templo, que se inspira em arquitetura florentina, teve sua construção concluída em 1926."
+      "resumo": "A Catedral de Santos possui uma capela subterrânea com restos mortais de mais de 1,5 mil pessoas, aberta para visitação e revelando um patrimônio histórico pouco conhecido da cidade."
     },
     {
-      "titulo": "Chuva de granizo atinge São Brás do Suaçuí na Região Central de MG; VÍDEO",
+      "titulo": "Caso de brasileiro internado após agredir a mãe é levado à Organização de Estados Americanos; entenda",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/08/15/chuva-de-granizo-atinge-sao-bras-do-suacui-na-regiao-central-de-mg-video.ghtml",
-      "hora": "Sat, 15 Aug 2026 20:47:40 -0000",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/16/caso-de-brasileiro-internado-apos-agredir-a-mae-e-levado-a-organizacao-de-estados-americanos-entenda.ghtml",
+      "hora": "Sun, 16 Aug 2026 09:14:42 -0000",
       "tema": "brasil",
-      "resumo": "Uma chuva de granizo com pedras de gelo de tamanho considerável atingiu São Brás do Suaçuí, na Região Central de Minas Gerais, na tarde de sábado."
+      "resumo": "O caso de um homem internado em hospital de custódia após agredir a mãe durante surto psicótico foi levado à Comissão Interamericana de Direitos Humanos, envolvendo questões de saúde mental e direitos humanos."
+    },
+    {
+      "titulo": "Parque do Sítio do Picapau Amarelo em Atibaia: atrações para crianças e adultos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/atibaia-e-regiao-convention-e-visitors-bureau/turismo-atibaia-e-regiao/noticia/2026/08/16/parque-do-sitio-do-picapau-amarelo-em-atibaia-atracoes-para-criancas-e-adultos.ghtml",
+      "hora": "Sun, 16 Aug 2026 09:01:10 -0000",
+      "tema": "sp",
+      "resumo": "O Parque Temático Sítio do Picapau Amarelo em Atibaia oferece atividades ao ar livre e experiências interativas para crianças e adultos, com cenários inspirados na obra clássica infantil."
+    },
+    {
+      "titulo": "São José dos Campos e Taubaté têm média diária de 53 novos veículos nas ruas em 2026; alta é de 15%",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/16/sao-jose-dos-campos-e-taubate-tem-media-diaria-de-53-novos-veiculos-nas-ruas-em-2026-alta-e-de-15percent.ghtml",
+      "hora": "Sun, 16 Aug 2026 09:01:09 -0000",
+      "tema": "sp",
+      "resumo": "São José dos Campos e Taubaté receberam uma média de 53 novos veículos por dia em 2026, representando um aumento de 15% no tráfego das principais cidades do Vale do Paraíba."
+    },
+    {
+      "titulo": "6 em cada 10 mães negras ainda não conseguiram entrar no audiovisual em SP, aponta pesquisa",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/16/6-em-cada-10-maes-negras-ainda-nao-conseguiram-entrar-no-audiovisual-em-sp-aponta-pesquisa.ghtml",
+      "hora": "Sun, 16 Aug 2026 09:00:36 -0000",
+      "tema": "sp",
+      "resumo": "Pesquisa aponta que 63,7% das mães negras entrevistadas em São Paulo ainda não conseguiram ingressar no setor audiovisual, revelando barreiras significativas de acesso a oportunidades."
+    },
+    {
+      "titulo": "O bunker da Guerra Fria transformado em apartamentos de luxo para 'sobreviver ao fim do mundo'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/08/16/o-bunker-da-guerra-fria-transformado-em-apartamentos-de-luxo-para-sobreviver-ao-fim-do-mundo.ghtml",
+      "hora": "Sun, 16 Aug 2026 09:00:30 -0000",
+      "tema": "mundo",
+      "resumo": "Um bunker da Guerra Fria no Canadá foi transformado em apartamentos de luxo, oferecendo unidades sofisticadas em um parque empresarial histórico localizado ao norte de Halifax."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -45,7 +93,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "O festival Bike Brasil reúne ciclistas profissionais e amadores na Zona Sul de São Paulo para competições de manobras e atividades para crianças."
+      "resumo": "O Bike Brasil, festival de bicicletas na Zona Sul de São Paulo, reúne ciclistas profissionais e amadores para competições de manobras e atividades diversas no São Paulo Expo."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -53,15 +101,23 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Um desempregado pedalou 20 quilômetros e aguardou 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
+      "resumo": "Desempregado percorreu 20 km de bicicleta para participar de processo seletivo com 500 vagas em Bauru, enfrentando fila de mais de 12 horas em busca de oportunidade de emprego."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "cultura",
-      "resumo": "O cantor Zé Ramalho apresentou sucessos de sua carreira e canções de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
+      "tema": "sp",
+      "resumo": "Zé Ramalho apresentou sucessos de sua carreira e canções de Raul Seixas na 39ª Festa Junina de Sorocaba, atraindo público apesar das temperaturas baixas."
+    },
+    {
+      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
+      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
+      "tema": "sp",
+      "resumo": "A Polícia Rodoviária Federal apreendeu 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo, com o motorista da carreta confessando o tráfico."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -69,15 +125,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "A terceira edição da Festa Junina Canina de Jundiaí oferecerá brincadeiras e atividades para cães e gatos, com entrada gratuita."
+      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina com entrada gratuita, oferecendo brincadeiras e atividades para cães e gatos com seus donos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
-      "tema": "cultura",
-      "resumo": "O festival Maior Baile do Mundo acontece em São Paulo com apresentações de artistas como Anitta e MCs, esperando reunir 35 mil pessoas."
+      "tema": "sp",
+      "resumo": "O Maior Baile do Mundo, festival em São Paulo com presença de Anitta e MCs, espera atrair 35 mil pessoas para 10 horas de apresentações de artistas em alta nas plataformas de streaming."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -85,7 +141,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializou a militante sindical Vera Lúcia como candidata à Presidência da República nas eleições."
+      "resumo": "O PSTU oficializou a candidatura de Vera Lúcia, militante sindical, à Presidência da República em convenção realizada no Sindicato dos Metroviários de São Paulo."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -93,7 +149,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A 15ª edição da Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração ocorre em Jundiaí, com entrada gratuita mediante credenciamento."
+      "resumo": "A 15ª edição da Feiccad, feira de imóvel, construção e decoração, ocorre em Jundiaí até domingo com entrada gratuita mediante credenciamento prévio."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -101,7 +157,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã (SP) abriu inscrições para concurso público com 34 vagas em diferentes cargos do Executivo, com prazo até 31 de julho e provas a serem realizadas na cidade."
+      "resumo": "A prefeitura de Tabapuã (SP) abriu inscrições para concurso público com 34 vagas em diversos cargos da administração municipal até 31 de julho, com provas na própria cidade."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -109,7 +165,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra a família após 37 anos de separação, graças a um boletim de ocorrência que permitiu o reencontro."
+      "resumo": "Um homem em situação de rua em Campinas reencontrou sua família após 37 anos de separação, graças a um boletim de ocorrência registrado quando sofreu roubo."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -117,7 +173,31 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Motorista de 75 anos, pai de monsenhor que seria ordenado bispo em Itapetininga, morre em acidente de trânsito em Capela do Alto."
+      "resumo": "Um homem de 75 anos morreu em acidente de trânsito dias antes do filho ser ordenado bispo em Itapetininga, em uma colisão entre carro e caminhão em Capela do Alto."
+    },
+    {
+      "titulo": "'O planeta em que nascemos não existe mais': o climatologista que alerta para epidemia de eventos climáticos extremos, mas se mantém otimista",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crk5rx4y3xvo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 16 Aug 2026 09:48:00 GMT",
+      "tema": "mundo",
+      "resumo": "Um climatologista explica por que o hemisfério norte aquece mais rapidamente que o sul e o impacto combinado das mudanças climáticas com o El Niño, mantendo perspectiva otimista sobre o futuro."
+    },
+    {
+      "titulo": "Eles se apaixonaram e violaram a lei para ter certeza de que não eram irmãos",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c1m121p2vmdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 16 Aug 2026 10:18:53 GMT",
+      "tema": "mundo",
+      "resumo": "Um casal francês enfrentou dilema legal ao desejar filhos, pois testes de DNA são proibidos na França e ambos foram concebidos por doação de esperma, deixando incerteza sobre parentesco."
+    },
+    {
+      "titulo": "Inelegível até 2032, Pablo Marçal é lançado como candidato à Presidência pelo PRTB",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c1511ney4w1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 16 Aug 2026 02:31:45 GMT",
+      "tema": "brasil",
+      "resumo": "Pablo Marçal foi lançado como candidato presidencial pelo PRTB após decisão judicial permitir sua filiação, embora seja tecnicamente inelegível até 2032."
     },
     {
       "titulo": "Como a Rússia confisca casas na Ucrânia ocupada: 'Não temos para onde voltar'",
@@ -125,7 +205,7 @@
       "link": "https://www.bbc.com/portuguese/resources/idt-f153d864-33b6-4ffa-823a-bf085f8ec5e1?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 15 Aug 2026 00:00:00 GMT",
       "tema": "mundo",
-      "resumo": "Autoridades russas confiscam propriedades de moradores em áreas ocupadas da Ucrânia, classificando-as como abandonadas e transferindo-as a novos proprietários."
+      "resumo": "Autoridades russas confiscam casas em áreas ocupadas da Ucrânia, classificando-as como abandonadas e as transferindo para novos proprietários, deixando moradores desabrigados."
     },
     {
       "titulo": "Câmeras digitais e fones com fio estão de volta. Mas por quê?",
@@ -133,7 +213,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cp8edx0yy44o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 15 Aug 2026 21:14:11 GMT",
       "tema": "cultura",
-      "resumo": "Câmeras digitais e fones com fio voltam a ser populares entre jovens, que abandonam tecnologias mais avançadas em favor de equipamentos mais simples e analógicos."
+      "resumo": "Jovens estão retornando ao uso de câmeras digitais e fones com fio, rejeitando a tecnologia mais avançada em favor de alternativas básicas e analógicas."
     },
     {
       "titulo": "O bunker da Guerra Fria transformado em apartamentos de luxo para 'sobreviver ao fim do mundo'",
@@ -141,7 +221,31 @@
       "link": "https://www.bbc.com/portuguese/articles/c98vple0gp3o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 15 Aug 2026 17:36:48 GMT",
       "tema": "mundo",
-      "resumo": "Um antigo abrigo nuclear do governo canadense será transformado em refúgio de luxo para sobrevivência, marcando o primeiro empreendimento em grande escala desse tipo no país."
+      "resumo": "Um antigo abrigo nuclear da Guerra Fria na Nova Escócia, Canadá, será transformado em apartamentos de luxo com recursos de sobrevivência para clientes que buscam proteção contra cenários catastróficos."
+    },
+    {
+      "titulo": "'Nunca cogitamos não lançar': o relato de cientista que ajudou a fabricar a bomba atômica que devastou Nagasaki",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crrvvdpxlv5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 15 Aug 2026 22:58:42 GMT",
+      "tema": "mundo",
+      "resumo": "Um físico que participou da fabricação da bomba atômica de Nagasaki relata, 30 anos depois, sobre sua participação no projeto que pôs fim à Segunda Guerra Mundial."
+    },
+    {
+      "titulo": "Terremoto de magnitude 7,7 mata ao menos 51 pessoas e deixa 5 mil desabrigados na Indonésia",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cpq88dz14epo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 16 Aug 2026 09:54:50 GMT",
+      "tema": "mundo",
+      "resumo": "Um terremoto de magnitude 7,7 na Indonésia matou pelo menos 51 pessoas e deixou 5 mil desabrigados na Ilha das Flores, com operações de busca e resgate em andamento."
+    },
+    {
+      "titulo": "Pesquisa para presidente mostra Lula e Flávio estáveis e pouca força de outros candidatos; veja no agregador da BBC News Brasil",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 15 Aug 2026 09:07:27 GMT",
+      "tema": "brasil",
+      "resumo": "Pesquisas eleitorais agregadas pela BBC News Brasil mostram Lula e Flávio com intenção de voto estável e poucos concorrentes com força significativa para a eleição presidencial de 2026."
     },
     {
       "titulo": "O passado da Vila Euclides, lugar escolhido por Lula e pelo PT para lançar campanha neste domingo",
@@ -149,31 +253,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c3302x6gm5yo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 15 Aug 2026 09:36:53 GMT",
       "tema": "brasil",
-      "resumo": "PT lança campanha oficial em São Bernardo do Campo, local histórico das greves do ABC que marcaram a trajetória de Lula, em contexto de disputa eleitoral acirrada."
-    },
-    {
-      "titulo": "Terremoto de magnitude 7,7 mata ao menos 47 pessoas na Indonésia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cpq88dz14epo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 15 Aug 2026 15:23:38 GMT",
-      "tema": "mundo",
-      "resumo": "Terremoto de magnitude 7,7 causa pelo menos 47 mortes na Indonésia, com operações de busca e resgate em andamento na Ilha das Flores."
-    },
-    {
-      "titulo": "Os livros que passaram décadas encalhados e agora têm um misterioso comprador — a inteligência artificial",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cn9nnd20pv8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 15 Aug 2026 14:26:35 GMT",
-      "tema": "mundo",
-      "resumo": "Livreiros relatam compras suspeitas em grande volume de obras encalhadas há décadas, provavelmente adquiridas para treinar inteligências artificiais como o Claude."
-    },
-    {
-      "titulo": "Os pedreiros que encontraram tesouro de R$ 54 milhões em moedas e barras de ouro em parede de casa na Bélgica",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvgvv57zlj2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 15 Aug 2026 12:50:37 GMT",
-      "tema": "mundo",
-      "resumo": "Pedreiros encontram esconderijo com cerca de R$ 54 milhões em moedas e barras de ouro dentro das paredes de uma casa na Bélgica durante obra de instalação de tubulações."
+      "resumo": "O PT escolheu a Vila Euclides em São Bernardo do Campo (SP), local histórico das 'Greves do ABC' lideradas por Lula, para lançar oficialmente a campanha presidencial deste ano."
     },
     {
       "titulo": "'Liberdade de imprensa não está em questão no Brasil', diz Cármen Lúcia ",
@@ -181,7 +261,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cp3r67p3q7do?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 14 Aug 2026 22:48:29 GMT",
       "tema": "brasil",
-      "resumo": "Ministra Cármen Lúcia afirma que a liberdade de imprensa não está ameaçada no Brasil durante evento sobre combate à desinformação promovido pela BBC."
+      "resumo": "A ministra Cármen Lúcia afirma que a liberdade de imprensa não está em questão no Brasil durante evento da BBC sobre desafios no combate à desinformação."
     },
     {
       "titulo": "Ele contou ao ChatGPT que queria matar o filho e foi preso — conversas com IA podem ser prova de crime no Brasil?",
@@ -189,31 +269,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c8dn1l7vr6ro?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 14 Aug 2026 08:51:48 GMT",
       "tema": "brasil",
-      "resumo": "Conversas entre um homem e o ChatGPT em que ele menciona querer matar seu filho são usadas como evidência criminal, levantando questões sobre validade legal de diálogos com inteligência artificial no Brasil."
-    },
-    {
-      "titulo": "A tragédia da trigêmea que perdeu as duas irmãs e os pais no terremoto na Colômbia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cz977wdeg55o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 15 Aug 2026 13:50:54 GMT",
-      "tema": "mundo",
-      "resumo": "Jovem de 23 anos sobrevive como única membro de sua família após terremoto na Colômbia destruir o prédio onde morava com pais e duas irmãs."
+      "resumo": "Um homem foi preso após revelar ao ChatGPT intenção de matar o filho, levantando questionamentos sobre validade de conversas com IA como evidência criminal e a importância de análise contextual."
     },
     {
       "titulo": "Patinho Feio, Cobra e clone do Mac: a pré-história da tecnologia 100% brasileira de computadores",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cre4pr13nv5o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 15 Aug 2026 10:44:45 GMT",
-      "tema": "cultura",
-      "resumo": "Retrospectiva da história da computação brasileira no Dia da Informática, destacando projetos como Patinho Feio e computadores nacionais desenvolvidos em universidades e Forças Armadas."
-    },
-    {
-      "titulo": "Deepfake decide eleição? O que revelam 6 exemplos de outros países",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cedje8yeq7qo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 14 Aug 2026 15:19:05 GMT",
-      "tema": "checagem",
-      "resumo": "Análise de casos internacionais de deepfakes em eleições, como vídeos na Irlanda e Alemanha que espalharam desinformação, examina o impacto desses artifícios na política."
+      "tema": "brasil",
+      "resumo": "A história da tecnologia brasileira de computadores, incluindo projetos como Patinho Feio e clones de Mac desenvolvidos por universidades e Forças Armadas, marcou auge da indústria nacional em décadas passadas."
     },
     {
       "titulo": "Como a Austrália, conhecida por sua fauna exuberante, tornou-se o epicentro das extinções no planeta",
@@ -221,7 +285,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c9d8ndz4ezpo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 15 Aug 2026 11:49:21 GMT",
       "tema": "mundo",
-      "resumo": "Austrália, apesar de conhecida por fauna exuberante, tornou-se epicentro de extinções, com lista oficial de 67 espécies desaparecidas e estimativas de pelo menos cem extinções."
+      "resumo": "A Austrália tornou-se epicentro de extinções globais, com 67 espécies oficialmente extintas, embora pesquisadores estimem que ao menos cem plantas e animais já desapareceram para sempre."
     }
   ]
 }
