@@ -1,59 +1,99 @@
 {
-  "gerado_em": "2026-08-16T15:19:48.964Z",
+  "gerado_em": "2026-08-16T21:18:09.499Z",
   "modo": "ia",
   "clima": {
-    "max": 26.9,
+    "max": 26.1,
     "min": 15.1,
     "chuva": 2
   },
   "noticias": [
     {
-      "titulo": "Juliana Brizola declara R$ 376,1 mil em bens ao TSE; Edegar Pretto informa R$ 670,4 mil",
+      "titulo": "Região de Piracicaba começa semana com 1,5 mil vagas de emprego abertas; saiba como se candidatar",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/08/16/juliana-brizola-bens-declarados-tse-eleicoes-2026.ghtml",
-      "hora": "Sun, 16 Aug 2026 15:07:44 -0000",
-      "tema": "brasil",
-      "resumo": "Candidatos ao governo do Rio Grande do Sul declararam seus patrimônios à Justiça Eleitoral: a ex-deputada Juliana Brizola informou R$ 376,1 mil e o ex-presidente da Conab, Edegar Pretto, declarou R$ 670,4 mil."
-    },
-    {
-      "titulo": "Incêndio atinge casa de festas em Joinville",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/16/incendio-destroi-casa-de-festas-em-joinville.ghtml",
-      "hora": "Sun, 16 Aug 2026 14:58:41 -0000",
-      "tema": "brasil",
-      "resumo": "Uma casa de festas foi destruída por incêndio em Joinville (SC) no sábado à noite, durante a realização de um casamento no local."
-    },
-    {
-      "titulo": "Celina Leão abre campanha de reeleição ao governo do DF ao lado de Michelle Bolsonaro e Bia Kicis",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/08/16/celina-leao-abre-campanha-de-reeleicao-ao-governo-do-df-ao-lado-de-michelle-bolsonaro-e-bia-kicis.ghtml",
-      "hora": "Sun, 16 Aug 2026 14:56:32 -0000",
-      "tema": "brasil",
-      "resumo": "Celina Leão iniciou sua campanha de reeleição ao governo do Distrito Federal, acompanhada por Michelle Bolsonaro, Bia Kicis e Damares Alves."
-    },
-    {
-      "titulo": "Onça-parda com suspeita de ferimento por tiro é capturada às margens de rio no interior de SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/08/16/onca-parda-com-suspeita-de-ferimento-por-tiro-e-capturada-as-margens-de-rio-no-interior-de-sp.ghtml",
-      "hora": "Sun, 16 Aug 2026 14:55:45 -0000",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/16/regiao-de-piracicaba-comeca-semana-com-15-mil-vagas-de-emprego-abertas-saiba-como-se-candidatar.ghtml",
+      "hora": "Sun, 16 Aug 2026 21:00:10 -0000",
       "tema": "sp",
-      "resumo": "Uma onça-parda com suspeita de ferimento por arma de fogo foi capturada às margens do Rio Jaguari em Pirassununga (SP) após ser encontrada ferida em área de risco."
+      "resumo": "Cinco cidades da região de Piracicaba (SP) abrem 1.543 vagas de emprego na semana, oferecidas pelos serviços municipais de apoio ao trabalhador."
     },
     {
-      "titulo": "Renan Filho, candidato ao governo de Alagoas, declara R$ 1,7 milhão em bens ao TSE",
+      "titulo": "Após 6 anos, Câmara de Campinas analisa projeto que cria políticas de diversidade gênero; entenda",
       "fonte": "G1",
-      "link": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/16/renan-filho-candidato-ao-governo-de-alagoas-declara-r-17-milhao-em-bens-ao-tse.ghtml",
-      "hora": "Sun, 16 Aug 2026 14:55:11 -0000",
-      "tema": "brasil",
-      "resumo": "O candidato ao governo de Alagoas Renan Filho declarou R$ 1,78 milhão em bens ao TSE, valor 30,4% maior que o informado em sua última candidatura em 2022."
-    },
-    {
-      "titulo": "Incêndio de grandes proporções atinge empresa em Cordeirópolis",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/16/incendio-imovel-cordeiropolis.ghtml",
-      "hora": "Sun, 16 Aug 2026 14:52:44 -0000",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/16/apos-6-anos-camara-de-campinas-analisa-projeto-que-cria-politicas-de-diversidade-genero-entenda.ghtml",
+      "hora": "Sun, 16 Aug 2026 21:00:08 -0000",
       "tema": "sp",
-      "resumo": "Um incêndio de grandes proporções atingiu uma empresa em Cordeirópolis (SP) no domingo, mobilizando o Corpo de Bombeiros."
+      "resumo": "A Câmara de Campinas analisa projetos de proibição do uso de animais como brindes e criação de política municipal para diversidade sexual e de gênero."
+    },
+    {
+      "titulo": "Filho de Carla Perez e Xanddy abre álbum de fotos da preparação para cerimônia de casamento na Bahia: 'Grande dia'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/08/16/casamento-filho-de-carla-perez-e-xanddy.ghtml",
+      "hora": "Sun, 16 Aug 2026 20:51:18 -0000",
+      "tema": "entretenimento",
+      "resumo": "Victor Alexandre, filho de Carla Perez e Xanddy Harmonia, compartilha fotos dos preparativos para seu casamento realizado na Bahia."
+    },
+    {
+      "titulo": "Nuvem de fumaça preta chama atenção durante incêndio em depósito de recicláveis de Divinópolis; VÍDEO ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/08/16/nuvem-de-fumaca-preta-chama-atencao-durante-incendio-em-deposito-de-reciclaveis-de-divinopolis-video.ghtml",
+      "hora": "Sun, 16 Aug 2026 20:46:44 -0000",
+      "tema": "brasil",
+      "resumo": "Um incêndio em depósito de materiais recicláveis em Divinópolis (MG) gerou uma coluna de fumaça preta que chamou a atenção de moradores."
+    },
+    {
+      "titulo": "Mulheres representam 34,8% das candidaturas registradas para as eleições de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/16/mulheres-candidaturas-eleicoes-2026.ghtml",
+      "hora": "Sun, 16 Aug 2026 20:46:00 -0000",
+      "tema": "brasil",
+      "resumo": "Mulheres representam 34,8% das candidaturas registradas para as eleições de 2026, segundo dados do Tribunal Superior Eleitoral."
+    },
+    {
+      "titulo": "Dra. Natasha (PSD) inicia campanha ao Governo neste domingo (16)",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/08/16/dra-natasha-psd-inicia-campanha-ao-governo-neste-domingo-16.ghtml",
+      "hora": "Sun, 16 Aug 2026 20:43:57 -0000",
+      "tema": "brasil",
+      "resumo": "A candidata Dra. Natasha (PSD) iniciou sua campanha ao Governo de Mato Grosso em 2026, abordando o custo dos alimentos como tema principal."
+    },
+    {
+      "titulo": "Motorista morre após carro sair da pista e cair de ribanceira na BR-040, na Grande BH",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/08/16/motorista-morre-apos-carro-sair-da-pista-e-cair-de-ribanceira-na-br-040-na-grande-bh.ghtml",
+      "hora": "Sun, 16 Aug 2026 20:41:37 -0000",
+      "tema": "brasil",
+      "resumo": "Um motorista morreu após seu carro sair da pista e cair de uma ribanceira na BR-040, em Nova Lima, na região metropolitana de Belo Horizonte."
+    },
+    {
+      "titulo": "Crise de Ceuta: o dilema do que fazer com as crianças que chegaram sozinhas e que a Espanha não sabe a quem devolver",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/noticia/2026/08/16/crise-de-ceuta-o-dilema-do-que-fazer-com-as-criancas-que-chegaram-sozinhas-e-que-a-espanha-nao-sabe-a-quem-devolver.ghtml",
+      "hora": "Sun, 16 Aug 2026 20:38:21 -0000",
+      "tema": "mundo",
+      "resumo": "Ceuta enfrenta crise humanitária com centenas de crianças marroquinas nas ruas enquanto a Espanha busca solução para seu acolhimento."
+    },
+    {
+      "titulo": "Centenas de bateristas transformam Florianópolis em grande orquestra neste domingo",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/16/bateristas-florianopolis-grande-orquestra-musica.ghtml",
+      "hora": "Sun, 16 Aug 2026 20:34:28 -0000",
+      "tema": "cultura",
+      "resumo": "Aproximadamente 250 bateristas de diferentes gerações participaram da 13ª edição da Orquestra de Baterias de Florianópolis."
+    },
+    {
+      "titulo": "VÍDEO: caminhonetes batem após um dos motoristas tentar acessar vicinal em Pedrinhas Paulista",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/16/video-caminhonetes-batem-apos-um-dos-motoristas-tentar-acessar-vicinal-em-pedrinhas-paulista.ghtml",
+      "hora": "Sun, 16 Aug 2026 20:30:49 -0000",
+      "tema": "sp",
+      "resumo": "Câmeras de monitoramento registraram uma colisão entre duas caminhonetes próximo a um trevo de acesso em Pedrinhas Paulista (SP)."
+    },
+    {
+      "titulo": "Polícia acha 100 kg de cocaína com rastreadores em ‘casa-bomba’ no litoral de SP; VÍDEO",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/16/policia-acha-100-kg-de-cocaina-com-rastreadores-em-casa-bomba-no-litoral-de-sp-video.ghtml",
+      "hora": "Sun, 16 Aug 2026 20:30:09 -0000",
+      "tema": "sp",
+      "resumo": "A Polícia Civil apreendeu aproximadamente 100 kg de cocaína com rastreadores eletrônicos em uma casa usada por organização criminosa em Guarujá."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -61,7 +101,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "O festival Bike Brasil acontece no São Paulo Expo, reunindo ciclistas profissionais e amadores para competições de manobras e atividades para crianças."
+      "resumo": "Festival Bike Brasil reúne ciclistas profissionais e amadores na Zona Sul de São Paulo para competições e atividades ligadas ao universo das bicicletas."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -69,7 +109,15 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Um desempregado pedalou 20 km e aguardou 12 horas em fila em Bauru para concorrer a uma das 500 vagas de emprego oferecidas."
+      "resumo": "Desempregado percorre 20 km de bicicleta e passa 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru (SP)."
+    },
+    {
+      "titulo": "'Não foi uma fatalidade', diz viúva de homem morto em acidente no Beach Park",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2018/07/23/nao-foi-uma-fatalidade-diz-viuva-de-homem-morto-em-acidente-no-beach-park.ghtml",
+      "hora": "Mon, 23 Jul 2018 00:24:35 -0000",
+      "tema": "brasil",
+      "resumo": "Viúva de radialista morto em toboágua do Beach Park afirma que o acidente foi resultado de irresponsabilidade e não uma fatalidade."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -77,7 +125,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "cultura",
-      "resumo": "Zé Ramalho apresentou seus sucessos e canções de Raul Seixas na 39ª edição da Festa Junina de Sorocaba (SP)."
+      "resumo": "Zé Ramalho apresenta sucessos de sua carreira e homenagens a Raul Seixas na 39ª edição da Festa Junina de Sorocaba (SP)."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
@@ -85,7 +133,7 @@
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "A Polícia Rodoviária Federal apreendeu 927 quilos de maconha em Mato Grosso do Sul, que seria entregue em São Paulo."
+      "resumo": "A Polícia Rodoviária Federal apreendeu 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -93,15 +141,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí recebe a 3ª edição da Festa Junina Canina com entrada gratuita, oferecendo brincadeiras e atividades para cães e gatos."
+      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina com brincadeiras, pula-pula e atividades voltadas para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
-      "tema": "entretenimento",
-      "resumo": "O Maior Baile do Mundo, festival em São Paulo com Anitta e MCs, espera 35 mil pessoas para 10 horas de shows."
+      "tema": "cultura",
+      "resumo": "O Maior Baile do Mundo reúne 35 mil pessoas em São Paulo para 10 horas de shows com artistas como Anitta, destacando as músicas mais ouvidas na internet brasileira."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -109,7 +157,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializou a militante sindical Vera Lúcia como candidata à Presidência da República nas eleições."
+      "resumo": "O PSTU oficializa Vera Lúcia, militante sindical, como candidata à Presidência da República nas eleições de 2026."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -117,7 +165,15 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A 15ª edição da Feiccad, feira voltada para imóvel, construção, arquitetura e decoração, ocorre em Jundiaí com entrada gratuita."
+      "resumo": "A 15ª edição da Feiccad (Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração) é realizada em Jundiaí com entrada gratuita."
+    },
+    {
+      "titulo": "Caso Vitória: trio acusado de envolvimento no crime é transferido para Tremembé",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2018/07/20/caso-vitoria-trio-acusado-de-envolvimento-no-crime-e-transferido-para-tremembe.ghtml",
+      "hora": "Fri, 20 Jul 2018 18:44:51 -0000",
+      "tema": "sp",
+      "resumo": "Os três acusados pela morte da menina Vitória Gabrielly, de 12 anos, foram transferidos para presídios em Tremembé (SP)."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -125,7 +181,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diferentes cargos do Executivo municipal."
+      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos do Executivo, com prazo até 31 de julho."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -133,39 +189,23 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra família após 37 anos de separação, resultado de um boletim de ocorrência."
+      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência que permitiu o encontro."
     },
     {
-      "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
-      "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
-      "tema": "sp",
-      "resumo": "Motorista de 75 anos morre em acidente entre carro e caminhão em Capela do Alto, poucos dias antes de seu filho ser ordenado bispo."
-    },
-    {
-      "titulo": "'O planeta em que nascemos não existe mais': o climatologista que alerta para epidemia de eventos climáticos extremos, mas se mantém otimista",
+      "titulo": "Lula e Flávio Bolsonaro disputam as ruas no 1º dia da campanha; veja como foram os atos",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crk5rx4y3xvo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 16 Aug 2026 09:48:00 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/clyjj0ykp55o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 16 Aug 2026 16:49:16 GMT",
+      "tema": "brasil",
+      "resumo": "Lula e Flávio Bolsonaro abrem campanha presidencial em primeiro dia oficial, com atos em São Bernardo do Campo e Rio de Janeiro respectivamente."
+    },
+    {
+      "titulo": "Os casos de puberdade precoce que intrigam os médicos em todo o mundo (incluindo no Brasil)",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c935ee7g059o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 16 Aug 2026 21:02:10 GMT",
       "tema": "mundo",
-      "resumo": "Climatologista explica por que o hemisfério norte aquece mais rapidamente que o sul e discute a interação entre mudanças climáticas e El Niño, mantendo perspectiva esperançosa."
-    },
-    {
-      "titulo": "Quem são os candidatos à Presidência na Eleição 2026",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 16 Aug 2026 12:14:16 GMT",
-      "tema": "brasil",
-      "resumo": "Treze candidatos foram confirmados pelos partidos para a eleição presidencial de 2026, com Lula e Flávio Bolsonaro liderando as pesquisas."
-    },
-    {
-      "titulo": "Inelegível até 2032, Pablo Marçal é lançado como candidato à Presidência pelo PRTB",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c1511ney4w1o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 16 Aug 2026 02:31:45 GMT",
-      "tema": "brasil",
-      "resumo": "Pablo Marçal é lançado como candidato à Presidência pelo PRTB após decisão judicial liberar sua filiação, embora candidatura ainda aguarde aprovação do TSE."
+      "resumo": "Médicos em diversos países, incluindo Brasil, investigam casos de puberdade precoce em crianças, uma condição que afeta principalmente meninas e requer tratamento."
     },
     {
       "titulo": "Eles se apaixonaram e violaram a lei para ter certeza de que não eram irmãos",
@@ -173,7 +213,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c1m121p2vmdo?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 16 Aug 2026 10:18:53 GMT",
       "tema": "mundo",
-      "resumo": "Casal francês enfrenta desafio legal para confirmar se não são meios-irmãos, já que testes de DNA são proibidos na França mas ambos foram concebidos por doação de esperma."
+      "resumo": "Casal francês concebido por doação de esperma enfrenta dilema legal ao tentar confirmar se são ou não aparentados, em país onde testes de DNA para esse fim são proibidos."
+    },
+    {
+      "titulo": "Quem são os candidatos à Presidência na Eleição 2026",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 16 Aug 2026 12:14:16 GMT",
+      "tema": "brasil",
+      "resumo": "Após convenções partidárias, 13 candidatos foram confirmados para a eleição presidencial de 2026, com Lula e Flávio Bolsonaro liderando as pesquisas."
     },
     {
       "titulo": "De 'A Odisseia' a 'O Convite': os melhores filmes de 2026 até agora",
@@ -181,23 +229,31 @@
       "link": "https://www.bbc.com/portuguese/articles/clyv7l6y4gjo?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 16 Aug 2026 11:47:00 GMT",
       "tema": "cultura",
-      "resumo": "Críticos da BBC selecionam 12 destaques de filmes do primeiro semestre de 2026, incluindo títulos como 'A Odisseia' e 'O Convite'."
+      "resumo": "Críticos da BBC selecionam 12 filmes destaque do primeiro semestre de 2026, incluindo títulos como 'A Odisseia' e 'O Convite'."
     },
     {
-      "titulo": "O bunker da Guerra Fria transformado em apartamentos de luxo para 'sobreviver ao fim do mundo'",
+      "titulo": "'O planeta em que nascemos não existe mais': o climatologista que alerta para epidemia de eventos climáticos extremos, mas se mantém otimista",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c98vple0gp3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 15 Aug 2026 17:36:48 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/crk5rx4y3xvo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 16 Aug 2026 09:48:00 GMT",
       "tema": "mundo",
-      "resumo": "Antigo abrigo nuclear governamental canadense na Nova Escócia será convertido em refúgio de luxo para sobrevivência, o primeiro em grande escala no país."
+      "resumo": "Climatologista explica por que o hemisfério norte aquece mais rapidamente e discute o impacto combinado das mudanças climáticas com El Niño, sem deixar de apontar motivos para otimismo."
     },
     {
-      "titulo": "Como a Rússia confisca casas na Ucrânia ocupada: 'Não temos para onde voltar'",
+      "titulo": "Inelegível até 2032, Pablo Marçal é lançado como candidato à Presidência pelo PRTB",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/resources/idt-f153d864-33b6-4ffa-823a-bf085f8ec5e1?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 15 Aug 2026 00:00:00 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c1511ney4w1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 16 Aug 2026 02:31:45 GMT",
+      "tema": "brasil",
+      "resumo": "Pablo Marçal é lançado como candidato presidencial pelo PRTB após decisão judicial liberar sua filiação, embora candidatura ainda necessite aprovação da Justiça Eleitoral."
+    },
+    {
+      "titulo": "O que fazer com as crianças que chegaram sozinhas a Ceuta — e que a Espanha não sabe a quem devolver",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c3ek2y02y0po?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 16 Aug 2026 18:46:04 GMT",
       "tema": "mundo",
-      "resumo": "Autoridades russas confiscam casas em territórios ucranianos ocupados classificando-as como abandonadas e as transferindo a novos proprietários, deixando moradores desabrigados."
+      "resumo": "Centenas de menores desacompanhados perambulam pelas ruas de Ceuta após entrada massiva de migrantes, deixando as autoridades espanholas sem clareza sobre para onde devolvê-los."
     },
     {
       "titulo": "Pesquisa para presidente mostra Lula e Flávio estáveis e pouca força de outros candidatos; veja no agregador da BBC News Brasil",
@@ -205,39 +261,7 @@
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 15 Aug 2026 09:07:27 GMT",
       "tema": "brasil",
-      "resumo": "Pesquisa de intenção de voto para 2026 mostra Lula e Flávio Bolsonaro com estabilidade nas preferências, enquanto outros candidatos apresentam pouca força eleitoral."
-    },
-    {
-      "titulo": "O passado da Vila Euclides, lugar escolhido por Lula e pelo PT para lançar campanha neste domingo",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3302x6gm5yo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 15 Aug 2026 09:36:53 GMT",
-      "tema": "brasil",
-      "resumo": "PT realiza comício de lançamento de campanha em São Bernardo do Campo, local histórico das mobilizações trabalhistas lideradas por Lula, como teste de apoio em campanha acirrada."
-    },
-    {
-      "titulo": "Guia do eleitor: tudo o que você precisa saber sobre as eleições de 2026",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c75gxk1vlnqo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 16 Aug 2026 12:22:45 GMT",
-      "tema": "brasil",
-      "resumo": "O primeiro turno das eleições presidenciais de 2026 ocorrerá em 4 de outubro, com candidatos participando de debates e campanha intensiva até a data."
-    },
-    {
-      "titulo": "Terremoto de magnitude 7,7 mata ao menos 51 pessoas e deixa 5 mil desabrigados na Indonésia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cpq88dz14epo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 16 Aug 2026 09:54:50 GMT",
-      "tema": "mundo",
-      "resumo": "Terremoto de magnitude 7,7 na Indonésia causa pelo menos 51 mortes e deixa 5 mil desabrigados na Ilha das Flores, com operações de busca em andamento."
-    },
-    {
-      "titulo": "Como a Austrália, conhecida por sua fauna exuberante, tornou-se o epicentro das extinções no planeta",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c9d8ndz4ezpo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 15 Aug 2026 11:49:21 GMT",
-      "tema": "mundo",
-      "resumo": "Austrália tornou-se epicentro de extinções planetárias com 67 espécies oficialmente extintas e estimativas de pesquisadores apontando pelo menos cem desaparecimentos totais."
+      "resumo": "Pesquisas eleitorais mostram Lula e Flávio Bolsonaro com intenções de voto estáveis para 2026, enquanto outros candidatos apresentam pouca força."
     },
     {
       "titulo": "Câmeras digitais e fones com fio estão de volta. Mas por quê?",
@@ -245,7 +269,39 @@
       "link": "https://www.bbc.com/portuguese/articles/cp8edx0yy44o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 15 Aug 2026 21:14:11 GMT",
       "tema": "cultura",
-      "resumo": "Câmeras digitais e fones com fio retornam à popularidade entre jovens em 2026, sinalizando tendência de volta a tecnologias analógicas e retrô."
+      "resumo": "Tecnologias analógicas como câmeras digitais e fones com fio ganham popularidade entre jovens em 2026, desafiando a tendência de inovação contínua."
+    },
+    {
+      "titulo": "O que está levando cada vez mais homens a fazer preenchimento no pênis, apesar dos riscos",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c171188yxjvo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 16 Aug 2026 13:58:20 GMT",
+      "tema": "mundo",
+      "resumo": "Procedimentos de preenchimento peniano ganham adeptos apesar de riscos significativos, com possibilidade de aumento de 10 a 20% na circunferência e potenciais complicações graves."
+    },
+    {
+      "titulo": "O bunker da Guerra Fria transformado em apartamentos de luxo para 'sobreviver ao fim do mundo'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c98vple0gp3o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 15 Aug 2026 17:36:48 GMT",
+      "tema": "mundo",
+      "resumo": "Um antigo abrigo nuclear canadense da Guerra Fria será convertido em complexo de apartamentos de luxo como refúgio de sobrevivência na Nova Escócia."
+    },
+    {
+      "titulo": "O passado da Vila Euclides, lugar escolhido por Lula e pelo PT para lançar campanha neste domingo",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c3302x6gm5yo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 15 Aug 2026 09:36:53 GMT",
+      "tema": "brasil",
+      "resumo": "PT escolhe Vila Euclides em São Bernardo do Campo para lançar campanha presidencial, local histórico onde Lula liderou a Grande Greve do ABC."
+    },
+    {
+      "titulo": "Ele contou ao ChatGPT que queria matar o filho e foi preso — conversas com IA podem ser prova de crime no Brasil?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c8dn1l7vr6ro?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 14 Aug 2026 08:51:48 GMT",
+      "tema": "checagem",
+      "resumo": "Investigação criminal no Brasil utiliza conversas com ChatGPT como evidência, levantando questões sobre validade legal e importância de analisar contexto completo de diálogos com inteligência artificial."
     }
   ]
 }
