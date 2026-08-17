@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-17T15:23:32.377Z",
+  "gerado_em": "2026-08-17T21:23:53.768Z",
   "modo": "ia",
   "clima": {
     "max": 28.6,
@@ -8,60 +8,52 @@
   },
   "noticias": [
     {
-      "titulo": "Vale abre inscrições para estágio técnico com cerca de 20 vagas em São Luís e Açailândia",
+      "titulo": "Veículo furtado em Piraí é recuperado após alerta de sistema de leitura de placas em Volta Redonda",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/08/17/vale-abre-inscricoes-para-estagio-tecnico-com-cerca-de-20-vagas-em-sao-luis-e-acailandia.ghtml",
-      "hora": "Mon, 17 Aug 2026 15:17:33 -0000",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/17/veiculo-furtado-em-pirai-e-recuperado-apos-alerta-de-sistema-de-leitura-de-placas-em-volta-redonda.ghtml",
+      "hora": "Mon, 17 Aug 2026 21:14:12 -0000",
       "tema": "brasil",
-      "resumo": "A Vale abriu inscrições para seu Programa de Estágio Técnico 2026, oferecendo cerca de 20 vagas para estudantes de cursos técnicos em São Luís e Açailândia, no Maranhão."
+      "resumo": "Sistema de leitura de placas auxiliou na recuperação de um veículo com registro de furto em Volta Redonda, Rio de Janeiro."
     },
     {
-      "titulo": "CrediSIS confirma presença no 16º Concred maior evento do cooperativismo do mundo",
+      "titulo": "Guarujá terá interdições em avenidas por obras até 31 de agosto; veja mudanças no trânsito",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ro/rondonia/especial-publicitario/credisis/credisis-nos-somos-cooperativa/noticia/2026/08/17/credisis-confirma-presenca-no-16o-concred-maior-evento-do-cooperativismo-do-mundo.ghtml",
-      "hora": "Mon, 17 Aug 2026 15:15:36 -0000",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/17/guaruja-tera-interdicoes-em-avenidas-por-obras-ate-31-de-agosto-veja-mudancas-no-transito.ghtml",
+      "hora": "Mon, 17 Aug 2026 21:13:30 -0000",
+      "tema": "sp",
+      "resumo": "Guarujá divulga alterações no trânsito entre 17 de agosto e 31 de agosto devido a obras em diferentes vias da cidade."
+    },
+    {
+      "titulo": "Losartana: Campinas compra 20,4 milhões de comprimidos para pressão alta após atraso de fornecedor",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/17/losartana-campinas-compra-204-milhoes-de-comprimidos-para-pressao-alta-apos-atraso-de-fornecedor.ghtml",
+      "hora": "Mon, 17 Aug 2026 21:11:03 -0000",
+      "tema": "sp",
+      "resumo": "Campinas autoriza compra emergencial de 20,4 milhões de comprimidos de losartana após atraso na entrega do medicamento usado no tratamento da pressão alta."
+    },
+    {
+      "titulo": "Vacas são encontradas mortas em fazenda e dono suspeita de envenenamento em MG",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/17/vacas-sao-encontradas-mortas-em-fazenda-e-dono-suspeita-de-envenenamento-em-mg.ghtml",
+      "hora": "Mon, 17 Aug 2026 21:09:08 -0000",
       "tema": "brasil",
-      "resumo": "O Sistema CrediSIS participará do 16º Congresso Brasileiro do Cooperativismo de Crédito, que discutirá inovação, sustentabilidade e desafios do setor."
+      "resumo": "Cinco vacas são encontradas mortas em propriedade rural em Minas Gerais; proprietário suspeita de envenenamento."
     },
     {
-      "titulo": "Quaest: para 60% dos eleitores, partido do candidato influencia escolha de voto para presidente",
+      "titulo": "Concerto Travessias promove encontro cultural entre Brasil e China na Uefs",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/17/quaest-pergunta-se-partido-influencia-voto-presidente.ghtml",
-      "hora": "Mon, 17 Aug 2026 15:15:03 -0000",
-      "tema": "brasil",
-      "resumo": "Pesquisa Quaest revela que 60% dos eleitores consideram o partido do candidato ao escolher seu voto para presidente, sendo 38% muito influenciados e 22% pouco influenciados."
-    },
-    {
-      "titulo": "Blogueirinha, personagem do ator e influenciador Bruno Matos, terá programa ao vivo no Multishow ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2026/08/17/blogueirinha-personagem-do-ator-e-influenciador-bruno-matos-tera-programa-ao-vivo-no-multishow.ghtml",
-      "hora": "Mon, 17 Aug 2026 15:14:19 -0000",
-      "tema": "entretenimento",
-      "resumo": "A Blogueirinha, personagem do ator e influenciador Bruno Matos, terá um novo programa ao vivo no Multishow e Globoplay com convidados especiais."
-    },
-    {
-      "titulo": "Quem é o 'Rei do Lixo', empresário baiano indiciado por desvios de emendas parlamentares",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/08/17/quem-e-o-rei-do-lixo.ghtml",
-      "hora": "Mon, 17 Aug 2026 15:12:01 -0000",
-      "tema": "brasil",
-      "resumo": "O empresário baiano José Marcos Moura, conhecido como 'Rei do Lixo', foi indiciado pela Polícia Federal suspeito de integrar um esquema de desvio de emendas parlamentares e fraudes em licitações."
-    },
-    {
-      "titulo": "Dona do TikTok assina acordo sobre direitos autorais de IA com grupo de Hollywood",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/08/17/dona-do-tiktok-assina-acordo-sobre-direitos-autorais-de-ia-com-grupo-de-hollywood.ghtml",
-      "hora": "Mon, 17 Aug 2026 15:11:44 -0000",
-      "tema": "mundo",
-      "resumo": "ByteDance, dona do TikTok, assinou um acordo sobre direitos autorais de inteligência artificial com a Motion Picture Association, entidade que representa grandes estúdios de Hollywood."
-    },
-    {
-      "titulo": "System of a Down anuncia show único no Brasil em 2027 ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/musica/noticia/2026/08/17/system-of-a-down-anuncia-show-unico-no-brasil-em-2027.ghtml",
-      "hora": "Mon, 17 Aug 2026 15:09:57 -0000",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/17/evento-cultural-na-bahia.ghtml",
+      "hora": "Mon, 17 Aug 2026 21:06:50 -0000",
       "tema": "cultura",
-      "resumo": "A banda System of a Down anunciou um show único no Brasil em 15 de janeiro de 2027 no Maracanã, com participação especial de Faith No More."
+      "resumo": "Concerto gratuito aberto ao público na Universidade Estadual de Feira de Santana propõe encontro cultural entre Brasil e China."
+    },
+    {
+      "titulo": "Grupo Casas Bahia fecha duas lojas em Juiz de Fora; empresa pede recuperação judicial ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/08/17/grupo-casas-bahia-fecha-duas-lojas-em-juiz-de-fora-empresa-pede-recuperacao-judicial.ghtml",
+      "hora": "Mon, 17 Aug 2026 21:06:35 -0000",
+      "tema": "brasil",
+      "resumo": "Grupo Casas Bahia fecha duas lojas em Juiz de Fora em contexto de crise financeira que levou a empresa a pedir recuperação judicial."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -69,7 +61,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "O evento Bike Brasil acontece neste domingo na Zona Sul de São Paulo, reunindo ciclistas profissionais e amadores para competições de manobras radicais e atividades diversas."
+      "resumo": "Festival de bicicletas na Zona Sul de São Paulo reúne ciclistas profissionais e amadores com competições de manobras e atividades para crianças."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -77,7 +69,7 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Um desempregado de Agudos pedalou 20 km até Bauru e passou 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas no interior de São Paulo."
+      "resumo": "Desempregado percorre 20 km de bicicleta para participar de seleção com 500 vagas oferecidas em Bauru."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -85,7 +77,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "cultura",
-      "resumo": "O cantor Zé Ramalho apresentou sucessos de sua carreira e músicas de Raul Seixas na 39ª edição da Festa Junina de Sorocaba em São Paulo."
+      "resumo": "Cantor Zé Ramalho apresenta sucessos e homenageia Raul Seixas na Festa Junina de Sorocaba."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
@@ -93,7 +85,7 @@
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "A Polícia Rodoviária Federal apreendeu 927 quilos de maconha em uma carreta em Mato Grosso do Sul que seria entregue em São Paulo; o motorista confessou o tráfico."
+      "resumo": "Polícia Rodoviária Federal apreende 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -101,7 +93,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina neste sábado com entrada gratuita, trazendo brincadeiras e atividades para cães e gatos."
+      "resumo": "Jundiaí realiza terceira edição da Festa Junina Canina com entrada gratuita e atividades para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -109,7 +101,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "O Maior Baile do Mundo, festival em São Paulo neste domingo, espera reunir 35 mil pessoas com 10 horas de shows, incluindo apresentação de Anitta e outros MCs."
+      "resumo": "Festival de música com Anitta e MCs é realizado em São Paulo com expectativa de reunir 35 mil pessoas para dez horas de apresentações."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -117,7 +109,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializou a militante sindical Vera Lúcia como candidata à Presidência da República nas eleições."
+      "resumo": "Partido Socialista dos Trabalhadores Unificado oficializa candidatura de Vera Lúcia à Presidência da República."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -125,7 +117,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A 15ª edição da Feiccad, feira sobre construção civil, imóveis e decoração, ocorre em Jundiaí até domingo com entrada gratuita."
+      "resumo": "Fifteenth edition da Feira do Imóvel e Construção em Jundiaí reúne expositores de arquitetura, decoração e condomínios até domingo com entrada gratuita."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -133,7 +125,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos do Executivo, com prazo até 31 de julho e provas aplicadas na cidade."
+      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diferentes funções até 31 de julho, com provas na própria cidade."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -141,7 +133,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência que permitiu o rastreamento."
+      "resumo": "Homem em situação de rua em Campinas reencontra a família após 37 anos de separação, possibilitado por um boletim de ocorrência relacionado a um roubo."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -149,7 +141,15 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Motorista de 75 anos morre em acidente de trânsito dias antes de seu filho, monsenhor de Itapetininga, ser ordenado bispo."
+      "resumo": "Motorista de 75 anos falece em acidente de trânsito dias antes de seu filho ser ordenado bispo em Itapetininga."
+    },
+    {
+      "titulo": "Eleição 2026: quais são as propostas dos candidatos?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm2gryker9mo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 17 Aug 2026 18:38:50 GMT",
+      "tema": "brasil",
+      "resumo": "BBC Brasil apresenta especial interativo com as propostas dos candidatos à eleição de 2026 em oito áreas temáticas."
     },
     {
       "titulo": "Como a vida em El Salvador mudou nos 4 anos de regime de exceção de Bukele: 'O medo agora é outro'",
@@ -157,23 +157,39 @@
       "link": "https://www.bbc.com/portuguese/articles/ckg3k56mdydo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 17 Aug 2026 08:55:42 GMT",
       "tema": "mundo",
-      "resumo": "Documentário da BBC retrata os efeitos dos quatro anos de regime de exceção em El Salvador, mostrando como a população convive entre alívio pelo fim do domínio de facções e receios quanto à concentração de poder."
+      "resumo": "Documentário da BBC retrata como o regime de exceção implementado por Nayib Bukele transformou a vida cotidiana em El Salvador nos últimos quatro anos."
     },
     {
-      "titulo": "A vida de sucesso de Hayden Panettiere nas telas e a dificuldade da atriz para lidar com a fama",
+      "titulo": "'Mergulhei no meu próprio inferno': a vida difícil da atriz Hayden Panettiere enquanto fazia sucesso na televisão",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cn4nky282r8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 17 Aug 2026 14:16:53 GMT",
+      "hora": "Mon, 17 Aug 2026 15:48:21 GMT",
       "tema": "cultura",
-      "resumo": "Análise da trajetória profissional da atriz Hayden Panettiere, conhecida por 'Heroes' e 'Nashville', que enfrentou desafios pessoais decorrentes da exposição na indústria do entretenimento."
+      "resumo": "Atriz Hayden Panettiere, conhecida por 'Heroes' e 'Nashville', faleceu aos 36 anos; seu livro de memórias recentemente publicado documenta as dificuldades de sua carreira precoce."
     },
     {
-      "titulo": "EUA consideram novas sanções contra Alexandre de Moraes, diz jornal britânico",
+      "titulo": "Os influencers que arriscam a vida para ter uma foto perfeita com tubarões",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cy5dzl6e09ko?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 17 Aug 2026 10:05:52 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c2044jvvqlgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 17 Aug 2026 19:08:54 GMT",
+      "tema": "mundo",
+      "resumo": "Influenciadora brasileira Tayane Dalazen sofreu ataque de tubarão durante expedição de mergulho, exemplificando riscos que alguns criadores de conteúdo assumem por fotos."
+    },
+    {
+      "titulo": "Os melhores países para estrangeiros morarem em 2026 (o Brasil está na lista)",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c86nxjqg2x8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 17 Aug 2026 20:05:57 GMT",
+      "tema": "mundo",
+      "resumo": "Pesquisa aponta os melhores países para estrangeiros morarem em 2026, com Brasil incluído na lista; relatos de imigrantes explicam suas escolhas."
+    },
+    {
+      "titulo": "'Proibir redes sociais para jovens não será solução mágica', diz psicóloga canadense",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cn0nkrdgnx2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 17 Aug 2026 15:56:45 GMT",
       "tema": "brasil",
-      "resumo": "Segundo reportagem britânica, o governo dos EUA discute imposição de novas sanções contra o ministro do STF Alexandre de Moraes."
+      "resumo": "Psicóloga canadense especializada em saúde mental de crianças e adolescentes afirma que proibições de redes sociais não têm bases científicas e não serão efetivas."
     },
     {
       "titulo": "A cidade da Colômbia que foi devastada por terremoto de 1999, mas resistiu ao tremor mais recente",
@@ -181,31 +197,31 @@
       "link": "https://www.bbc.com/portuguese/articles/c74gkexl1kko?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 17 Aug 2026 15:18:42 GMT",
       "tema": "mundo",
-      "resumo": "Cidade colombiana que foi destruída por terremoto em 1999 enfrenta novo tremor, mas dessa vez com estruturas reforçadas que resistem melhor aos abalos sísmicos."
+      "resumo": "Cidade colombiana que foi devastada por terremoto em 1999 enfrenta novo tremor recente, mas desta vez com resultados significativamente diferentes."
     },
     {
-      "titulo": "Por que julgamento da Meta pode mudar o futuro do Facebook e do Instagram",
+      "titulo": "Hayden Panettiere: o que se sabe sobre a morte da atriz de 'Heroes' aos 36 anos",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c36dlprdk8go?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 17 Aug 2026 10:49:21 GMT",
-      "tema": "mundo",
-      "resumo": "Ações judiciais de estados americanos contra a Meta buscam forçar reformulações nas plataformas Facebook e Instagram para melhor proteger usuários jovens."
+      "link": "https://www.bbc.com/portuguese/articles/ckg3vnmrx7mo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 17 Aug 2026 18:26:28 GMT",
+      "tema": "cultura",
+      "resumo": "Atriz americana Hayden Panettiere, conhecida por 'Heroes', morre aos 36 anos; polícia descarta circunstâncias suspeitas."
     },
     {
-      "titulo": "Se Pablo Marçal está inelegível por 8 anos, por que foi anunciado como candidato à Presidência?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5ywwwy4qx4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 17 Aug 2026 07:57:31 GMT",
-      "tema": "brasil",
-      "resumo": "Especialistas apontam que Pablo Marçal, declarado inelegível por oito anos, não deveria ter sido anunciado como candidato à Presidência, pois as restrições legais são claras."
-    },
-    {
-      "titulo": "Lula e Flávio Bolsonaro disputam as ruas no 1º dia da campanha; veja como foram os atos",
+      "titulo": "Lula e Flávio Bolsonaro disputam as ruas no 1º dia da campanha presidencial; veja como foram os atos",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/clyjj0ykp55o?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 16 Aug 2026 16:49:16 GMT",
       "tema": "brasil",
-      "resumo": "Campanha para eleição presidencial de 2026 é inaugurada com atos de Lula em São Bernardo do Campo e de Flávio Bolsonaro no Rio de Janeiro."
+      "resumo": "Lula e Flávio Bolsonaro iniciaram campanha para eleição presidencial de 2026 com atos em cidades diferentes, Lula em São Bernardo do Campo e Bolsonaro no Rio de Janeiro."
+    },
+    {
+      "titulo": "Turquia, Arábia Saudita e Paquistão poderão formar uma 'Otan muçulmana'?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cg7mkr5nr28o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 17 Aug 2026 18:01:04 GMT",
+      "tema": "mundo",
+      "resumo": "Turquia, Arábia Saudita e Paquistão negociam pacto de defesa sendo denominado 'Otan muçulmana'; análise examina seu funcionamento prático."
     },
     {
       "titulo": "O que fazer com as crianças que chegaram sozinhas a Ceuta — e que a Espanha não sabe a quem devolver",
@@ -213,7 +229,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c3ek2y02y0po?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 16 Aug 2026 18:46:04 GMT",
       "tema": "mundo",
-      "resumo": "Após entrada massiva de migrantes em Ceuta, cidade espanhola no norte da África enfrenta desafio humanitário com centenas de menores desacompanhados e sem clareza sobre para onde devem ser devolvidos."
+      "resumo": "Espanha enfrenta desafio de abrigar centenas de menores desacompanhados que chegaram em Ceuta após entrada massiva de estrangeiros na cidade."
     },
     {
       "titulo": "Os casos de puberdade precoce que intrigam os médicos em todo o mundo (incluindo no Brasil)",
@@ -221,31 +237,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c935ee7g059o?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 16 Aug 2026 21:02:10 GMT",
       "tema": "brasil",
-      "resumo": "Casos de puberdade precoce intrigam médicos em todo o mundo, incluindo no Brasil; a condição, que afeta principalmente meninas, requer tratamento para evitar complicações de saúde no futuro."
-    },
-    {
-      "titulo": "De 'A Odisseia' a 'O Convite': os melhores filmes de 2026 até agora",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/clyv7l6y4gjo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 16 Aug 2026 11:47:00 GMT",
-      "tema": "cultura",
-      "resumo": "Críticos da BBC selecionam doze destaques cinematográficos do primeiro semestre de 2026, incluindo obras de referência clássica e contemporânea."
-    },
-    {
-      "titulo": "A onda de protestos que conseguiu barrar a primeira fazenda de polvos do mundo",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/clyjj8v218eo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 17 Aug 2026 01:09:00 GMT",
-      "tema": "mundo",
-      "resumo": "Protestos internacionais conseguem barrar os planos para a primeira fazenda de polvos do mundo, enquanto vários países e estados americanos proíbem a criação da espécie."
-    },
-    {
-      "titulo": "'O planeta em que nascemos não existe mais': o climatologista que alerta para epidemia de eventos climáticos extremos, mas se mantém otimista",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crk5rx4y3xvo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 16 Aug 2026 09:48:00 GMT",
-      "tema": "mundo",
-      "resumo": "Climatologista analisa por que o hemisfério norte aquece quase duas vezes mais rápido que o sul e discute perspectivas futuras de eventos climáticos extremos, mantendo visão otimista sobre possibilidades de ação."
+      "resumo": "Médicos relatam casos intrigantes de puberdade precoce em crianças no Brasil e mundialmente, condição que afeta majoritariamente meninas e requer tratamento adequado."
     }
   ]
 }
