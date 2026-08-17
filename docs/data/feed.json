@@ -1,99 +1,67 @@
 {
-  "gerado_em": "2026-08-17T10:30:13.272Z",
+  "gerado_em": "2026-08-17T15:23:32.377Z",
   "modo": "ia",
   "clima": {
-    "max": 28.8,
+    "max": 28.6,
     "min": 14.9,
     "chuva": 0
   },
   "noticias": [
     {
-      "titulo": "Competição desafia garçons em circuito com obstáculos no interior de SP: 'É uma homenagem', diz organizador",
+      "titulo": "Vale abre inscrições para estágio técnico com cerca de 20 vagas em São Luís e Açailândia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/08/17/competicao-desafia-garcons-em-circuito-com-obstaculos-no-interior-de-sp-e-uma-homenagem-diz-organizador.ghtml",
-      "hora": "Mon, 17 Aug 2026 10:25:31 -0000",
-      "tema": "sp",
-      "resumo": "Competição em Avaré (SP) desafia garçons a percorrer circuitos com obstáculos, testando habilidades como equilíbrio, agilidade e concentração necessárias à profissão."
-    },
-    {
-      "titulo": "Eleições 2026: veja a agenda dos candidatos ao Governo do Maranhão nesta segunda-feira (17)",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/08/17/eleicoes-2026-veja-a-agenda-dos-candidatos-ao-governo-do-maranhao-nesta-segunda-feira-17.ghtml",
-      "hora": "Mon, 17 Aug 2026 10:25:30 -0000",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/08/17/vale-abre-inscricoes-para-estagio-tecnico-com-cerca-de-20-vagas-em-sao-luis-e-acailandia.ghtml",
+      "hora": "Mon, 17 Aug 2026 15:17:33 -0000",
       "tema": "brasil",
-      "resumo": "Oito candidatos iniciaram agendas de campanha para o governo do Maranhão nas eleições de 2026."
+      "resumo": "A Vale abriu inscrições para seu Programa de Estágio Técnico 2026, oferecendo cerca de 20 vagas para estudantes de cursos técnicos em São Luís e Açailândia, no Maranhão."
     },
     {
-      "titulo": "FOTOS: mais de 400 amostras de fósseis de dinossauros, moluscos e mamíferos são achadas no interior de SP",
+      "titulo": "CrediSIS confirma presença no 16º Concred maior evento do cooperativismo do mundo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/08/17/fotos-mais-de-400-amostras-de-fosseis-de-dinossauros-moluscos-e-mamiferos-sao-achadas-no-interior-de-sp.ghtml",
-      "hora": "Mon, 17 Aug 2026 10:24:21 -0000",
-      "tema": "sp",
-      "resumo": "Expedição paleontológica na região de Presidente Prudente recuperou mais de 400 fósseis de dinossauros, moluscos e mamíferos em sítios do interior paulista."
-    },
-    {
-      "titulo": "Com 271 kg, homem faz campanha para pagar hospital e fazer cirurgia bariátrica",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/08/17/com-271-kg-homem-faz-campanha-para-pagar-hospital-e-fazer-cirurgia-bariatrica.ghtml",
-      "hora": "Mon, 17 Aug 2026 10:22:43 -0000",
-      "tema": "sp",
-      "resumo": "Homem de 42 anos com obesidade severa faz campanha online para arrecadar recursos e realizar cirurgia bariátrica e custeio hospitalar."
-    },
-    {
-      "titulo": "Paraíba tem mais de 1,7 mil vagas de emprego oferecidas pelos Sines",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/08/17/paraiba-tem-mais-de-17-mil-vagas-de-emprego-oferecidas-pelos-sines.ghtml",
-      "hora": "Mon, 17 Aug 2026 10:19:43 -0000",
+      "link": "https://g1.globo.com/ro/rondonia/especial-publicitario/credisis/credisis-nos-somos-cooperativa/noticia/2026/08/17/credisis-confirma-presenca-no-16o-concred-maior-evento-do-cooperativismo-do-mundo.ghtml",
+      "hora": "Mon, 17 Aug 2026 15:15:36 -0000",
       "tema": "brasil",
-      "resumo": "Sistema Nacional de Empregos oferece 1.780 vagas de emprego na Paraíba, distribuídas entre João Pessoa e outras localidades do estado."
+      "resumo": "O Sistema CrediSIS participará do 16º Congresso Brasileiro do Cooperativismo de Crédito, que discutirá inovação, sustentabilidade e desafios do setor."
     },
     {
-      "titulo": "Afeto e superação: idoso de 80 anos conquista título de 'Mais longevo com síndrome de Down' do país",
+      "titulo": "Quaest: para 60% dos eleitores, partido do candidato influencia escolha de voto para presidente",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/17/afeto-e-superacao-idoso-de-80-anos-conquista-titulo-de-mais-longevo-com-sindrome-de-down-do-pais.ghtml",
-      "hora": "Mon, 17 Aug 2026 10:19:35 -0000",
-      "tema": "sp",
-      "resumo": "Idoso de 80 anos, morador de São Manuel (SP), recebe título de pessoa mais longeva com síndrome de Down do Brasil, superando expectativa de vida média nacional."
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/17/quaest-pergunta-se-partido-influencia-voto-presidente.ghtml",
+      "hora": "Mon, 17 Aug 2026 15:15:03 -0000",
+      "tema": "brasil",
+      "resumo": "Pesquisa Quaest revela que 60% dos eleitores consideram o partido do candidato ao escolher seu voto para presidente, sendo 38% muito influenciados e 22% pouco influenciados."
     },
     {
-      "titulo": "Prefeitura de SP abre inscrições para programas gratuitos de empreendedorismo, finanças e audiovisual; veja como participar",
+      "titulo": "Blogueirinha, personagem do ator e influenciador Bruno Matos, terá programa ao vivo no Multishow ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/17/prefeitura-de-sp-abre-inscricoes-para-programas-gratuitos-de-empreendedorismo-financas-e-audiovisual-veja-como-participar.ghtml",
-      "hora": "Mon, 17 Aug 2026 10:17:19 -0000",
-      "tema": "sp",
-      "resumo": "Prefeitura de São Paulo abre inscrições em programas gratuitos de empreendedorismo, educação financeira e audiovisual para qualificação profissional e geração de renda."
+      "link": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2026/08/17/blogueirinha-personagem-do-ator-e-influenciador-bruno-matos-tera-programa-ao-vivo-no-multishow.ghtml",
+      "hora": "Mon, 17 Aug 2026 15:14:19 -0000",
+      "tema": "entretenimento",
+      "resumo": "A Blogueirinha, personagem do ator e influenciador Bruno Matos, terá um novo programa ao vivo no Multishow e Globoplay com convidados especiais."
     },
     {
-      "titulo": "10ª FliPassos começa nesta segunda com show de Ana Cañas e homenagem a chargistas; confira a programação",
+      "titulo": "Quem é o 'Rei do Lixo', empresário baiano indiciado por desvios de emendas parlamentares",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/08/17/10a-flipassos-programacao.ghtml",
-      "hora": "Mon, 17 Aug 2026 10:16:18 -0000",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/08/17/quem-e-o-rei-do-lixo.ghtml",
+      "hora": "Mon, 17 Aug 2026 15:12:01 -0000",
+      "tema": "brasil",
+      "resumo": "O empresário baiano José Marcos Moura, conhecido como 'Rei do Lixo', foi indiciado pela Polícia Federal suspeito de integrar um esquema de desvio de emendas parlamentares e fraudes em licitações."
+    },
+    {
+      "titulo": "Dona do TikTok assina acordo sobre direitos autorais de IA com grupo de Hollywood",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/08/17/dona-do-tiktok-assina-acordo-sobre-direitos-autorais-de-ia-com-grupo-de-hollywood.ghtml",
+      "hora": "Mon, 17 Aug 2026 15:11:44 -0000",
+      "tema": "mundo",
+      "resumo": "ByteDance, dona do TikTok, assinou um acordo sobre direitos autorais de inteligência artificial com a Motion Picture Association, entidade que representa grandes estúdios de Hollywood."
+    },
+    {
+      "titulo": "System of a Down anuncia show único no Brasil em 2027 ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pop-arte/musica/noticia/2026/08/17/system-of-a-down-anuncia-show-unico-no-brasil-em-2027.ghtml",
+      "hora": "Mon, 17 Aug 2026 15:09:57 -0000",
       "tema": "cultura",
-      "resumo": "Décima edição da Feira Literária de Passos (MG) começa com programação gratuita incluindo apresentação de Ana Cañas e homenagem a chargistas."
-    },
-    {
-      "titulo": "Casas Bahia entra com pedido de recuperação judicial",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/17/casas-bahia-entra-com-pedido-de-recuperacao-judicial.ghtml",
-      "hora": "Mon, 17 Aug 2026 10:15:09 -0000",
-      "tema": "brasil",
-      "resumo": "Casas Bahia protocolou pedido de recuperação judicial, citando deterioração do contexto econômico, junto ao tribunal de falências de São Paulo."
-    },
-    {
-      "titulo": "Mãe reencontra bebê sequestrada no MS após sete dias de angústia: ‘Estou muito feliz’",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/fantastico/noticia/2026/08/17/mae-reencontra-bebe-sequestrada-no-ms-apos-sete-dias-de-angustia-muito-feliz-entenda-o-caso.ghtml",
-      "hora": "Mon, 17 Aug 2026 10:14:14 -0000",
-      "tema": "brasil",
-      "resumo": "Mãe de Mato Grosso do Sul reencontra bebê sequestrada após sete dias; mulher foi presa por ter atraído adolescente para armadilha com promessa de doação."
-    },
-    {
-      "titulo": "PF mira esquema de fraude na emissão de CPFs e cumpre mandados na Cidade de Deus com blindados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/17/pf-deflagra-operacao-malebolge.ghtml",
-      "hora": "Mon, 17 Aug 2026 10:05:09 -0000",
-      "tema": "brasil",
-      "resumo": "Polícia Federal lança operação contra esquema de fraudes na emissão de CPFs, cumprindo mandados de busca e apreensão em endereços incluindo a Cidade de Deus."
+      "resumo": "A banda System of a Down anunciou um show único no Brasil em 15 de janeiro de 2027 no Maracanã, com participação especial de Faith No More."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -101,7 +69,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival de bicicletas na Zona Sul de São Paulo reúne ciclistas profissionais e amadores com competições de manobras radicais e atividades para crianças."
+      "resumo": "O evento Bike Brasil acontece neste domingo na Zona Sul de São Paulo, reunindo ciclistas profissionais e amadores para competições de manobras radicais e atividades diversas."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -109,7 +77,7 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado pedala 20 km e aguarda 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru (SP)."
+      "resumo": "Um desempregado de Agudos pedalou 20 km até Bauru e passou 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas no interior de São Paulo."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -117,7 +85,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "cultura",
-      "resumo": "Cantor Zé Ramalho apresenta sucessos e canções de Raul Seixas na 39ª Festa Junina de Sorocaba (SP)."
+      "resumo": "O cantor Zé Ramalho apresentou sucessos de sua carreira e músicas de Raul Seixas na 39ª edição da Festa Junina de Sorocaba em São Paulo."
+    },
+    {
+      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
+      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
+      "tema": "sp",
+      "resumo": "A Polícia Rodoviária Federal apreendeu 927 quilos de maconha em uma carreta em Mato Grosso do Sul que seria entregue em São Paulo; o motorista confessou o tráfico."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -125,15 +101,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Terceira edição da Festa Junina Canina em Jundiaí (SP) reúne cães e gatos com brincadeiras, pula-pula e alimentação temática, com entrada gratuita."
+      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina neste sábado com entrada gratuita, trazendo brincadeiras e atividades para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
-      "tema": "entretenimento",
-      "resumo": "Festival Maior Baile do Mundo em São Paulo reúne músicas mais ouvidas na internet brasileira, com Anitta e MCs em programação de 10 horas para 35 mil pessoas."
+      "tema": "sp",
+      "resumo": "O Maior Baile do Mundo, festival em São Paulo neste domingo, espera reunir 35 mil pessoas com 10 horas de shows, incluindo apresentação de Anitta e outros MCs."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -141,7 +117,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "Partido Socialista dos Trabalhadores Unificado oficializa a candidatura de Vera Lúcia, militante sindical, para a Presidência da República."
+      "resumo": "O PSTU oficializou a militante sindical Vera Lúcia como candidata à Presidência da República nas eleições."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -149,7 +125,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "Décima quinta edição da Feira do Imóvel, Construção e Decoração (Feiccad) acontece em Jundiaí (SP) com entrada gratuita mediante credenciamento."
+      "resumo": "A 15ª edição da Feiccad, feira sobre construção civil, imóveis e decoração, ocorre em Jundiaí até domingo com entrada gratuita."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -157,7 +133,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diferentes funções do Executivo, com prazos até 31 de julho."
+      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos do Executivo, com prazo até 31 de julho e provas aplicadas na cidade."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -165,7 +141,15 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra família após 37 anos, após registro de ocorrência policial possibilitar o reencontro."
+      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência que permitiu o rastreamento."
+    },
+    {
+      "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
+      "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
+      "tema": "sp",
+      "resumo": "Motorista de 75 anos morre em acidente de trânsito dias antes de seu filho, monsenhor de Itapetininga, ser ordenado bispo."
     },
     {
       "titulo": "Como a vida em El Salvador mudou nos 4 anos de regime de exceção de Bukele: 'O medo agora é outro'",
@@ -173,7 +157,15 @@
       "link": "https://www.bbc.com/portuguese/articles/ckg3k56mdydo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 17 Aug 2026 08:55:42 GMT",
       "tema": "mundo",
-      "resumo": "Documentário da BBC retrata os efeitos de quatro anos de regime de exceção em El Salvador, mostrando perspectivas divididas entre alívio pela redução do crime e preocupações com concentração de poder presidencial."
+      "resumo": "Documentário da BBC retrata os efeitos dos quatro anos de regime de exceção em El Salvador, mostrando como a população convive entre alívio pelo fim do domínio de facções e receios quanto à concentração de poder."
+    },
+    {
+      "titulo": "A vida de sucesso de Hayden Panettiere nas telas e a dificuldade da atriz para lidar com a fama",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cn4nky282r8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 17 Aug 2026 14:16:53 GMT",
+      "tema": "cultura",
+      "resumo": "Análise da trajetória profissional da atriz Hayden Panettiere, conhecida por 'Heroes' e 'Nashville', que enfrentou desafios pessoais decorrentes da exposição na indústria do entretenimento."
     },
     {
       "titulo": "EUA consideram novas sanções contra Alexandre de Moraes, diz jornal britânico",
@@ -181,7 +173,23 @@
       "link": "https://www.bbc.com/portuguese/articles/cy5dzl6e09ko?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 17 Aug 2026 10:05:52 GMT",
       "tema": "brasil",
-      "resumo": "Segundo jornal britânico, governo dos EUA discute novas sanções contra o ministro do STF Alexandre de Moraes."
+      "resumo": "Segundo reportagem britânica, o governo dos EUA discute imposição de novas sanções contra o ministro do STF Alexandre de Moraes."
+    },
+    {
+      "titulo": "A cidade da Colômbia que foi devastada por terremoto de 1999, mas resistiu ao tremor mais recente",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c74gkexl1kko?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 17 Aug 2026 15:18:42 GMT",
+      "tema": "mundo",
+      "resumo": "Cidade colombiana que foi destruída por terremoto em 1999 enfrenta novo tremor, mas dessa vez com estruturas reforçadas que resistem melhor aos abalos sísmicos."
+    },
+    {
+      "titulo": "Por que julgamento da Meta pode mudar o futuro do Facebook e do Instagram",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c36dlprdk8go?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 17 Aug 2026 10:49:21 GMT",
+      "tema": "mundo",
+      "resumo": "Ações judiciais de estados americanos contra a Meta buscam forçar reformulações nas plataformas Facebook e Instagram para melhor proteger usuários jovens."
     },
     {
       "titulo": "Se Pablo Marçal está inelegível por 8 anos, por que foi anunciado como candidato à Presidência?",
@@ -189,7 +197,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c5ywwwy4qx4o?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 17 Aug 2026 07:57:31 GMT",
       "tema": "brasil",
-      "resumo": "Especialistas legais discutem a incoerência de Pablo Marçal ser anunciado como candidato à Presidência enquanto segue inelegível por 8 anos."
+      "resumo": "Especialistas apontam que Pablo Marçal, declarado inelegível por oito anos, não deveria ter sido anunciado como candidato à Presidência, pois as restrições legais são claras."
     },
     {
       "titulo": "Lula e Flávio Bolsonaro disputam as ruas no 1º dia da campanha; veja como foram os atos",
@@ -197,23 +205,7 @@
       "link": "https://www.bbc.com/portuguese/articles/clyjj0ykp55o?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 16 Aug 2026 16:49:16 GMT",
       "tema": "brasil",
-      "resumo": "Lula e Flávio Bolsonaro realizam seus primeiros atos de campanha presidencial em estados diferentes no mesmo dia."
-    },
-    {
-      "titulo": "Eles se apaixonaram e violaram a lei para ter certeza de que não eram irmãos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c1m121p2vmdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 16 Aug 2026 10:18:53 GMT",
-      "tema": "mundo",
-      "resumo": "Casal francês enfrenta dilema legal para confirmar se são parentes, já que testes de DNA são proibidos na França, apesar de ambos terem sido concebidos com doação de esperma."
-    },
-    {
-      "titulo": "Os casos de puberdade precoce que intrigam os médicos em todo o mundo (incluindo no Brasil)",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c935ee7g059o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 16 Aug 2026 21:02:10 GMT",
-      "tema": "mundo",
-      "resumo": "Médicos em vários países, inclusive no Brasil, investigam casos de puberdade precoce em crianças, condição que afeta principalmente meninas e requer tratamento."
+      "resumo": "Campanha para eleição presidencial de 2026 é inaugurada com atos de Lula em São Bernardo do Campo e de Flávio Bolsonaro no Rio de Janeiro."
     },
     {
       "titulo": "O que fazer com as crianças que chegaram sozinhas a Ceuta — e que a Espanha não sabe a quem devolver",
@@ -221,15 +213,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c3ek2y02y0po?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 16 Aug 2026 18:46:04 GMT",
       "tema": "mundo",
-      "resumo": "Ceuta, cidade espanhola no norte da África, enfrenta situação de centenas de menores desacompanhados após entrada massiva de estrangeiros."
+      "resumo": "Após entrada massiva de migrantes em Ceuta, cidade espanhola no norte da África enfrenta desafio humanitário com centenas de menores desacompanhados e sem clareza sobre para onde devem ser devolvidos."
     },
     {
-      "titulo": "Pesquisa para presidente mostra Lula e Flávio estáveis e pouca força de outros candidatos; veja no agregador da BBC News Brasil",
+      "titulo": "Os casos de puberdade precoce que intrigam os médicos em todo o mundo (incluindo no Brasil)",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 15 Aug 2026 09:07:27 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c935ee7g059o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 16 Aug 2026 21:02:10 GMT",
       "tema": "brasil",
-      "resumo": "Pesquisa eleitoral mostra Lula e Flávio Bolsonaro com intenções de voto estáveis para a eleição presidencial de 2026, enquanto outros candidatos apresentam baixa força."
+      "resumo": "Casos de puberdade precoce intrigam médicos em todo o mundo, incluindo no Brasil; a condição, que afeta principalmente meninas, requer tratamento para evitar complicações de saúde no futuro."
     },
     {
       "titulo": "De 'A Odisseia' a 'O Convite': os melhores filmes de 2026 até agora",
@@ -237,7 +229,7 @@
       "link": "https://www.bbc.com/portuguese/articles/clyv7l6y4gjo?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 16 Aug 2026 11:47:00 GMT",
       "tema": "cultura",
-      "resumo": "Críticos da BBC selecionam 12 melhores filmes do primeiro semestre de 2026, incluindo títulos como 'A Odisseia' e 'O Convite'."
+      "resumo": "Críticos da BBC selecionam doze destaques cinematográficos do primeiro semestre de 2026, incluindo obras de referência clássica e contemporânea."
     },
     {
       "titulo": "A onda de protestos que conseguiu barrar a primeira fazenda de polvos do mundo",
@@ -245,7 +237,7 @@
       "link": "https://www.bbc.com/portuguese/articles/clyjj8v218eo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 17 Aug 2026 01:09:00 GMT",
       "tema": "mundo",
-      "resumo": "Protestos conseguem barrar a primeira fazenda comercial de polvos do mundo, enquanto vários países e estados norte-americanos proíbem a criação em cativeiro da espécie."
+      "resumo": "Protestos internacionais conseguem barrar os planos para a primeira fazenda de polvos do mundo, enquanto vários países e estados americanos proíbem a criação da espécie."
     },
     {
       "titulo": "'O planeta em que nascemos não existe mais': o climatologista que alerta para epidemia de eventos climáticos extremos, mas se mantém otimista",
@@ -253,23 +245,7 @@
       "link": "https://www.bbc.com/portuguese/articles/crk5rx4y3xvo?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 16 Aug 2026 09:48:00 GMT",
       "tema": "mundo",
-      "resumo": "Climatologista explica por que o hemisfério norte se aquece mais rapidamente que o sul e aponta causas e efeitos dos eventos climáticos extremos, mantendo perspectiva otimista."
-    },
-    {
-      "titulo": "Câmeras digitais e fones com fio estão de volta. Mas por quê?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cp8edx0yy44o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 15 Aug 2026 21:14:11 GMT",
-      "tema": "cultura",
-      "resumo": "Jovens retornam ao uso de câmeras digitais e fones com fio, tendência que evidencia volta ao básico apesar dos avanços tecnológicos contemporâneos."
-    },
-    {
-      "titulo": "O que está levando cada vez mais homens a fazer preenchimento no pênis, apesar dos riscos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c171188yxjvo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 16 Aug 2026 13:58:20 GMT",
-      "tema": "mundo",
-      "resumo": "Crescente número de homens recorre a preenchimento peniano, procedimento que promete aumento de 10 a 20% na circunferência, mas comporta riscos de complicações graves."
+      "resumo": "Climatologista analisa por que o hemisfério norte aquece quase duas vezes mais rápido que o sul e discute perspectivas futuras de eventos climáticos extremos, mantendo visão otimista sobre possibilidades de ação."
     }
   ]
 }
