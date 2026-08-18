@@ -1,83 +1,67 @@
 {
-  "gerado_em": "2026-08-18T10:25:40.990Z",
+  "gerado_em": "2026-08-18T15:29:17.995Z",
   "modo": "ia",
   "clima": {
-    "max": 29.8,
-    "min": 15.8,
+    "max": 29.9,
+    "min": 16,
     "chuva": 0
   },
   "noticias": [
     {
-      "titulo": "Operação investiga fraudes em concursos públicos de AL e PE; três pessoas foram presas ",
+      "titulo": "Zezé Di Camargo mantém fazenda santuário de animais resgatados e com proibição de abate",
       "fonte": "G1",
-      "link": "https://g1.globo.com/al/alagoas/noticia/2026/08/18/operacao-investiga-fraudes-em-concursos-publicos-de-al-e-pe-tres-pessoas-foram-presas.ghtml",
-      "hora": "Tue, 18 Aug 2026 10:11:38 -0000",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/08/18/zeze-di-camargo-mantem-fazenda-santuario-de-animais-resgatados-e-com-proibicao-de-abate.ghtml",
+      "hora": "Tue, 18 Aug 2026 15:16:33 -0000",
+      "tema": "entretenimento",
+      "resumo": "O cantor Zezé Di Camargo mantém uma fazenda em Goiás como santuário para animais resgatados, com a proibição de abate no local."
+    },
+    {
+      "titulo": "São José de Ubá inicia instalação de sistema de videomonitoramento com reconhecimento facial",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/08/18/sao-jose-de-uba-inicia-instalacao-de-sistema-de-videomonitoramento-com-reconhecimento-facial.ghtml",
+      "hora": "Tue, 18 Aug 2026 15:13:38 -0000",
       "tema": "brasil",
-      "resumo": "Ministérios Públicos de Alagoas e Pernambuco deflagaram operação para desmantelar organização criminosa envolvida em fraudes em concursos públicos, resultando em três prisões."
+      "resumo": "Município no Rio de Janeiro instala novo sistema de videomonitoramento com reconhecimento facial para reforçar a segurança pública."
     },
     {
-      "titulo": "Operação interrompe 'rolezinho' e apreende mais de 100 motos em São Luís",
+      "titulo": "Lei Seca: nova regra vai detectar uso de drogas e fazer pré-teste em motorista para indicar álcool",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/08/18/operacao-interrompe-rolezinho-e-apreende-108-motos-em-sao-luis.ghtml",
-      "hora": "Tue, 18 Aug 2026 10:08:21 -0000",
+      "link": "https://g1.globo.com/carros/noticia/2026/08/18/novas-regras-lei-seca-teste-uso-de-drogas.ghtml",
+      "hora": "Tue, 18 Aug 2026 15:12:50 -0000",
       "tema": "brasil",
-      "resumo": "Operação policial em São Luís apreendeu 108 motocicletas durante encontro de motociclistas, entre elas seis com registro de roubo e quatro clonadas."
+      "resumo": "O Conselho Nacional de Trânsito aprovou novas regras para a Lei Seca, incluindo testes de detecção de drogas e pré-teste de álcool para motoristas."
     },
     {
-      "titulo": "Golpe do Falso Desenrola: criminosos usam dados de vítimas para aplicar fraudes no PI; saiba como se proteger",
+      "titulo": "Vazamento deixa diversos bairros de Petrolina sem água nesta terça-feira (18)",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/08/18/golpe-falso-desenrola-brasil.ghtml",
-      "hora": "Tue, 18 Aug 2026 10:07:25 -0000",
-      "tema": "checagem",
-      "resumo": "Criminosos utilizam o nome do Desenrola Brasil para aplicar fraudes; mais de 60 domínios falsificados foram identificados oferecendo descontos fraudulentos de dívidas."
-    },
-    {
-      "titulo": "Gabi Amarantos, Baiana Sistem, Arnaldo Antunes e mais: veja artistas que se apresentam no Bananada 2026 ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/08/18/gabi-amarantos-baiana-sistem-arnaldo-antunes-e-mais-veja-artistas-que-se-apresentam-no-bananada-2026.ghtml",
-      "hora": "Tue, 18 Aug 2026 10:06:00 -0000",
-      "tema": "cultura",
-      "resumo": "Festival Bananada retorna a Goiânia após seis anos de pausa, reunindo artistas como Gabi Amarantos, Baiana Sistem e Arnaldo Antunes em ações culturais distribuídas pela capital."
-    },
-    {
-      "titulo": "Laura Cardoso morre aos 98 anos; veja FOTOS da carreira",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/noticia/2026/08/18/laura-cardoso-morre-aos-98-anos-veja-fotos-da-carreira.ghtml",
-      "hora": "Tue, 18 Aug 2026 10:00:13 -0000",
-      "tema": "cultura",
-      "resumo": "A atriz Laura Cardoso, um dos maiores nomes da dramaturgia brasileira, faleceu aos 98 anos."
-    },
-    {
-      "titulo": "Polícia do DF faz buscas contra suspeito de usar 'deepfake' de famosos para vender produto falso contra disfunção erétil; VÍDEO",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/18/policia-do-df-faz-buscas-contra-suspeito-de-usar-deepfake-de-famosos-para-vender-produto-falso-contra-disfuncao-eretil-video.ghtml",
-      "hora": "Tue, 18 Aug 2026 10:00:12 -0000",
+      "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/08/18/vazamento-deixa-diversos-bairros-de-petrolina-sem-agua-nesta-terca-feira-18.ghtml",
+      "hora": "Tue, 18 Aug 2026 15:11:27 -0000",
       "tema": "brasil",
-      "resumo": "Polícia Civil do Distrito Federal investigou suspeito de integrar quadrilha que produzia deepfakes de celebridades e jornalistas para vender produtos falsificados."
+      "resumo": "Bairros de Petrolina ficaram sem abastecimento de água devido a um vazamento que a companhia de saneamento precisou reparar."
     },
     {
-      "titulo": "Novo pré-sal? O que já se sabe e o que ainda falta descobrir sobre o petróleo na Foz do Amazonas",
+      "titulo": "Operação combate atuação de grupos criminosos ligados ao Comando Vermelho na Zona da Mata",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/08/18/novo-pre-sal-o-que-ja-se-sabe-e-o-que-ainda-falta-descobrir-sobre-o-petroleo-na-foz-do-amazonas.ghtml",
-      "hora": "Tue, 18 Aug 2026 09:52:48 -0000",
+      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/08/18/operacao-combate-atuacao-de-grupos-criminosos-ligados-ao-comando-vermelho-na-zona-da-mata.ghtml",
+      "hora": "Tue, 18 Aug 2026 15:08:20 -0000",
       "tema": "brasil",
-      "resumo": "Petrobras confirmou descoberta de petróleo no poço Morpho na Bacia da Foz do Amazonas, no litoral do Amapá."
+      "resumo": "Operação do Ministério Público mineiro combateu a atuação de grupos criminosos vinculados ao Comando Vermelho na região da Zona da Mata."
     },
     {
-      "titulo": "Idosa de 95 anos é encontrada com vida após passar mais de 24h desaparecida em mata na Grande BH",
+      "titulo": "Operação apreende mais de 1 tonelada de cocaína escondida em carga de peixes no Ceará",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/bom-dia-minas/noticia/2026/08/18/idosa-de-95-anos-e-encontrada-com-vida-apos-passar-mais-de-24h-desaparecida-em-mata-na-grande-bh.ghtml",
-      "hora": "Tue, 18 Aug 2026 09:52:32 -0000",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/08/18/operacao-apreende-mais-de-1-tonelada-de-cocaina-escondida-em-carga-de-peixes-no-ceara.ghtml",
+      "hora": "Tue, 18 Aug 2026 15:05:35 -0000",
       "tema": "brasil",
-      "resumo": "Idosa de 95 anos foi encontrada com vida pelo Corpo de Bombeiros após passar mais de 24 horas desaparecida em mata na região de Raposos, Grande BH."
+      "resumo": "Polícia Militar e Polícia Federal apreenderam mais de uma tonelada de cocaína escondida em uma carga de peixes no Ceará."
     },
     {
-      "titulo": "Eleições 2026: eleitores que usam nome social no Alto Tietê aumentam 30% em quatro anos",
+      "titulo": "Clébio Genuíno não há bens a declarar na disputa pelo governo de Roraima",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/08/18/eleicoes-2026-eleitores-que-usam-nome-social-no-alto-tiete-aumentam-30percent-em-quatro-anos.ghtml",
-      "hora": "Tue, 18 Aug 2026 09:47:03 -0000",
-      "tema": "sp",
-      "resumo": "Número de eleitores que utilizam nome social no Alto Tietê cresceu 30% entre 2022 e 2026, refletindo mudanças no perfil do eleitorado."
+      "link": "https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/18/clebio-genuino-nao-ha-bens-a-declarar-na-disputa-pelo-governo-de-roraima.ghtml",
+      "hora": "Tue, 18 Aug 2026 15:04:21 -0000",
+      "tema": "brasil",
+      "resumo": "Candidato ao governo de Roraima declara não possuir bens à Justiça Eleitoral, assim como seu vice-candidato."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -85,7 +69,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival Bike Brasil acontece na Zona Sul de São Paulo com competições de manobras radicais e atividades para crianças reunindo ciclistas profissionais e amadores."
+      "resumo": "Festival de bicicletas acontece em São Paulo reunindo ciclistas profissionais e amadores para competições de manobras e atividades para famílias."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -93,15 +77,15 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado percorreu 20 km de bicicleta e aguardou 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
+      "resumo": "Desempregado pedalou 20 km e enfrentou fila de 12 horas para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "sp",
-      "resumo": "Zé Ramalho apresentou sucessos de sua carreira e canções de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
+      "tema": "cultura",
+      "resumo": "Cantor Zé Ramalho apresentou sucessos da carreira e homenageou Raul Seixas na Festa Junina de Sorocaba."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
@@ -109,7 +93,7 @@
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "Polícia Rodoviária Federal apreendeu 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo; motorista confessou o tráfico."
+      "resumo": "Polícia Rodoviária Federal apreendeu 927 quilos de maconha em uma carreta que se dirigia para São Paulo."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -117,7 +101,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza 3ª edição da Festa Junina Canina com entrada gratuita, incluindo atividades e brincadeiras para cães e gatos."
+      "resumo": "Jundiaí realiza a terceira edição da Festa Junina Canina com entrada gratuita e atrações para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -125,7 +109,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "Festival Maior Baile do Mundo em São Paulo reúne atrações como Anitta e MCs, esperando 35 mil pessoas para dez horas de shows."
+      "resumo": "Festival de música em São Paulo com artistas como Anitta e MCs espera reunir 35 mil pessoas em dez horas de shows."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -133,7 +117,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "PSTU oficializa a militante sindical Vera Lúcia como candidata à Presidência da República para as eleições de 2026."
+      "resumo": "Partido Socialista dos Trabalhadores Unificado oficializa a candidatura de Vera Lúcia à Presidência da República."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -141,7 +125,15 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "15ª edição da Feiccad (Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração) acontece em Jundiaí com entrada gratuita."
+      "resumo": "Feira da construção civil, imóveis e decoração acontece em Jundiaí com entrada gratuita mediante credenciamento."
+    },
+    {
+      "titulo": "Caso Vitória: trio acusado de envolvimento no crime é transferido para Tremembé",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2018/07/20/caso-vitoria-trio-acusado-de-envolvimento-no-crime-e-transferido-para-tremembe.ghtml",
+      "hora": "Fri, 20 Jul 2018 18:44:51 -0000",
+      "tema": "sp",
+      "resumo": "Três acusados pela morte de uma menina de 12 anos foram transferidos para presídios em Tremembé após estarem presos desde junho."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -149,7 +141,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diferentes cargos do Executivo, com prazo até 31 de julho."
+      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos do Executivo, com prazo até 31 de julho e provas na cidade."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -157,7 +149,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência que permitiu o rastreamento."
+      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência que serviu como rastro de identificação."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -165,7 +157,15 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Pai de monsenhor que seria ordenado bispo morre em acidente de trânsito envolvendo carro e caminhão em Capela do Alto."
+      "resumo": "Pai do monsenhor que seria ordenado bispo em Itapetininga morre em acidente de trânsito em Capela do Alto dias antes da ordenação do filho."
+    },
+    {
+      "titulo": "Elogiou, ganhou? Clientes acusam maior bet do Brasil de dar bônus por avaliações positivas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cglj7ewd6xzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 18 Aug 2026 14:25:47 GMT",
+      "tema": "brasil",
+      "resumo": "Apostadores relatam que plataforma de apostas oferecia bônus em troca de avaliações positivas, prática criticada por órgãos de defesa do consumidor."
     },
     {
       "titulo": "'Geração Lava Jato' prefere Flávio, e idosos podem ser 'novo Nordeste' de Lula, diz diretora do Datafolha",
@@ -173,15 +173,31 @@
       "link": "https://www.bbc.com/portuguese/articles/cx2r19g4pnxo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 18 Aug 2026 08:03:49 GMT",
       "tema": "brasil",
-      "resumo": "Pesquisadora do Datafolha analisa comportamento eleitoral de diferentes grupos geracionais na eleição presidencial de 2026, destacando o papel da rejeição aos candidatos."
+      "resumo": "Pesquisa da Datafolha aponta mudanças no perfil eleitoral para a disputa presidencial de 2026, com alteração de preferências entre grupos geracionais."
+    },
+    {
+      "titulo": "Laura Cardoso morreu aos 98 anos sem nunca se aposentar, com método 'doído' e 'trabalhoso' de atuação",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cp874rrvld3o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 18 Aug 2026 14:40:51 GMT",
+      "tema": "cultura",
+      "resumo": "Atriz Laura Cardoso faleceu aos 98 anos mantendo intensa trajetória profissional até o final, com último trabalho realizado em 2024."
     },
     {
       "titulo": "Novo pré-sal? O que já se sabe e o que ainda falta descobrir sobre o petróleo na Foz do Amazonas",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/ckg90w38xn3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 18 Aug 2026 09:43:41 GMT",
+      "hora": "Tue, 18 Aug 2026 10:43:14 GMT",
       "tema": "brasil",
-      "resumo": "Confirmação de reservas petrolíferas na Foz do Amazonas abre novo ciclo de exploração para o Brasil, embora persistam dúvidas sobre viabilidade econômica e impactos ambientais."
+      "resumo": "Confirmação de petróleo na Foz do Amazonas abre nova etapa de exploração, mas deixa questões em aberto sobre volume, viabilidade econômica e impactos ambientais."
+    },
+    {
+      "titulo": "Como a expectativa de petróleo na Foz do Amazonas já está mudando o Oiapoque: 'É um bairro atrás do outro'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c1k1x28mw2vo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 18 Aug 2026 13:36:18 GMT",
+      "tema": "brasil",
+      "resumo": "Perspectiva de exploração petrolífera na Foz do Amazonas estimula especulação imobiliária e desmatamento no Oiapoque, antes da exploração começar."
     },
     {
       "titulo": "Por que projeto de exploração de petróleo na Foz do Amazonas é controverso?",
@@ -189,7 +205,23 @@
       "link": "https://www.bbc.com/portuguese/articles/cq561131yq0o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 18 Aug 2026 09:44:02 GMT",
       "tema": "brasil",
-      "resumo": "Projeto de exploração de petróleo na Foz do Amazonas gera controvérsias entre questões econômicas e ambientais, após descoberta de reservas a 175 km da costa do Amapá."
+      "resumo": "Petróleo descoberto a 175 km da costa do Amapá gera debate sobre sustentabilidade e impactos da exploração na região amazônica."
+    },
+    {
+      "titulo": "'Nossa amizade é tão forte que decidimos nos casar': as amigas que optaram por união platônica",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cx2v452enp1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 18 Aug 2026 12:11:43 GMT",
+      "tema": "entretenimento",
+      "resumo": "Duas amigas que se conhecem há décadas optaram por formalizar sua relação através de casamento civil, mantendo uma união platônica como forma de reconhecer sua conexão."
+    },
+    {
+      "titulo": "Empresas de AI prometem menos horas de trabalho — mas seus funcionários afirmam trabalhar até 90 horas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cy5dz17vzpro?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 18 Aug 2026 10:26:22 GMT",
+      "tema": "brasil",
+      "resumo": "Empresas de inteligência artificial alegam reduzir horas de trabalho, mas seus funcionários relatam jornadas que chegam a 90 horas semanais."
     },
     {
       "titulo": "Eleição 2026: quais são as propostas dos candidatos?",
@@ -197,7 +229,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cm2gryker9mo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 17 Aug 2026 18:38:50 GMT",
       "tema": "brasil",
-      "resumo": "BBC News Brasil apresenta especial interativo com as propostas de todos os candidatos presidenciais em oito áreas temáticas."
+      "resumo": "Material interativo apresenta propostas dos candidatos presidenciais de 2026 em oito áreas de política pública."
     },
     {
       "titulo": "Como é viver em El Salvador após Bukele derrotar facções: 'O medo agora é outro'",
@@ -205,71 +237,15 @@
       "link": "https://www.bbc.com/portuguese/articles/ckg3k56mdydo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 17 Aug 2026 08:55:42 GMT",
       "tema": "mundo",
-      "resumo": "Documentário retrata os efeitos da política de segurança de Nayib Bukele em El Salvador, onde a redução da violência das facções convive com preocupações sobre concentração de poder presidencial."
-    },
-    {
-      "titulo": "'Mergulhei no meu próprio inferno': a vida difícil da atriz Hayden Panettiere enquanto fazia sucesso na televisão",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cn4nky282r8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 17 Aug 2026 15:48:21 GMT",
-      "tema": "entretenimento",
-      "resumo": "Atriz Hayden Panettiere, conhecida por 'Heroes' e 'Nashville', falece aos 36 anos; investigação indica ausência de sinais de crime."
-    },
-    {
-      "titulo": "Os melhores países para estrangeiros morarem em 2026 (o Brasil está na lista)",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c86nxjqg2x8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 17 Aug 2026 20:05:57 GMT",
-      "tema": "mundo",
-      "resumo": "Pesquisa aponta os melhores países para estrangeiros morarem em 2026, com o Brasil incluído na lista de destinos para recomeçar a vida."
-    },
-    {
-      "titulo": "Qual a situação de todos os candidatos neste início de campanha? Veja no agregador de pesquisas da BBC News Brasil",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 17 Aug 2026 10:52:07 GMT",
-      "tema": "brasil",
-      "resumo": "BBC News Brasil disponibiliza agregador de pesquisas eleitorais com as estimativas de intenção de voto para a eleição presidencial de 2026."
+      "resumo": "Documentário retrata cotidiano em El Salvador após política de segurança do presidente Bukele, mostrando população dividida entre alívio e preocupações com concentração de poder."
     },
     {
       "titulo": "'Proibir redes sociais para jovens não será solução mágica', diz psicóloga canadense",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cn0nkrdgnx2o?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 17 Aug 2026 15:56:45 GMT",
-      "tema": "mundo",
-      "resumo": "Psicóloga canadense especializada em saúde mental de crianças e adolescentes debate se a proibição de redes sociais para jovens é uma solução eficaz baseada em evidências."
-    },
-    {
-      "titulo": "A cidade da Colômbia que foi devastada por terremoto de 1999, mas resistiu ao tremor mais recente",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c74gkexl1kko?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 17 Aug 2026 15:18:42 GMT",
-      "tema": "mundo",
-      "resumo": "Cidade colombiana que foi devastada por terremoto em 1999 enfrenta novo tremor com resultados muito diferentes, graças a reconstrução e melhorias estruturais."
-    },
-    {
-      "titulo": "Hayden Panettiere: o que se sabe sobre a morte da atriz de 'Heroes' aos 36 anos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckg3vnmrx7mo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 17 Aug 2026 18:26:28 GMT",
-      "tema": "entretenimento",
-      "resumo": "Atriz Hayden Panettiere morre aos 36 anos; polícia descarta sinais de crime ou circunstâncias suspeitas."
-    },
-    {
-      "titulo": "Lula e Flávio Bolsonaro disputam as ruas no 1º dia da campanha presidencial; veja como foram os atos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/clyjj0ykp55o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 16 Aug 2026 16:49:16 GMT",
       "tema": "brasil",
-      "resumo": "Lula e Flávio Bolsonaro iniciam campanha presidencial de 2026 com comícios em São Paulo e Rio de Janeiro, marcando o primeiro dia de campanha oficial."
-    },
-    {
-      "titulo": "Turquia, Arábia Saudita e Paquistão poderão formar uma 'Otan muçulmana'?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cg7mkr5nr28o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 17 Aug 2026 18:01:04 GMT",
-      "tema": "mundo",
-      "resumo": "Pacto de defesa entre Turquia, Arábia Saudita e Paquistão é chamado de 'Otan muçulmana'; análise examina como o acordo funcionará na prática."
+      "resumo": "Pesquisadora canadense especializada em saúde mental de adolescentes questiona efetividade de proibições totais de redes sociais para jovens, argumentando falta de base científica."
     }
   ]
 }
