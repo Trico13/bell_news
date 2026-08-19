@@ -1,75 +1,99 @@
 {
-  "gerado_em": "2026-08-19T10:26:37.670Z",
+  "gerado_em": "2026-08-19T15:29:05.973Z",
   "modo": "ia",
   "clima": {
-    "max": 31.2,
+    "max": 30.7,
     "min": 15.6,
     "chuva": 0
   },
   "noticias": [
     {
-      "titulo": "Hemocentro tem estoque de sangue abaixo de 40% em Juiz de Fora; veja novas regras de doação",
+      "titulo": "TSE recebe mais de mil denúncias de propaganda eleitoral irregular em apenas quatro dias",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/08/19/hemocentro-tem-estoque-de-sangue-abaixo-de-40percent-em-juiz-de-fora-veja-novas-regras-de-doacao.ghtml",
-      "hora": "Wed, 19 Aug 2026 10:10:26 -0000",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/19/tse-recebe-mais-de-mil-denuncias-de-propaganda-eleitoral-irregular-em-apenas-quatro-dias.ghtml",
+      "hora": "Wed, 19 Aug 2026 15:16:36 -0000",
       "tema": "brasil",
-      "resumo": "O Hemocentro Regional de Juiz de Fora enfrenta crítica falta de estoques de sangue, com volumes abaixo de 40% do ideal para atender à demanda de pacientes. Novas regras de doação entram em vigor em outubro."
+      "resumo": "O Tribunal Superior Eleitoral recebeu mais de mil denúncias de propaganda eleitoral irregular em apenas quatro dias, indicando aumento de monitoramento durante período eleitoral."
     },
     {
-      "titulo": "Filho de Tarcísio Meira e Glória Menezes falou sobre amor dos pais e como contou à mãe sobre a morte do ator; relembre ",
+      "titulo": "Em sabatina, Haddad defende 'privatização bem feita' e critica modelos de Tarcísio em SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/fantastico/noticia/2026/08/19/filho-de-tarcisio-meira-e-gloria-menezes-falou-sobre-amor-dos-pais-relembre.ghtml",
-      "hora": "Wed, 19 Aug 2026 10:05:53 -0000",
-      "tema": "cultura",
-      "resumo": "Glória Menezes, uma das grandes nomes da dramaturgia brasileira e esposa do ator Tarcísio Meira, faleceu aos 91 anos em seu apartamento no Rio de Janeiro."
-    },
-    {
-      "titulo": "VÍDEO: Pai de aluna é preso no Jardim Peri, Zona Norte de SP, após quebrar creche e agredir funcionários",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/19/video-pai-de-aluna-e-preso-no-jardim-peri-zona-norte-de-sp-apos-quebrar-creche-e-agredir-funcionarios.ghtml",
-      "hora": "Wed, 19 Aug 2026 10:00:42 -0000",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/19/em-sabatina-haddad-defende-privatizacao-bem-feita-e-critica-modelos-de-tarcisio-em-sp.ghtml",
+      "hora": "Wed, 19 Aug 2026 15:15:47 -0000",
       "tema": "sp",
-      "resumo": "Um pai foi preso após invadir uma creche no Jardim Peri, Zona Norte de São Paulo, quebrar objetos e agredir funcionários da instituição."
+      "resumo": "O candidato Fernando Haddad defendeu revisão de contratos de concessão e privatizações caso seja eleito governador de São Paulo, criticando modelos da gestão anterior."
     },
     {
-      "titulo": "Beira-Mar de Niterói: polícia prende fornecedor de drogas e armas do Comando Vermelho na cidade",
+      "titulo": "Onça-pintada aparece em estrada de terra de Juruti, no Pará",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/19/policia-prende-apontado-como-responsavel-pelo-abastecimento-de-drogas-em-niteroi.ghtml",
-      "hora": "Wed, 19 Aug 2026 10:00:34 -0000",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/08/19/video-onca-pintada-aparece-em-estrada-de-terra-de-juruti-no-para.ghtml",
+      "hora": "Wed, 19 Aug 2026 15:15:38 -0000",
       "tema": "mundo",
-      "resumo": "Polícia de Niterói prendeu um fornecedor de drogas e armas vinculado ao Comando Vermelho durante operação na madrugada desta quarta-feira."
+      "resumo": "Uma onça-pintada foi filmada caminhando por estrada de terra em área de floresta no Pará, surpreendendo moradores locais com o registro do animal selvagem."
     },
     {
-      "titulo": "Cachorro faz buraco com água de banheira para se refrescar do calorão em Campo Grande; VÍDEO",
+      "titulo": "Fala Macuxi estreia 7ª temporada com aventura no Tepequém, curiosidades e sabores de Roraima",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/19/cachorro-faz-buraco-com-agua-de-banheira-para-se-refrescar-do-calorao-em-campo-grande-video.ghtml",
-      "hora": "Wed, 19 Aug 2026 10:00:21 -0000",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/08/19/fala-macuxi-estreia-7a-temporada-com-aventura-no-tepequem-curiosidades-e-sabores-de-roraima.ghtml",
+      "hora": "Wed, 19 Aug 2026 15:15:29 -0000",
       "tema": "entretenimento",
-      "resumo": "Um cachorro em Campo Grande aproveitou um buraco com água na rua para se refrescar durante dia de calor intenso, cena registrada por moradora."
+      "resumo": "O programa Fala Macuxi estreia sua 7ª temporada com aventuras em Roraima e conteúdo sobre as particularidades e sabores da região."
     },
     {
-      "titulo": "Homem que fabricava armas com impressoras 3D para facções é preso no RS: 'Funcionavam com boa precisão'",
+      "titulo": "Jiboia de mais de 2 metros é capturada nos fundos de oficina em Goiás; vídeo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/19/homem-que-fabricava-armas-com-impressoras-3d-e-preso-no-rs.ghtml",
-      "hora": "Wed, 19 Aug 2026 09:46:04 -0000",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/08/19/jiboia-e-capturada-em-goias-video.ghtml",
+      "hora": "Wed, 19 Aug 2026 15:14:28 -0000",
       "tema": "brasil",
-      "resumo": "Polícia Civil no Rio Grande do Sul prendeu homem acusado de fabricar armas de fogo usando impressoras 3D para facções criminosas."
+      "resumo": "Uma jiboia com mais de 2 metros foi capturada em oficina no interior de Goiás e posteriormente realocada para área adequada, longe da zona urbana."
     },
     {
-      "titulo": "Câmara analisa autorização para Campinas renegociar dívidas com a União e regra para focinheira em cães",
+      "titulo": "Mãe sobe escadaria de santuário de joelhos após filha se recuperar de tumor cerebral: 'Fé nos move e fortalece'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/19/camara-analisa-autorizacao-para-campinas-renegociar-dividas-com-a-uniao-e-regra-para-focinheira-em-caes.ghtml",
-      "hora": "Wed, 19 Aug 2026 09:43:55 -0000",
-      "tema": "sp",
-      "resumo": "Câmara Municipal de Campinas analisa projeto que autoriza o município a renegociar dívidas com a União e estabelece novas regras sobre focinheiras para cães."
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/08/19/mae-sobe-escadaria-de-santuario-de-joelhos-apos-filha-se-recuperar-de-tumor-cerebral-fe-nos-move-e-fortalece.ghtml",
+      "hora": "Wed, 19 Aug 2026 15:11:53 -0000",
+      "tema": "brasil",
+      "resumo": "Mãe sobe de joelhos escadaria de santuário no Tocantins em agradecimento pela recuperação bem-sucedida de sua filha de um tumor cerebral."
     },
     {
-      "titulo": "Alto Tietê tem mais de 4,6 mil vagas de emprego nesta quarta-feira; veja lista",
+      "titulo": "Município de MT decreta emergência e recebe reforço de aviões para combater incêndio que já dura 5 dias",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/concursos-e-emprego/noticia/2026/08/19/alto-tiete-tem-mais-de-46-mil-vagas-de-emprego-nesta-quarta-feira-veja-lista.ghtml",
-      "hora": "Wed, 19 Aug 2026 09:42:35 -0000",
-      "tema": "sp",
-      "resumo": "Região do Alto Tietê oferece mais de 4,6 mil vagas de emprego em várias cidades como Guararema, Itaquaquecetuba, Mogi das Cruzes e outras."
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/19/municipio-de-mt-decreta-emergencia-e-recebe-reforco-de-avioes-para-combater-incendio-ha-quatro-dias.ghtml",
+      "hora": "Wed, 19 Aug 2026 15:11:16 -0000",
+      "tema": "brasil",
+      "resumo": "Município de Mato Grosso do Sul decreta emergência e recebe reforço de aviões para combater incêndios florestais que afetam zonas rurais e urbanas há vários dias."
+    },
+    {
+      "titulo": "A onda de furtos de hidrômetros que aterroriza moradores em Campo Grande",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/19/a-onda-de-furtos-de-hidrometros-que-aterroriza-moradores-em-campo-grande.ghtml",
+      "hora": "Wed, 19 Aug 2026 15:10:07 -0000",
+      "tema": "brasil",
+      "resumo": "Moradores de bairro em Campo Grande enfrentam série de furtos de hidrômetros, com mais de 30 equipamentos levados em menos de um mês."
+    },
+    {
+      "titulo": "Bolão do Paraná acerta cinco números da Mega-Sena e leva mais de R$ 151 mil; veja outra aposta premiada",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/08/19/bolao-mega-sena-premio.ghtml",
+      "hora": "Wed, 19 Aug 2026 15:08:45 -0000",
+      "tema": "brasil",
+      "resumo": "Um bolão do Paraná acertou cinco números da Mega-Sena no concurso 3046, recebendo prêmio de mais de R$ 151 mil."
+    },
+    {
+      "titulo": "Dupla é presa suspeita de atuar como 'falsos dentistas' e aplicar golpes na Zona Leste de Manaus",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/08/19/dupla-e-presa-suspeita-de-atuar-como-falsos-dentistas-e-aplicar-golpes-na-zona-leste-de-manaus.ghtml",
+      "hora": "Wed, 19 Aug 2026 15:08:38 -0000",
+      "tema": "brasil",
+      "resumo": "Dupla é presa em Manaus suspeita de atuar como falsos dentistas e aplicar golpes em consultório da região."
+    },
+    {
+      "titulo": "😭 não é só choro: como o emoji virou o mais popular do mundo em 2025; veja o ranking",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/08/19/emojis-mais-populares.ghtml",
+      "hora": "Wed, 19 Aug 2026 15:00:58 -0000",
+      "tema": "cultura",
+      "resumo": "O emoji de rosto chorando foi eleito o mais popular do mundo em 2025, sendo usado pelas novas gerações de forma multiuso para expressar emoções variadas."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -77,7 +101,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival Bike Brasil ocorre neste domingo na Zona Sul de São Paulo com competições de manobras radicais e atividades para crianças interessadas em bicicletas."
+      "resumo": "Festival de bikes acontece na Zona Sul de São Paulo com competições de manobras radicais e atividades para crianças no fim de semana."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -85,23 +109,15 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado percorreu 20 quilômetros de bicicleta e permaneceu 12 horas em fila em Bauru para concorrer a uma das 500 vagas de emprego oferecidas."
+      "resumo": "Desempregado percorre 20 km de bicicleta e aguarda 12 horas em fila para concorrer a uma de 500 vagas de emprego oferecidas em Bauru."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "cultura",
-      "resumo": "Zé Ramalho apresentou sucessos de sua carreira e duas canções de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
-    },
-    {
-      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
-      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "Polícia Rodoviária Federal apreendeu 927 quilos de maconha em carreta interceptada em Mato Grosso do Sul que seria entregue em São Paulo."
+      "resumo": "Zé Ramalho apresenta sucessos de sua carreira e músicas de Raul Seixas na Festa Junina de Sorocaba em apresentação para público local."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -109,7 +125,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza a terceira edição da Festa Junina Canina neste sábado com entrada gratuita, brincadeiras e atividades para cães e gatos."
+      "resumo": "Jundiaí realiza 3ª edição da Festa Junina Canina com entrada gratuita, brincadeiras e atividades voltadas para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -117,7 +133,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "O Maior Baile do Mundo, festival com Anitta e MCs entre as atrações, acontece neste domingo em São Paulo com expectativa de 35 mil pessoas e 10 horas de shows."
+      "resumo": "Festival Maior Baile do Mundo acontece em São Paulo com line-up de atrações musicais e expectativa de reunir 35 mil pessoas em 10 horas de shows."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -125,7 +141,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "PSTU oficializa Vera Lúcia, militante sindical, como candidata à Presidência da República nas próximas eleições."
+      "resumo": "Partido PSTU anuncia Vera Lúcia como candidata à Presidência da República nas eleições, durante convenção em São Paulo."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -133,7 +149,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A 15ª edição da Feiccad, feira dedicada a imóvel, construção, condomínios, arquitetura e decoração, ocorre em Jundiaí até este domingo com entrada gratuita."
+      "resumo": "15ª edição da Feira do Imóvel, Construção e Decoração acontece em Jundiaí com entrada gratuita e programação até o fim de semana."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -141,7 +157,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diversos cargos do Executivo municipal."
+      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos da administração municipal, com prazo até 31 de julho."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -149,15 +165,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos graças a um boletim de ocorrência que permitiu rastreá-lo."
-    },
-    {
-      "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
-      "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
-      "tema": "sp",
-      "resumo": "Pai de monsenhor que será ordenado bispo falece em acidente de trânsito em Capela do Alto dias antes da cerimônia do filho."
+      "resumo": "Após 37 anos em situação de rua em Campinas, homem reencontra sua família graças a um boletim de ocorrência que permitiu o rastreamento."
     },
     {
       "titulo": "Descoberta na Foz do Amazonas só será 'passaporte para o futuro' se modelo adotado no pré-sal mudar, diz ex-diretor da Petrobras",
@@ -165,7 +173,15 @@
       "link": "https://www.bbc.com/portuguese/articles/ckgdxxxj3p4o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 19 Aug 2026 07:57:34 GMT",
       "tema": "mundo",
-      "resumo": "Ex-diretor da Petrobras avalia que descoberta de petróleo na Foz do Amazonas é promissora, mas alerta para necessidade de mudanças no modelo de exploração."
+      "resumo": "Ex-diretor da Petrobras analisa a recente descoberta de petróleo na Foz do Amazonas e destaca a necessidade de mudanças no modelo de exploração em relação ao pré-sal."
+    },
+    {
+      "titulo": "A indignação com os danos ambientais causados ​​por um homem com seu caminhão em ecossistema único na Argentina",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq56nw6105go?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 19 Aug 2026 12:25:21 GMT",
+      "tema": "mundo",
+      "resumo": "Danos ambientais causados por um caminhão em ecossistema único da Argentina geram indignação pública na região."
     },
     {
       "titulo": "Glória Menezes: relembre papéis marcantes da 'primeira-dama' que comoveu gerações e ajudou a escrever a história da TV brasileira",
@@ -173,7 +189,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cm2g729w9j9o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 18 Aug 2026 22:31:44 GMT",
       "tema": "cultura",
-      "resumo": "Atriz Glória Menezes, figura marcante da televisão brasileira com mais de 80 anos de carreira, faleceu aos 91 anos."
+      "resumo": "Glória Menezes, atriz de grande relevância na história da televisão brasileira, faleceu aos 91 anos de causas naturais."
     },
     {
       "titulo": "Os gêmeos que se casaram com irmãs gêmeas em celebração feita por padres gêmeos e com coroinhas gêmeos",
@@ -181,7 +197,7 @@
       "link": "https://www.bbc.com/portuguese/articles/ckg4q1j2z04o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 19 Aug 2026 08:26:34 GMT",
       "tema": "entretenimento",
-      "resumo": "Cerimônia de casamento inusitada na Índia reuniu quatro pares de gêmeos entre noivos, padres e coroinhas em celebração planejada por anos."
+      "resumo": "Casamento inusitado envolvendo dois pares de gêmeos, com padres gêmeos e coroinhas gêmeos, viralizou nas redes sociais no sul da Índia."
     },
     {
       "titulo": "O julgamento que pode mudar como Facebook e Instagram funcionam para mais jovens",
@@ -189,7 +205,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cx27zvg0vpro?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 19 Aug 2026 02:07:35 GMT",
       "tema": "mundo",
-      "resumo": "Tribunal federal da Califórnia inicia julgamento de ação de 29 Estados americanos que buscam mudanças no funcionamento de Facebook e Instagram para proteger jovens."
+      "resumo": "Tribunal federal da Califórnia iniciou julgamento de ação de 29 Estados contra o funcionamento das plataformas Facebook e Instagram da Meta, com pedidos de mudanças."
     },
     {
       "titulo": "As críticas de Laura Cardoso aos rumos das novelas: 'Você não pode me cortar para fazer um close da bonitinha'",
@@ -197,7 +213,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cx2v3kn19d4o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 19 Aug 2026 01:27:08 GMT",
       "tema": "cultura",
-      "resumo": "Atriz Laura Cardoso, com mais de 80 anos de carreira, faleceu aos 98 anos; deixa legado de críticas à priorização da beleza em detrimento da qualidade das atuações na televisão."
+      "resumo": "Laura Cardoso, atriz com mais de 80 anos de carreira, faleceu aos 98 anos; deixa legado de críticas ao padrão estético privilegiado na televisão."
     },
     {
       "titulo": "Elogiou, ganhou? Clientes acusam maior bet do Brasil de dar bônus por avaliações positivas",
@@ -205,15 +221,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cglj7ewd6xzo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 18 Aug 2026 21:38:33 GMT",
       "tema": "brasil",
-      "resumo": "Clientes da plataforma de apostas Betano acusam a empresa de oferecer bônus em troca de avaliações positivas, levando órgãos de defesa do consumidor a criticar a prática."
-    },
-    {
-      "titulo": "Qual a situação de todos os candidatos neste início de campanha? Veja no agregador de pesquisas da BBC News Brasil",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 18 Aug 2026 11:13:05 GMT",
-      "tema": "brasil",
-      "resumo": "BBC News Brasil disponibiliza agregador com as mais recentes estimativas de intenção de voto para a eleição presidencial de 2026."
+      "resumo": "Apostadores acusam plataforma de apostas de oferecer bônus em troca de avaliações positivas, com órgãos de defesa do consumidor criticando a conduta."
     },
     {
       "titulo": "'Geração Lava Jato' prefere Flávio, e idosos podem ser 'novo Nordeste' de Lula, diz diretora do Datafolha",
@@ -221,7 +229,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cx2r19g4pnxo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 18 Aug 2026 08:03:49 GMT",
       "tema": "brasil",
-      "resumo": "Análise do Datafolha aponta que perfis demográficos distintos apoiam diferentes candidatos na eleição de 2026, com alta rejeição aos principais nomes apontando para disputa acirrada."
+      "resumo": "Diretora do Datafolha analisa a composição do eleitorado nas pesquisas para 2026, destacando preferências geracionais e o papel da rejeição aos candidatos principais."
     },
     {
       "titulo": "Eleição 2026: quais são as propostas dos candidatos?",
@@ -229,7 +237,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cm2gryker9mo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 17 Aug 2026 18:38:50 GMT",
       "tema": "brasil",
-      "resumo": "BBC News Brasil oferece material interativo compilando as propostas de todos os candidatos presidenciais em oito áreas temáticas principais."
+      "resumo": "BBC News Brasil disponibiliza guia interativo com as propostas de candidatos para as eleições de 2026 em oito áreas temáticas."
     },
     {
       "titulo": "'Nossa amizade é tão forte que decidimos nos casar': as amigas que optaram por união platônica",
@@ -237,23 +245,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cx2v452enp1o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 18 Aug 2026 12:11:43 GMT",
       "tema": "entretenimento",
-      "resumo": "Duas amigas de longa data optam por formalizar sua amizade através de casamento civil, sem componentes románticos ou sexuais, reconhecendo a importância do vínculo."
+      "resumo": "Duas amigas que se conhecem desde os 12 anos decidiram se casar judicialmente para formalizar uma união platônica baseada em amizade profunda."
     },
     {
       "titulo": "Como a expectativa de petróleo na Foz do Amazonas já está mudando o Oiapoque: 'É um bairro atrás do outro'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c1k1x28mw2vo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 18 Aug 2026 13:36:18 GMT",
-      "tema": "mundo",
-      "resumo": "Perspectiva de exploração de petróleo na Foz do Amazonas alimenta especulação imobiliária e desmatamento no município de Oiapoque, no Amapá."
-    },
-    {
-      "titulo": "Como é viver em El Salvador após Bukele derrotar facções: 'O medo agora é outro'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckg3k56mdydo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 17 Aug 2026 08:55:42 GMT",
-      "tema": "mundo",
-      "resumo": "Documentário da BBC retrata impactos da política de segurança de Nayib Bukele em El Salvador, mostrando população dividida entre alívio pelo fim do domínio de facções e preocupações com concentração de poder presidencial."
+      "tema": "brasil",
+      "resumo": "Expectativa de exploração petrolífera na Foz do Amazonas alimenta especulação imobiliária e desmatamento no município de Oiapoque, no Amapá."
     }
   ]
 }
