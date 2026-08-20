@@ -1,107 +1,75 @@
 {
-  "gerado_em": "2026-08-20T10:28:08.211Z",
+  "gerado_em": "2026-08-20T15:31:57.426Z",
   "modo": "ia",
   "clima": {
-    "max": 31.6,
+    "max": 31.3,
     "min": 15.8,
     "chuva": 0
   },
   "noticias": [
     {
-      "titulo": "VÍDEO: arraia dá saltos ao lado de banhistas no mar da Praia de Boa Viagem, em Niterói",
+      "titulo": "Grupo suspeito de integrar esquema de tráfico de drogas é preso, e R$ 6 mil são apreendidos no Norte do PI",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/20/arraia-da-saltos-ao-lado-de-banhistas-no-mar-da-praia-de-boa-viagem-em-niteroi.ghtml",
-      "hora": "Thu, 20 Aug 2026 10:17:40 -0000",
-      "tema": "entretenimento",
-      "resumo": "Uma arraia foi avistada dando saltos próximo a banhistas na Praia de Boa Viagem em Niterói, cena registrada por frequentadores da praia."
-    },
-    {
-      "titulo": "Por que fundador de gigante do setor imobiliário foi condenado à prisão perpétua na China",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/economia/noticia/2026/08/20/por-que-fundador-de-gigante-do-setor-imobiliario-foi-condenado-a-prisao-perpetua-na-china.ghtml",
-      "hora": "Thu, 20 Aug 2026 10:14:09 -0000",
-      "tema": "mundo",
-      "resumo": "Fundador do grupo imobiliário chinês Evergrande, afetado por crise do setor, foi condenado à prisão perpétua na China."
-    },
-    {
-      "titulo": "Operação cumpre mandados contra esquema de desvio e revenda ilegal de combustíveis, na Grande João Pessoa",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/08/20/operacao-cumpre-mandados-contra-esquema-de-desvio-e-revenda-ilegal-de-combustiveis-na-grande-joao-pessoa.ghtml",
-      "hora": "Thu, 20 Aug 2026 10:10:43 -0000",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/08/20/suspeitos-trafico-de-drogas-presos-em-barras.ghtml",
+      "hora": "Thu, 20 Aug 2026 15:17:58 -0000",
       "tema": "brasil",
-      "resumo": "Polícia Civil e Federal realizam operação para desmantelar esquema de desvio e revenda ilegal de combustíveis na região de João Pessoa."
+      "resumo": "Nove pessoas foram presas em operação contra tráfico de drogas em Barras, no Piauí. A polícia apreendeu mais de R$ 6 mil em dinheiro, drogas e armas."
     },
     {
-      "titulo": "Rolê no Alto Tietê: fim de semana tem show de KL Jay e stand-up com Igorfina ",
+      "titulo": "Audiência de instrução de naufrágio no Encontro das Águas começa nesta quinta-feira (20) em Manaus",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/08/20/role-no-alto-tiete-fim-de-semana-tem-show-de-kl-jay-e-stand-up-com-igorfina.ghtml",
-      "hora": "Thu, 20 Aug 2026 10:05:54 -0000",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/08/20/audiencia-de-instrucao-de-naufragio-no-encontro-das-aguas-comeca-nesta-quinta-feira-em-manaus.ghtml",
+      "hora": "Thu, 20 Aug 2026 15:17:41 -0000",
+      "tema": "brasil",
+      "resumo": "Começa nesta quinta a audiência de instrução que apura o naufrágio da lancha Lima Abreu XV no Encontro das Águas em Manaus, que deixou passageiros à deriva."
+    },
+    {
+      "titulo": "Turista perde celular e tem cartão usado após golpe ‘Boa Noite, Cinderela’ em Copacabana",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/20/turista-denuncia-boa-noite-cinderela-em-copacabana.ghtml",
+      "hora": "Thu, 20 Aug 2026 15:15:41 -0000",
+      "tema": "brasil",
+      "resumo": "Turista de Rondônia foi vítima do golpe 'Boa Noite, Cinderela' em Copacabana e perdeu celular e cartão após beber com dois homens que conheceu por aplicativo de relacionamento."
+    },
+    {
+      "titulo": "Polícia cumpre mandados em Bauru durante operação contra fraude bancária no valor de R$ 50 milhões ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/20/policia-cumpre-mandados-em-bauru-durante-operacao-contra-fraude-bancaria-no-valor-de-r-50-milhoes.ghtml",
+      "hora": "Thu, 20 Aug 2026 15:14:52 -0000",
       "tema": "sp",
-      "resumo": "Agenda cultural do Alto Tietê oferece shows e apresentações de stand-up no fim de semana, com destaque para KL Jay e Igorfina."
+      "resumo": "Polícia Civil cumpriu mandados em Bauru em operação que investiga fraude bancária de R$ 50 milhões envolvendo organização criminosa suspeita de fraudes."
     },
     {
-      "titulo": "Sete das 23 vítimas de acidente no Paraná são veladas em despedida coletiva em ginásio em Imbituva",
+      "titulo": "Desabamento em mina na Colômbia deixa 13 mortos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/20/vitimas-acidente-23-mortes-veladas-ginasio-parana.ghtml",
-      "hora": "Thu, 20 Aug 2026 10:03:14 -0000",
-      "tema": "brasil",
-      "resumo": "Vítimas de acidente entre micro-ônibus e carreta na BR-373 no Paraná são veladas em cerimônia coletiva; o acidente deixou 23 mortos."
+      "link": "https://g1.globo.com/mundo/noticia/2026/08/20/desabamento-em-mina-na-colombia-deixa-13-mortos.ghtml",
+      "hora": "Thu, 20 Aug 2026 15:14:32 -0000",
+      "tema": "mundo",
+      "resumo": "Deslizamento de terra em mina a céu aberto na Colômbia deixa 13 trabalhadores mortos e sete feridos."
     },
     {
-      "titulo": "'Não é IA, aconteceu comigo', relata jovem derrubada por rajada de vento no Ceará",
+      "titulo": "Filha de Lucas Rangel e Lucas Bley conhece a praia no litoral de SP; VÍDEO",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/08/20/nao-e-ia-aconteceu-comigo-relata-jovem-derrubada-por-rajada-de-vento-no-ceara.ghtml",
-      "hora": "Thu, 20 Aug 2026 10:01:35 -0000",
-      "tema": "brasil",
-      "resumo": "Jovem de 25 anos foi derrubada por ventos fortes no Ceará ao abrir um portão e relata ter se levantado rapidamente para evitar ser atropelada."
-    },
-    {
-      "titulo": "Trabalhadores rejeitam reajuste de 3% e fazem paralisação nas rotas do Distrito em Manaus",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/08/20/trabalhadores-rejeitam-reajuste-de-3percent-e-fazem-paralisacao-nas-rotas-do-distrito-em-manaus.ghtml",
-      "hora": "Thu, 20 Aug 2026 10:01:32 -0000",
-      "tema": "brasil",
-      "resumo": "Trabalhadores do transporte especial em Manaus rejeitam proposta de reajuste salarial de 3% e realizam paralisação nas rotas do Distrito Industrial."
-    },
-    {
-      "titulo": "Denúncia fofa: menino de 5 anos que procurou a PM após ser empurrado pelo tio da mesma idade teve ajuda de advogada no ‘caso’ ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/08/20/denuncia-fofa-menino-de-5-anos-que-procurou-a-pm-apos-ser-empurrado-pelo-tio-da-mesma-idade-teve-ajuda-de-advogada-no-caso.ghtml",
-      "hora": "Thu, 20 Aug 2026 10:01:09 -0000",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/20/filha-de-lucas-rangel-e-lucas-bley-conhece-a-praia-no-litoral-de-sp-video.ghtml",
+      "hora": "Thu, 20 Aug 2026 15:12:29 -0000",
       "tema": "entretenimento",
-      "resumo": "Criança de 5 anos procura a Polícia Militar após ser empurrada pelo tio também de 5 anos; caso ganhou repercussão e recreação bem-humorada em audiência."
+      "resumo": "Os influenciadores Lucas Rangel e Lucas Bley levaram a filha Mia para conhecer a praia em Santos, no litoral de São Paulo, em seu primeiro contato com o mar."
     },
     {
-      "titulo": "Eu Te Explico #194: Novo protocolo do SUS implementa exame que auxilia no rastreio e diagnóstico precoce do câncer colorretal",
+      "titulo": "Rio tem recorde de linhas de ônibus desviadas por causa da violência: mais de 400 só em 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/podcast/eu-te-explico/noticia/2026/08/20/eu-te-explico-194-novo-protocolo-do-sus-implementa-exame-que-auxilia-no-rastreio-e-diagnostico-precoce-do-cancer-colorretal.ghtml",
-      "hora": "Thu, 20 Aug 2026 10:00:20 -0000",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/20/rio-tem-recorde-de-linhas-de-onibus-desviadas-por-causa-da-violencia.ghtml",
+      "hora": "Thu, 20 Aug 2026 15:12:10 -0000",
       "tema": "brasil",
-      "resumo": "Ministério da Saúde adota novo protocolo que inclui o Teste Imunoquímico Fecal no SUS para rastreamento de câncer colorretal a partir de setembro."
+      "resumo": "Violência no Rio de Janeiro fez 411 linhas de ônibus mudarem trajetos entre janeiro e julho deste ano, conforme levantamento do sindicato de empresas de transporte."
     },
     {
-      "titulo": "De R$ 0 a quase R$ 10 milhões: veja o patrimônio dos candidatos ao Senado pelo Acre",
+      "titulo": "Conselho Regional de Medicina cria Observatório da Violência contra Médicos, na PB",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/20/de-r-0-a-quase-r-10-milhoes-veja-o-patrimonio-dos-candidatos-ao-senado-pelo-acre.ghtml",
-      "hora": "Thu, 20 Aug 2026 10:00:16 -0000",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/08/20/conselho-regional-de-medicina-cria-observatorio-da-violencia-contra-medicos-na-pb.ghtml",
+      "hora": "Thu, 20 Aug 2026 15:11:27 -0000",
       "tema": "brasil",
-      "resumo": "Candidatos ao Senado pelo Acre nas eleições de 2026 declararam patrimônios que variam de zero a 9,8 milhões de reais."
-    },
-    {
-      "titulo": "Corpo de Leandro Henrique será velado no Jockey Club Brasileiro; Flamengo vai homenagear atleta no Maracanã",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/20/corpo-de-leandro-henrique-sera-velado-no-jockey-club-brasileiro.ghtml",
-      "hora": "Thu, 20 Aug 2026 09:55:29 -0000",
-      "tema": "brasil",
-      "resumo": "Jóquei Leandro Henrique, que faleceu após queda durante prova, será velado no Hipódromo da Gávea; Flamengo o homenageará no Maracanã."
-    },
-    {
-      "titulo": "Pirarucu gigante vira atração e faz parque de Goiânia ganhar novo nome em mapas digitais",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/08/20/pirarucu-gigante-vira-atracao-e-faz-parque-de-goiania-ganhar-novo-nome-em-mapas-digitais.ghtml",
-      "hora": "Thu, 20 Aug 2026 09:52:18 -0000",
-      "tema": "entretenimento",
-      "resumo": "Pirarucu gigante avistado em represa do Parque Licardino Ney em Goiânia virou atração inusitada e ganhou apelido em aplicativos de GPS."
+      "resumo": "Conselho Regional de Medicina da Paraíba criou Observatório da Violência contra Médicos para monitorar e combater agressões a profissionais da saúde."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -109,7 +77,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival de bikes na Zona Sul de São Paulo oferece competições de manobras radicais e atividades para crianças no pavilhão do São Paulo Expo."
+      "resumo": "Festival Bike Brasil acontece neste domingo na Zona Sul de São Paulo com competições de manobras radicais e atividades para crianças reunindo ciclistas profissionais e amadores."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -117,15 +85,15 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado percorre 20 km de bicicleta de Agudos a Bauru e passa 12 horas em fila para concorrer a uma de 500 vagas de emprego oferecidas."
+      "resumo": "Desempregado de Agudos pedalou 20 km até Bauru e aguardou 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "sp",
-      "resumo": "Cantor Zé Ramalho apresenta sucessos e músicas de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
+      "tema": "cultura",
+      "resumo": "Zé Ramalho apresentou sucessos de sua carreira e canções de Raul Seixas na 39ª Festa Junina de Sorocaba neste sábado."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
@@ -133,7 +101,7 @@
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "Polícia Rodoviária Federal apreende 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo; motorista confessou tráfico."
+      "resumo": "Polícia Rodoviária Federal apreendeu 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo. Motorista da carreta confessou o tráfico."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -141,7 +109,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Terceira edição da Festa Junina Canina acontece em Jundiaí com entrada gratuita, oferecendo brincadeiras e atividades para cães e gatos."
+      "resumo": "Jundiaí realiza neste sábado a 3ª edição da Festa Junina Canina com entrada gratuita, brincadeiras e atividades para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -149,7 +117,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "Festival Maior Baile do Mundo em São Paulo espera 35 mil pessoas com 10 horas de shows, contando com Anitta e outros MCs entre as atrações."
+      "resumo": "Maior Baile do Mundo, festival de música com Anitta e MCs como atrações, espera reunir 35 mil pessoas em São Paulo neste domingo com 10 horas de apresentações."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -157,7 +125,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "PSTU oficializa Vera Lúcia, militante sindical, como candidata à Presidência da República nas eleições presidenciais."
+      "resumo": "PSTU oficializou Vera Lúcia, militante sindical, como candidata à Presidência da República nas eleições."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -165,15 +133,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "15ª edição da Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração ocorre em Jundiaí até domingo com entrada gratuita."
-    },
-    {
-      "titulo": "Caso Vitória: trio acusado de envolvimento no crime é transferido para Tremembé",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2018/07/20/caso-vitoria-trio-acusado-de-envolvimento-no-crime-e-transferido-para-tremembe.ghtml",
-      "hora": "Fri, 20 Jul 2018 18:44:51 -0000",
-      "tema": "sp",
-      "resumo": "Três acusados de envolvimento na morte da menina Vitória Gabrielly são transferidos para presídios em Tremembé após prisão em junho."
+      "resumo": "Décima quinta edição da Feiccad, feira de construção civil, imóveis e decoração, segue até domingo em Jundiaí com entrada gratuita."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -181,7 +141,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos do Executivo até 31 de julho, com provas realizadas na própria cidade."
+      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos do Executivo, com prazo até 31 de julho."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -189,7 +149,15 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra família após 37 anos de separação, reunião que ocorreu graças a um boletim de ocorrência relacionado a um roubo."
+      "resumo": "Homem em situação de rua em Campinas reencontra família após 37 anos de separação, após uma ocorrência policial permitir a localização."
+    },
+    {
+      "titulo": "Chefe de facção que atua dentro e fora dos presídios brasileiros é transferido da PF em Foz do Iguaçu",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2018/07/20/chefe-de-faccao-que-atua-dentro-e-fora-dos-presidios-brasileiros-e-transferido-da-pf-em-foz-do-iguacu.ghtml",
+      "hora": "Fri, 20 Jul 2018 10:55:41 -0000",
+      "tema": "sp",
+      "resumo": "Líder do PCC é transferido da Polícia Federal em Foz do Iguaçu para a Penitenciária Federal de Catanduvas."
     },
     {
       "titulo": "Por que impacto da IA em eleições pode estar sendo exagerado, segundo pesquisador de Oxford",
@@ -197,7 +165,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c0l52n6ddkdo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 20 Aug 2026 07:35:07 GMT",
       "tema": "checagem",
-      "resumo": "Pesquisador de Oxford sugere que o impacto da inteligência artificial nas eleições pode estar sendo superestimado, já que a desinformação já é abundante na internet independentemente da IA."
+      "resumo": "Pesquisador de Oxford sugere que o impacto da inteligência artificial nas eleições pode estar sendo superestimado, considerando que a desinformação já é abundante na internet."
+    },
+    {
+      "titulo": "Quem é Natalie Harp, assessora que se tornou presença constante ao lado de Trump",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cx2k3xnzwyko?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 20 Aug 2026 14:31:29 GMT",
+      "tema": "entretenimento",
+      "resumo": "Assessora de Trump, Natalie Harp, ganhou destaque como uma das colaboradoras mais próximas e leais do presidente americano."
     },
     {
       "titulo": "Por que existe o Dia Mundial do Mosquito — e o que isso tem a ver com o Nobel",
@@ -205,7 +181,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c8xnwz8g48zo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 20 Aug 2026 09:57:56 GMT",
       "tema": "cultura",
-      "resumo": "O Dia Mundial do Mosquito, celebrado em 20 de agosto, marca a descoberta dos mecanismos de transmissão da malária, uma conquista científica que possivelmente salvou milhões de vidas."
+      "resumo": "O Dia Mundial do Mosquito, celebrado em 20 de agosto, marca a descoberta dos mecanismos de transmissão da malária e tem conexão com o Prêmio Nobel."
     },
     {
       "titulo": "Brigou no avião? Você poderá ficar até um ano proibido de voar; entenda, em cinco pontos, a nova regra da Anac",
@@ -213,7 +189,15 @@
       "link": "https://www.bbc.com/portuguese/articles/czrjdp484mlo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 20 Aug 2026 09:23:31 GMT",
       "tema": "brasil",
-      "resumo": "Nova regra da Anac entra em vigor em setembro e prevê proibição de até um ano para passageiros envolvidos em brigas em aviões, além de multas que chegam a R$ 17,5 mil para conflitos menos graves."
+      "resumo": "Nova regulação da Anac entra em vigor em setembro, permitindo proibição de voo de até um ano para passageiros envolvidos em conflitos e prevendo multas a partir de R$ 17,5 mil."
+    },
+    {
+      "titulo": "O alerta de médicos sobre o risco de cigarros eletrônicos para crianças e jovens",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/clyj37x7nk0o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 20 Aug 2026 10:56:08 GMT",
+      "tema": "brasil",
+      "resumo": "Médicos do Reino Unido alertam que cigarros eletrônicos podem servir como porta de entrada para o tabagismo em crianças e adolescentes."
     },
     {
       "titulo": "Por que fundador de gigante do setor imobiliário foi condenado à prisão perpétua na China",
@@ -221,15 +205,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cwy49zqk7zgo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 20 Aug 2026 09:38:14 GMT",
       "tema": "mundo",
-      "resumo": "Fundador de importante empresa imobiliária chinesa recebe condenação à prisão perpétua, marcando um ponto crítico nas consequências do colapso da Evergrande na economia da China."
-    },
-    {
-      "titulo": "Maior acesso a armas aumentou violência política no Brasil, aponta socióloga",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c2kyvv53eyqo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 19 Aug 2026 16:54:43 GMT",
-      "tema": "brasil",
-      "resumo": "Socióloga aponta que maior acesso a armas está associado ao aumento da violência política no Brasil, fenômeno que tende a se intensificar em anos eleitorais e tem raízes principalmente em disputas locais."
+      "resumo": "Fundador de grande empresa imobiliária chinesa é condenado à prisão perpétua, marcando consequência importante do colapso da Evergrande."
     },
     {
       "titulo": "Príncipe Harry e Meghan vão voltar a morar no Reino Unido",
@@ -237,15 +213,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c1d1wknrd41o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 19 Aug 2026 22:12:03 GMT",
       "tema": "entretenimento",
-      "resumo": "Príncipe Harry e Meghan planejam se mudar de volta ao Reino Unido, com seus filhos já matriculados em escola britânica para iniciarem estudos em setembro."
-    },
-    {
-      "titulo": "Morre aos 101 anos o preso mais velho dos EUA — que recebeu oito vezes a 'última refeição', mas não foi executado",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c62ey90gn86o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 19 Aug 2026 18:40:11 GMT",
-      "tema": "mundo",
-      "resumo": "Falece aos 101 anos o prisioneiro mais velho dos EUA, que cumpriu a pena mais longa do país antes de morrer de causas naturais."
+      "resumo": "Príncipe Harry e Meghan devem retornar ao Reino Unido, com os filhos matriculados em escola britânica para iniciar estudos em setembro."
     },
     {
       "titulo": "'Nossa amizade é tão forte que decidimos nos casar': as amigas que optaram por união platônica",
@@ -253,7 +221,23 @@
       "link": "https://www.bbc.com/portuguese/articles/cx2v452enp1o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 18 Aug 2026 12:11:43 GMT",
       "tema": "entretenimento",
-      "resumo": "Duas amigas de longa data resolvem se casar judicialmente, formalizando uma união platônica que consideram tão importante quanto qualquer outro relacionamento."
+      "resumo": "Duas mulheres que se tornaram amigas aos 12 anos decidiram se casar judicialmente para formalizar uma união platônica profunda e duradoura."
+    },
+    {
+      "titulo": "Morre aos 101 anos o preso mais velho dos EUA — que recebeu oito vezes a 'última refeição', mas não foi executado",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c62ey90gn86o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 19 Aug 2026 18:40:11 GMT",
+      "tema": "mundo",
+      "resumo": "Falece aos 101 anos o presidiário mais velho dos EUA, que cumpriu a pena mais longa no país e recebeu múltiplas sentenças de morte que não foram executadas."
+    },
+    {
+      "titulo": "Maior acesso a armas aumentou violência política no Brasil, aponta socióloga",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c2kyvv53eyqo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 19 Aug 2026 16:54:43 GMT",
+      "tema": "brasil",
+      "resumo": "Socióloga aponta que maior acesso a armas contribuiu para aumento da violência política no Brasil, particularmente em anos eleitorais e em disputas locais."
     },
     {
       "titulo": "A indignação com os danos ambientais causados ​​por um homem com sua caminhonete em ecossistema único na Argentina",
@@ -261,15 +245,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cq56nw6105go?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 19 Aug 2026 12:25:21 GMT",
       "tema": "mundo",
-      "resumo": "Danos ambientais causados por um homem com sua caminhonete geram indignação em ecossistema único da Argentina, a Pampa del Leoncito, um antigo leito de lago."
-    },
-    {
-      "titulo": "Glória Menezes: relembre papéis marcantes da 'primeira-dama' que comoveu gerações e ajudou a escrever a história da TV brasileira",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm2g729w9j9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 18 Aug 2026 22:31:44 GMT",
-      "tema": "cultura",
-      "resumo": "Falece aos 91 anos a atriz Glória Menezes, intérprete de papéis marcantes que ajudou a escrever a história da televisão brasileira."
+      "resumo": "Danos ambientais causados por veículo em ecossistema único da Argentina geram indignação; a Pampa del Leoncito é uma planície especial formada pelo antigo leito de um lago seco."
     }
   ]
 }
