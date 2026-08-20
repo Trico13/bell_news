@@ -1,75 +1,107 @@
 {
-  "gerado_em": "2026-08-19T21:23:31.514Z",
+  "gerado_em": "2026-08-20T10:28:08.211Z",
   "modo": "ia",
   "clima": {
-    "max": 30.7,
-    "min": 15.6,
+    "max": 31.6,
+    "min": 15.8,
     "chuva": 0
   },
   "noticias": [
     {
-      "titulo": "Humaitá decreta situação de emergência por seca do Rio Madeira",
+      "titulo": "VÍDEO: arraia dá saltos ao lado de banhistas no mar da Praia de Boa Viagem, em Niterói",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/08/19/humaita-decreta-situacao-de-emergencia-por-seca-do-rio-madeira.ghtml",
-      "hora": "Wed, 19 Aug 2026 21:14:07 -0000",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/20/arraia-da-saltos-ao-lado-de-banhistas-no-mar-da-praia-de-boa-viagem-em-niteroi.ghtml",
+      "hora": "Thu, 20 Aug 2026 10:17:40 -0000",
+      "tema": "entretenimento",
+      "resumo": "Uma arraia foi avistada dando saltos próximo a banhistas na Praia de Boa Viagem em Niterói, cena registrada por frequentadores da praia."
+    },
+    {
+      "titulo": "Por que fundador de gigante do setor imobiliário foi condenado à prisão perpétua na China",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/economia/noticia/2026/08/20/por-que-fundador-de-gigante-do-setor-imobiliario-foi-condenado-a-prisao-perpetua-na-china.ghtml",
+      "hora": "Thu, 20 Aug 2026 10:14:09 -0000",
+      "tema": "mundo",
+      "resumo": "Fundador do grupo imobiliário chinês Evergrande, afetado por crise do setor, foi condenado à prisão perpétua na China."
+    },
+    {
+      "titulo": "Operação cumpre mandados contra esquema de desvio e revenda ilegal de combustíveis, na Grande João Pessoa",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/08/20/operacao-cumpre-mandados-contra-esquema-de-desvio-e-revenda-ilegal-de-combustiveis-na-grande-joao-pessoa.ghtml",
+      "hora": "Thu, 20 Aug 2026 10:10:43 -0000",
       "tema": "brasil",
-      "resumo": "A cidade de Humaitá, no Amazonas, decretou situação de emergência devido à seca crítica do Rio Madeira, que afeta o abastecimento e a economia regional."
+      "resumo": "Polícia Civil e Federal realizam operação para desmantelar esquema de desvio e revenda ilegal de combustíveis na região de João Pessoa."
     },
     {
-      "titulo": "Campinas Innovation Week amplia conexões internacionais em inovação",
+      "titulo": "Rolê no Alto Tietê: fim de semana tem show de KL Jay e stand-up com Igorfina ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/acic/noticia/2026/08/19/campinas-innovation-week-amplia-conexoes-internacionais-em-inovacao.ghtml",
-      "hora": "Wed, 19 Aug 2026 21:12:37 -0000",
+      "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/08/20/role-no-alto-tiete-fim-de-semana-tem-show-de-kl-jay-e-stand-up-com-igorfina.ghtml",
+      "hora": "Thu, 20 Aug 2026 10:05:54 -0000",
       "tema": "sp",
-      "resumo": "A Campinas Innovation Week 2026 expandirá conexões internacionais em inovação, dedicando uma trilha a parcerias além das fronteiras nacionais."
+      "resumo": "Agenda cultural do Alto Tietê oferece shows e apresentações de stand-up no fim de semana, com destaque para KL Jay e Igorfina."
     },
     {
-      "titulo": "Caminhoneiro de Itapetininga deixa Argentina após 31 dias retido por nevasca e chega ao Chile",
+      "titulo": "Sete das 23 vítimas de acidente no Paraná são veladas em despedida coletiva em ginásio em Imbituva",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/08/19/caminhoneiro-de-itapetininga-deixa-argentina-apos-31-dias-retido-por-nevasca-e-chega-ao-chile.ghtml",
-      "hora": "Wed, 19 Aug 2026 21:07:29 -0000",
-      "tema": "sp",
-      "resumo": "Um caminhoneiro de Itapetininga conseguiu seguir viagem para o Chile após ficar 31 dias retido em posto aduaneiro na Argentina devido a nevasca severa."
-    },
-    {
-      "titulo": "Campinas Innovation Week debate pessoas e futuro do trabalho",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/acic/noticia/2026/08/19/campinas-innovation-week-debate-pessoas-e-futuro-do-trabalho.ghtml",
-      "hora": "Wed, 19 Aug 2026 21:07:07 -0000",
-      "tema": "sp",
-      "resumo": "A Campinas Innovation Week 2026 discutirá o papel das pessoas, cultura organizacional e ambientes colaborativos no futuro do trabalho."
-    },
-    {
-      "titulo": "Incêndio de grandes proporções em empresa de reciclagem mobiliza bombeiros há dois dias em Saquarema",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/08/19/incendio-de-grandes-proporcoes-em-empresa-de-reciclagem-mobiliza-bombeiros-ha-dois-dias-em-saquarema.ghtml",
-      "hora": "Wed, 19 Aug 2026 21:06:09 -0000",
+      "link": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/20/vitimas-acidente-23-mortes-veladas-ginasio-parana.ghtml",
+      "hora": "Thu, 20 Aug 2026 10:03:14 -0000",
       "tema": "brasil",
-      "resumo": "Um incêndio de grandes proporções em empresa de reciclagem em Saquarema mobiliza cerca de 30 bombeiros e mantém combate ativo há mais de um dia."
+      "resumo": "Vítimas de acidente entre micro-ônibus e carreta na BR-373 no Paraná são veladas em cerimônia coletiva; o acidente deixou 23 mortos."
     },
     {
-      "titulo": "Campinas Innovation Week debate IA, inovação e futuro do varejo ",
+      "titulo": "'Não é IA, aconteceu comigo', relata jovem derrubada por rajada de vento no Ceará",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/acic/noticia/2026/08/19/campinas-innovation-week-debate-ia-inovacao-e-futuro-do-varejo.ghtml",
-      "hora": "Wed, 19 Aug 2026 21:00:31 -0000",
-      "tema": "sp",
-      "resumo": "A Campinas Innovation Week 2026 incluirá debate sobre transformação digital, inteligência artificial e novas estratégias para crescimento empresarial."
-    },
-    {
-      "titulo": "Polícia Militar apreende drogas e equipamentos usados pelo tráfico em Volta Redonda",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/19/policia-militar-apreende-drogas-e-equipamentos-usados-pelo-trafico-em-volta-redonda.ghtml",
-      "hora": "Wed, 19 Aug 2026 21:00:31 -0000",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/08/20/nao-e-ia-aconteceu-comigo-relata-jovem-derrubada-por-rajada-de-vento-no-ceara.ghtml",
+      "hora": "Thu, 20 Aug 2026 10:01:35 -0000",
       "tema": "brasil",
-      "resumo": "Polícia Militar apreendeu drogas, rádios comunicadores e materiais de tráfico em operação realizada em Volta Redonda, Rio de Janeiro."
+      "resumo": "Jovem de 25 anos foi derrubada por ventos fortes no Ceará ao abrir um portão e relata ter se levantado rapidamente para evitar ser atropelada."
     },
     {
-      "titulo": "Qualifica PG abre cinco novos cursos gratuitos; veja como se inscrever",
+      "titulo": "Trabalhadores rejeitam reajuste de 3% e fazem paralisação nas rotas do Distrito em Manaus",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/19/qualifica-pg-abre-cinco-novos-cursos-gratuitos-veja-como-se-inscrever.ghtml",
-      "hora": "Wed, 19 Aug 2026 21:00:08 -0000",
-      "tema": "sp",
-      "resumo": "Praia Grande abre inscrições para cinco novos cursos de capacitação gratuita através do projeto Qualifica PG, até 4 de setembro."
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/08/20/trabalhadores-rejeitam-reajuste-de-3percent-e-fazem-paralisacao-nas-rotas-do-distrito-em-manaus.ghtml",
+      "hora": "Thu, 20 Aug 2026 10:01:32 -0000",
+      "tema": "brasil",
+      "resumo": "Trabalhadores do transporte especial em Manaus rejeitam proposta de reajuste salarial de 3% e realizam paralisação nas rotas do Distrito Industrial."
+    },
+    {
+      "titulo": "Denúncia fofa: menino de 5 anos que procurou a PM após ser empurrado pelo tio da mesma idade teve ajuda de advogada no ‘caso’ ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/08/20/denuncia-fofa-menino-de-5-anos-que-procurou-a-pm-apos-ser-empurrado-pelo-tio-da-mesma-idade-teve-ajuda-de-advogada-no-caso.ghtml",
+      "hora": "Thu, 20 Aug 2026 10:01:09 -0000",
+      "tema": "entretenimento",
+      "resumo": "Criança de 5 anos procura a Polícia Militar após ser empurrada pelo tio também de 5 anos; caso ganhou repercussão e recreação bem-humorada em audiência."
+    },
+    {
+      "titulo": "Eu Te Explico #194: Novo protocolo do SUS implementa exame que auxilia no rastreio e diagnóstico precoce do câncer colorretal",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/podcast/eu-te-explico/noticia/2026/08/20/eu-te-explico-194-novo-protocolo-do-sus-implementa-exame-que-auxilia-no-rastreio-e-diagnostico-precoce-do-cancer-colorretal.ghtml",
+      "hora": "Thu, 20 Aug 2026 10:00:20 -0000",
+      "tema": "brasil",
+      "resumo": "Ministério da Saúde adota novo protocolo que inclui o Teste Imunoquímico Fecal no SUS para rastreamento de câncer colorretal a partir de setembro."
+    },
+    {
+      "titulo": "De R$ 0 a quase R$ 10 milhões: veja o patrimônio dos candidatos ao Senado pelo Acre",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/20/de-r-0-a-quase-r-10-milhoes-veja-o-patrimonio-dos-candidatos-ao-senado-pelo-acre.ghtml",
+      "hora": "Thu, 20 Aug 2026 10:00:16 -0000",
+      "tema": "brasil",
+      "resumo": "Candidatos ao Senado pelo Acre nas eleições de 2026 declararam patrimônios que variam de zero a 9,8 milhões de reais."
+    },
+    {
+      "titulo": "Corpo de Leandro Henrique será velado no Jockey Club Brasileiro; Flamengo vai homenagear atleta no Maracanã",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/20/corpo-de-leandro-henrique-sera-velado-no-jockey-club-brasileiro.ghtml",
+      "hora": "Thu, 20 Aug 2026 09:55:29 -0000",
+      "tema": "brasil",
+      "resumo": "Jóquei Leandro Henrique, que faleceu após queda durante prova, será velado no Hipódromo da Gávea; Flamengo o homenageará no Maracanã."
+    },
+    {
+      "titulo": "Pirarucu gigante vira atração e faz parque de Goiânia ganhar novo nome em mapas digitais",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/08/20/pirarucu-gigante-vira-atracao-e-faz-parque-de-goiania-ganhar-novo-nome-em-mapas-digitais.ghtml",
+      "hora": "Thu, 20 Aug 2026 09:52:18 -0000",
+      "tema": "entretenimento",
+      "resumo": "Pirarucu gigante avistado em represa do Parque Licardino Ney em Goiânia virou atração inusitada e ganhou apelido em aplicativos de GPS."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -77,7 +109,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "O evento Bike Brasil na Zona Sul de São Paulo reúne ciclistas profissionais e amadores para competições de manobras e atividades para crianças."
+      "resumo": "Festival de bikes na Zona Sul de São Paulo oferece competições de manobras radicais e atividades para crianças no pavilhão do São Paulo Expo."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -85,15 +117,15 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado de Agudos percorreu 20 km de bicicleta até Bauru e enfrentou fila de 12 horas para concorrer a uma de 500 vagas de emprego."
+      "resumo": "Desempregado percorre 20 km de bicicleta de Agudos a Bauru e passa 12 horas em fila para concorrer a uma de 500 vagas de emprego oferecidas."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "cultura",
-      "resumo": "O cantor Zé Ramalho apresentou sucessos de sua carreira e interpretou canções de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
+      "tema": "sp",
+      "resumo": "Cantor Zé Ramalho apresenta sucessos e músicas de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
@@ -101,7 +133,7 @@
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "A Polícia Rodoviária Federal apreendeu 927 quilos de maconha em carreta abordada em Mato Grosso do Sul que seria entregue em São Paulo."
+      "resumo": "Polícia Rodoviária Federal apreende 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo; motorista confessou tráfico."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -109,15 +141,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina com entrada gratuita, brincadeiras e atividades para cães e gatos."
+      "resumo": "Terceira edição da Festa Junina Canina acontece em Jundiaí com entrada gratuita, oferecendo brincadeiras e atividades para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
-      "tema": "entretenimento",
-      "resumo": "O Maior Baile do Mundo em São Paulo espera reunir 35 mil pessoas para 10 horas de shows com Anitta e diversos MCs."
+      "tema": "sp",
+      "resumo": "Festival Maior Baile do Mundo em São Paulo espera 35 mil pessoas com 10 horas de shows, contando com Anitta e outros MCs entre as atrações."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -125,7 +157,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializou a militante sindical Vera Lúcia como candidata à Presidência da República nas eleições."
+      "resumo": "PSTU oficializa Vera Lúcia, militante sindical, como candidata à Presidência da República nas eleições presidenciais."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -133,7 +165,15 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A 15ª edição da Feiccad, feira de imóvel e construção, acontece em Jundiaí até domingo com entrada gratuita mediante credenciamento."
+      "resumo": "15ª edição da Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração ocorre em Jundiaí até domingo com entrada gratuita."
+    },
+    {
+      "titulo": "Caso Vitória: trio acusado de envolvimento no crime é transferido para Tremembé",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2018/07/20/caso-vitoria-trio-acusado-de-envolvimento-no-crime-e-transferido-para-tremembe.ghtml",
+      "hora": "Fri, 20 Jul 2018 18:44:51 -0000",
+      "tema": "sp",
+      "resumo": "Três acusados de envolvimento na morte da menina Vitória Gabrielly são transferidos para presídios em Tremembé após prisão em junho."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -141,7 +181,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diversos cargos do Executivo municipal."
+      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos do Executivo até 31 de julho, com provas realizadas na própria cidade."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -149,15 +189,39 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua reencontra sua família após 37 anos separados, graças a um boletim de ocorrência que permitiu o rastreamento em Campinas."
+      "resumo": "Homem em situação de rua em Campinas reencontra família após 37 anos de separação, reunião que ocorreu graças a um boletim de ocorrência relacionado a um roubo."
     },
     {
-      "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
-      "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
-      "tema": "sp",
-      "resumo": "Motorista de 75 anos morre em acidente em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
+      "titulo": "Por que impacto da IA em eleições pode estar sendo exagerado, segundo pesquisador de Oxford",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c0l52n6ddkdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 20 Aug 2026 07:35:07 GMT",
+      "tema": "checagem",
+      "resumo": "Pesquisador de Oxford sugere que o impacto da inteligência artificial nas eleições pode estar sendo superestimado, já que a desinformação já é abundante na internet independentemente da IA."
+    },
+    {
+      "titulo": "Por que existe o Dia Mundial do Mosquito — e o que isso tem a ver com o Nobel",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c8xnwz8g48zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 20 Aug 2026 09:57:56 GMT",
+      "tema": "cultura",
+      "resumo": "O Dia Mundial do Mosquito, celebrado em 20 de agosto, marca a descoberta dos mecanismos de transmissão da malária, uma conquista científica que possivelmente salvou milhões de vidas."
+    },
+    {
+      "titulo": "Brigou no avião? Você poderá ficar até um ano proibido de voar; entenda, em cinco pontos, a nova regra da Anac",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czrjdp484mlo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 20 Aug 2026 09:23:31 GMT",
+      "tema": "brasil",
+      "resumo": "Nova regra da Anac entra em vigor em setembro e prevê proibição de até um ano para passageiros envolvidos em brigas em aviões, além de multas que chegam a R$ 17,5 mil para conflitos menos graves."
+    },
+    {
+      "titulo": "Por que fundador de gigante do setor imobiliário foi condenado à prisão perpétua na China",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwy49zqk7zgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 20 Aug 2026 09:38:14 GMT",
+      "tema": "mundo",
+      "resumo": "Fundador de importante empresa imobiliária chinesa recebe condenação à prisão perpétua, marcando um ponto crítico nas consequências do colapso da Evergrande na economia da China."
     },
     {
       "titulo": "Maior acesso a armas aumentou violência política no Brasil, aponta socióloga",
@@ -165,7 +229,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c2kyvv53eyqo?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 19 Aug 2026 16:54:43 GMT",
       "tema": "brasil",
-      "resumo": "Socióloga aponta que maior acesso a armas está correlacionado com aumento da violência política no Brasil, especialmente em anos eleitorais."
+      "resumo": "Socióloga aponta que maior acesso a armas está associado ao aumento da violência política no Brasil, fenômeno que tende a se intensificar em anos eleitorais e tem raízes principalmente em disputas locais."
+    },
+    {
+      "titulo": "Príncipe Harry e Meghan vão voltar a morar no Reino Unido",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c1d1wknrd41o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 19 Aug 2026 22:12:03 GMT",
+      "tema": "entretenimento",
+      "resumo": "Príncipe Harry e Meghan planejam se mudar de volta ao Reino Unido, com seus filhos já matriculados em escola britânica para iniciarem estudos em setembro."
     },
     {
       "titulo": "Morre aos 101 anos o preso mais velho dos EUA — que recebeu oito vezes a 'última refeição', mas não foi executado",
@@ -173,55 +245,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c62ey90gn86o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 19 Aug 2026 18:40:11 GMT",
       "tema": "mundo",
-      "resumo": "Morre aos 101 anos o prisioneiro mais velho dos Estados Unidos, que cumpriu uma das penas mais longas do país antes de falecer de causas naturais."
-    },
-    {
-      "titulo": "Descoberta na Foz do Amazonas só será 'passaporte para o futuro' se modelo adotado no pré-sal mudar, diz ex-diretor da Petrobras",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckgdxxxj3p4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 19 Aug 2026 07:57:34 GMT",
-      "tema": "brasil",
-      "resumo": "Ex-diretor da Petrobras avalia descoberta de petróleo na Foz do Amazonas como promissora, mas alerta para necessidade de mudanças no modelo de exploração adotado no pré-sal."
-    },
-    {
-      "titulo": "A indignação com os danos ambientais causados ​​por um homem com seu caminhão em ecossistema único na Argentina",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq56nw6105go?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 19 Aug 2026 12:25:21 GMT",
-      "tema": "mundo",
-      "resumo": "Danos ambientais causados por homem que dirigiu caminhão em ecossistema único da Argentina geram indignação pública."
-    },
-    {
-      "titulo": "Glória Menezes: relembre papéis marcantes da 'primeira-dama' que comoveu gerações e ajudou a escrever a história da TV brasileira",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm2g729w9j9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 18 Aug 2026 22:31:44 GMT",
-      "tema": "cultura",
-      "resumo": "Atriz Glória Menezes, figura marcante da televisão brasileira, falece aos 91 anos no Rio de Janeiro."
-    },
-    {
-      "titulo": "Os gêmeos que se casaram com irmãs gêmeas em celebração feita por padres gêmeos e com coroinhas gêmeos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckg4q1j2z04o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 19 Aug 2026 08:26:34 GMT",
-      "tema": "entretenimento",
-      "resumo": "Casamento entre dois pares de gêmeos, celebrado por padres gêmeos e com coroinhas gêmeos, viraliza nas redes sociais na Índia."
-    },
-    {
-      "titulo": "'Geração Lava Jato' prefere Flávio, e idosos podem ser 'novo Nordeste' de Lula, diz diretora do Datafolha",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cx2r19g4pnxo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 18 Aug 2026 08:03:49 GMT",
-      "tema": "brasil",
-      "resumo": "Diretora do Datafolha analisa tendências eleitorais para 2026, apontando diferenças entre grupos etários e o papel da rejeição aos candidatos na disputa."
-    },
-    {
-      "titulo": "Eleição 2026: quais são as propostas dos candidatos?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm2gryker9mo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 17 Aug 2026 18:38:50 GMT",
-      "tema": "brasil",
-      "resumo": "BBC News Brasil publica especial interativo com propostas e posicionamentos dos candidatos presidenciais em oito áreas temáticas."
+      "resumo": "Falece aos 101 anos o prisioneiro mais velho dos EUA, que cumpriu a pena mais longa do país antes de morrer de causas naturais."
     },
     {
       "titulo": "'Nossa amizade é tão forte que decidimos nos casar': as amigas que optaram por união platônica",
@@ -229,7 +253,23 @@
       "link": "https://www.bbc.com/portuguese/articles/cx2v452enp1o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 18 Aug 2026 12:11:43 GMT",
       "tema": "entretenimento",
-      "resumo": "Duas amigas de longa data decidem se casar judicialmente em união platônica, formalizando um relacionamento muito importante para ambas."
+      "resumo": "Duas amigas de longa data resolvem se casar judicialmente, formalizando uma união platônica que consideram tão importante quanto qualquer outro relacionamento."
+    },
+    {
+      "titulo": "A indignação com os danos ambientais causados ​​por um homem com sua caminhonete em ecossistema único na Argentina",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq56nw6105go?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 19 Aug 2026 12:25:21 GMT",
+      "tema": "mundo",
+      "resumo": "Danos ambientais causados por um homem com sua caminhonete geram indignação em ecossistema único da Argentina, a Pampa del Leoncito, um antigo leito de lago."
+    },
+    {
+      "titulo": "Glória Menezes: relembre papéis marcantes da 'primeira-dama' que comoveu gerações e ajudou a escrever a história da TV brasileira",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm2g729w9j9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 18 Aug 2026 22:31:44 GMT",
+      "tema": "cultura",
+      "resumo": "Falece aos 91 anos a atriz Glória Menezes, intérprete de papéis marcantes que ajudou a escrever a história da televisão brasileira."
     }
   ]
 }
