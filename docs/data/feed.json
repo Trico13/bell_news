@@ -1,99 +1,75 @@
 {
-  "gerado_em": "2026-08-21T15:31:14.574Z",
+  "gerado_em": "2026-08-21T21:22:30.944Z",
   "modo": "ia",
   "clima": {
-    "max": 25.3,
-    "min": 14.8,
+    "max": 25.7,
+    "min": 14.7,
     "chuva": 2
   },
   "noticias": [
     {
-      "titulo": "Ônibus levando 23 trabalhadores colide com caminhões estacionados e deixa feridos em SC ",
+      "titulo": "Após retomar conversas com os EUA, prioridade do Brasil é ampliar lista de exceções ao tarifaço, diz ministro ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/21/onibus-com-23-trabalhadores-colide-com-caminhoes-xanxere-sc.ghtml",
-      "hora": "Fri, 21 Aug 2026 15:19:47 -0000",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/08/21/apos-retomar-conversas-com-os-eua-prioridade-do-brasil-e-ampliar-lista-de-excecoes-ao-tarifaco-diz-ministro.ghtml",
+      "hora": "Fri, 21 Aug 2026 21:12:57 -0000",
       "tema": "brasil",
-      "resumo": "Um ônibus com 23 trabalhadores de frigorífico colidiu com dois caminhões estacionados em Xanxerê, Santa Catarina, deixando 21 feridos leves e dois com ferimentos graves."
+      "resumo": "Ministro do Desenvolvimento busca ampliar exceções tarifárias junto aos EUA após retomada de conversas, visando reduzir impactos das tarifas sobre a economia brasileira."
     },
     {
-      "titulo": "Gabriel Azevedo diz que quer mais conexão entre o Triângulo e Belo Horizonte",
+      "titulo": "VÍDEO: Redemoinho gigante impressiona na GO-210",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/eleicoes/2026/noticia/2026/08/21/gabriel-azevedo-diz-que-quer-mais-conexao-entre-o-triangulo-e-belo-horizonte.ghtml",
-      "hora": "Fri, 21 Aug 2026 15:19:38 -0000",
-      "tema": "brasil",
-      "resumo": "Candidato ao governo de Minas Gerais apresenta proposta de maior integração entre o Triângulo Mineiro e Belo Horizonte durante campanha."
+      "link": "https://g1.globo.com/go/goias/noticia/2026/08/21/video-redemoinho-gigante-impressiona-na-go-210.ghtml",
+      "hora": "Fri, 21 Aug 2026 21:11:48 -0000",
+      "tema": "mundo",
+      "resumo": "Redemoinho de grandes proporções foi registrado em vídeo no interior de Goiás, impressionando pela força e tamanho da formação de ar."
     },
     {
-      "titulo": "Explosão em tanque com enxofre provoca incêndio em fábrica de ração em Campo Grande",
+      "titulo": "Por que a definição sobre o autismo virou ponto central de uma batalha",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/21/explosao-em-tanque-com-enxofre-provoca-incendio-em-fabrica-de-racao-em-campo-grande.ghtml",
-      "hora": "Fri, 21 Aug 2026 15:18:12 -0000",
-      "tema": "brasil",
-      "resumo": "Uma explosão em tanque com enxofre provocou incêndio em fábrica de ração em Campo Grande, afetando três funcionários que inalaram fumaça."
-    },
-    {
-      "titulo": "Fernando de Noronha de tirar o fôlego: piloto faz voos rasantes de drone para homenagear ilha",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/08/21/fernando-de-noronha-de-tirar-o-folego-piloto-faz-voos-rasantes-de-drone-para-homenagear-ilha.ghtml",
-      "hora": "Fri, 21 Aug 2026 15:16:15 -0000",
+      "link": "https://g1.globo.com/saude/noticia/2026/08/21/por-que-a-definicao-sobre-o-autismo-virou-ponto-central-de-uma-batalha.ghtml",
+      "hora": "Fri, 21 Aug 2026 21:09:55 -0000",
       "tema": "cultura",
-      "resumo": "Piloto de drone produziu série de vídeos com imagens aéreas de Fernando de Noronha para homenagear os 523 anos da ilha."
+      "resumo": "Debate sobre a definição do autismo ganhou centralidade em discussões atuais, refletindo perspectivas sobre neurodiversidade e como a condição é compreendida na sociedade."
     },
     {
-      "titulo": "Academia Paraense de Letras é alvo de invasões e furtos em Belém",
+      "titulo": "Festival do Açaí: Primeira noite tem show da dupla João Lucas & Marcelo em Feijó",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/08/21/academia-paraense-de-letras-e-alvo-de-invasoes-e-furtos-em-belem.ghtml",
-      "hora": "Fri, 21 Aug 2026 15:13:44 -0000",
-      "tema": "brasil",
-      "resumo": "A Academia Paraense de Letras, prédio histórico em Belém, tem sofrido com invasões e furtos recorrentes."
-    },
-    {
-      "titulo": "Golpe do falso reembolso: Iaspi alerta para criminosos que pedem dados de beneficiários pelo WhatsApp",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/08/21/golpe-falso-reembolso-iaspi-whatsapp.ghtml",
-      "hora": "Fri, 21 Aug 2026 15:13:22 -0000",
-      "tema": "checagem",
-      "resumo": "Instituto de saúde do Piauí alerta sobre golpistas que se passam por servidores oferecendo falsos reembolsos a beneficiários pelo WhatsApp."
-    },
-    {
-      "titulo": "Sicoob Saúde 2026 abre inscrições para corrida pelo Dia Mundial do Coração",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ro/rondonia/especial-publicitario/sicoob-credisul/noticia/2026/08/21/sicoob-saude-2026-abre-inscricoes-para-corrida-pelo-dia-mundial-do-coracao.ghtml",
-      "hora": "Fri, 21 Aug 2026 15:09:35 -0000",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/08/21/programacao-do-festival-do-acai-em-feijo.ghtml",
+      "hora": "Fri, 21 Aug 2026 21:06:59 -0000",
       "tema": "sp",
-      "resumo": "Evento Sicoob Saúde 2026 abre inscrições para corrida pelo Dia Mundial do Coração, mudando a modalidade de passeio ciclístico para corrida."
+      "resumo": "A dupla João Lucas & Marcelo se apresenta na primeira noite da 27ª edição do Festival do Açaí de Feijó, trazendo sucessos para o público."
     },
     {
-      "titulo": "Concurso para PM e Bombeiros na Bahia tem 40 vagas para médicos e dentistas com salário de até R$ 9,9 mil",
+      "titulo": "Mais de 3 mil CNHs estão esquecidas no Detran de MT; veja os riscos de não retirar",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/08/21/concurso-para-pm-e-bombeiros-na-bahia-tem-40-vagas-para-medicos-e-dentistas-com-salario-de-ate-r-99-mil.ghtml",
-      "hora": "Fri, 21 Aug 2026 15:07:13 -0000",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/21/mais-de-3-mil-cnhs-estao-esquecidas-no-detran-de-mt-veja-os-riscos-de-nao-retirar.ghtml",
+      "hora": "Fri, 21 Aug 2026 21:06:54 -0000",
       "tema": "brasil",
-      "resumo": "Concurso para médicos e dentistas nos quadros de oficiais de saúde da Polícia Militar e Corpo de Bombeiros da Bahia oferece 40 vagas com salário até R$ 9,9 mil."
+      "resumo": "Mais de três mil carteiras de habilitação permanecem não retiradas no Detran de Cuiabá, deixando motoristas sem um documento essencial para dirigir."
     },
     {
-      "titulo": "Desembargadores aprovam projeto para criar 8 novos cargos no Tribunal de Justiça; proposta vai para Aleam",
+      "titulo": "Dia D de Multivacinação conta com oito pontos em Rio Branco neste sábado (22); Veja LISTA",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/08/21/desembargadores-aprovam-projeto-para-criar-8-novos-cargos-no-tribunal-de-justica-proposta-vai-para-aleam.ghtml",
-      "hora": "Fri, 21 Aug 2026 15:05:57 -0000",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/08/21/dia-d-de-multivacinacao-conta-com-oito-pontos-em-rio-branco-veja-lista.ghtml",
+      "hora": "Fri, 21 Aug 2026 21:03:25 -0000",
       "tema": "brasil",
-      "resumo": "Desembargadores do Tribunal de Justiça do Amazonas aprovaram anteprojeto de lei para criação de oito novos cargos de desembargador."
+      "resumo": "Rio Branco realiza Dia D de Multivacinação com oito pontos de atendimento, oferecendo vinte tipos de imunizantes do calendário nacional."
     },
     {
-      "titulo": "PM flagra plantação de maconha em Mogi das Cruzes",
+      "titulo": "Secretário do Exército dos EUA deve deixar o cargo até o fim do ano, diz jornal",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/08/21/pm-flagra-plantacao-de-maconha-em-mogi-das-cruzes.ghtml",
-      "hora": "Fri, 21 Aug 2026 15:04:23 -0000",
-      "tema": "sp",
-      "resumo": "Polícia Militar encontrou e apreendeu plantação de maconha com quase 12 quilos em Mogi das Cruzes."
+      "link": "https://g1.globo.com/mundo/noticia/2026/08/21/secretario-do-exercito-dos-eua-deve-deixar-o-cargo-ate-o-fim-do-ano-diz-jornal.ghtml",
+      "hora": "Fri, 21 Aug 2026 21:02:58 -0000",
+      "tema": "mundo",
+      "resumo": "O secretário do Exército dos EUA, Dan Driscoll, deve deixar o cargo até o fim de 2024, segundo informações do jornal The Wall Street Journal."
     },
     {
-      "titulo": "Força-tarefa fecha comércios e apreende caça-níqueis e bebidas no Itatinga, em Campinas",
+      "titulo": "Estudantes do Amazonas vão à Justiça após UEA acabar com reserva de vagas para candidatos do interior",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/21/forca-tarefa-interdita-comercios-e-apreende-caca-niqueis-e-bebidas-no-itatinga-em-campinas.ghtml",
-      "hora": "Fri, 21 Aug 2026 15:02:36 -0000",
-      "tema": "sp",
-      "resumo": "Força-tarefa interditou e autuou cerca de 20 estabelecimentos no Jardim Itatinga em Campinas, apreendendo caça-níqueis e bebidas irregulares."
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/08/21/estudantes-do-amazonas-vao-a-justica-apos-uea-acabar-com-reserva-de-vagas-para-candidatos-do-interior.ghtml",
+      "hora": "Fri, 21 Aug 2026 21:01:19 -0000",
+      "tema": "brasil",
+      "resumo": "Estudantes do interior do Amazonas recorrem à Justiça contra mudanças nas regras de reserva de vagas da Universidade do Estado Amazonas."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -101,7 +77,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival de bikes reunirá ciclistas profissionais e amadores na Zona Sul de São Paulo para competições de manobras radicais e atividades recreativas."
+      "resumo": "Festival de bikes acontece em São Paulo com competições de manobras radicais e atividades para crianças, reunindo ciclistas profissionais e amadores."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -109,23 +85,15 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado percorreu 20 quilômetros de bicicleta para participar de seleção com 500 vagas de emprego em Bauru."
+      "resumo": "Desempregado de Agudos percorre 20 quilômetros de bicicleta para participar de processo seletivo com 500 vagas em Bauru."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "cultura",
-      "resumo": "Zé Ramalho apresentou sucessos de sua carreira e homenageou Raul Seixas durante a 39ª Festa Junina de Sorocaba."
-    },
-    {
-      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
-      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "Polícia Rodoviária Federal apreendeu 927 quilos de maconha em carreta em Mato Grosso do Sul que seria entregue em São Paulo."
+      "resumo": "Zé Ramalho apresenta sucessos de sua carreira e canções de Raul Seixas na Festa Junina de Sorocaba."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -133,15 +101,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realizará terceira edição da Festa Junina Canina com entrada gratuita, com brincadeiras e atividades para cães e gatos."
+      "resumo": "Jundiaí realiza terceira edição da Festa Junina Canina com entrada gratuita, trazendo brincadeiras e diversão para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
-      "tema": "entretenimento",
-      "resumo": "Festival Maior Baile do Mundo acontece em São Paulo com apresentações de Anitta e outras atrações musicais para 35 mil pessoas."
+      "tema": "sp",
+      "resumo": "Festival Maior Baile do Mundo acontece em São Paulo com Anitta e diversos MCs, esperando reunir 35 mil pessoas para dez horas de apresentações."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -157,7 +125,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "15ª edição da Feira do Imóvel, Construção e Decoração ocorre em Jundiaí com entrada gratuita e programação até domingo."
+      "resumo": "Jundiaí sedia 15ª edição da feira de imóvel, construção e decoração até domingo, com entrada gratuita mediante credenciamento."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -165,7 +133,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos do Executivo até 31 de julho, com provas realizadas na cidade."
+      "resumo": "A prefeitura de Tabapuã abriu inscrições para concurso público com 34 vagas em diferentes funções do Executivo, com prazo até 31 de julho."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -173,7 +141,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência que permitiu rastreá-lo."
+      "resumo": "Homem em situação de rua em Campinas reencontra família após 37 anos de separação, graças a um boletim de ocorrência que permitiu rastreá-lo."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -181,15 +149,31 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Motorista de 75 anos morre em acidente de trânsito em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
+      "resumo": "Motorista de 75 anos morre em acidente de trânsito dias antes de seu filho ser ordenado bispo em Itapetininga."
     },
     {
-      "titulo": "Investigações contra Lulinha devem continuar no STF?",
+      "titulo": "O que Lula e Trump falaram no primeiro telefonema após meses de crise",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqjx5zp427go?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 21 Aug 2026 15:00:56 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c20eql73w4do?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 21 Aug 2026 18:36:28 GMT",
       "tema": "brasil",
-      "resumo": "A Procuradora-Geral da República solicitou que inquéritos sejam transferidos para primeira instância, pedido considerado atípico por especialistas em Direito."
+      "resumo": "Lula e Trump conversam pela primeira vez em meses, num contexto de tensões diplomáticas entre os dois países."
+    },
+    {
+      "titulo": "O que é a doença de Creutzfeldt-Jakob, diagnosticada no influenciador Lito Sousa",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cx2j8ylddrdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 21 Aug 2026 16:09:55 GMT",
+      "tema": "cultura",
+      "resumo": "Especialista explica a doença de Creutzfeldt-Jakob, condição rara diagnosticada no influenciador Lito Sousa, e suas diferenças em relação a outras enfermidades neurológicas."
+    },
+    {
+      "titulo": "Por que a definição sobre o autismo virou ponto central de uma batalha",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c1w1rg95er9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 21 Aug 2026 19:55:42 GMT",
+      "tema": "mundo",
+      "resumo": "Debate internacional discute se definir pessoas com características tão variadas sob um único diagnóstico de autismo é apropriado ou problemático."
     },
     {
       "titulo": "Harry e Meghan vão voltar ao Reino Unido: 'Por que agora?' e outras 4 perguntas sobre retorno do casal",
@@ -197,7 +181,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cdj01r1dll3o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 21 Aug 2026 14:18:37 GMT",
       "tema": "entretenimento",
-      "resumo": "O Duque e a Duquesa de Sussex anunciam retorno ao Reino Unido, gerando questões sobre os motivos da decisão repentina."
+      "resumo": "Harry e Meghan retornarão ao Reino Unido após tempo afastados, levantando questões sobre o retorno inesperado do casal e suas implicações com a Família Real."
+    },
+    {
+      "titulo": "Terremoto no Peru: por que América do Sul está vendo tantos abalos sísmicos em sequência?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c4gjn30x817o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 21 Aug 2026 16:44:25 GMT",
+      "tema": "mundo",
+      "resumo": "Sequência recente de terremotos na América do Sul levanta questões sobre se a região está passando por aumento real de atividade sísmica ou se o registro melhorou."
     },
     {
       "titulo": "El Niño deverá ser o mais forte 'de que se tem lembrança', diz serviço meteorológico britânico",
@@ -205,7 +197,7 @@
       "link": "https://www.bbc.com/portuguese/articles/crl7gdjp6rzo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 21 Aug 2026 08:02:36 GMT",
       "tema": "mundo",
-      "resumo": "Serviço meteorológico britânico prevê que o fenômeno El Niño será o mais forte já registrado, com 2027 projetado como possível ano mais quente da história."
+      "resumo": "Serviço meteorológico britânico indica que El Niño deverá ser o mais forte registrado, com previsão de que 2027 seja o ano mais quente já documentado."
     },
     {
       "titulo": "Os pescadores resgatados após 5 dias à deriva agarrados a uma caixa térmica no oceano",
@@ -213,39 +205,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cx2d9n1vq5lo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 21 Aug 2026 12:25:35 GMT",
       "tema": "mundo",
-      "resumo": "Dois pescadores mexicanos são resgatados após cinco dias à deriva no oceano, agarrados a uma caixa térmica sem água potável ou comida."
+      "resumo": "Dois pescadores mexicanos são resgatados após cinco dias à deriva no oceano, agarrados a uma caixa térmica sem água potável ou alimento."
     },
     {
-      "titulo": "Como julgamento de uma mãe acusada de matar os 3 filhos impulsiona o debate sobre psicose pós-parto",
+      "titulo": "Investigações contra Lulinha devem continuar no STF?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c8rn7x81px5o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 20 Aug 2026 17:01:15 GMT",
-      "tema": "mundo",
-      "resumo": "Julgamento de uma mãe acusada de matar os três filhos traz à tona discussão sobre psicose pós-parto, condição psiquiátrica grave que pode causar alucinações e delírios."
-    },
-    {
-      "titulo": "O vendedor de carros da Bélgica que se tornou príncipe após ter parentesco com a família real confirmado",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c1l104vg8vgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 20 Aug 2026 18:11:23 GMT",
-      "tema": "entretenimento",
-      "resumo": "Vendedor de carros belga é oficialmente reconhecido como membro da família real belga após confirmação de parentesco com o príncipe Laurent."
-    },
-    {
-      "titulo": "'Minha prioridade era tirar as crianças dali': a história de uma das imagens mais comoventes do terremoto na Colômbia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crrvg57ver4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 20 Aug 2026 19:41:58 GMT",
-      "tema": "mundo",
-      "resumo": "Equipe do Hospital Universitário del Valle na Colômbia reagiu com rapidez após terremoto, salvando vidas e se reorganizando em meio ao caos."
-    },
-    {
-      "titulo": "Por que impacto da IA em eleições pode estar sendo exagerado, segundo pesquisador de Oxford",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c0l52n6ddkdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 20 Aug 2026 07:35:07 GMT",
-      "tema": "checagem",
-      "resumo": "Pesquisador de Oxford sugere que o impacto da inteligência artificial em eleições pode estar sendo superestimado, já que a internet já é saturada de desinformação."
+      "link": "https://www.bbc.com/portuguese/articles/cqjx5zp427go?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 21 Aug 2026 15:00:56 GMT",
+      "tema": "brasil",
+      "resumo": "PGR solicita que inquéritos contra Lulinha sejam enviados à primeira instância, decisão que especialistas classificam como atípica e digna de atenção."
     },
     {
       "titulo": "Os gêmeos que se casaram com irmãs gêmeas em celebração feita por padres gêmeos e com coroinhas gêmeos",
@@ -253,31 +221,31 @@
       "link": "https://www.bbc.com/portuguese/articles/ckg4q1j2z04o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 19 Aug 2026 08:26:34 GMT",
       "tema": "entretenimento",
-      "resumo": "Cerimônia de casamento no sul da Índia reúne quatro pares de gêmeos entre noivos, padres e coroinhas, resultado de planejamento meticuloso que viralizou na internet."
+      "resumo": "Cerimônia de casamento na Índia reúne dois pares de gêmeos noivos, padres gêmeos e coroinhas gêmeos, resultado de planejamento minucioso."
+    },
+    {
+      "titulo": "'Minha prioridade era tirar as crianças dali': a história de uma das imagens mais comoventes do terremoto na Colômbia",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crrvg57ver4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 20 Aug 2026 19:41:58 GMT",
+      "tema": "mundo",
+      "resumo": "Equipe do Hospital Universitário del Valle na Colômbia agiu com rapidez durante terremoto para salvar vidas, incluindo a evacuação de crianças em meio ao caos."
+    },
+    {
+      "titulo": "Por que impacto da IA em eleições pode estar sendo exagerado, segundo pesquisador de Oxford",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c0l52n6ddkdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 20 Aug 2026 07:35:07 GMT",
+      "tema": "checagem",
+      "resumo": "Pesquisador de Oxford sugere que o impacto da IA nas eleições pode estar sendo superestimado, argumentando que a internet já está saturada de desinformação independentemente."
     },
     {
       "titulo": "Fobias: por que temos tanto medo de coisas que provavelmente não irão nos machucar?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c5y0nl2pg2qo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 20 Aug 2026 19:27:48 GMT",
-      "tema": "cultura",
-      "resumo": "Cientistas explicam a origem das fobias humanas, indicando que não nascemos com esses medos, mas os desenvolvemos ao longo da vida."
-    },
-    {
-      "titulo": "Brigou no avião? Você poderá ficar até um ano proibido de voar; entenda, em cinco pontos, a nova regra da Anac",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czrjdp484mlo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 20 Aug 2026 09:23:31 GMT",
-      "tema": "brasil",
-      "resumo": "Nova regulação da Anac entra em vigor em setembro, proibindo passageiros que se envolvam em conflitos em aviões de voar por até um ano e estabelecendo multas de R$ 17,5 mil."
-    },
-    {
-      "titulo": "Morre aos 101 anos o preso mais velho dos EUA — que recebeu oito vezes a 'última refeição', mas não foi executado",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c62ey90gn86o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 19 Aug 2026 18:40:11 GMT",
       "tema": "mundo",
-      "resumo": "Francis Smith, considerado o prisioneiro que cumpriu a pena mais longa nos EUA, morre aos 101 anos após ter recebido oito vezes a 'última refeição' sem ser executado."
+      "resumo": "Cientistas explicam a origem das fobias, indicando que não nascemos com esses medos, mas eles se desenvolvem por fatores que superam o risco real das situações."
     }
   ]
 }
