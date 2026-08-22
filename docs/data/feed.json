@@ -1,83 +1,75 @@
 {
-  "gerado_em": "2026-08-22T10:20:55.167Z",
+  "gerado_em": "2026-08-22T15:18:46.749Z",
   "modo": "ia",
   "clima": {
     "max": 23.3,
-    "min": 13.6,
+    "min": 13.4,
     "chuva": 0
   },
   "noticias": [
     {
-      "titulo": "Saci, lobisomem e Loira do Banheiro: você conhece as lendas e tradições do Vale do Paraíba? Faça o quiz",
+      "titulo": "Caso Lulinha: gabinete de Mendonça rebate suspeitas e defende investigação de vazamentos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/22/saci-lobisomem-e-loira-do-banheiro-voce-conhece-as-lendas-e-tradicoes-do-vale-do-paraiba-faca-o-quiz.ghtml",
-      "hora": "Sat, 22 Aug 2026 10:00:44 -0000",
-      "tema": "cultura",
-      "resumo": "Quiz interativo sobre lendas e tradições do folclore do Vale do Paraíba, incluindo personagens como Saci, lobisomem e Loira do Banheiro, explorando histórias locais e receitas tradicionais da região."
+      "link": "https://g1.globo.com/politica/blog/octavio-guedes/post/2026/08/22/gabinete-mendonca-lulinha.ghtml",
+      "hora": "Sat, 22 Aug 2026 15:02:25 -0000",
+      "tema": "brasil",
+      "resumo": "O gabinete do ministro André Mendonça do STF se manifestou sobre suspeitas de que vazamentos de dados do caso Lulinha poderiam ter origem no próprio tribunal, defendendo a continuidade da investigação."
     },
     {
-      "titulo": "2º dia de Barretos tem Ana Castela poderosa, Natanzinho Lima na arquibancada e retorno de Safadão",
+      "titulo": "Haddad promete mudar uso de plataformas digitais nas escolas de SP: 'Esse terror vai acabar'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/festa-do-peao-de-barretos/noticia/2026/08/22/2o-dia-de-barretos-tem-ana-castela-poderosa-natanzinho-lima-na-arquibancada-e-retorno-de-safadao.ghtml",
-      "hora": "Sat, 22 Aug 2026 09:54:06 -0000",
-      "tema": "entretenimento",
-      "resumo": "A cantora Ana Castela se apresentou no segundo dia da Festa do Peão de Barretos com músicas de seu novo álbum, atraindo grande público à arena."
-    },
-    {
-      "titulo": "Rússia acusa Ucrânia pela morte de 6 civis em ataques com drones",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/08/22/russia-acusa-ucrania-pela-morte-de-6-civis-em-ataques-com-drones.ghtml",
-      "hora": "Sat, 22 Aug 2026 09:30:44 -0000",
-      "tema": "mundo",
-      "resumo": "Autoridades russas informam que drones ucranianos mataram pelo menos seis civis durante ataques contra território russo, com ataques relatados em cidades como Samara."
-    },
-    {
-      "titulo": "Fraldas no lugar de videogame: Saiba o que fazer quando a compra online chega errada",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/22/fraldas-no-lugar-de-videogame-saiba-o-que-fazer-quando-a-compra-online-chega-errada.ghtml",
-      "hora": "Sat, 22 Aug 2026 09:25:53 -0000",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/22/haddad-promete-mudar-uso-de-plataformas-digitais-nas-escolas-de-sp-esse-terror-vai-acabar.ghtml",
+      "hora": "Sat, 22 Aug 2026 15:01:01 -0000",
       "tema": "sp",
-      "resumo": "Morador de Praia Grande ganhou PlayStation 5 de presente mas recebeu pacote de fraldas, caso que repercutiu nacionalmente e levanta discussão sobre compras online."
+      "resumo": "O candidato Fernando Haddad prometeu alterar o modelo de uso de plataformas digitais nas escolas estaduais de São Paulo e anunciou novos concursos para professores como prioridades de sua possível gestão."
     },
     {
-      "titulo": "Peixe recém-descoberto na Amazônia já enfrenta risco de desaparecer, aponta estudo",
+      "titulo": "'Peão todo tatuado': g1 vai atrás da trend no camping da Festa do Peão de Barretos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/08/22/peixe-recem-descoberto-na-amazonia-ja-enfrenta-risco-de-desaparecer-aponta-estudo.ghtml",
-      "hora": "Sat, 22 Aug 2026 09:25:09 -0000",
-      "tema": "brasil",
-      "resumo": "Espécie de peixe recém-descoberta no Amapá, chamada Laimosemion laranja, já enfrenta risco de extinção, sendo conhecida apenas em três localidades da região do Rio Cajari."
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/festa-do-peao-de-barretos/noticia/2026/08/22/peao-todo-tatuado-g1-vai-atras-da-trend-no-camping-da-festa-do-peao-de-barretos.ghtml",
+      "hora": "Sat, 22 Aug 2026 15:00:15 -0000",
+      "tema": "entretenimento",
+      "resumo": "A música 'Peão Todo Tatuado' de Mariana Fagundes e Jeninho se tornou fenômeno de alcance nacional além do universo sertanejo, conquistando grande repercussão nas redes sociais e na mídia."
     },
     {
-      "titulo": "VÍDEO: Piloto do Corpo de Bombeiros flagra laser apontado para aeronave durante voo noturno em Divinópolis",
+      "titulo": "'Chico 2.0' acerta ao tirar Chico Buarque do nicho da MPB para levar a obra do artista para as quebradas urbanas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/08/22/video-piloto-do-corpo-de-bombeiros-flagra-laser-apontado-para-aeronave-durante-voo-noturno-em-divinopolis.ghtml",
-      "hora": "Sat, 22 Aug 2026 09:01:06 -0000",
-      "tema": "brasil",
-      "resumo": "Piloto do Corpo de Bombeiros registrou feixe de laser apontado para aeronave durante voo noturno em Divinópolis, prática considerada arriscada pela Força Aérea Brasileira."
-    },
-    {
-      "titulo": "Sergipe realiza Dia D de Multivacinação neste sábado",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/08/22/sergipe-realiza-dia-d-de-multivacinacao-neste-sabado.ghtml",
-      "hora": "Sat, 22 Aug 2026 09:01:04 -0000",
-      "tema": "brasil",
-      "resumo": "Sergipe realiza Dia D de Multivacinação neste sábado em 75 municípios para atualizar cadernetas de vacinação de crianças e adolescentes."
-    },
-    {
-      "titulo": "Inspirado por visão de Nossa Senhora, artista do interior de SP leva obras feitas com a ponta dos dedos ao exterior",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/22/inspirado-por-visao-de-nossa-senhora-artista-do-interior-de-sp-leva-obras-feitas-com-a-ponta-dos-dedos-ao-exterior.ghtml",
-      "hora": "Sat, 22 Aug 2026 09:01:00 -0000",
+      "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/08/22/chico-20-acerta-ao-tirar-chico-buarque-do-nicho-da-mpb-para-levar-a-obra-do-artista-para-as-quebradas-urbanas.ghtml",
+      "hora": "Sat, 22 Aug 2026 14:55:19 -0000",
       "tema": "cultura",
-      "resumo": "Pintor de Campinas desenvolve técnica inovadora pintando com a ponta dos dedos em vez de pincéis, criando obras de inspiração religiosa que levou para exposições internacionais."
+      "resumo": "O álbum 'Chico 2.0' reúne dez músicas de Chico Buarque reinterpretadas por artistas de rap, trap e funk, expandindo a obra do compositor para novos públicos urbanos."
     },
     {
-      "titulo": "'Dia D' de Multivacinação acontece neste sábado (22) para crianças e adolescentes; veja locais em João Pessoa e Campina Grande ",
+      "titulo": "Datafolha no PI: Ciro Nogueira, Marcelo Castro e Julio César lideram corrida por vagas ao Senado",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/08/22/dia-d-de-multivacinacao-acontece-neste-sabado-22-para-criancas-e-adolescentes-veja-locais-em-joao-pessoa-e-campina-grande.ghtml",
-      "hora": "Sat, 22 Aug 2026 09:00:54 -0000",
+      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/08/22/datafolha-no-pi-senado.ghtml",
+      "hora": "Sat, 22 Aug 2026 14:54:14 -0000",
       "tema": "brasil",
-      "resumo": "Dia D de Multivacinação para crianças e adolescentes menores de 15 anos acontece neste sábado em unidades de saúde em João Pessoa, Campina Grande e outras cidades."
+      "resumo": "Pesquisa Datafolha mostra a disputa pelas duas vagas ao Senado no Piauí, com Ciro Nogueira, Marcelo Castro e Julio César liderando, embora 74% dos eleitores ainda estejam indecisos."
+    },
+    {
+      "titulo": "Datafolha no PI: Rafael Fonteles, 56%; Joel Rodrigues, 21%",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/08/22/datafolha-no-pi.ghtml",
+      "hora": "Sat, 22 Aug 2026 14:51:56 -0000",
+      "tema": "brasil",
+      "resumo": "Datafolha divulga pesquisa sobre a disputa ao governo do Piauí, com o governador Rafael Fonteles (PT) na liderança com 56% das intenções de voto sobre Joel Rodrigues (PP) com 21%."
+    },
+    {
+      "titulo": "Plantão que atende mulheres vítimas de violência em Roraima pode colapsar por sobrecarga de trabalho, alerta delegada",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/08/22/plantao-que-atende-mulheres-vitimas-de-violencia-em-roraima-pode-colapsar-por-sobrecarga-de-trabalho-alerta-delegada.ghtml",
+      "hora": "Sat, 22 Aug 2026 14:49:20 -0000",
+      "tema": "brasil",
+      "resumo": "O Plantão Central Especializado de Atendimento à Mulher da Polícia Civil de Roraima enfrenta risco de colapso operacional devido ao excesso de demanda por atendimento a vítimas de violência."
+    },
+    {
+      "titulo": "Onça que levou cachorro volta à mesma casa e tenta atacar outro cão 13 dias depois em MS; VÍDEO",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/22/onca-que-levou-cachorro-volta-a-mesma-casa-e-tenta-atacar-outro-cao-13-dias-depois-em-ms-video.ghtml",
+      "hora": "Sat, 22 Aug 2026 14:47:17 -0000",
+      "tema": "brasil",
+      "resumo": "Uma onça-pintada invadiu novamente uma propriedade em Corumbá (MS) e tentou atacar um cachorro, 13 dias após anterior incidente no mesmo local que resultou na morte de outro cão."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -85,7 +77,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival Bike Brasil acontece neste domingo na Zona Sul de São Paulo com competições de manobras radicais, atividades para crianças e reunião de ciclistas profissionais e amadores."
+      "resumo": "O evento Bike Brasil acontece neste domingo na Zona Sul de São Paulo reunindo ciclistas profissionais e amadores para competições de manobras e atividades para crianças."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -93,7 +85,7 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado percorreu 20 quilômetros de bicicleta e enfrentou fila de 12 horas em Bauru para concorrer a uma das 500 vagas de emprego oferecidas."
+      "resumo": "Um desempregado pedalou 20 km e enfrentou 12 horas de fila em Bauru para concorrer a uma das 500 vagas de emprego oferecidas, demonstrando a alta demanda por oportunidades de trabalho na região."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -101,7 +93,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "cultura",
-      "resumo": "Zé Ramalho apresentou sucessos da carreira e interpretou canções de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
+      "resumo": "O cantor Zé Ramalho apresentou sucessos de sua carreira e interpretações de músicas de Raul Seixas na Festa Junina de Sorocaba, reunindo público apesar da temperatura baixa."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
@@ -109,7 +101,7 @@
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "PRF apreendeu 927 quilos de maconha em carreta em Mato Grosso do Sul que seria entregue em São Paulo; motorista confessou o tráfico."
+      "resumo": "A PRF apreendeu 927 quilos de maconha em uma carreta em Mato Grosso do Sul que seria entregue em São Paulo; o motorista confessou o tráfico de drogas."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -117,15 +109,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Terceira edição da Festa Junina Canina de Jundiaí acontece neste sábado com entrada gratuita, brincadeiras e atividades para cães e gatos."
+      "resumo": "A 3ª edição da Festa Junina Canina acontece em Jundiaí com entrada gratuita, oferecendo atividades lúdicas e entretenimento para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
-      "tema": "sp",
-      "resumo": "Maior Baile do Mundo, festival com Anitta e MCs, espera reunir 35 mil pessoas em São Paulo neste domingo com 10 horas de shows."
+      "tema": "entretenimento",
+      "resumo": "O Maior Baile do Mundo, festival de música que reúne as atrações mais ouvidas da internet brasileira incluindo Anitta e MCs, espera 35 mil pessoas para 10 horas de shows em São Paulo."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -133,7 +125,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "PSTU oficializa a militante sindical Vera Lúcia como candidata à Presidência da República nas próximas eleições."
+      "resumo": "O PSTU oficializou a candidatura da militante sindical Vera Lúcia à Presidência da República nas próximas eleições."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -141,7 +133,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "Décima quinta edição da Feiccad, feira de construção civil, imóvel, condomínios e decoração, ocorre em Jundiaí até este domingo com entrada gratuita."
+      "resumo": "A 15ª edição da Feiccad, feira sobre imóvel, construção e decoração, segue até este domingo em Jundiaí com entrada gratuita mediante credenciamento."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -149,7 +141,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos do Executivo, com prazo até 31 de julho e provas na própria cidade."
+      "resumo": "A prefeitura de Tabapuã (SP) abriu inscrições para concurso público com 34 vagas em diversos cargos do Executivo, com prazo até 31 de julho e provas realizadas na própria cidade."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -157,7 +149,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra família após 37 anos de separação, graças a um boletim de ocorrência que permitiu rastreá-lo."
+      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, que havia começado quando saiu para buscar emprego no Paraguai."
     },
     {
       "titulo": "Soldados nascidos na Ucrânia e capturados contam à BBC por que lutaram pela Rússia",
@@ -165,7 +157,15 @@
       "link": "https://www.bbc.com/portuguese/articles/czjlrylwrj0o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 22 Aug 2026 09:43:53 GMT",
       "tema": "mundo",
-      "resumo": "Soldados nascidos na Ucrânia que lutaram pela Rússia enfrentam julgamentos por traição, mas muitos argumentam que acreditavam estar defendendo seu país."
+      "resumo": "Soldados nascidos na Ucrânia que lutaram pela Rússia são julgados por traição, mas muitos argumentam que acreditavam estar defendendo sua pátria."
+    },
+    {
+      "titulo": "Lula aposta em Trump como 'aliado improvável' para melhorar relação com os EUA, diz Financial Times",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cx252n3de0go?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 22 Aug 2026 14:49:59 GMT",
+      "tema": "brasil",
+      "resumo": "Segundo o Financial Times, o governo Lula vê potencial em trabalhar com Trump para melhorar as relações com os Estados Unidos, considerando-o um possível aliado em certas questões."
     },
     {
       "titulo": "Como o governo Lula vê o telefonema com Trump — e o impacto dele nas eleições",
@@ -173,7 +173,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c20eql73w4do?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 21 Aug 2026 22:07:57 GMT",
       "tema": "brasil",
-      "resumo": "Governo Lula realiza telefonema com Trump após semanas de negociação, em contexto de tensões entre os dois países e impactos potenciais nas eleições brasileiras."
+      "resumo": "Após semanas de negociações, Lula conversou com Trump em primeiro contato desde maio, em contexto de tensões entre Brasil e EUA e próximo às eleições presidenciais."
+    },
+    {
+      "titulo": "As livrarias independentes que estão sendo fechadas pelo governo da China",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cdx8xv4z0xzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 22 Aug 2026 14:36:13 GMT",
+      "tema": "mundo",
+      "resumo": "O governo da China está fechando livrarias independentes em Hong Kong, que funcionavam como acesso a conteúdo e perspectivas diferentes para moradores da China continental."
     },
     {
       "titulo": "Primeiro debate presidencial: o que está em jogo e o que observar",
@@ -181,31 +189,39 @@
       "link": "https://www.bbc.com/portuguese/articles/c89n45wykyeo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 21 Aug 2026 23:45:08 GMT",
       "tema": "brasil",
-      "resumo": "Band realiza primeiro debate presidencial no dia 23 de agosto com seis candidatos, enquanto Lula e Flávio Bolsonaro não devem participar."
+      "resumo": "A Band promoverá o primeiro debate presidencial no domingo (23 de agosto), com seis dos 13 candidatos convidados, mas sem a presença de Lula e Flávio Bolsonaro."
+    },
+    {
+      "titulo": "'A geração sóbria': por que cada vez mais jovens trocam o álcool por remédios de ansiedade — e por que isso preocupa",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cgr78gqw7qqo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 22 Aug 2026 10:50:41 GMT",
+      "tema": "mundo",
+      "resumo": "Crescente número de jovens adultos está usando medicamentos para ansiedade em lugar de álcool em festas, prática que especialistas alertam ter consequências para a saúde."
+    },
+    {
+      "titulo": "Hayden Panettiere: como acesso a drogas e pressão intensa levam estrelas mirins ao vício",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cp8x8e5dne5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 22 Aug 2026 10:39:11 GMT",
+      "tema": "cultura",
+      "resumo": "Especialistas apontam que atores mirins enfrentam pressão intensa pela fama, o que os coloca em risco maior de desenvolver problemas com abuso de substâncias."
     },
     {
       "titulo": "O que é a doença de Creutzfeldt-Jakob, diagnosticada no influenciador Lito Sousa",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cx2j8ylddrdo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 21 Aug 2026 16:09:55 GMT",
-      "tema": "cultura",
-      "resumo": "Neurologista explica os quatro tipos da doença rara de Creutzfeldt-Jakob, diagnosticada no influenciador Lito Sousa, e esclarece diferenças em relação ao 'mal da vaca louca'."
+      "tema": "mundo",
+      "resumo": "Neurologista explica a doença de Creutzfeldt-Jakob, diagnosticada recentemente em um influenciador, esclarecendo seus quatro tipos e diferenças com a encefalopatia espongiforme bovina."
     },
     {
       "titulo": "Por que a definição sobre o autismo virou ponto central de uma batalha",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c1w1rg95er9o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 21 Aug 2026 19:55:42 GMT",
-      "tema": "brasil",
-      "resumo": "Debate sobre a definição do autismo continua como ponto central de discussão, questionando se é adequado classificar pessoas tão diferentes sob um único diagnóstico."
-    },
-    {
-      "titulo": "Harry e Meghan vão voltar ao Reino Unido: 'Por que agora?' e outras 4 perguntas sobre retorno do casal",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cdj01r1dll3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 21 Aug 2026 14:18:37 GMT",
-      "tema": "entretenimento",
-      "resumo": "Harry e Meghan anunciam retorno ao Reino Unido, gerando questões sobre as motivações e implicações do reencontro com a Família Real."
+      "tema": "mundo",
+      "resumo": "Debate continua sobre a adequação de uma definição unificada de autismo para um grupo tão heterogêneo de pessoas, com implicações para como a condição é compreendida."
     },
     {
       "titulo": "Terremoto no Peru: por que América do Sul está vendo tantos abalos sísmicos em sequência?",
@@ -213,7 +229,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c4gjn30x817o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 21 Aug 2026 16:44:25 GMT",
       "tema": "mundo",
-      "resumo": "Sequência recente de terremotos na América do Sul levanta questões sobre se o planeta está experimentando mais abalos sísmicos ou se a capacidade de registrá-los apenas melhorou."
+      "resumo": "Sequência recente de terremotos na América do Sul levanta questões sobre se o planeta está experimentando mais tremores ou se apenas melhorou a capacidade de registrá-los."
     },
     {
       "titulo": "Investigações contra Lulinha devem continuar no STF?",
@@ -221,39 +237,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cqjx5zp427go?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 21 Aug 2026 15:00:56 GMT",
       "tema": "brasil",
-      "resumo": "PGR solicita que inquéritos contra Lulinha sejam enviados para primeira instância, movimento que especialistas descrevem como atípico e que chama atenção."
+      "resumo": "A PGR solicitou que inquéritos sobre Lulinha sejam enviados para primeira instância, decisão que especialistas consideram atípica e merecedora de análise jurídica."
     },
     {
-      "titulo": "El Niño deverá ser o mais forte 'de que se tem lembrança', diz serviço meteorológico britânico",
+      "titulo": "Harry e Meghan vão voltar ao Reino Unido: 'Por que agora?' e outras 4 perguntas sobre retorno do casal",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crl7gdjp6rzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 21 Aug 2026 08:02:36 GMT",
-      "tema": "mundo",
-      "resumo": "Serviço meteorológico britânico prevê que El Niño será o mais forte já registrado, com 2027 projetado como ano mais quente da história."
-    },
-    {
-      "titulo": "Os gêmeos que se casaram com irmãs gêmeas em celebração feita por padres gêmeos e com coroinhas gêmeos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckg4q1j2z04o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 19 Aug 2026 08:26:34 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cdj01r1dll3o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 21 Aug 2026 14:18:37 GMT",
       "tema": "entretenimento",
-      "resumo": "Cerimônia de casamento no sul da Índia reúne quatro pares de gêmeos além de padres e coroinhas gêmeos, resultado de planejamento meticuloso que viralizou nas redes."
-    },
-    {
-      "titulo": "'Minha prioridade era tirar as crianças dali': a história de uma das imagens mais comoventes do terremoto na Colômbia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crrvg57ver4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 20 Aug 2026 19:41:58 GMT",
-      "tema": "mundo",
-      "resumo": "Equipe do Hospital Universitário del Valle na Colômbia reagiu com rapidez ao terremoto para salvar vidas, incluindo a retirada de crianças em situação de emergência."
-    },
-    {
-      "titulo": "Por que impacto da IA em eleições pode estar sendo exagerado, segundo pesquisador de Oxford",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c0l52n6ddkdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 20 Aug 2026 07:35:07 GMT",
-      "tema": "checagem",
-      "resumo": "Pesquisador de Oxford sugere que o impacto da IA nas eleições pode estar sendo exagerado, argumentando que a ferramenta tem poder limitado em contexto de desinformação já disseminada."
+      "resumo": "O príncipe Harry e Meghan anunciam retorno ao Reino Unido, decisão que levanta questões sobre motivações e relações com a Família Real britânica."
     }
   ]
 }
