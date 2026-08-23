@@ -1,35 +1,83 @@
 {
-  "gerado_em": "2026-08-23T15:20:00.119Z",
+  "gerado_em": "2026-08-23T21:19:40.061Z",
   "modo": "ia",
   "clima": {
-    "max": 24.4,
+    "max": 24.3,
     "min": 12.9,
     "chuva": 0
   },
   "noticias": [
     {
-      "titulo": "Pesquisadores da UFPB desenvolvem colete com sensores para monitorar clima, ruído e poluição nas cidades; saiba como funciona",
+      "titulo": "Casarão histórico de Limeira que pertenceu a médico e à família Prada vai abrigar Instituto da Previdência ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/08/23/pesquisadores-da-ufpb-desenvolvem-colete-com-sensores-para-monitorar-clima-ruido-e-poluicao-nas-cidades-saiba-como-funciona.ghtml",
-      "hora": "Sun, 23 Aug 2026 15:05:00 -0000",
-      "tema": "brasil",
-      "resumo": "Pesquisadores da UFPB e UTFPR desenvolveram um colete com sensores vestível capaz de monitorar condições climáticas, ruído e poluição em áreas urbanas."
-    },
-    {
-      "titulo": "Piauí tem alertas de baixa umidade e vendaval neste domingo (23); veja as cidades afetadas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/08/23/piaui-alertas-baixa-umidade-vendaval.ghtml",
-      "hora": "Sun, 23 Aug 2026 15:00:38 -0000",
-      "tema": "brasil",
-      "resumo": "O Inmet emitiu alertas de baixa umidade e vendaval para cidades do Piauí, indicando riscos à saúde, possíveis incêndios florestais e queda de árvores."
-    },
-    {
-      "titulo": "Obra de drenagem vai interditar rua e mudar trânsito no Centro de Jacareí a partir desta semana",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/23/obra-de-drenagem-vai-interditar-rua-e-mudar-transito-no-centro-de-jacarei-a-partir-desta-semana.ghtml",
-      "hora": "Sun, 23 Aug 2026 15:00:29 -0000",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/23/casarao-historico-de-limeira-que-pertenceu-a-medico-e-a-familia-prada-vai-abrigar-instituto-da-previdencia.ghtml",
+      "hora": "Sun, 23 Aug 2026 21:04:02 -0000",
       "tema": "sp",
-      "resumo": "Obras de drenagem na Rua Dr. Lúcio Malta, no Centro de Jacareí, interditar a via a partir de sábado (29) e causarão mudanças no trânsito local por cerca de uma semana."
+      "resumo": "A Prefeitura de Limeira transferirá a sede do Instituto de Previdência Municipal para um casarão histórico no Centro que estava desocupado, preservando patrimônio local."
+    },
+    {
+      "titulo": "Juíza aponta 'descaso' e condena Facebook a indenizar promotora de eventos por suspensão de perfil",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/23/juiza-aponta-descaso-condena-facebook-indenizar-promotora-eventos-suspensao-perfil.ghtml",
+      "hora": "Sun, 23 Aug 2026 21:03:38 -0000",
+      "tema": "brasil",
+      "resumo": "Justiça condena Facebook a indenizar promotora de eventos que teve perfil suspenso no Instagram sem justificativa comprovada."
+    },
+    {
+      "titulo": "Eleições 2026: veja como foi o 8º dia oficial de campanha dos candidatos ao governo do Amapá",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/08/23/eleicoes-2026-veja-como-foi-o-8o-dia-oficial-de-campanha-dos-candidatos-ao-governo-do-amapa.ghtml",
+      "hora": "Sun, 23 Aug 2026 21:00:15 -0000",
+      "tema": "brasil",
+      "resumo": "Candidatos ao governo do Amapá realizaram o sétimo dia oficial de campanha para as eleições de 2026 com atividades em municípios locais."
+    },
+    {
+      "titulo": "Governo de RR pede ao STF revogação de decisão que autoriza candidatura de Jalser Renier",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/23/governo-de-rr-pede-ao-stf-revogacao-de-decisao-que-autoriza-candidatura-de-jalser-renier.ghtml",
+      "hora": "Sun, 23 Aug 2026 20:59:29 -0000",
+      "tema": "brasil",
+      "resumo": "Governo de Roraima recorre ao STF para tentar anular decisão que permitiu candidatura de ex-deputado cassado nas eleições."
+    },
+    {
+      "titulo": "MPF apura desmate que ameaça maior águia do planeta quase extinta no Pantanal",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/23/mpf-apura-desmate-que-ameaca-maior-aguia-do-planeta-quase-extinta-no-pantanal.ghtml",
+      "hora": "Sun, 23 Aug 2026 20:54:48 -0000",
+      "tema": "brasil",
+      "resumo": "MPF investiga possíveis irregularidades em autorizações ambientais para desmatamento em área do Pantanal onde vive águia gigante em risco de extinção."
+    },
+    {
+      "titulo": "Ministério Público investiga uso de cal de construção no tratamento de água em Acorizal (MT)",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/23/ministerio-publico-investiga-uso-de-cal-de-construcao-no-tratamento-de-agua-em-acorizal-mt.ghtml",
+      "hora": "Sun, 23 Aug 2026 20:47:58 -0000",
+      "tema": "brasil",
+      "resumo": "MP de Mato Grosso notifica concessionária de água após inspeção encontrar cal de construção sendo usada no tratamento de água em município."
+    },
+    {
+      "titulo": "Chefe de segurança do Irã diz que apoio a sanções dos EUA será ‘ato de guerra’",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/08/23/chefe-de-seguranca-do-ira-diz-que-apoio-a-sancoes-dos-eua-sera-ato-de-guerra.ghtml",
+      "hora": "Sun, 23 Aug 2026 20:37:46 -0000",
+      "tema": "mundo",
+      "resumo": "Autoridade de segurança do Irã afirma que o país considerará um ato de guerra qualquer apoio internacional às novas sanções dos EUA."
+    },
+    {
+      "titulo": "Busca por desaparecidos: Acre tem ponto para coleta de DNA durante força-tarefa nacional",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/08/23/busca-por-desaparecidos-acre-tem-ponto-para-coleta-de-dna-durante-forca-tarefa-nacional.ghtml",
+      "hora": "Sun, 23 Aug 2026 20:35:13 -0000",
+      "tema": "brasil",
+      "resumo": "Brasil realiza força-tarefa nacional de coleta de DNA de familiares para ajudar na localização de pessoas desaparecidas até o final de agosto."
+    },
+    {
+      "titulo": "Prefeitura do Rio apresenta Plano de Mobilidade para Santa Cruz",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/23/prefeitura-do-rio-apresenta-plano-de-mobilidade-para-santa-cruz.ghtml",
+      "hora": "Sun, 23 Aug 2026 20:33:07 -0000",
+      "tema": "sp",
+      "resumo": "Prefeitura do Rio anuncia Plano de Mobilidade para o bairro de Santa Cruz com projetos de novas conexões e reorganização de cruzamentos."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -37,7 +85,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "O evento Bike Brasil acontece neste domingo no pavilhão do São Paulo Expo, reunindo ciclistas profissionais e amadores para competições de manobras e atividades diversas."
+      "resumo": "Festival Bike Brasil acontece na Zona Sul de São Paulo com competições de manobras radicais e atividades para crianças no universo das bicicletas."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -45,7 +93,7 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado de Agudos pedalou 20 km até Bauru para concorrer a uma das 500 vagas de emprego oferecidas, após passar 12 horas em fila."
+      "resumo": "Desempregado percorre 20 km de bicicleta até Bauru para disputar uma das 500 vagas de emprego oferecidas, evidenciando busca por oportunidades."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -53,7 +101,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "cultura",
-      "resumo": "Zé Ramalho apresentou sucessos de sua carreira e interpretou músicas de Raul Seixas na Festa Junina de Sorocaba, em sua 39ª edição."
+      "resumo": "Cantor Zé Ramalho apresenta sucessos da carreira e homenageia Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
@@ -61,7 +109,7 @@
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "A PRF apreendeu 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo; o motorista da carreta confessou o tráfico."
+      "resumo": "PRF apreende 927 quilos de maconha em carreta que seguia de Mato Grosso do Sul para São Paulo; motorista confessou tráfico."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -69,7 +117,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "A 3ª edição da Festa Junina Canina acontece este sábado em Jundiaí, com entrada gratuita, brincadeiras e atividades para cães e gatos."
+      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina com entrada gratuita, atividades e brincadeiras voltadas para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -77,7 +125,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "O Maior Baile do Mundo, festival com Anitta e vários MCs, acontece neste domingo em São Paulo e espera reunir 35 mil pessoas para 10 horas de shows."
+      "resumo": "Festival Maior Baile do Mundo acontece em São Paulo com Anitta e outros MCs, reunindo 35 mil pessoas para 10 horas de apresentações."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -85,7 +133,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializou a militante sindical Vera Lúcia como candidata à Presidência da República nas próximas eleições."
+      "resumo": "PSTU oficializa Vera Lúcia, militante sindical, como candidata à Presidência da República nas eleições de 2026."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -93,7 +141,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A 15ª edição da Feiccad, feira sobre imóvel, construção e decoração, acontece em Jundiaí até este domingo com entrada gratuita mediante credenciamento."
+      "resumo": "Jundiaí realiza a 15ª edição da Feiccad, feira sobre imóveis, construção, condominios e decoração, com entrada gratuita até domingo."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -101,7 +149,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos do Executivo, com prazo até 31 de julho."
+      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diversos cargos da administração municipal."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -109,23 +157,39 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência que permitiu localizá-los."
+      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, possibilitado por um boletim de ocorrência."
     },
     {
-      "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
+      "titulo": "Chefe de facção que atua dentro e fora dos presídios brasileiros é transferido da PF em Foz do Iguaçu",
       "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
-      "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
+      "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2018/07/20/chefe-de-faccao-que-atua-dentro-e-fora-dos-presidios-brasileiros-e-transferido-da-pf-em-foz-do-iguacu.ghtml",
+      "hora": "Fri, 20 Jul 2018 10:55:41 -0000",
       "tema": "sp",
-      "resumo": "Motorista de 75 anos, pai de monsenhor que será ordenado bispo em Itapetininga, morre em acidente de trânsito em Capela do Alto dias antes da cerimônia religiosa."
+      "resumo": "Chefe de facção criminosa é transferido da Polícia Federal em Foz do Iguaçu para a Penitenciária de Catanduvas."
     },
     {
-      "titulo": "Sem Lula e Flávio Bolsonaro, os debates ainda importam? O que dizem os especialistas",
+      "titulo": "Beach Park diz que checa peso e altura dos visitantes nos brinquedos; testemunha nega",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2018/07/19/beach-park-diz-que-checa-peso-e-altura-dos-visitantes-nos-brinquedos-testemunha-nega.ghtml",
+      "hora": "Thu, 19 Jul 2018 21:48:36 -0000",
+      "tema": "sp",
+      "resumo": "Beach Park esclarece procedimentos de segurança em brinquedo onde ocorreu acidente fatal, enquanto testemunha questiona as práticas de verificação."
+    },
+    {
+      "titulo": "Quem ganha e quem perde com a entrada de Pablo Marçal na disputa presidencial",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cre4g2dvrvyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 23 Aug 2026 18:35:31 GMT",
+      "tema": "brasil",
+      "resumo": "Analistas avaliam que a candidatura de Pablo Marçal nas eleições de 2026 funciona como fator desestabilizador em disputa polarizada entre Lula e Flávio Bolsonaro."
+    },
+    {
+      "titulo": "Zema diz que não vai a debate da Band, que não terá Lula nem Flávio: os confrontos ainda importam?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c8jnwr9d4vdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 23 Aug 2026 09:44:45 GMT",
+      "hora": "Sun, 23 Aug 2026 19:27:39 GMT",
       "tema": "brasil",
-      "resumo": "Especialistas discutem a importância dos debates presidenciais em 2026, diante da possível ausência dos dois candidatos que lideram as pesquisas de intenção de voto."
+      "resumo": "Debate presidencial da Band ocorre sem participação dos dois candidatos líderes nas pesquisas, levantando questões sobre relevância de confrontos eleitorais."
     },
     {
       "titulo": "O que o Canadá arrisca ao retaliar as tarifas de Trump?",
@@ -133,39 +197,38 @@
       "link": "https://www.bbc.com/portuguese/articles/cre4e1w2g2eo?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 23 Aug 2026 13:23:51 GMT",
       "tema": "mundo",
-      "resumo": "O Canadá anuncia retaliação contra as tarifas impostas pelos EUA, após abandonar negociações comerciais com a Casa Branca."
+      "resumo": "Canadá anuncia retaliação contra tarifas americanas após abandono de negociações comerciais com a Casa Branca."
     },
     {
-      "titulo": "Jejum intermitente: o que os influenciadores não te contam",
+      "titulo": "Zelensky precisa ser questionado sobre corrupção no seu governo, diz ministro demitido na Ucrânia",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvg8xnrlekwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 23 Aug 2026 11:29:23 GMT",
-      "tema": "cultura",
-      "resumo": "Reportagem examina a dificuldade de comprovar a eficácia do jejum intermitente e como novas tecnologias podem ajudar a entender melhor seus reais efeitos."
-    },
-    {
-      "titulo": "A agonia das famílias de milhares de pessoas que permanecem desaparecidas na Faixa de Gaza",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3ekgjg0qp5o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 22 Aug 2026 17:19:47 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cvg0gl7gl3jo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 23 Aug 2026 18:12:41 GMT",
       "tema": "mundo",
-      "resumo": "A Cruz Vermelha recebeu mais de 5 mil pedidos de localização de pessoas que podem ter sido detidas ou cujos corpos podem estar em escombros na Faixa de Gaza."
+      "resumo": "Ministro destituído da Ucrânia pede maior questionamento sobre corrupção no governo Zelensky e defende realização de eleições em tempo de guerra."
     },
     {
-      "titulo": "O país que pede reparações dos EUA e da Europa pela escravidão",
+      "titulo": "Como um magnata excêntrico que tinha leão como animal de estimação se tornou o homem mais rico do mundo",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c998917j19vo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 22 Aug 2026 22:22:42 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c304emj4jngo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 23 Aug 2026 19:45:58 GMT",
       "tema": "mundo",
-      "resumo": "Gana lidera movimento africano para exigir que nações e instituições ocidentais que lucraram com a escravidão paguem reparações."
+      "resumo": "Perfil de Jean Paul Getty, magnata americano que se tornou homem mais rico do mundo e era conhecido por comportamentos excêntricos e festas luxuosas."
     },
     {
-      "titulo": "Como a falta de mulheres na China faz homens caírem em golpes de falsas noivas e perderem milhões",
+      "titulo": "Debate presidencial: candidatos se enfrentam na Band; acompanhe",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cp9evj7mdr9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 22 Aug 2026 19:33:09 GMT",
-      "tema": "mundo",
-      "resumo": "A crise demográfica chinesa, marcada pela falta de mulheres, facilita golpes de falsas noivas que causam perdas milionárias a homens que buscam casamento."
+      "link": "https://www.bbc.co.uk/portuguese/live/cmlyqyl0d3z7t?at_medium=RSS&at_campaign=rss",
+      "tema": "brasil",
+      "resumo": "Debate presidencial é realizado no domingo pela emissora Band com cobertura de propostas e confrontos entre candidatos."
+    },
+    {
+      "titulo": "'Nova temporada, novo cabelo': Haaland muda o visual para Premier League",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq56510gy65o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 23 Aug 2026 16:23:35 GMT",
+      "tema": "entretenimento",
+      "resumo": "Haaland, atacante do Manchester City, exibe novo corte de cabelo nas redes sociais gerando comentários de personalidades do futebol."
     },
     {
       "titulo": "Flávio Bolsonaro fica um ponto atrás de Lula no segundo turno no agregador de pesquisas da BBC News Brasil",
@@ -173,47 +236,39 @@
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 22 Aug 2026 20:54:01 GMT",
       "tema": "brasil",
-      "resumo": "Segundo agregador de pesquisas da BBC, Flávio Bolsonaro está um ponto atrás de Lula no cenário de segundo turno para a eleição presidencial de 2026."
+      "resumo": "Agregador de pesquisas eleitorais da BBC aponta Flávio Bolsonaro apenas um ponto atrás de Lula em cenário de segundo turno para 2026."
     },
     {
-      "titulo": "O que aconteceu com o sonho americano de Harry e Meghan?",
+      "titulo": "Jejum intermitente: o que os influenciadores não te contam",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c1k1kjlvvgyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 22 Aug 2026 18:40:16 GMT",
-      "tema": "entretenimento",
-      "resumo": "Análise sobre o trajeto de Harry e Meghan em Hollywood, que apesar de alguns sucessos iniciais, não conseguiu manter presença duradoura na indústria do entretenimento."
-    },
-    {
-      "titulo": "As livrarias independentes que estão sendo fechadas pelo governo da China",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cdx8xv4z0xzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 22 Aug 2026 14:36:13 GMT",
-      "tema": "mundo",
-      "resumo": "Governo da China fecha livrarias independentes em Hong Kong, que eram pontos de acesso a conteúdo mais diverso para moradores da China continental."
-    },
-    {
-      "titulo": "Qual é o melhor horário para jantar e por que comer a mesma coisa tem efeitos diferentes dependendo da hora do dia?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cly8e30vejno?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 22 Aug 2026 21:07:58 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cvg8xnrlekwo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 23 Aug 2026 11:29:23 GMT",
       "tema": "cultura",
-      "resumo": "Pesquisas mostram que o horário das refeições influencia como o corpo metaboliza os alimentos, não apenas o conteúdo nutritivo do que se come."
+      "resumo": "Análise sobre dificuldades em comprovar efetividade de jejum intermitente, com perspectiva de que novas tecnologias podem melhor elucidar seus reais efeitos."
     },
     {
-      "titulo": "'A geração sóbria': por que cada vez mais jovens trocam o álcool por remédios de ansiedade — e por que isso preocupa",
+      "titulo": "Por que os restos mortais de Garcia Llorca não foram encontrados 90 anos após sua morte na Guerra Civil espanhola",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cgr78gqw7qqo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 22 Aug 2026 10:50:41 GMT",
-      "tema": "cultura",
-      "resumo": "Crescente número de jovens adultos utiliza medicamentos para ansiedade em festas como substituto do álcool, prática que preocupa especialistas em saúde."
-    },
-    {
-      "titulo": "Soldados nascidos na Ucrânia e capturados contam à BBC por que lutaram pela Rússia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czjlrylwrj0o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 22 Aug 2026 09:43:53 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c75gpry5np9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 23 Aug 2026 19:19:31 GMT",
       "tema": "mundo",
-      "resumo": "Soldados nascidos na Ucrânia que lutaram pela Rússia são julgados por traição, mas muitos afirmam ter acreditado estar defendendo sua pátria."
+      "resumo": "Restos mortais de poeta espanhol García Lorca não foram localizados 90 anos após morte na Guerra Civil, permanecendo entre milhares de desaparecidos em valas comuns."
+    },
+    {
+      "titulo": "O país que pede reparações dos EUA e da Europa pela escravidão",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c998917j19vo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 22 Aug 2026 22:22:42 GMT",
+      "tema": "mundo",
+      "resumo": "Gana assume papel de principal voz africana a exigir reparações de nações e instituições ocidentais que se beneficiaram da escravidão."
+    },
+    {
+      "titulo": "A agonia das famílias de milhares de pessoas que permanecem desaparecidas na Faixa de Gaza",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c3ekgjg0qp5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 22 Aug 2026 17:19:47 GMT",
+      "tema": "mundo",
+      "resumo": "Cruz Vermelha recebeu mais de 5 mil pedidos de localização de pessoas potencialmente detidas por Israel ou cujos corpos podem estar sob destroços em Gaza."
     }
   ]
 }
