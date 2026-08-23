@@ -1,75 +1,107 @@
 {
-  "gerado_em": "2026-08-22T21:20:10.238Z",
+  "gerado_em": "2026-08-23T10:21:33.901Z",
   "modo": "ia",
   "clima": {
-    "max": 23.3,
-    "min": 13.4,
+    "max": 24.4,
+    "min": 12.5,
     "chuva": 0
   },
   "noticias": [
     {
-      "titulo": "Jazz na Serra é atração do último fim de semana de agosto em Santo Antônio do Pinhal; veja a programação",
+      "titulo": "Anavilhanas: conheça o arquipélago na Amazônia que muda de paisagem a cada seis meses",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/agenda-cultural/noticia/2026/08/22/jazz-na-serra-e-atracao-do-ultimo-fim-de-semana-de-agosto-em-santo-antonio-do-pinhal-veja-a-programacao.ghtml",
-      "hora": "Sat, 22 Aug 2026 21:04:43 -0000",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/08/23/anavilhanas-conheca-o-arquipelago-na-amazonia-que-muda-de-paisagem-a-cada-seis-meses.ghtml",
+      "hora": "Sun, 23 Aug 2026 10:00:35 -0000",
       "tema": "cultura",
-      "resumo": "O festival Jazz na Serra realiza sua 4ª edição em Santo Antônio do Pinhal nos dias 28 e 29 de agosto, com shows gratuitos em dois espaços da cidade."
+      "resumo": "O arquipélago de Anavilhanas, na Amazônia, apresenta transformações radicais na paisagem a cada semestre: rio cheio com igapós e árvores centenárias na primeira metade do ano, e rios secos com praias de areia no segundo semestre."
     },
     {
-      "titulo": "Por que perícia afastou hipótese de curto-circuito ao apontar falha elétrica como possível causa de incêndio que destruiu escola em SP",
+      "titulo": "3º dia de Barretos tem retorno triunfal de Gusttavo Lima, rosto de Marília Mendonça por drones em show de Alok e Nattan sem fim",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/22/por-que-pericia-afastou-hipotese-de-curto-circuito-ao-apontar-falha-eletrica-como-possivel-causa-de-incendio-que-destruiu-escola-em-sp.ghtml",
-      "hora": "Sat, 22 Aug 2026 21:02:35 -0000",
-      "tema": "sp",
-      "resumo": "Perícia aponta falha elétrica como possível causa do incêndio que destruiu a Escola Municipal Prada em Limeira em maio, descartando a hipótese de curto-circuito."
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/festa-do-peao-de-barretos/noticia/2026/08/23/3o-dia-de-barretos-tem-retorno-triunfal-de-gusttavo-lima-rosto-de-marilia-mendonca-por-drones-em-show-de-alok-e-nattan-sem-fim.ghtml",
+      "hora": "Sun, 23 Aug 2026 10:00:34 -0000",
+      "tema": "entretenimento",
+      "resumo": "A Festa do Peão de Barretos teve seu terceiro dia marcado pelo retorno triunfal de Gusttavo Lima e uma homenagem a Marília Mendonça durante apresentação de Alok e Nattan."
     },
     {
-      "titulo": "Nando Reis apresenta turnê \"Pra Você Guardei o Amor\" em Salvador",
+      "titulo": "Fazendas de confinamento no Tocantins têm capacidade para manter 65 mil animais em engorda",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/o-que-fazer-em-salvador/noticia/2026/08/22/nando-reis-apresenta-turne-pra-voce-guardei-o-amor-em-salvador.ghtml",
-      "hora": "Sat, 22 Aug 2026 21:00:29 -0000",
-      "tema": "cultura",
-      "resumo": "O cantor Nando Reis apresentará a turnê 'Pra Você Guardei o Amor' em Salvador no dia 26 de setembro, na Concha Acústica do Teatro Castro Alves."
-    },
-    {
-      "titulo": "Vencedora de leilão é desclassificada e arrematação de terreno do Exército em Valinhos é anulada",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/22/vencedora-leilao-desclassificada-arrematacao-terreno-exercito-valinhos-anulada.ghtml",
-      "hora": "Sat, 22 Aug 2026 20:57:47 -0000",
-      "tema": "sp",
-      "resumo": "A Fundação Habitacional do Exército desclassificou a empresa vencedora e anulou o leilão de um terreno de 162 hectares em Valinhos."
-    },
-    {
-      "titulo": "Eduardo Razuk: como rifas de carros de luxo levaram influencer à prisão e fizeram ‘império digital’ sair do ar",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/22/eduardo-razuk-como-rifas-de-carros-de-luxo-levaram-influencer-a-prisao-e-fizeram-imperio-digital-sair-do-ar.ghtml",
-      "hora": "Sat, 22 Aug 2026 20:55:09 -0000",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/08/23/fazendas-de-confinamento-no-tocantins-tem-capacidade-para-manter-65-mil-animais-em-engorda.ghtml",
+      "hora": "Sun, 23 Aug 2026 10:00:32 -0000",
       "tema": "brasil",
-      "resumo": "Um influenciador que realizava rifas de carros de luxo nas redes sociais foi preso após investigação sobre as práticas, levando seu negócio digital a sair do ar."
+      "resumo": "Duas fazendas de confinamento de gado no Tocantins têm capacidade para manter 65 mil animais simultaneamente, posicionando o grupo Motta Agropecuária entre os maiores confinadores do país."
     },
     {
-      "titulo": "Círio 2026: Imagem de Nossa Senhora de Nazaré visita Tomé Açu e São João de Pirabas no PA; veja programação",
+      "titulo": "VÍDEO: Recém-casados de MG recebem bênção do papa durante lua de mel e ouvem conselho sobre família: 'Rezar e ter muita paciência'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/08/22/cirio-2026-imagem-de-nossa-senhora-de-nazare-visita-tome-acu-e-sao-joao-de-pirabas-no-pa-veja-programacao.ghtml",
-      "hora": "Sat, 22 Aug 2026 20:53:33 -0000",
-      "tema": "cultura",
-      "resumo": "A Imagem Peregrina de Nossa Senhora de Nazaré visita cidades do interior do Pará neste fim de semana como parte da programação preparatória para o Círio 2026."
+      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/08/23/video-recem-casados-de-mg-recebem-bencao-do-papa-durante-lua-de-mel-e-ouvem-conselho-sobre-familia-rezar-e-ter-muita-paciencia.ghtml",
+      "hora": "Sun, 23 Aug 2026 10:00:24 -0000",
+      "tema": "entretenimento",
+      "resumo": "Recém-casados de Minas Gerais receberam bênção e conselho sobre vida familiar do papa durante lua de mel no Vaticano."
     },
     {
-      "titulo": "Como a falta de mulheres na China faz homens caírem em golpes de falsas noivas e perderem milhões",
+      "titulo": "Fusca rosa quebra a caminho de Barretos e cantora sertaneja leva 25 horas do Paraná à Festa do Peão",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/08/22/como-a-falta-de-mulheres-na-china-faz-homens-cairem-em-golpes-de-falsas-noivas-e-perderem-milhoes.ghtml",
-      "hora": "Sat, 22 Aug 2026 20:48:41 -0000",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/festa-do-peao-de-barretos/noticia/2026/08/23/fusca-rosa-quebra-a-caminho-de-barretos-e-cantora-sertaneja-leva-25-horas-do-parana-a-festa-do-peao.ghtml",
+      "hora": "Sun, 23 Aug 2026 10:00:15 -0000",
+      "tema": "entretenimento",
+      "resumo": "Cantora sertaneja restaurou um Fusca rosa parado por mais de dez anos e enfrentou problemas mecânicos em uma viagem de 25 horas desde o Paraná até a Festa do Peão de Barretos."
+    },
+    {
+      "titulo": "Rio gasta cerca de um terço do orçamento de conservação para reparar monumentos alvo de vandalismo e furtos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/23/rio-gasta-cerca-de-um-terco-do-orcamento-de-conservacao-para-reparar-monumentos-alvo-de-vandalismo-e-furtos.ghtml",
+      "hora": "Sun, 23 Aug 2026 09:46:55 -0000",
       "tema": "mundo",
-      "resumo": "Na China, a desproporção entre homens e mulheres alimenta um mercado de golpes matrimoniais em que pessoas são enganadas por supostas noivas e perdem quantias altas."
+      "resumo": "A cidade do Rio de Janeiro gastou 850 mil reais nos últimos 18 meses reparando monumentos, chafarizes e estátuas danificados por furtos e vandalismo, o que representa cerca de 30% do orçamento de conservação."
     },
     {
-      "titulo": "Vigilantes têm armas roubadas e motorista é feito refém em tentativa de assalto a caminhão em Jarinu",
+      "titulo": "Do leite condensado às fraldas: relembre compras online que chegaram erradas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/08/22/tentativa-assalto-jarinu.ghtml",
-      "hora": "Sat, 22 Aug 2026 20:48:28 -0000",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/23/do-leite-condensado-as-fraldas-relembre-compras-online-que-chegaram-erradas.ghtml",
+      "hora": "Sun, 23 Aug 2026 09:28:49 -0000",
       "tema": "sp",
-      "resumo": "Uma quadrilha armada tentou roubar uma carreta de medicamentos em Jarinu, rendendo dois vigilantes e tomando um motorista como refém antes de serem capturados pela polícia."
+      "resumo": "Consumidores na Baixada Santista receberam produtos errados em compras online, como leite condensado em vez de iPhone e fraldas ao invés de PlayStation 5."
+    },
+    {
+      "titulo": "Pássaro exótico abandonado em calçada é resgatado e ganha novo lar no litoral de SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/23/passaro-exotico-abandonado-em-calcada-e-resgatado-e-ganha-novo-lar-no-litoral-de-sp.ghtml",
+      "hora": "Sun, 23 Aug 2026 09:28:29 -0000",
+      "tema": "sp",
+      "resumo": "Um pássaro exótico da espécie diamante-de-gould foi resgatado após ser encontrado abandonado em uma calçada de Santos e recebeu novo lar."
+    },
+    {
+      "titulo": "Pintor transforma fachadas de casas de famílias carentes sem cobrar nada em Uberlândia: 'não é só tinta, é resgate de dignidade'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/23/pintor-transforma-fachadas-de-casas-de-familias-carentes-sem-cobrar-nada-em-uberlandia-nao-e-so-tinta-e-resgate-de-dignidade.ghtml",
+      "hora": "Sun, 23 Aug 2026 09:01:02 -0000",
+      "tema": "brasil",
+      "resumo": "Um pintor profissional em Uberlândia pinta gratuitamente fachadas de casas de famílias carentes, descrevendo o trabalho como resgate de dignidade além de simples aplicação de tinta."
+    },
+    {
+      "titulo": "Placa em homenagem a Donga será inaugurada neste domingo na casa onde o músico viveu no Maracanã",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/23/placa-em-homenagem-a-donga-sera-inaugurada-neste-domingo-na-casa-onde-o-musico-viveu-no-maracana.ghtml",
+      "hora": "Sun, 23 Aug 2026 09:00:51 -0000",
+      "tema": "cultura",
+      "resumo": "Uma placa em homenagem ao sambista Donga, autor do primeiro samba registrado, será inaugurada no Rio de Janeiro na casa onde o músico viveu por quase quatro décadas."
+    },
+    {
+      "titulo": "Estações de Leitura levam livros e formação para escolas públicas de SP e aproximam crianças das famílias",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/23/estacoes-de-leitura-levam-livros-e-formacao-para-escolas-publicas-de-sp-e-aproximam-criancas-das-familias.ghtml",
+      "hora": "Sun, 23 Aug 2026 09:00:47 -0000",
+      "tema": "sp",
+      "resumo": "Estações de Leitura implantadas em escolas públicas de São Paulo, especialmente na Zona Norte, levam livros e formação às crianças, estimulando autonomia na escolha de histórias."
+    },
+    {
+      "titulo": "'Sabores, Sons e Memórias': Reinado do Rosário transforma Itapecerica com fé, cultura e tradição há mais de 200 anos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/08/23/sabores-sons-e-memorias-reinado-do-rosario-transforma-itapecerica-com-fe-cultura-e-tradicao-ha-mais-de-200-anos.ghtml",
+      "hora": "Sun, 23 Aug 2026 09:00:42 -0000",
+      "tema": "cultura",
+      "resumo": "O Reinado do Rosário de Itapecerica, tradição que perdura há mais de 200 anos, transforma a cidade em agosto com sons de tambores, cortejos e vestimentas coloridas das guardas."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -77,7 +109,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "O festival Bike Brasil acontece neste domingo na Zona Sul de São Paulo, reunindo ciclistas profissionais e amadores para competições de manobras e atividades para crianças."
+      "resumo": "Festival de bicicletas acontece na Zona Sul de São Paulo com competições de manobras radicais e atividades para crianças, reunindo ciclistas profissionais e amadores."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -85,23 +117,15 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Um desempregado pedalou 20 quilômetros e aguardou 12 horas em fila em Bauru para concorrer a uma das 500 vagas de emprego oferecidas."
+      "resumo": "Homem desempregado pedalou 20 quilômetros e enfrentou fila de 12 horas em Bauru para concorrer a uma das 500 vagas de emprego oferecidas."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "cultura",
-      "resumo": "O cantor Zé Ramalho apresentou sucessos de sua carreira e canções de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
-    },
-    {
-      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
-      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "A Polícia Rodoviária Federal apreendeu 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo; o motorista confessou o tráfico."
+      "resumo": "Zé Ramalho apresentou sucessos da carreira e canções de Raul Seixas na 39ª Festa Junina de Sorocaba, apesar das temperaturas baixas."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -109,15 +133,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina neste sábado com entrada gratuita, brincadeiras e atividades para cães e gatos."
+      "resumo": "Jundiaí recebe a terceira edição da Festa Junina Canina com entrada gratuita, brincadeiras e atividades especiais para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
-      "tema": "cultura",
-      "resumo": "O Maior Baile do Mundo, festival em São Paulo neste domingo, reúne artistas como Anitta e MCs esperando 35 mil pessoas para 10 horas de shows."
+      "tema": "sp",
+      "resumo": "O Maior Baile do Mundo, festival em São Paulo com Anitta e MCs, espera reunir 35 mil pessoas para dez horas de apresentações com as músicas mais ouvidas da internet brasileira."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -125,7 +149,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializa a militante sindical Vera Lúcia como candidata à Presidência da República nas próximas eleições."
+      "resumo": "O PSTU oficializou a militante sindical Vera Lúcia como candidata à Presidência da República nas eleições, durante convenção em São Paulo."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -133,7 +157,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A 15ª edição da Feiccad (Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração) ocorre até domingo em Jundiaí com entrada gratuita mediante credenciamento."
+      "resumo": "A 15ª Feiccad, feira dedicada a imóveis, construção, condomínios, arquitetura e decoração, acontece em Jundiaí com entrada gratuita mediante credenciamento."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -141,7 +165,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos até 31 de julho, com provas realizadas na cidade."
+      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diferentes funções do Executivo municipal, com provas a serem realizadas na própria cidade."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -149,7 +173,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, possibilitado por informações de um boletim de ocorrência."
+      "resumo": "Homem em situação de rua em Campinas consegue reencontrar a família após 37 anos de desaparecimento, graças a um boletim de ocorrência registrado quando foi vítima de roubo."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -157,7 +181,23 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Motorista de 75 anos morre em acidente entre carro e caminhão dias antes de seu filho ser ordenado bispo em Itapetininga."
+      "resumo": "Motorista de 75 anos morre em acidente entre veículos em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
+    },
+    {
+      "titulo": "Beach Park diz que checa peso e altura dos visitantes nos brinquedos; testemunha nega",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2018/07/19/beach-park-diz-que-checa-peso-e-altura-dos-visitantes-nos-brinquedos-testemunha-nega.ghtml",
+      "hora": "Thu, 19 Jul 2018 21:48:36 -0000",
+      "tema": "sp",
+      "resumo": "Beach Park divulga nota sobre protocolos de segurança em brinquedos após morte de visitante, enquanto testemunha contesta informações sobre checagem de peso e altura dos usuários."
+    },
+    {
+      "titulo": "Sem Lula e Flávio Bolsonaro, os debates ainda importam? O que dizem os especialistas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c8jnwr9d4vdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 23 Aug 2026 09:44:45 GMT",
+      "tema": "brasil",
+      "resumo": "Especialistas avaliam a importância de debates presidenciais diante da possível ausência dos candidatos líderes nas pesquisas, o que seria inédito desde a redemocratização."
     },
     {
       "titulo": "A agonia das famílias de milhares de pessoas que permanecem desaparecidas na Faixa de Gaza",
@@ -165,7 +205,23 @@
       "link": "https://www.bbc.com/portuguese/articles/c3ekgjg0qp5o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 22 Aug 2026 17:19:47 GMT",
       "tema": "mundo",
-      "resumo": "A Cruz Vermelha recebeu mais de 5 mil pedidos de localização de pessoas potencialmente detidas ou cujos corpos estejam soterrados na Faixa de Gaza."
+      "resumo": "A Cruz Vermelha recebeu mais de 5 mil pedidos para localizar pessoas que podem ter sido detidas ou mortas na Faixa de Gaza, revelando a escala da crise humanitária."
+    },
+    {
+      "titulo": "A rede de tráfico de cocaína comandada por alunos de uma das faculdades mais famosas dos EUA",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cz646pl13n4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 22 Aug 2026 16:21:34 GMT",
+      "tema": "mundo",
+      "resumo": "Treze alunos e ex-alunos de uma universidade americana foram presos acusados de coordenar uma rede de tráfico de cocaína."
+    },
+    {
+      "titulo": "O país que pede reparações dos EUA e da Europa pela escravidão",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c998917j19vo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 22 Aug 2026 22:22:42 GMT",
+      "tema": "mundo",
+      "resumo": "Gana emerge como principal voz africana exigindo que nações ocidentais que se beneficiaram da escravidão paguem reparações aos países afetados."
     },
     {
       "titulo": "Como a falta de mulheres na China faz homens caírem em golpes de falsas noivas e perderem milhões",
@@ -173,15 +229,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cp9evj7mdr9o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 22 Aug 2026 19:33:09 GMT",
       "tema": "mundo",
-      "resumo": "Na China, a desproporção demográfica entre homens e mulheres alimenta esquemas de casamentos falsos que causam prejuízos financeiros a milhares de pessoas."
-    },
-    {
-      "titulo": "Soldados nascidos na Ucrânia e capturados contam à BBC por que lutaram pela Rússia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czjlrylwrj0o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 22 Aug 2026 09:43:53 GMT",
-      "tema": "mundo",
-      "resumo": "Soldados nascidos na Ucrânia que lutaram pela Rússia relatam seus motivos enquanto enfrentam julgamento por traição no país."
+      "resumo": "Desequilíbrio demográfico na China deixa homens vulneráveis a golpes de falsas noivas que resultam em perdas milionárias, refletindo uma crise de escassez de mulheres."
     },
     {
       "titulo": "O que aconteceu com o sonho americano de Harry e Meghan?",
@@ -189,31 +237,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c1k1kjlvvgyo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 22 Aug 2026 18:40:16 GMT",
       "tema": "entretenimento",
-      "resumo": "O Duque e a Duquesa de Sussex tiveram trajetória breve em Hollywood, aquém das expectativas após sua mudança para os EUA."
-    },
-    {
-      "titulo": "Como o governo brasileiro vê o telefonema com Trump — e o impacto nas eleições",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c20eql73w4do?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 21 Aug 2026 22:07:57 GMT",
-      "tema": "brasil",
-      "resumo": "Governo brasileiro negocia telefonema com Trump em contexto de crescente tensão diplomática, primeira conversa desde maio."
+      "resumo": "Príncipe Harry e Meghan tiveram experiência breve na indústria do entretenimento em Hollywood, com seu percurso profissional naquele mercado se mostrando mais curto do que esperado."
     },
     {
       "titulo": "Qual é o melhor horário para jantar e por que comer a mesma coisa tem efeitos diferentes dependendo da hora do dia?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cly8e30vejno?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 22 Aug 2026 21:07:58 GMT",
-      "tema": "cultura",
-      "resumo": "Pesquisas apontam que o relógio biológico influencia como o corpo metaboliza alimentos, tornando o horário das refeições relevante para a saúde."
-    },
-    {
-      "titulo": "As livrarias independentes que estão sendo fechadas pelo governo da China",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cdx8xv4z0xzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 22 Aug 2026 14:36:13 GMT",
-      "tema": "mundo",
-      "resumo": "Governo chinês fecha livrarias independentes em Hong Kong, reduzindo acesso a perspectivas diferentes para moradores da China continental."
+      "tema": "brasil",
+      "resumo": "Pesquisas mostram que o horário das refeições influencia como o corpo metaboliza os alimentos, sugerindo que o momento do dia é tão importante quanto a escolha do que comer."
     },
     {
       "titulo": "Flávio Bolsonaro fica um ponto atrás de Lula no segundo turno no agregador de pesquisas da BBC News Brasil",
@@ -221,7 +253,15 @@
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 22 Aug 2026 20:54:01 GMT",
       "tema": "brasil",
-      "resumo": "Agregador de pesquisas eleitorais da BBC News Brasil mostra Flávio Bolsonaro um ponto atrás de Lula em simulação de segundo turno para 2026."
+      "resumo": "Agregador de pesquisas da BBC News Brasil mostra Flávio Bolsonaro um ponto atrás de Lula nas estimativas de intenção de voto para segundo turno em 2026."
+    },
+    {
+      "titulo": "As livrarias independentes que estão sendo fechadas pelo governo da China",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cdx8xv4z0xzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 22 Aug 2026 14:36:13 GMT",
+      "tema": "mundo",
+      "resumo": "Governo chinês está fechando livrarias independentes em Hong Kong, reduzindo o acesso que moradores da China continental tinham a publicações de maior liberdade de expressão."
     },
     {
       "titulo": "'A geração sóbria': por que cada vez mais jovens trocam o álcool por remédios de ansiedade — e por que isso preocupa",
@@ -229,7 +269,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cgr78gqw7qqo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 22 Aug 2026 10:50:41 GMT",
       "tema": "mundo",
-      "resumo": "Crescimento de jovens adultos que usam medicamentos para ansiedade para se intoxicar em festas preocupa especialistas pelo risco à saúde."
+      "resumo": "Jovens adultos estão substituindo álcool por medicamentos para ansiedade em eventos sociais, tendência que preocupa especialistas sobre os riscos à saúde."
+    },
+    {
+      "titulo": "Soldados nascidos na Ucrânia e capturados contam à BBC por que lutaram pela Rússia",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czjlrylwrj0o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 22 Aug 2026 09:43:53 GMT",
+      "tema": "mundo",
+      "resumo": "Soldados nascidos na Ucrânia que lutaram pela Rússia contam seus motivos em entrevistas, enquanto enfrentam julgamentos por traição em campo de prisioneiros de guerra."
     },
     {
       "titulo": "Lula aposta em Trump como 'aliado improvável' para melhorar relação com os EUA, diz Financial Times",
@@ -237,31 +285,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cx252n3de0go?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 22 Aug 2026 14:49:59 GMT",
       "tema": "brasil",
-      "resumo": "Governo Lula vê Trump como possível aliado para melhorar relações com EUA, segundo reportagem do Financial Times."
+      "resumo": "Segundo jornal britânico, governo Lula vê possibilidade de cooperação com Trump em questões de política externa, diferente de uma posição de confronto."
     },
     {
       "titulo": "Hayden Panettiere: como acesso a drogas e pressão intensa levam estrelas mirins ao vício",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cp8x8e5dne5o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 22 Aug 2026 10:39:11 GMT",
-      "tema": "cultura",
-      "resumo": "Especialistas apontam que pressão intensa da fama na infância aumenta risco de atores mirins desenvolverem dependência de substâncias."
-    },
-    {
-      "titulo": "Os navios nazistas naufragados que estão emergindo no rio Danúbio",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c62vp3yejj0o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 22 Aug 2026 16:29:43 GMT",
-      "tema": "mundo",
-      "resumo": "Calor extremo reduz o nível do rio Danúbio e revela restos de navios nazistas, deixando à vista vestígios da Segunda Guerra Mundial."
-    },
-    {
-      "titulo": "Primeiro debate presidencial: o que está em jogo e o que observar",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c89n45wykyeo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 21 Aug 2026 23:45:08 GMT",
-      "tema": "brasil",
-      "resumo": "Debate presidencial na Band no próximo domingo reúne seis dos 13 candidatos, sem participação de Lula e Flávio Bolsonaro."
+      "tema": "entretenimento",
+      "resumo": "Especialistas alertam que a pressão intensa da fama na infância coloca atores mirins em maior risco de desenvolver dependência de substâncias, conforme exemplificado por casos recentes na indústria."
     }
   ]
 }
