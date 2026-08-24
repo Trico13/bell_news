@@ -1,59 +1,51 @@
 {
-  "gerado_em": "2026-08-24T10:35:50.807Z",
+  "gerado_em": "2026-08-24T15:37:29.793Z",
   "modo": "ia",
   "clima": {
-    "max": 21,
-    "min": 13.5,
+    "max": 21.3,
+    "min": 13.9,
     "chuva": 0
   },
   "noticias": [
     {
-      "titulo": "TRE-SP nega recurso de Pablo Marçal e o mantém inelegível até 2032, por irregularidade na campanha para prefeito de SP",
+      "titulo": "Dennis DJ, Iza, Filipe Ret, Gustavo Mioto, Glória Groove e Xamã estão entre as atrações do Sou Manaus 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/24/tre-sp-nega-recurso-de-pablo-marcal-e-o-mantem-inelegivel-ate-2032-por-irregularidade-na-campanha-para-prefeito-de-sp.ghtml",
-      "hora": "Mon, 24 Aug 2026 10:14:02 -0000",
-      "tema": "sp",
-      "resumo": "O Tribunal Regional Eleitoral de São Paulo manteve a inelegibilidade do candidato Pablo Marçal até 2032 após negar seu recurso, em razão de irregularidades constatadas em sua campanha para prefeito."
-    },
-    {
-      "titulo": "Dona Onete recebe alta após mais de 10 dias internada em Belém",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/08/24/dona-onete-recebe-alta-apos-mais-de-10-dias-internada-em-belem.ghtml",
-      "hora": "Mon, 24 Aug 2026 10:12:39 -0000",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/08/24/dennis-dj-iza-filipe-ret-gustavo-mioto-gloria-groove-e-xama-estao-entre-as-atracoes-do-sou-manaus-2026.ghtml",
+      "hora": "Mon, 24 Aug 2026 15:27:30 -0000",
       "tema": "cultura",
-      "resumo": "A cantora paraense Dona Onete, aos 87 anos, recebeu alta após mais de dez dias internada em Belém e retornou ao seu cotidiano."
+      "resumo": "O Festival Sou Manaus Passo a Paço 2026 divulgou sua programação oficial com artistas como Dennis DJ, Iza, Filipe Ret e outros, acontecendo de 4 a 13 de setembro em Manaus."
     },
     {
-      "titulo": "Inmet alerta para baixa umidade do ar em mais de 90 cidades da Paraíba; veja quais",
+      "titulo": "São José lança programa para reduzir faltas na saúde; paciente que confirmar e não comparecer terá bloqueio temporário",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/08/24/inmet-alerta-para-baixa-umidade-do-ar-em-mais-de-90-cidades-da-paraiba-veja-quais.ghtml",
-      "hora": "Mon, 24 Aug 2026 10:06:38 -0000",
-      "tema": "brasil",
-      "resumo": "O Instituto Nacional de Meteorologia emitiu alerta de baixa umidade do ar para mais de 90 cidades da Paraíba nesta segunda-feira."
-    },
-    {
-      "titulo": "Justiça bloqueia R$ 34,6 milhões em operação contra esquema de receptação de alianças de ouro em SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/24/justica-bloqueia-r-346-milhoes-em-operacao-contra-esquema-de-receptacao-de-aliancas-de-ouro-em-sp.ghtml",
-      "hora": "Mon, 24 Aug 2026 10:02:14 -0000",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/24/sao-jose-lanca-programa-para-reduzir-faltas-na-saude-paciente-que-confirmar-e-nao-comparecer-tera-bloqueio-temporario.ghtml",
+      "hora": "Mon, 24 Aug 2026 15:24:47 -0000",
       "tema": "sp",
-      "resumo": "A Polícia Civil de São Paulo deflagra operação contra rede suspeita de envolvimento em roubos de ouro, derretimento e reintrodução do metal no mercado, com bloqueio judicial de R$ 34,6 milhões."
+      "resumo": "São José dos Campos lança programa 'Falta Zero' que bloqueia temporariamente agendamentos de pacientes que não comparecem em consultas confirmadas, visando reduzir faltas na saúde."
     },
     {
-      "titulo": "Solidariedade diz ao STF que indicação de emendas do partido ocorreu 'sem interferências'",
+      "titulo": "Passagens do metrô poderão ser compradas por aplicativo em Salvador",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/24/solidariedade-stf-indicacao-de-emendas.ghtml",
-      "hora": "Mon, 24 Aug 2026 10:00:57 -0000",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/08/24/passagens-do-metro-poderao-ser-compradas-por-aplicativo-em-salvador.ghtml",
+      "hora": "Mon, 24 Aug 2026 15:21:36 -0000",
+      "tema": "mundo",
+      "resumo": "O Sistema Metroviário de Salvador e Lauro de Freitas passou a oferecer a compra de créditos e bilhetes através de aplicativo, facilitando o acesso aos usuários."
+    },
+    {
+      "titulo": "Cachorra fica ferida após ser atingida por linha de pipa com cerol no quintal de casa em Ribeirão Preto, SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/08/24/cachorra-fica-ferida-apos-ser-atingida-por-linha-de-pipa-com-cerol-no-quintal-de-casa-em-ribeirao-preto-sp.ghtml",
+      "hora": "Mon, 24 Aug 2026 15:14:35 -0000",
+      "tema": "sp",
+      "resumo": "Uma cachorra foi ferida ao ser atingida por linha de pipa com cerol em Ribeirão Preto e precisou ser internada para tratamento."
+    },
+    {
+      "titulo": "Campanha coleta DNA de familiares de pessoas desaparecidas; veja pontos em SC",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/24/campanha-coleta-dna-de-familiares-de-pessoas-desaparecidas-veja-pontos-de-coleta-em-sc.ghtml",
+      "hora": "Mon, 24 Aug 2026 15:14:02 -0000",
       "tema": "brasil",
-      "resumo": "O partido Solidariedade respondeu ao Supremo Tribunal Federal sobre questões relacionadas ao uso de emendas parlamentares, sustentando que suas indicações ocorreram sem interferências irregulares."
-    },
-    {
-      "titulo": "Nattan quer Barretos para outros ritmos, mas defende que eventos preservem a essência: 'Viola no campo, sanfona na vaquejada'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/festa-do-peao-de-barretos/noticia/2026/08/24/nattan-quer-barretos-para-outros-ritmos-mas-defende-que-eventos-preservem-a-essencia-viola-no-campo-sanfona-na-vaquejada.ghtml",
-      "hora": "Mon, 24 Aug 2026 10:00:19 -0000",
-      "tema": "cultura",
-      "resumo": "O cantor Nattan defende que a Festa do Peão de Barretos mantenha 80% de programação sertaneja enquanto abre espaço para outros gêneros musicais."
+      "resumo": "Campanha nacional coleta DNA de familiares de pessoas desaparecidas em parceria com as polícias Científica e Civil, ampliando possibilidades de localização independentemente do tempo desaparecido."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -61,7 +53,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "O evento Bike Brasil acontece na Zona Sul de São Paulo com competições de manobras radicais e atividades para o público em geral, reunindo ciclistas profissionais e amadores."
+      "resumo": "Festival Bike Brasil reúne ciclistas profissionais e amadores na Zona Sul de São Paulo com competições de manobras radicais e atividades para crianças."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -69,23 +61,15 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado percorreu 20 km de bicicleta e aguardou 12 horas em fila no interior de São Paulo para concorrer a uma das 500 vagas de emprego oferecidas."
+      "resumo": "Desempregado percorreu 20 km de bicicleta e aguardou 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "sp",
-      "resumo": "O cantor Zé Ramalho apresentou sucessos de sua carreira e músicas de Raul Seixas durante a Festa Junina de Sorocaba."
-    },
-    {
-      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
-      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
-      "tema": "sp",
-      "resumo": "A Polícia Rodoviária Federal apreendeu 927 quilos de maconha em uma carreta em Mato Grosso do Sul que seria entregue em São Paulo."
+      "tema": "cultura",
+      "resumo": "O cantor Zé Ramalho apresentou sucessos da carreira e interpretou canções de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -93,15 +77,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "A terceira edição da Festa Junina Canina acontece em Jundiaí com entrada gratuita e atividades direcionadas a cães e gatos."
+      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina com entrada gratuita, oferecendo brincadeiras e atividades para cães e gatos com seus tutores."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
-      "tema": "sp",
-      "resumo": "O Maior Baile do Mundo, festival de música com artistas como Anitta e MCs, espera reunir 35 mil pessoas em São Paulo para dez horas de apresentações."
+      "tema": "cultura",
+      "resumo": "O Maior Baile do Mundo, festival em São Paulo com Anitta e outros artistas de destaque no streaming, espera reunir 35 mil pessoas em 10 horas de shows."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -109,7 +93,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializou a militante sindical Vera Lúcia como candidata à Presidência da República nas próximas eleições."
+      "resumo": "O PSTU oficializou a militante sindical Vera Lúcia como candidata à Presidência da República nas eleições do país."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -117,7 +101,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A 15ª edição da Feira de Construção Civil, Imóveis e Decoração ocorre em Jundiaí com entrada gratuita e apresenta expositores da área."
+      "resumo": "A 15ª edição da Feiccad, feira dedicada a imóveis, construção, condomínios, arquitetura e decoração, ocorre em Jundiaí com entrada gratuita mediante credenciamento online."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -125,7 +109,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diversos cargos da administração municipal."
+      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diversos cargos do Executivo municipal."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -133,7 +117,15 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência que permitiu rastreá-lo."
+      "resumo": "Homem que vivia em situação de rua em Campinas reencontra a família após 37 anos de separação, graças a um boletim de ocorrência que permitiu o rastreamento."
+    },
+    {
+      "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
+      "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
+      "tema": "sp",
+      "resumo": "Motorista de 75 anos falece em acidente de trânsito em Capela do Alto poucos dias antes de seu filho ser ordenado bispo em Itapetininga."
     },
     {
       "titulo": "Quem ganhou o primeiro debate presidencial?",
@@ -141,7 +133,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cdj0jj12deeo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 24 Aug 2026 07:21:26 GMT",
       "tema": "brasil",
-      "resumo": "Primeiro debate presidencial de 2026 ocorreu na Band com três candidatos; analistas apontam que Renan Santos aproveitou melhor o espaço para se apresentar."
+      "resumo": "No primeiro debate presidencial de 2026, realizado com participação reduzida, analistas não identificam um vencedor claro, mas destacam que Renan Santos aproveitou o espaço para se apresentar."
     },
     {
       "titulo": "Debate da Band: os principais momentos do primeiro confronto entre candidatos à Presidência",
@@ -149,15 +141,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cx2zgg90pnwo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 24 Aug 2026 04:37:54 GMT",
       "tema": "brasil",
-      "resumo": "Debate presidencial na Band destacou-se pela atuação de Renan Santos, que utilizou estratégia agressiva para se posicionar como candidato antissistema."
+      "resumo": "Primeiro debate presidencial na Band reúne três candidatos e marca a performance de Renan Santos com estilo confrontacional, enquanto Lula e Flávio não comparecem."
     },
     {
-      "titulo": "Quando será o próximo debate presidencial da eleição 2026?",
+      "titulo": "Quem é Augusto Cury, o escritor que disputa as eleições de 2026",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cpwl85rjdz8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 24 Aug 2026 03:18:38 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c2kwj59yledo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 24 Aug 2026 10:42:58 GMT",
       "tema": "brasil",
-      "resumo": "Três novos debates presidenciais estão programados para o primeiro turno das eleições de 2026, mas nem todos os candidatos têm presença garantida."
+      "resumo": "Augusto Cury, escritor e candidato presidencial, participa do debate e critica o estilo agressivo de seu concorrente Renan Santos."
     },
     {
       "titulo": "Lula diz que Lulinha deve ser investigado e punido se tiver cometido erros",
@@ -165,7 +157,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c93vpgw3n4xo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 24 Aug 2026 07:45:45 GMT",
       "tema": "brasil",
-      "resumo": "O presidente Lula afirmou em entrevista que seu filho deve ser investigado e punido caso tenha cometido erros, enquanto se ausentava do debate presidencial."
+      "resumo": "Lula afirma em entrevista que seu filho deve ser investigado e punido caso tenha cometido erros, enquanto se ausenta do debate presidencial."
     },
     {
       "titulo": "Flávio Bolsonaro critica Lula e diz qual seria um de seus 'primeiros atos' caso vença as eleições",
@@ -173,7 +165,7 @@
       "link": "https://www.bbc.com/portuguese/articles/ce3082ey15lo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 24 Aug 2026 08:14:16 GMT",
       "tema": "brasil",
-      "resumo": "Flávio Bolsonaro criticou Lula nas redes sociais durante o debate da Band, do qual não compareceu, e anunciou quais seriam seus primeiros atos como presidente."
+      "resumo": "Flávio Bolsonaro comenta sobre possíveis ações de governo através de redes sociais durante debate presidencial do qual não compareceu."
     },
     {
       "titulo": "Flávio Bolsonaro fica um ponto atrás de Lula no segundo turno no agregador de pesquisas da BBC News Brasil",
@@ -181,7 +173,15 @@
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 22 Aug 2026 20:54:01 GMT",
       "tema": "brasil",
-      "resumo": "No agregador de pesquisas eleitorais da BBC, Flávio Bolsonaro aparece apenas um ponto atrás de Lula em simulação de segundo turno para 2026."
+      "resumo": "Agregador de pesquisas eleitorais da BBC aponta diferença reduzida entre Lula e Flávio Bolsonaro em cenário de segundo turno para 2026."
+    },
+    {
+      "titulo": "Os documentos que mostram como Juscelino Kubitschek esteve na mira dos EUA durante a ditadura",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cy5dvqz354po?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 24 Aug 2026 12:47:05 GMT",
+      "tema": "brasil",
+      "resumo": "Documentos revelam que o governo dos EUA mantinha vigilância sobre Juscelino Kubitschek durante a ditadura militar, considerando-o relevante em caso de redemocratização."
     },
     {
       "titulo": "Como derretimento de gelo na Groenlândia faz baleias migrarem para áreas antes inacessíveis",
@@ -189,7 +189,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cx2dwze1kgxo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 24 Aug 2026 09:12:51 GMT",
       "tema": "mundo",
-      "resumo": "O derretimento do gelo marinho na Groenlândia, causado pelas mudanças climáticas, está abrindo novos caminhos para baleias realizarem migrações e alimentação em regiões antes inacessíveis."
+      "resumo": "O derretimento do gelo marinho causado pelas mudanças climáticas permite que baleias acessem áreas antes inacessíveis na Groenlândia para se alimentar."
     },
     {
       "titulo": "O que o Canadá arrisca ao retaliar as tarifas de Trump?",
@@ -197,15 +197,30 @@
       "link": "https://www.bbc.com/portuguese/articles/cre4e1w2g2eo?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 23 Aug 2026 13:23:51 GMT",
       "tema": "mundo",
-      "resumo": "O Canadá abandonou negociações comerciais com os EUA e anunciou retaliação contra as tarifas impostas pela administração Trump."
+      "resumo": "Canadá anuncia retaliação contra tarifas comerciais impostas pelos EUA após abandono de negociações com a Casa Branca."
     },
     {
-      "titulo": "Zelensky precisa ser questionado sobre corrupção no seu governo, diz ministro demitido na Ucrânia",
+      "titulo": "O apelo do influenciador Lito Sousa por tratamento experimental após revelar doença rara",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvg0gl7gl3jo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 23 Aug 2026 18:12:41 GMT",
-      "tema": "mundo",
-      "resumo": "Um ministro demitido do governo ucraniano pediu que o presidente Zelensky seja questionado sobre corrupção e sugeriu a realização de eleições durante o conflito."
+      "link": "https://www.bbc.com/portuguese/articles/cy4zlmyxnkgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 24 Aug 2026 11:13:50 GMT",
+      "tema": "entretenimento",
+      "resumo": "Influenciador Lito Sousa divulga diagnóstico de doença rara e solicita participação em estudos experimentais de instituições internacionais."
+    },
+    {
+      "titulo": "Quando será o próximo debate presidencial da eleição 2026?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cpwl85rjdz8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 24 Aug 2026 03:18:38 GMT",
+      "tema": "brasil",
+      "resumo": "Três novos debates presidenciais estão previstos para o primeiro turno das eleições de 2026, embora nem todos os candidatos tenham presença garantida."
+    },
+    {
+      "titulo": " Como foi o debate da Band: Caiado, Renan e Cury disparam ataques contra Lula e Flávio; veja repercussão",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.co.uk/portuguese/live/cmlyqyl0d3z7t?at_medium=RSS&at_campaign=rss",
+      "tema": "brasil",
+      "resumo": "Debate presidencial da Band marca o confronto mais esvaziado desde 1989, com trocas de ataques entre Caiado, Renan e Cury contra Lula e Flávio."
     },
     {
       "titulo": "Quem ganha e quem perde com a entrada de Pablo Marçal na disputa presidencial",
@@ -213,38 +228,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cre4g2dvrvyo?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 23 Aug 2026 23:01:38 GMT",
       "tema": "brasil",
-      "resumo": "A entrada de Pablo Marçal como candidato à presidência é vista por analistas como um fator desestabilizador nas eleições de 2026, que permanecem polarizadas entre Lula e Flávio Bolsonaro."
+      "resumo": "A entrada do influenciador Pablo Marçal na disputa presidencial é vista como fator desestabilizador das eleições de 2026, que permanecem polarizadas."
     },
     {
-      "titulo": " Como foi o debate da Band: Caiado, Renan e Cury disparam ataques contra Lula e Flávio; veja repercussão",
+      "titulo": "Zelensky precisa ser questionado sobre corrupção no seu governo, diz ministro demitido na Ucrânia",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/cmlyqyl0d3z7t?at_medium=RSS&at_campaign=rss",
-      "tema": "brasil",
-      "resumo": "Debate da Band reuniu Caiado, Renan Santos e Augusto Cury em confronto marcado por ataques a Lula e Flávio, enquanto os dois principais candidatos se ausentaram."
-    },
-    {
-      "titulo": "Só Renan Santos, Caiado e Augusto Cury vão ao debate da Band: os confrontos ainda importam?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c8jnwr9d4vdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 23 Aug 2026 22:57:52 GMT",
-      "tema": "brasil",
-      "resumo": "Apenas três candidatos compareceram ao debate da Band, com os dois líderes de pesquisa e outros nomes importantes ausentes, levantando questionamentos sobre a relevância dos confrontos."
-    },
-    {
-      "titulo": "Como um magnata excêntrico que tinha leão como animal de estimação se tornou o homem mais rico do mundo",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c304emj4jngo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 23 Aug 2026 19:45:58 GMT",
-      "tema": "cultura",
-      "resumo": "Jean Paul Getty, magnata conhecido por excentricidades e festas luxuosas com milhares de convidados, marcou história antes de se tornar o homem mais rico do mundo."
-    },
-    {
-      "titulo": "Jejum intermitente: o que os influenciadores não te contam",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvg8xnrlekwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 23 Aug 2026 11:29:23 GMT",
-      "tema": "cultura",
-      "resumo": "Matéria analisa as limitações científicas em comprovar a eficácia do jejum intermitente, destacando que novas tecnologias podem ajudar a entender melhor qual impacto real essa prática tem."
+      "link": "https://www.bbc.com/portuguese/articles/cvg0gl7gl3jo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 23 Aug 2026 18:12:41 GMT",
+      "tema": "mundo",
+      "resumo": "Ministro demitido da Ucrânia critica o presidente Zelensky sobre corrupção em seu governo e reclama pela realização de eleições durante o período de guerra."
     }
   ]
 }
