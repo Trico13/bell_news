@@ -1,91 +1,91 @@
 {
-  "gerado_em": "2026-08-24T21:26:59.745Z",
+  "gerado_em": "2026-08-25T10:30:57.508Z",
   "modo": "ia",
   "clima": {
-    "max": 19.8,
-    "min": 13.8,
-    "chuva": 0
+    "max": 21,
+    "min": 13.6,
+    "chuva": 24
   },
   "noticias": [
     {
-      "titulo": "VÍDEO: carro oficial da Prefeitura de Itu cai em córrego da Marginal após motorista perder o controle",
+      "titulo": "DF tem 1º caso de internação involuntária de pessoa em situação de rua",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/08/24/video-carro-oficial-da-prefeitura-de-itu-cai-em-corrego-da-marginal-apos-motorista-perder-o-controle.ghtml",
-      "hora": "Mon, 24 Aug 2026 21:19:51 -0000",
-      "tema": "sp",
-      "resumo": "Um veículo oficial da Prefeitura de Itu saiu da pista e caiu em um córrego na Avenida Marginal na segunda-feira; o motorista perdeu o controle do carro."
-    },
-    {
-      "titulo": "Tralli e Renata entrevistam Romeu Zema, candidato a presidente pelo Novo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/ao-vivo/zema-entrevista-candidatos-presidente.ghtml",
-      "hora": "Mon, 24 Aug 2026 21:16:40 -0000",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/25/df-tem-1o-caso-de-internacao-involuntaria-de-pessoa-em-situacao-de-rua.ghtml",
+      "hora": "Tue, 25 Aug 2026 10:16:05 -0000",
       "tema": "brasil",
-      "resumo": "A Globo realiza entrevistas com candidatos à Presidência, incluindo Romeu Zema do partido Novo, transmitidas ao vivo entre 24 e 29 de agosto."
+      "resumo": "O Distrito Federal realizou a primeira internação involuntária de uma pessoa em situação de rua sob nova lei aprovada pelo governo local, resgatando um homem de 31 anos que estava nos trilhos do metrô."
     },
     {
-      "titulo": "Prefeito de Caçapava, Yan Lopes (Podemos) apresenta defesa em comissão processante que investiga recursos do transporte",
+      "titulo": "ANPD multa TikTok em R$ 153,7 milhões por falhas na proteção de menores",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/24/prefeito-de-cacapava-yan-lopes-podemos-apresenta-defesa-em-comissao-processante-que-investiga-recursos-do-transporte.ghtml",
-      "hora": "Mon, 24 Aug 2026 21:16:20 -0000",
-      "tema": "sp",
-      "resumo": "O prefeito de Caçapava apresenta defesa em processo que investiga possíveis irregularidades no uso de recursos do Fundo de Transporte do município."
-    },
-    {
-      "titulo": "Motorista é preso com mais de 200 kg de maconha na Rodovia Marechal Rondon em Bauru",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/24/prisao-de-motorista-e-apreensao-de-drogas-em-rodovia-de-bauru.ghtml",
-      "hora": "Mon, 24 Aug 2026 21:16:08 -0000",
-      "tema": "sp",
-      "resumo": "A Polícia Militar Rodoviária apreendeu 207 quilos de maconha durante abordagem em rodovia de Bauru e prendeu o motorista."
-    },
-    {
-      "titulo": "Aneel rejeita perícia pedida pela Enel e dá 10 dias para empresa apresentar defesa final",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/24/aneel-rejeita-pericia-pedida-pela-enel-e-da-10-dias-para-empresa-apresentar-defesa-final.ghtml",
-      "hora": "Mon, 24 Aug 2026 21:12:56 -0000",
-      "tema": "sp",
-      "resumo": "A Agência Nacional de Energia Elétrica rejeitou um recurso da Enel em processo que avalia irregularidades na distribuição de energia em São Paulo; empresa tem 10 dias para apresentar defesa."
-    },
-    {
-      "titulo": "Dragon Ball e mais: França e Arábia Saudita anunciam megaprojeto de R$ 36 bilhões para criar parques temáticos em Paris",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/turismo-e-viagem/noticia/2026/08/24/dragon-ball-e-mais-franca-e-arabia-saudita-anunciam-megaprojeto-de-r-36-bilhoes-para-criar-parques-tematicos-em-paris.ghtml",
-      "hora": "Mon, 24 Aug 2026 21:09:59 -0000",
-      "tema": "mundo",
-      "resumo": "França e Arábia Saudita anunciaram um projeto de 6 bilhões de euros para construir três parques temáticos na região de Paris, incluindo um dedicado a Dragon Ball, com previsão de gerar 22 mil empregos."
-    },
-    {
-      "titulo": "Médico detalha tentativa de reanimação de servidor público que morreu durante corrida na BA",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/24/medico-detalha-tentativa-de-reanimacao-de-servidor-publico-que-morreu-durante-corrida-na-ba.ghtml",
-      "hora": "Mon, 24 Aug 2026 21:08:01 -0000",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/08/25/anpd-multa-tiktok-por-falhas-na-protecao-de-menores.ghtml",
+      "hora": "Tue, 25 Aug 2026 10:04:00 -0000",
       "tema": "brasil",
-      "resumo": "Um médico que participava de corrida de rua em Feira de Santana relatou as tentativas de reanimação de um servidor público que morreu durante o evento."
+      "resumo": "A Agência Nacional de Proteção de Dados multou a ByteDance (controladora do TikTok) em R$ 153,7 milhões por falhas na proteção de dados pessoais de crianças e adolescentes."
     },
     {
-      "titulo": "Família faz buscas por idosa que desapareceu após sair para aula de pilates em Itapetininga",
+      "titulo": "Falso delegado dá golpe de R$ 165 mil em idosa",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/08/24/familia-faz-buscas-por-idosa-que-desapareceu-apos-sair-para-aula-de-pilates-em-itapetininga.ghtml",
-      "hora": "Mon, 24 Aug 2026 21:06:45 -0000",
-      "tema": "sp",
-      "resumo": "Família de Itapetininga procura por uma idosa de 70 anos que desapareceu após sair para aula de pilates na segunda-feira."
-    },
-    {
-      "titulo": "Homem apontado como líder do tráfico de drogas é preso em Volta Redonda",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/24/homem-apontado-como-lider-do-trafico-de-drogas-e-preso-em-volta-redonda.ghtml",
-      "hora": "Mon, 24 Aug 2026 21:05:20 -0000",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/08/25/falso-delegado-da-golpe-de-r-165-mil-em-idosa.ghtml",
+      "hora": "Tue, 25 Aug 2026 10:03:36 -0000",
       "tema": "brasil",
-      "resumo": "A polícia prendeu um homem de 25 anos apontado como líder do tráfico de drogas em Volta Redonda, localizado por câmeras de monitoramento municipal."
+      "resumo": "O Ministério Público de Goiás denunciou sete pessoas por aplicar um golpe de R$ 165 mil em uma idosa de 75 anos, usando a tática de se passar por delegado."
     },
     {
-      "titulo": "Abertas inscrições para oficinas gratuitas de projetos culturais em Petrolina",
+      "titulo": "Eleições 2026: veja propostas de Fábio  para o governo de Sergipe",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/08/24/abertas-inscricoes-para-oficinas-gratuitas-de-projetos-culturais-em-petrolina.ghtml",
-      "hora": "Mon, 24 Aug 2026 21:01:43 -0000",
+      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-veja-propostas-de-fabio-para-o-governo-de-sergipe.ghtml",
+      "hora": "Tue, 25 Aug 2026 10:00:39 -0000",
+      "tema": "brasil",
+      "resumo": "O candidato ao governo de Sergipe Fábio Mitidieri (PSD) registrou seu programa de governo no TSE com as principais propostas para o estado."
+    },
+    {
+      "titulo": "Eleições 2026: veja propostas de Dr. Helton para o governo de Sergipe",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-veja-propostas-de-dr-helton-para-o-governo-de-sergipe.ghtml",
+      "hora": "Tue, 25 Aug 2026 10:00:38 -0000",
+      "tema": "brasil",
+      "resumo": "O candidato ao governo de Sergipe Dr. Helton (PSOL) registrou seu programa de governo no TSE com as propostas que pretende implementar se eleito."
+    },
+    {
+      "titulo": "Eleições 2026: veja propostas de Emanuel Cacho para o governo de SE",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-veja-propostas-de-emanuel-cacho-para-o-governo-de-se.ghtml",
+      "hora": "Tue, 25 Aug 2026 10:00:36 -0000",
+      "tema": "brasil",
+      "resumo": "O candidato ao governo de Sergipe Emanuel Cacho (PSDB) registrou seu programa de governo no TSE destacando suas principais propostas."
+    },
+    {
+      "titulo": "Eleições 2026: veja propostas de Ricardo Marques para o governo de Sergipe",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-veja-propostas-de-ricardo-marques-para-o-governo-de-sergipe.ghtml",
+      "hora": "Tue, 25 Aug 2026 10:00:30 -0000",
+      "tema": "brasil",
+      "resumo": "O candidato ao governo de Sergipe Ricardo Marques (PL) registrou seu programa de governo no TSE com suas principais propostas para o estado."
+    },
+    {
+      "titulo": "Eleições 2026: veja propostas de  Valmir de Francisquinho para o governo Sergipe ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-veja-propostas-de-valmir-de-francisquinho-para-o-governo-sergipe.ghtml",
+      "hora": "Tue, 25 Aug 2026 10:00:28 -0000",
+      "tema": "brasil",
+      "resumo": "O candidato ao governo de Sergipe Valmir de Francisquinho (Republicanos) registrou seu programa de governo no TSE com suas propostas."
+    },
+    {
+      "titulo": "Eleições 2026: veja propostas de Taty Cristina de Jesus para o governo de Sergipe",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-veja-propostas-de-taty-cristina-de-jesus-para-o-governo-de-sergipe.ghtml",
+      "hora": "Tue, 25 Aug 2026 10:00:27 -0000",
+      "tema": "brasil",
+      "resumo": "A candidata ao governo de Sergipe Taty Cristina de Jesus (Democracia Cristã) registrou seu programa de governo no TSE com suas propostas."
+    },
+    {
+      "titulo": "A trajetória de Ana Castela: da fronteira com o Paraguai aos grandes palcos do Barretão",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/25/a-trajetoria-de-ana-castela-da-fronteira-com-o-paraguai-aos-grandes-palcos-do-barretao.ghtml",
+      "hora": "Tue, 25 Aug 2026 10:00:18 -0000",
       "tema": "cultura",
-      "resumo": "A Fundação Nilo Coelho abre inscrições para oficinas gratuitas sobre realização de projetos culturais em Petrolina, com encontros presenciais de setembro a outubro."
+      "resumo": "A cantora Ana Castela, que ficou famosa com o hit 'Pipoco', será uma das atrações da Festa do Peão de Barretos em 2026 e continua conquistando novos palcos."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -93,7 +93,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "O evento Bike Brasil acontece no São Paulo Expo com competições de manobras e atividades para crianças, reunindo ciclistas profissionais e amadores."
+      "resumo": "O evento Bike Brasil acontece na Zona Sul de São Paulo com competições de manobras radicais, ciclistas profissionais e amadores, além de atividades para crianças."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -101,7 +101,7 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Um desempregado pedalou 20 quilômetros e aguardou 12 horas em fila em Bauru para concorrer a uma das 500 vagas de emprego oferecidas."
+      "resumo": "Um desempregado pedalou 20 km e aguardou 12 horas em fila em Bauru para concorrer a uma das 500 vagas de emprego oferecidas."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -109,7 +109,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "sp",
-      "resumo": "O cantor Zé Ramalho apresentou sucessos e interpretou músicas de Raul Seixas na Festa Junina de Sorocaba."
+      "resumo": "O cantor Zé Ramalho apresentou sucessos de sua carreira e canções de Raul Seixas na 39ª Festa Junina de Sorocaba."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
@@ -117,7 +117,7 @@
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "A Polícia Rodoviária Federal apreendeu 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo; motorista confessou o tráfico."
+      "resumo": "A Polícia Rodoviária Federal apreendeu 927 quilos de maconha em uma carreta em Mato Grosso do Sul que seria entregue em São Paulo."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -125,7 +125,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza a terceira edição da Festa Junina Canina com brincadeiras e atividades gratuitas para cães e gatos."
+      "resumo": "A 3ª edição da Festa Junina Canina de Jundiaí oferece entrada gratuita com brincadeiras, pula-pula e atividades para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -133,7 +133,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "O Maior Baile do Mundo, festival em São Paulo com Anitta e MCs, espera reunir 35 mil pessoas em dez horas de shows."
+      "resumo": "O Maior Baile do Mundo, festival realizado em São Paulo, reúne grandes nomes como Anitta e MCs em 10 horas de shows para 35 mil pessoas."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -141,7 +141,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializa a candidatura da militante sindical Vera Lúcia à Presidência da República nas próximas eleições."
+      "resumo": "O PSTU oficializou a militante sindical Vera Lúcia como candidata à Presidência da República nas eleições de 2026."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -149,7 +149,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A Feiccad, feira sobre imóveis, construção, condomínios e decoração, realiza sua 15ª edição em Jundiaí com entrada gratuita até domingo."
+      "resumo": "A 15ª Feiccad (Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração) acontece em Jundiaí com entrada gratuita e credenciamento pelo site."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -157,7 +157,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos da administração até 31 de julho, com provas na própria cidade."
+      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diversos cargos administrativos, com provas aplicadas na cidade."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -165,23 +165,39 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra a família após 37 anos de separação, graças a um boletim de ocorrência que permitiu o contato com parentes."
+      "resumo": "Morador de rua em Campinas reencontra a família após 37 anos de separação, graças a um boletim de ocorrência que permitiu a localização."
     },
     {
       "titulo": "Chefe de facção que atua dentro e fora dos presídios brasileiros é transferido da PF em Foz do Iguaçu",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2018/07/20/chefe-de-faccao-que-atua-dentro-e-fora-dos-presidios-brasileiros-e-transferido-da-pf-em-foz-do-iguacu.ghtml",
       "hora": "Fri, 20 Jul 2018 10:55:41 -0000",
-      "tema": "sp",
-      "resumo": "Eduardo Aparecido de Almeida, chefe do PCC, foi transferido da Delegacia da Polícia Federal em Foz do Iguaçu para a Penitenciária de Catanduvas."
+      "tema": "brasil",
+      "resumo": "Eduardo Aparecido de Almeida, líder do PCC, foi transferido da Polícia Federal em Foz do Iguaçu para a Penitenciária de Catanduvas."
     },
     {
-      "titulo": "Beach Park diz que checa peso e altura dos visitantes nos brinquedos; testemunha nega",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2018/07/19/beach-park-diz-que-checa-peso-e-altura-dos-visitantes-nos-brinquedos-testemunha-nega.ghtml",
-      "hora": "Thu, 19 Jul 2018 21:48:36 -0000",
-      "tema": "sp",
-      "resumo": "Beach Park divulga que segue protocolos de verificação de peso e altura nos brinquedos após acidente fatal em toboágua, mas testemunha contesta a afirmação."
+      "titulo": "Os vídeos feitos com IA que erotizam a escravidão no Brasil para lucrar com anúncios",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c3r0194grx2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 25 Aug 2026 07:49:55 GMT",
+      "tema": "brasil",
+      "resumo": "Investigação da BBC identificou cerca de 150 canais no YouTube que publicam conteúdo fictício sexualizado sobre o período da escravidão para lucrar com publicidade."
+    },
+    {
+      "titulo": "Como Lito Sousa conquistou a internet falando de aviação e agora mobiliza seguidores contra doença rara",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwyzxnvy03qo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 25 Aug 2026 08:38:32 GMT",
+      "tema": "entretenimento",
+      "resumo": "Lito Sousa, criador de conteúdo sobre aviação, utiliza sua plataforma para mobilizar seguidores em prol da conscientização sobre uma doença rara."
+    },
+    {
+      "titulo": "Eclipse lunar quase total poderá ser visto do Brasil: que horas começa e como observar",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cvgx349yzdgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 25 Aug 2026 09:03:29 GMT",
+      "tema": "brasil",
+      "resumo": "Um eclipse lunar quase total poderá ser observado de todas as regiões do Brasil em breve, desde que as condições climáticas sejam favoráveis."
     },
     {
       "titulo": "Bets causam prejuízo ao PIB cinco vezes maior do que tarifaço de Trump, aponta estudo",
@@ -189,7 +205,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cp9edmddyz2o?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 24 Aug 2026 16:45:39 GMT",
       "tema": "brasil",
-      "resumo": "Estudo de pesquisador da UFRJ aponta que as apostas esportivas causam prejuízo de entre R$ 120 e R$ 141 bilhões ao PIB brasileiro por redução do consumo, enquanto associações das bets questionam a metodologia."
+      "resumo": "Estudo aponta que as apostas online causam impacto negativo à economia brasileira na ordem de R$ 120 a 141 bilhões por reduzirem o consumo, proporção cinco vezes maior que efeitos de tarifas do comércio exterior."
+    },
+    {
+      "titulo": "O que Romeu Zema disse em sabatina do Jornal Nacional com presidenciáveis",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c87vglz53e1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 25 Aug 2026 02:45:43 GMT",
+      "tema": "brasil",
+      "resumo": "Romeu Zema, candidato do Novo, participou de sabatina do Jornal Nacional e propôs privatizações, classificação de facções como terrorismo e anistia para condenados do 8 de janeiro."
     },
     {
       "titulo": "Por que Renan Santos liderou as atenções nas redes sociais durante o debate presidencial, segundo pesquisas",
@@ -197,15 +221,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c4gvd73eqvvo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 24 Aug 2026 21:01:04 GMT",
       "tema": "brasil",
-      "resumo": "Durante o debate presidencial, pesquisas mostram que Renan Santos foi o candidato mais mencionado nas redes sociais, embora isso não signifique repercussão necessariamente positiva."
-    },
-    {
-      "titulo": "O apelo do influenciador Lito Sousa por tratamento experimental após revelar doença rara",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cy4zlmyxnkgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 24 Aug 2026 11:13:50 GMT",
-      "tema": "cultura",
-      "resumo": "Influenciador Lito Sousa pediu inclusão em programas experimentais de tratamento de doença rara oferecidos por Harvard e consórcio europeu, mas nenhum dos dois está aceitando novos participantes."
+      "resumo": "Pesquisas indicam que Renan Santos foi o candidato mais mencionado nas redes sociais durante debate presidencial, embora isso não represente necessariamente avaliação positiva."
     },
     {
       "titulo": "Os documentos que mostram como Juscelino Kubitschek esteve na mira dos EUA durante a ditadura",
@@ -213,7 +229,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cy5dvqz354po?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 24 Aug 2026 12:47:05 GMT",
       "tema": "brasil",
-      "resumo": "Documentos históricos revelam que o governo dos EUA monitorava Juscelino Kubitschek durante a ditadura militar brasileira, considerando-o uma liderança importante para eventual redemocratização do país."
+      "resumo": "Documentos revelam que o governo dos EUA monitorava Juscelino Kubitschek durante a ditadura militar brasileira, vendo-o como líder potencial em caso de redemocratização."
     },
     {
       "titulo": "Por dentro da caçada ao 'Aranha', o chefe de espionagem do ex-ditador sírio Bashar al-Assad",
@@ -221,31 +237,7 @@
       "link": "https://www.bbc.com/portuguese/articles/ce9eznp87kno?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 24 Aug 2026 17:35:38 GMT",
       "tema": "mundo",
-      "resumo": "Reportagem acompanha a história de um dos principais chefes de espionagem do regime sírio de Bashar al-Assad, conhecido como 'Aranha'."
-    },
-    {
-      "titulo": "Quem ganhou o primeiro debate presidencial?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cdj0jj12deeo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 24 Aug 2026 20:14:25 GMT",
-      "tema": "brasil",
-      "resumo": "Analistas indicam que o primeiro debate presidencial não teve vencedor claro, mas Renan Santos aproveitou o espaço para ganhar visibilidade entre eleitores."
-    },
-    {
-      "titulo": "Debate da Band: os principais momentos do primeiro confronto entre candidatos à Presidência",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cx2zgg90pnwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 24 Aug 2026 04:37:54 GMT",
-      "tema": "brasil",
-      "resumo": "No primeiro debate presidencial da Band com apenas três candidatos, Renan Santos se destacou com postura agressiva e performática, enquanto todos atacaram Lula e Flávio Bolsonaro."
-    },
-    {
-      "titulo": "Quem é Augusto Cury, escritor que disputa a Presidência nas eleições 2026",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c2kwj59yledo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 24 Aug 2026 20:13:24 GMT",
-      "tema": "brasil",
-      "resumo": "Augusto Cury, candidato à Presidência em 2026, criticou Renan Santos por seus ataques aos apoiadores de Lula, afirmando que a agressividade do rival o preocupa."
+      "resumo": "BBC relata a investigação sobre Hafez Makhlouf, temido chefe de espionagem do regime de Bashar al-Assad na Síria."
     },
     {
       "titulo": "Flávio Bolsonaro fica um ponto atrás de Lula no segundo turno no agregador de pesquisas da BBC News Brasil",
@@ -253,15 +245,31 @@
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 22 Aug 2026 20:54:01 GMT",
       "tema": "brasil",
-      "resumo": "Conforme o agregador de pesquisas eleitorais da BBC, Flávio Bolsonaro aparece apenas um ponto atrás de Lula em simulações de segundo turno para as eleições de 2026."
+      "resumo": "Agregador de pesquisas eleitorais da BBC News Brasil mostra Flávio Bolsonaro um ponto atrás de Lula em cenário de segundo turno para a eleição presidencial de 2026."
     },
     {
-      "titulo": "Como o Talebã governa o Afeganistão e impede até divórcio de mulher que acusa marido de agressão",
+      "titulo": "'As mulheres têm deficiências intelectuais': BBC revela como o Talebã governa o Afeganistão",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cd085jkpermo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 24 Aug 2026 18:47:27 GMT",
       "tema": "mundo",
-      "resumo": "Cinco anos após retomar o poder no Afeganistão, o Talebã mantém controle rigoroso sobre a população, incluindo restrições como impedir divórcios de mulheres que denunciam agressão de maridos."
+      "resumo": "BBC acompanha como o Talebã governa o Afeganistão cinco anos após seu retorno ao poder, destacando as políticas restritivas impostas pelo grupo em relação às mulheres."
+    },
+    {
+      "titulo": "O apelo do influenciador Lito Sousa por tratamento experimental após revelar doença rara",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cy4zlmyxnkgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 24 Aug 2026 11:13:50 GMT",
+      "tema": "entretenimento",
+      "resumo": "Influenciador Lito Sousa compartilhou apelo público em vídeo pedindo inclusão em estudos experimentais de Harvard e consórcio europeu para tratamento de doença rara que o afeta."
+    },
+    {
+      "titulo": "Quem ganhou o primeiro debate presidencial?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cdj0jj12deeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 24 Aug 2026 20:14:25 GMT",
+      "tema": "brasil",
+      "resumo": "Analistas consultados pela BBC News Brasil apontam que o primeiro debate presidencial não teve vencedor nítido, mas Renan Santos aproveitou o espaço para aumentar sua visibilidade."
     },
     {
       "titulo": "Lula diz que Lulinha deve ser investigado e punido se tiver cometido erros",
@@ -269,15 +277,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c93vpgw3n4xo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 24 Aug 2026 07:45:45 GMT",
       "tema": "brasil",
-      "resumo": "Lula afirmou em entrevista à TV Record que o filho deve ser investigado e punido caso tenha cometido erros, enquanto faltava ao primeiro debate presidencial."
-    },
-    {
-      "titulo": "Flávio Bolsonaro critica Lula e diz qual seria um de seus 'primeiros atos' caso vença as eleições",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ce3082ey15lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 24 Aug 2026 08:14:16 GMT",
-      "tema": "brasil",
-      "resumo": "Flávio Bolsonaro criticou Lula nas redes sociais durante o debate da Band, do qual se ausentou, e comentou sobre ações que tomaria caso vencesse as eleições de 2026."
+      "resumo": "Lula afirmou em entrevista que seu filho deve ser investigado e punido se tiver cometido erros, comentando sobre investigações em andamento."
     },
     {
       "titulo": "Quando será o próximo debate presidencial da eleição 2026?",
@@ -285,14 +285,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cpwl85rjdz8o?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 24 Aug 2026 03:18:38 GMT",
       "tema": "brasil",
-      "resumo": "Três novos debates presidenciais estão agendados para o primeiro turno das eleições de 2026, embora nem todos os candidatos tenham presença garantida em todos os encontros."
-    },
-    {
-      "titulo": " Como foi o debate da Band: Caiado, Renan e Cury disparam ataques contra Lula e Flávio; veja repercussão",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/cmlyqyl0d3z7t?at_medium=RSS&at_campaign=rss",
-      "tema": "brasil",
-      "resumo": "No primeiro debate presidencial da Band, Caiado, Renan Santos e Augusto Cury trocaram ataques contra Lula e Flávio, enquanto ambos os ausentes tomavam outras ações públicas, configurando o debate mais esvaziado desde 1989."
+      "resumo": "Três debates presidenciais adicionais estão previstos para o primeiro turno da eleição 2026, mas nem todos os candidatos têm presença garantida em todos os encontros."
     }
   ]
 }
