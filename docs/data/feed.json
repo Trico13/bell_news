@@ -1,83 +1,83 @@
 {
-  "gerado_em": "2026-08-26T16:16:29.451Z",
+  "gerado_em": "2026-08-27T00:27:23.706Z",
   "modo": "ia",
   "clima": {
-    "max": 24.1,
+    "max": 23.9,
     "min": 14.9,
     "chuva": 40
   },
   "noticias": [
     {
-      "titulo": "Acidente entre caminhonete e carreta deixa uma pessoa morta e três feridas em rodovia de Paranapanema",
+      "titulo": "Justiça mantém prisão de 10 advogados investigados por envolvimento com facções na Bahia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/08/26/acidente-entre-caminhonete-e-carreta-deixa-uma-pessoa-morta-e-tres-feridas-em-rodovia-de-paranapanema.ghtml",
-      "hora": "Wed, 26 Aug 2026 16:05:00 -0000",
-      "tema": "sp",
-      "resumo": "Uma pessoa morreu e três ficaram feridas em colisão entre caminhonete e carreta na Rodovia Raposo Tavares em Paranapanema."
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/08/26/justica-mantem-prisao-de-advogados-na-bahia.ghtml",
+      "hora": "Thu, 27 Aug 2026 00:15:39 -0000",
+      "tema": "brasil",
+      "resumo": "O Tribunal de Justiça da Bahia manteve a prisão de dez advogados investigados por ligações com facções criminosas, negando pedidos de liberdade na Operação Sintonia de Gravata."
     },
     {
-      "titulo": "‘Salvo por uma mangueira’: sobreviventes relatam como escaparam da avalanche devastadora no Nepal",
+      "titulo": "Renan Santos propõe R$ 6 bilhões para construir presídios e defende regime de exceção em favelas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/08/26/salvo-por-uma-mangueira-sobreviventes-relatam-como-escaparam-da-avalanche-devastadora-no-nepal.ghtml",
-      "hora": "Wed, 26 Aug 2026 16:04:38 -0000",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/26/renan-santos-construcao-presidios-regime-de-excecao-em-favelas.ghtml",
+      "hora": "Thu, 27 Aug 2026 00:12:26 -0000",
+      "tema": "brasil",
+      "resumo": "Candidato à Presidência propõe investimento de R$ 6 bilhões em construção de presídios federais e defende regime especial em favelas como estratégia de segurança pública."
+    },
+    {
+      "titulo": "Chevrolet Captiva PHEV será produzido no Ceará ainda em 2026, anuncia General Motors",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/08/26/chevrolet-captiva-phev-sera-produzido-no-ceara-ainda-em-2026-anuncia-general-motors.ghtml",
+      "hora": "Thu, 27 Aug 2026 00:10:32 -0000",
+      "tema": "brasil",
+      "resumo": "General Motors anunciará a produção do Chevrolet Captiva PHEV em planta no Ceará a partir de 2026, expandindo a fabricação de veículos eletrificados no país."
+    },
+    {
+      "titulo": "Eleições 2026: Eleitores de Rio Branco devem ter transporte gratuito nos dias de votação",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/08/26/eleicoes-2026-eleitores-de-rio-branco-devem-ter-transporte-gratuito-nos-dias-de-votacao.ghtml",
+      "hora": "Thu, 27 Aug 2026 00:07:59 -0000",
+      "tema": "brasil",
+      "resumo": "Rio Branco firmou acordo para oferecer transporte coletivo gratuito aos eleitores nos dias de votação das próximas eleições."
+    },
+    {
+      "titulo": "Panfletagem e promessas para a educação: como foi o dia dos candidatos ao governo do Ceará",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/08/26/panfletagem-e-promessas-para-a-educacao-como-foi-o-dia-dos-candidatos-ao-governo-do-ceara.ghtml",
+      "hora": "Wed, 26 Aug 2026 23:58:20 -0000",
+      "tema": "brasil",
+      "resumo": "Candidatos ao governo do Ceará intensificam campanhas com foco em educação e promessas para o setor, com principais concorrentes divulgando propostas em Fortaleza."
+    },
+    {
+      "titulo": "VÍDEO: Girocóptero bate contra cabos de teleférico e cai na Itália; 2 pessoas morreram",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/08/26/video-girocoptero-bate-contra-cabos-de-teleferico-e-cai-na-italia-2-pessoas-morreram.ghtml",
+      "hora": "Wed, 26 Aug 2026 23:57:34 -0000",
       "tema": "mundo",
-      "resumo": "Sobreviventes de avalanche no Nepal descrevem momentos críticos durante passagem de fluxo de água, lama e pedras na região do Himalaia."
+      "resumo": "Um girocóptero colidiu com cabos de teleférico e caiu em Piemonte, no norte da Itália, resultando na morte de duas pessoas."
     },
     {
-      "titulo": "PRF prende trio com 328 ampolas de ‘canetas emagrecedoras’ e anabolizantes na Dutra, em São José",
+      "titulo": "Ressaca provoca avanço do mar e assusta moradores da Fronteira, em Macaé, no RJ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/26/prf-prende-trio-com-328-ampolas-de-canetas-emagrecedoras-e-anabolizantes-na-dutra-em-sao-jose.ghtml",
-      "hora": "Wed, 26 Aug 2026 16:03:47 -0000",
-      "tema": "sp",
-      "resumo": "PRF prende três pessoas com 328 ampolas de tirzepatida (caneta emagrecedora) e anabolizantes na rodovia Dutra em São José."
-    },
-    {
-      "titulo": "Homem que caiu de moto aquática é encontrado morto após quatro dias de buscas em lago no Paraná",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/26/homem-moto-aquatica-morto.ghtml",
-      "hora": "Wed, 26 Aug 2026 16:01:11 -0000",
+      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/08/26/ressaca-provoca-avanco-do-mar-e-assusta-moradores-da-fronteira-em-macae-no-rj.ghtml",
+      "hora": "Wed, 26 Aug 2026 23:50:34 -0000",
       "tema": "brasil",
-      "resumo": "Homem que desapareceu após cair de moto aquática em lago no Paraná é encontrado morto após quatro dias de busca."
+      "resumo": "Ressaca marinha provoca avanço do mar em Macaé (RJ), evidenciando problema contínuo de erosão costeira que afeta moradores da região da Fronteira."
     },
     {
-      "titulo": "Mulher que deu tapa no rosto de policial militar na Festa do Peão é detida após desacato a outro agente",
+      "titulo": "Candidatos do DF debatem educação e incentivo ao comércio durante campanhas nesta quarta",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/festa-do-peao-de-barretos/noticia/2026/08/26/mulher-que-deu-tapa-no-rosto-de-policial-militar-na-festa-do-peao-e-detida-apos-desacato-a-outro-agente.ghtml",
-      "hora": "Wed, 26 Aug 2026 16:00:19 -0000",
-      "tema": "sp",
-      "resumo": "Mulher é detida por desacato após envolvimento em confusão na Festa do Peão de Barretos."
-    },
-    {
-      "titulo": "Mulheres chefiam 8 em cada 10 famílias com crianças e adolescentes com deficiência em Campinas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/26/mulheres-chefiam-8-em-cada-10-familias-com-criancas-e-adolescentes-com-deficiencia-em-campinas.ghtml",
-      "hora": "Wed, 26 Aug 2026 15:58:33 -0000",
-      "tema": "sp",
-      "resumo": "Pesquisa mostra que mulheres chefiam 8 em cada 10 famílias com crianças e adolescentes com deficiência em Campinas, enfrentando sobrecarga de cuidados."
-    },
-    {
-      "titulo": "Homem é preso no Rio suspeito de chefiar quadrilha que traficava brasileiros para aplicar golpes na Ásia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/26/homem-preso-suspeito-quadrilha-trafico-humano.ghtml",
-      "hora": "Wed, 26 Aug 2026 15:58:23 -0000",
+      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/08/26/candidatos-do-df-debatem-educacao-e-incentivo-ao-comercio-durante-campanhas-nesta-quarta.ghtml",
+      "hora": "Wed, 26 Aug 2026 23:50:25 -0000",
       "tema": "brasil",
-      "resumo": "Polícia Civil no Rio prende suspeito de chefiar quadrilha que aliciava brasileiros para países do Sudeste Asiático com promessas falsas de trabalho."
+      "resumo": "Candidatos ao governo do Distrito Federal concentram campanhas em educação e incentivos ao comércio durante agendas nas regiões administrativas."
     },
     {
-      "titulo": "Motorista atropela mulher em test drive e danifica carros em concessionária no Recife",
+      "titulo": "Pílula contra câncer de pâncreas que fez médicos chorarem é aprovada nos EUA",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/08/26/motorista-perde-controle-de-carro-em-test-drive-atropela-mulher-e-danifica-veiculos-em-concessionaria-no-recife.ghtml",
-      "hora": "Wed, 26 Aug 2026 15:56:52 -0000",
-      "tema": "brasil",
-      "resumo": "Motorista perde controle durante test drive em concessionária no Recife e atropela mulher que fica presa entre veículos."
-    },
-    {
-      "titulo": "Banda Lagum abre show do Maroon 5 em Rio Preto, a primeira cidade do Brasil a receber a turnê",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/08/26/banda-lagum-abre-show-do-maroon-5-em-rio-preto.ghtml",
-      "hora": "Wed, 26 Aug 2026 15:56:23 -0000",
-      "tema": "sp",
-      "resumo": "Banda Lagum abre show do Maroon 5 em São José do Rio Preto, primeira cidade brasileira a receber a turnê da banda em setembro."
+      "link": "https://g1.globo.com/saude/noticia/2026/08/26/daraxonrasib-fda-eua.ghtml",
+      "hora": "Wed, 26 Aug 2026 23:48:05 -0000",
+      "tema": "mundo",
+      "resumo": "Medicamento oral contra câncer de pâncreas, que causou comoção entre médicos no maior congresso de oncologia, recebeu aprovação da FDA nos EUA."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -85,7 +85,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival de bicicletas reúne ciclistas profissionais e amadores na Zona Sul de São Paulo com competições de manobras e atividades para crianças."
+      "resumo": "Festival de bicicletas na Zona Sul de São Paulo reúne ciclistas profissionais e amadores com competições de manobras radicais e atividades para crianças."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -93,23 +93,15 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado percorre 20 quilômetros de bicicleta e passa 12 horas em fila para concorrer a uma de 500 vagas de emprego em Bauru."
+      "resumo": "Desempregado pedalou 20 quilômetros e enfrentou fila de 12 horas em Bauru para concorrer a uma das 500 vagas de emprego disponibilizadas."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "sp",
-      "resumo": "Zé Ramalho apresenta sucessos e canções de Raul Seixas na Festa Junina de Sorocaba."
-    },
-    {
-      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
-      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
-      "tema": "sp",
-      "resumo": "PRF apreende 927 quilos de maconha em carreta em Mato Grosso do Sul que seria entregue em São Paulo."
+      "tema": "cultura",
+      "resumo": "Zé Ramalho apresentou sucessos de sua carreira e interpretou canções de Raul Seixas na 39ª Festa Junina de Sorocaba."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -117,7 +109,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza terceira edição da Festa Junina Canina com entrada gratuita e atividades para cães e gatos."
+      "resumo": "Jundiaí realiza terceira edição da Festa Junina Canina com atividades gratuitas e temáticas para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -125,7 +117,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "Festival Maior Baile do Mundo com Anitta e MCs espera reunir 35 mil pessoas em São Paulo para dez horas de apresentações."
+      "resumo": "Festival de música Maior Baile do Mundo acontece em São Paulo com 35 mil pessoas esperadas e apresentações com artistas de grande audiência online."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -133,7 +125,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "PSTU oficializa a sindicalista Vera Lúcia como candidata à Presidência da República."
+      "resumo": "Partido Socialista dos Trabalhadores Unificado oficializa Vera Lúcia, militante sindical, como candidata à Presidência da República."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -141,23 +133,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "Feira da construção civil acontece em Jundiaí com entrada gratuita e apresentações de imóveis, arquitetura e decoração."
-    },
-    {
-      "titulo": "Caso Vitória: trio acusado de envolvimento no crime é transferido para Tremembé",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2018/07/20/caso-vitoria-trio-acusado-de-envolvimento-no-crime-e-transferido-para-tremembe.ghtml",
-      "hora": "Fri, 20 Jul 2018 18:44:51 -0000",
-      "tema": "sp",
-      "resumo": "Três acusados pelo envolvimento na morte da menina Vitória Gabrielly de 12 anos são transferidos para presídios em Tremembé."
-    },
-    {
-      "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
-      "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
-      "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã (SP) abriu inscrições para concurso público com 34 vagas em diversos cargos administrativos, com prazo até 31 de julho."
+      "resumo": "Feira de construção civil, imóveis e decoração funciona até domingo em Jundiaí com entrada gratuita mediante credenciamento."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -165,46 +141,30 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Um homem em situação de rua em Campinas reencontrou sua família após 37 anos de separação, graças a um boletim de ocorrência que permitiu o rastreamento."
+      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a informações registradas em um boletim de ocorrência."
     },
     {
-      "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
-      "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
-      "tema": "sp",
-      "resumo": "Um motorista de 75 anos morreu em acidente de trânsito em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
-    },
-    {
-      "titulo": "Enxurrada na fronteira entre Nepal e Tibete mata pelo menos 95 pessoas e deixa centenas desaparecidas; acompanhe",
+      "titulo": "Enxurrada na fronteira entre Nepal e Tibete mata pelo menos 157 pessoas e deixa centenas de desaparecidos; acompanhe",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.co.uk/portuguese/live/c574e9j1mmnmt?at_medium=RSS&at_campaign=rss",
       "tema": "mundo",
-      "resumo": "Uma enxurrada na fronteira entre Nepal e Tibete matou pelo menos 95 pessoas e deixou centenas desaparecidas, incluindo turistas, com equipes de emergência em operação de busca."
+      "resumo": "Enchente repentina causada por avalanche na fronteira entre Nepal e Tibete deixa mais de 150 mortos e centenas de desaparecidos, incluindo turistas."
     },
     {
-      "titulo": "Enchentes no Nepal e no Tibete: o que se sabe sobre a tragédia que deixou mortos e centenas de desaparecidos",
+      "titulo": "Paula Fernandes volta a Barretos e fala sobre machismo no sertanejo, política e IA na música: 'Talvez eu seja real demais'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ce3rz25qeqdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 26 Aug 2026 16:12:29 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c4g7lweywzeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 26 Aug 2026 19:07:34 GMT",
+      "tema": "cultura",
+      "resumo": "A cantora Paula Fernandes volta a Barretos para apresentações no rodeio e fala sobre sua carreira no sertanejo, além de lançar novo álbum."
+    },
+    {
+      "titulo": "Meta concorda em pagar até US$ 18 bi para encerrar julgamento sobre mídias sociais 'viciantes' para crianças e adolescentes",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cjdv59x13d3o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 26 Aug 2026 21:07:31 GMT",
       "tema": "mundo",
-      "resumo": "Autoridades investigam avalanche e possível terremoto como causa da enxurrada que atingiu a região da fronteira entre Nepal e Tibete, deixando mortos e desaparecidos."
-    },
-    {
-      "titulo": "Por que mulheres e homens votam cada vez mais diferente — e como isso pode definir eleição entre Lula e Flávio Bolsonaro",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cewr7rp1yppo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 26 Aug 2026 08:00:53 GMT",
-      "tema": "brasil",
-      "resumo": "Divergências no comportamento eleitoral entre mulheres e homens podem influenciar a disputa presidencial de 2026, com mulheres representando maioria do eleitorado."
-    },
-    {
-      "titulo": "'Passam até 6h por dia na academia': por que cada vez mais meninos querem ficar musculosos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq5xdv9w5weo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 26 Aug 2026 14:10:58 GMT",
-      "tema": "brasil",
-      "resumo": "Especialistas apontam crescimento da obsessão por ganho muscular entre adolescentes e jovens, com impactos na saúde mental e comportamento."
+      "resumo": "Meta concorda em pagar até US$ 18 bilhões para encerrar processos sobre alegações de que suas plataformas teriam viciado crianças e adolescentes."
     },
     {
       "titulo": "Häagen-Dazs de saída do Brasil: os 4 motivos para o adeus da marca de sorvetes",
@@ -212,7 +172,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c2096qd755jo?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 26 Aug 2026 08:32:56 GMT",
       "tema": "brasil",
-      "resumo": "A marca de sorvetes Häagen-Dazs deixará o mercado brasileiro devido a mudanças no consumo, fechamento de lojas e concorrência no segmento premium."
+      "resumo": "A marca de sorvetes Häagen-Dazs encerra suas operações no Brasil devido a concorrência, mudanças no consumo e fechamento de lojas próprias."
     },
     {
       "titulo": "Ronaldo Caiado fala sobre suas propostas na Globo: o que disse o candidato à Presidência na entrevista à emissora",
@@ -220,15 +180,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c1wxnj3wv58o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 26 Aug 2026 02:35:16 GMT",
       "tema": "brasil",
-      "resumo": "Ronaldo Caiado apresentou suas propostas para a eleição presidencial de 2026 em entrevista à Globo, abordando temas como reforma tributária e Previdência."
+      "resumo": "Ronaldo Caiado, candidato à Presidência, apresenta suas propostas em entrevista à Globo, abordando temas como reforma tributária, reforma da Previdência e narcotráfico."
     },
     {
-      "titulo": "'I Will Always Love You': a história da música escrita por Dolly Parton e transformada em 'hino do amor' por Whitney Houston",
+      "titulo": "Por que mulheres e homens votam cada vez mais diferente — e como isso pode definir eleição entre Lula e Flávio Bolsonaro",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czdz1ygqe5po?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 26 Aug 2026 12:48:04 GMT",
-      "tema": "cultura",
-      "resumo": "A música 'I Will Always Love You', composta por Dolly Parton, se tornou um hino internacional após a gravação memorável de Whitney Houston."
+      "link": "https://www.bbc.com/portuguese/articles/cewr7rp1yppo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 26 Aug 2026 08:00:53 GMT",
+      "tema": "brasil",
+      "resumo": "Análise mostra crescente divisão de voto entre homens e mulheres, com mulheres representando maioria do eleitorado e tendo papel decisivo na disputa presidencial de 2026."
     },
     {
       "titulo": "Eclipse lunar quase total poderá ser visto do Brasil: que horas começa e como observar",
@@ -236,7 +196,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cvgx349yzdgo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 25 Aug 2026 09:03:29 GMT",
       "tema": "brasil",
-      "resumo": "Um eclipse lunar quase total será visível de todas as regiões do Brasil em breve, permitindo observação em tempo real dependendo das condições climáticas."
+      "resumo": "Eclipse lunar quase total será visível em todas as regiões do Brasil em breve, desde que as condições climáticas sejam favoráveis."
     },
     {
       "titulo": "Febre do Nilo Ocidental: 8 perguntas e respostas sobre a doença que teve casos confirmados no Brasil",
@@ -244,7 +204,7 @@
       "link": "https://www.bbc.com/portuguese/articles/clyely5exwro?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 25 Aug 2026 22:23:13 GMT",
       "tema": "brasil",
-      "resumo": "Casos de Febre do Nilo Ocidental foram confirmados no Brasil; a doença é transmitida por mosquitos infectados e pode causar sintomas graves em alguns pacientes."
+      "resumo": "Guia informativo sobre a Febre do Nilo Ocidental, doença transmitida por mosquitos com casos confirmados no Brasil, abordando sintomas, diagnóstico e tratamento."
     },
     {
       "titulo": "Braskem em Maceió: como ficam os bairros afetados por afundamento do solo após quebra da empresa",
@@ -252,15 +212,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c70dww3j9ypo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 25 Aug 2026 22:29:04 GMT",
       "tema": "brasil",
-      "resumo": "A Braskem pediu recuperação extrajudicial após acumular processos relacionados ao afundamento do solo em bairros de Maceió, que começou a ser detectado em 2018."
-    },
-    {
-      "titulo": "A vida e os sucessos de Dolly Parton, a lenda da música country que morreu aos 80 anos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c1l6450r9d3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 25 Aug 2026 21:04:43 GMT",
-      "tema": "cultura",
-      "resumo": "Dolly Parton, lenda da música country e compositora de sucessos imortais, faleceu aos 80 anos, deixando um legado de décadas na indústria musical."
+      "resumo": "Petroquímica Braskem solicita recuperação extrajudicial após acumular processos relacionados ao afundamento do solo em bairros de Maceió desde 2018."
     }
   ]
 }
