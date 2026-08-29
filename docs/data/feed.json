@@ -1,91 +1,59 @@
 {
-  "gerado_em": "2026-08-29T18:11:30.673Z",
+  "gerado_em": "2026-08-29T22:59:33.973Z",
   "modo": "ia",
   "clima": {
-    "max": 31.8,
+    "max": 30.8,
     "min": 22.3,
     "chuva": 76
   },
   "noticias": [
     {
-      "titulo": "VÍDEO: incêndio atinge moradias de indígenas em área próxima de reserva no Noroeste, no DF",
+      "titulo": "Dono de padaria é preso por ter furtado energia durante cinco anos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/29/video-incendio-atinge-moradias-de-indigenas-em-area-proxima-de-reserva-no-noroeste-no-df.ghtml",
-      "hora": "Sat, 29 Aug 2026 18:00:43 -0000",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/08/29/dono-padaria-furto-energia-cinco-anos.ghtml",
+      "hora": "Sat, 29 Aug 2026 22:42:21 -0000",
       "tema": "brasil",
-      "resumo": "Incêndio próximo a uma reserva indígena no Noroeste do Distrito Federal atingiu três residências no sábado, desalojando moradores da área."
+      "resumo": "Homem foi preso em flagrante por desviar energia elétrica para sua padaria, após fiscalização da Enel no Ceará. A ação faz parte de operações regulares contra o furto de energia."
     },
     {
-      "titulo": "Defensor de deportações em massa de Trump, influencer Milo Yiannopoulos é deportado após ser preso pelo ICE nos EUA",
+      "titulo": "Exposição gratuita revela documentos raros sobre a história de Campinas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/08/29/britanico-de-extrema-direita-e-defensor-de-deportacoes-em-massa-milo-yiannopoulos-e-deportado-apos-ser-preso-pelo-ice-nos-eua.ghtml",
-      "hora": "Sat, 29 Aug 2026 17:47:14 -0000",
-      "tema": "mundo",
-      "resumo": "Influenciador britânico de extrema direita Milo Yiannopoulos foi deportado dos Estados Unidos após ser preso pela agência de imigração no Aeroporto de Nova Orleans."
+      "link": "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/08/29/exposicao-gratuita-revela-documentos-raros-sobre-a-historia-de-campinas.ghtml",
+      "hora": "Sat, 29 Aug 2026 22:38:17 -0000",
+      "tema": "cultura",
+      "resumo": "A PUC-Campinas inaugura exposição gratuita com documentos raros sobre a história da cidade, oferecendo acesso a arquivos que contribuem para compreensão do desenvolvimento local."
     },
     {
-      "titulo": "Furto de cabos deixa museu de Cabo Frio sem energia",
+      "titulo": "Quaest no Pará: Lula, 37%; Flávio Bolsonaro, 29%",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/08/29/furto-de-cabos-deixa-museu-de-cabo-frio-sem-energia.ghtml",
-      "hora": "Sat, 29 Aug 2026 17:36:22 -0000",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/29/quaest-no-pa-lula-presidente-29-agosto.ghtml",
+      "hora": "Sat, 29 Aug 2026 22:37:15 -0000",
       "tema": "brasil",
-      "resumo": "Cabos de energia foram furtados do Museu e Casa de Cultura Charitas em Cabo Frio durante uma invasão na madrugada de sábado, deixando o espaço sem fornecimento de energia."
+      "resumo": "Pesquisa Quaest no Pará mostra Lula com 37% e Flávio Bolsonaro com 29% de intenção de voto para a Presidência. Levantamento foi encomendado pela TV Liberal."
     },
     {
-      "titulo": "Corrida une esporte, solidariedade e diversão em parque aquático de Olímpia; veja como será o evento",
+      "titulo": "Quaest para o Senado no Pará: Helder, 23%; Éder, 14%; Zequinha, 11%",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/08/29/corrida-une-esporte-solidariedade-e-diversao-em-parque-aquatico-de-olimpia-veja-como-sera-o-evento.ghtml",
-      "hora": "Sat, 29 Aug 2026 17:35:15 -0000",
-      "tema": "sp",
-      "resumo": "Evento de inclusão em Olímpia reúne corrida beneficente em parque aquático, combinando esporte e solidariedade para promover a diversidade."
-    },
-    {
-      "titulo": "Homem é preso após roubar joalheria em shopping no litoral de SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/29/homem-e-preso-apos-roubar-joalheria-em-shopping-no-litoral-de-sp.ghtml",
-      "hora": "Sat, 29 Aug 2026 17:30:15 -0000",
-      "tema": "sp",
-      "resumo": "Homem foi preso em flagrante após roubar uma joalheria em shopping de São Vicente, sendo contido por seguranças do local."
-    },
-    {
-      "titulo": "IFNMG abre 160 vagas para curso gratuito de manutenção de ar-condicionado em Montes Claros",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/29/ifnmg-abre-160-vagas-para-curso-gratuito-de-manutencao-de-ar-condicionado-em-montes-claros.ghtml",
-      "hora": "Sat, 29 Aug 2026 17:27:30 -0000",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/29/quaest-pa-senado-29-agosto.ghtml",
+      "hora": "Sat, 29 Aug 2026 22:35:36 -0000",
       "tema": "brasil",
-      "resumo": "Instituto Federal de Minas Gerais abre 160 vagas gratuitas para curso de capacitação em manutenção de ar-condicionado em Montes Claros."
+      "resumo": "Pesquisa Quaest divulga cenário da disputa pelo Senado no Pará, com Helder Barbalho à frente com 23% de intenção de voto, seguido por Éder Mauro e Zequinha Marinho."
     },
     {
-      "titulo": "Drogas são apreendidas em jazigos de cemitério em Governador Valadares",
+      "titulo": "Quaest no Pará: 51% aprovam e 22% desaprovam governo de Hana Ghassan (MDB)",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/08/29/drogas-sao-apreendidas-em-jazigos-de-cemiterio-em-governador-valadares.ghtml",
-      "hora": "Sat, 29 Aug 2026 17:26:46 -0000",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/08/29/quaest-no-pa-avaliacao-governo-29-agosto.ghtml",
+      "hora": "Sat, 29 Aug 2026 22:34:10 -0000",
       "tema": "brasil",
-      "resumo": "Polícia Militar apreende drogas e materiais de tráfico escondidos em jazigos de cemitério em Governador Valadares, prendendo adolescente envolvido."
+      "resumo": "Pesquisa Quaest aponta que 51% aprovam o governo de Hana Ghassan no Pará, enquanto 22% desaprovam a gestão iniciada em abril de 2026."
     },
     {
-      "titulo": "Prefeitura de Governador Valadares decreta calamidade financeira e fiscal",
+      "titulo": "Morador denuncia estar sendo perseguido e ameaçado por síndica de prédio no DF; Justiça determina medida protetiva",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/08/29/prefeitura-de-governador-valadares-decreta-calamidade-financeira-e-fiscal.ghtml",
-      "hora": "Sat, 29 Aug 2026 17:18:59 -0000",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/29/morador-denuncia-estar-sendo-perseguido-e-ameacado-por-sindica-de-predio-no-df-justica-determina-medida-protetiva.ghtml",
+      "hora": "Sat, 29 Aug 2026 22:34:03 -0000",
       "tema": "brasil",
-      "resumo": "Prefeitura de Governador Valadares decreta situação de calamidade financeira e fiscal pelo prazo de 180 dias."
-    },
-    {
-      "titulo": "Pocah encerra a 19ª Semana da Diversidade de Bauru neste domingo; veja a programação completa",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/08/29/pocah-encerra-a-19a-semana-da-diversidade-de-bauru-neste-domingo-veja-a-programacao-completa.ghtml",
-      "hora": "Sat, 29 Aug 2026 17:18:41 -0000",
-      "tema": "sp",
-      "resumo": "Semana da Diversidade de Bauru encerra com apresentação da cantora Pocah e atividades culturais no fim de semana."
-    },
-    {
-      "titulo": "280 mil cigarros são apreendidos em transportadora por suspeita de contrabando no interior de SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/08/29/280-mil-cigarros-sao-apreendidos-em-transportadora-por-suspeita-de-contrabando-no-interior-de-sp.ghtml",
-      "hora": "Sat, 29 Aug 2026 17:17:38 -0000",
-      "tema": "sp",
-      "resumo": "Polícia Militar apreende 280 mil cigarros com suspeita de contrabando em transportadora de Matão, possivelmente vindo do Paraguai."
+      "resumo": "Morador do Distrito Federal obtém medida protetiva após denunciar perseguição e ameaças de síndica de prédio, incluindo ofensas homofóbicas contra ele e seu companheiro."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -93,7 +61,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival de bicicletas na Zona Sul de São Paulo reúne ciclistas profissionais e amadores com competições de manobras e atividades para crianças."
+      "resumo": "Festival Bike Brasil reúne ciclistas profissionais e amadores na Zona Sul de São Paulo com competições de manobras e atividades para crianças no São Paulo Expo."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -101,15 +69,15 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado percorre 20 km de bicicleta e aguarda 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
+      "resumo": "Desempregado percorreu 20 km de bicicleta para participar de seleção com 500 vagas de emprego em Bauru, enfrentando fila de 12 horas de espera."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "sp",
-      "resumo": "Cantor Zé Ramalho apresenta sucessos da carreira e músicas de Raul Seixas na 39ª Festa Junina de Sorocaba."
+      "tema": "cultura",
+      "resumo": "Zé Ramalho apresentou sucessos de sua carreira e interpretações de Raul Seixas na 39ª Festa Junina de Sorocaba, com temperatura em torno de 17°C."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
@@ -117,7 +85,7 @@
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "Polícia Rodoviária Federal apreende 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo, prendendo o motorista."
+      "resumo": "PRF apreendeu 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo. Motorista da carreta confessou envolvimento no tráfico."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -125,7 +93,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Terceira edição da Festa Junina Canina em Jundiaí oferece entrada gratuita com brincadeiras e atividades para cães e gatos."
+      "resumo": "Jundiaí realiza 3ª edição da Festa Junina Canina com entrada gratuita, oferecendo brincadeiras e atividades para cães, gatos e seus donos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -133,7 +101,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "Festival Maior Baile do Mundo reúne 35 mil pessoas em São Paulo com 10 horas de shows, incluindo apresentações de Anitta e MCs."
+      "resumo": "Festival Maior Baile do Mundo em São Paulo reúne 35 mil pessoas para 10 horas de shows com Anitta e outros artistas, baseado nas músicas mais ouvidas da internet brasileira."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -141,7 +109,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "PSTU oficializa a militante sindical Vera Lúcia como candidata à Presidência da República nas próximas eleições."
+      "resumo": "PSTU oficializa Vera Lúcia, militante sindical, como candidata à Presidência da República nas eleições previstas."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -149,7 +117,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "Décima quinta edição da Feiccad, feira de imóvel e construção civil, acontece em Jundiaí com entrada gratuita mediante credenciamento."
+      "resumo": "15ª Feiccad, feira dedicada a imóvel, construção e decoração, ocorre em Jundiaí até domingo com entrada gratuita mediante credenciamento."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -157,7 +125,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em cargos administrativos e cadastro de reserva."
+      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diferentes cargos do Executivo até 31 de julho, com provas a serem realizadas na própria cidade."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -165,7 +133,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra a família após 37 anos graças a um boletim de ocorrência por roubo."
+      "resumo": "Um homem que vivia em situação de rua em Campinas reencontra sua família após 37 anos de separação, devido a informações obtidas através de um boletim de ocorrência."
     },
     {
       "titulo": "O que faz Cuba depender do exterior para alimentar sua população",
@@ -173,7 +141,39 @@
       "link": "https://www.bbc.com/portuguese/articles/cwyzj4rvv5eo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 29 Aug 2026 17:25:02 GMT",
       "tema": "mundo",
-      "resumo": "Cuba importa cerca de 80% dos alimentos que consome, apesar de possuir potencial agrícola significativo."
+      "resumo": "Apesar de seu potencial agrícola, Cuba importa aproximadamente 80% dos alimentos que consome, demonstrando dependência significativa de fornecedores externos."
+    },
+    {
+      "titulo": "Respiração quadrada: como funciona um dos 'truques mais poderosos' para controlar o estresse",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cj3d0r02ypxo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 29 Aug 2026 21:25:15 GMT",
+      "tema": "cultura",
+      "resumo": "A técnica de respiração quadrada, que ganhou popularidade nas redes sociais como método para controlar o estresse, tem seus efeitos analisados e explicados por especialistas."
+    },
+    {
+      "titulo": "Mistérios e segredos de textos medievais revelados graças à IA",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c36le795lywo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 29 Aug 2026 19:42:47 GMT",
+      "tema": "cultura",
+      "resumo": "Pesquisadores utilizam inteligência artificial para decifrar textos e documentos históricos medievais que estavam ocultos em bibliotecas e arquivos ao redor do mundo."
+    },
+    {
+      "titulo": "Por que restaurantes estão acabando com as gorjetas nos EUA",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c4gqln6l5ejo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 29 Aug 2026 18:18:54 GMT",
+      "tema": "mundo",
+      "resumo": "Restaurantes nos Estados Unidos revisam sua política de gorjetas, gerando debate público sobre essa prática tradicional na cultura americana."
+    },
+    {
+      "titulo": "Como a guerra do Irã reacendeu a disputa pelo Canal do Panamá",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c74e88e9kpeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 29 Aug 2026 18:51:13 GMT",
+      "tema": "mundo",
+      "resumo": "O Canal do Panamá tornou-se novo ponto de disputa entre Estados Unidos e China em meio às tensões geopolíticas recentes."
     },
     {
       "titulo": "Por que o Brasil ainda não sabe quantos entregadores se acidentam no trabalho?",
@@ -181,7 +181,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c5y4klql8k9o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 29 Aug 2026 09:37:24 GMT",
       "tema": "brasil",
-      "resumo": "Brasil não dispõe de dados oficiais sistemáticos para quantificar acidentes de trabalho entre entregadores, dificultando a medição de riscos."
+      "resumo": "A falta de dados oficiais dificulta o levantamento de estatísticas sobre acidentes de trabalho envolvendo entregadores no Brasil, impedindo uma avaliação precisa dos riscos da profissão."
     },
     {
       "titulo": "Märtha Louise da Noruega, a princesa 'clarividente' casada com xamã que não será rainha, apesar de ser mais velha que seu irmão Haakon",
@@ -189,7 +189,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c62jz534jj0o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 29 Aug 2026 14:59:26 GMT",
       "tema": "entretenimento",
-      "resumo": "A princesa Märtha Louise da Noruega, filha mais velha do rei, não herdará o trono devido a lei sucessória anterior ao seu nascimento."
+      "resumo": "A princesa Märtha Louise da Noruega, filha mais velha do rei Harald 5º, não será rainha devido a uma lei antiga, enquanto seu irmão mais novo assumirá o trono."
     },
     {
       "titulo": "Por que as imagens das inundações no Nepal e no Tibete não são mostradas na China e se sabe pouco sobre as vítimas no país",
@@ -197,7 +197,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cz7zqqnw5pjo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 29 Aug 2026 14:05:32 GMT",
       "tema": "mundo",
-      "resumo": "Imagens das inundações no Nepal e Tibete são censuradas pela China, com pouca informação disponível sobre o número de vítimas no país."
+      "resumo": "Imagens das inundações ocorridas no Nepal e Tibete são restringidas pela censura na China, resultando em pouca informação disponível sobre as vítimas no país."
     },
     {
       "titulo": "Como memórias da guerra e do passado nazista estão no centro de disputa eleitoral na Alemanha",
@@ -205,7 +205,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c70lz2ky0rvo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 29 Aug 2026 13:00:28 GMT",
       "tema": "mundo",
-      "resumo": "Na Alemanha, o partido de extrema-direita AfD pode ganhar poder significativo nas eleições, colocando em debate como o país lida com sua memória de guerra e passado nazista."
+      "resumo": "O partido de extrema-direita AfD ganha relevância nas eleições alemãs com proposta de revisão da memória histórica nacional, podendo obter poder significativo no período pós-guerra."
     },
     {
       "titulo": "A pequena cidade escocesa que procura migrantes para estancar a queda da população",
@@ -213,15 +213,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c3wjp7e9zl7o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 29 Aug 2026 16:15:10 GMT",
       "tema": "mundo",
-      "resumo": "A cidade escocesa de Greenock busca atrair migrantes para reverter a queda populacional que enfrenta."
-    },
-    {
-      "titulo": "Trump diz ter fechado 'maior acordo petrolífero da história' com a Venezuela, envolvendo 65 bilhões de barris",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvgy4rpz5rzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 29 Aug 2026 02:51:31 GMT",
-      "tema": "mundo",
-      "resumo": "Trump afirma ter negociado com a Venezuela um acordo de exploração petrolífera de 65 bilhões de barris com controle majoritário dos EUA."
+      "resumo": "A cidade escocesa de Greenock busca atrair migrantes para residir na localidade e reverter o processo de queda populacional que a vem afetando."
     },
     {
       "titulo": "Morto aos 89 anos, rei da Noruega era casado com plebeia e considerado reformista",
@@ -229,39 +221,15 @@
       "link": "https://www.bbc.com/portuguese/articles/crl6n2k93xzo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 28 Aug 2026 08:12:40 GMT",
       "tema": "entretenimento",
-      "resumo": "Faleceu aos 89 anos o rei da Noruega, reformista que se casou com uma plebeia e quebrou tradições monárquicas."
+      "resumo": "O rei da Noruega, que faleceu aos 89 anos, rompeu com tradições da monarquia ao se casar com uma plebeia e era amplamente admirado pelos noruegueses."
     },
     {
-      "titulo": "Eleição 2026: quais são as propostas dos candidatos a presidente?",
+      "titulo": "Trump diz ter fechado 'maior acordo petrolífero da história' com a Venezuela, envolvendo 65 bilhões de barris",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm2gryker9mo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 28 Aug 2026 17:55:11 GMT",
-      "tema": "brasil",
-      "resumo": "BBC Brasil apresenta especial interativo com propostas de todos os candidatos à Presidência em 2026 sobre oito áreas temáticas."
-    },
-    {
-      "titulo": "Do Habib's às Casas Bahia, por que tantas empresas estão quebrando no Brasil?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czjz794k8v7o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 27 Aug 2026 19:11:42 GMT",
-      "tema": "brasil",
-      "resumo": "Empresas como Habib's e Casas Bahia enfrentam dificuldades financeiras; além de juros altos, erros de gestão contribuem para o aumento de recuperações judiciais."
-    },
-    {
-      "titulo": "Colapso glacial: o fenômeno que causou a enchente repentina na fronteira entre Nepal e Tibete",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c70l4jen7qro?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 27 Aug 2026 11:57:55 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cvgy4rpz5rzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 29 Aug 2026 02:51:31 GMT",
       "tema": "mundo",
-      "resumo": "Cientistas descobriram que a enchente repentina na fronteira entre Nepal e Tibete foi causada por um colapso glacial, não por terremoto."
-    },
-    {
-      "titulo": "As imagens impressionantes da tragédia que matou mais de 500 e deixou quase 2.000 desaparecidos no Nepal",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cx2z52xznq7o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 28 Aug 2026 17:09:08 GMT",
-      "tema": "mundo",
-      "resumo": "Enchente no Nepal deixou mais de 500 mortos e quase 2.000 desaparecidos de 28 nacionalidades diferentes; operações de resgate continuam."
+      "resumo": "Donald Trump afirma ter negociado um grande acordo petrolífero com a Venezuela envolvendo mais de 65 bilhões de barris de reservas, com controle majoritário americano."
     }
   ]
 }
