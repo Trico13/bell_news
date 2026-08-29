@@ -1,67 +1,67 @@
 {
-  "gerado_em": "2026-08-28T21:05:13.084Z",
+  "gerado_em": "2026-08-29T14:55:58.125Z",
   "modo": "ia",
   "clima": {
-    "max": 30.3,
-    "min": 16.2,
-    "chuva": 0
+    "max": 31.8,
+    "min": 22.3,
+    "chuva": 76
   },
   "noticias": [
     {
-      "titulo": "EPTV Sul de Minas entrevista candidatos ao governo de Minas a partir de segunda-feira; veja agenda",
+      "titulo": "Parnaíba em Ação: vacinação, consultas e exames gratuitos atraem moradores do litoral do PI",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/sul-de-minas/eleicoes/2026/noticia/2026/08/28/eptv-sul-de-minas-entrevista-candidatos-ao-governo-de-minas-a-partir-de-segunda-feira-veja-agenda.ghtml",
-      "hora": "Fri, 28 Aug 2026 20:47:35 -0000",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/08/29/parnaiba-em-acao-saude.ghtml",
+      "hora": "Sat, 29 Aug 2026 14:49:50 -0000",
       "tema": "brasil",
-      "resumo": "A EPTV Sul de Minas vai exibir entrevistas com candidatos à disputa pelo governo de Minas nas eleições 2026, a partir de segunda-feira, com transmissão ao vivo."
+      "resumo": "Parnaíba (PI) oferece mais de 100 serviços gratuitos à população, incluindo vacinação, consultas e exames, em ação realizada no centro da cidade."
     },
     {
-      "titulo": "Boa Vista amplia drenagem e avança na solução de 55 pontos críticos de alagamento",
+      "titulo": "Pescadores retiram cerca de 500 peixes de espécie invasora no sul da Bahia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rr/roraima/especial-publicitario/prefeitura-de-boa-vista/boa-vista-a-capital-modelo-da-amazonia/noticia/2026/08/28/boa-vista-amplia-drenagem-e-avanca-na-solucao-de-55-pontos-criticos-de-alagamento.ghtml",
-      "hora": "Fri, 28 Aug 2026 20:46:53 -0000",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/08/29/pescadores-retiram-peixes-de-especie-invasora-no-sul-da-bahia.ghtml",
+      "hora": "Sat, 29 Aug 2026 14:49:40 -0000",
       "tema": "brasil",
-      "resumo": "Boa Vista amplia seu sistema de drenagem para resolver problemas de alagamento em 55 pontos críticos localizados em 27 bairros da cidade."
+      "resumo": "Pescadores removem cerca de 500 peixes-leão, espécie invasora e venenosa, das águas de Porto Seguro (BA) em um mês, buscando proteger o equilíbrio ecológico marinho."
     },
     {
-      "titulo": "Justiça proíbe cesta básica como bônus por comparecimento de servidores no trabalho em Rafard",
+      "titulo": "Temporais causam duas mortes e atingem mais de 1,6 mil residências no RS",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/28/justica-proibe-cesta-basica-como-bonus-por-comparecimento-de-servidores-no-trabalho-em-rafard.ghtml",
-      "hora": "Fri, 28 Aug 2026 20:46:17 -0000",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/29/chuva-rs-mortes-estragos-cidades.ghtml",
+      "hora": "Sat, 29 Aug 2026 14:45:23 -0000",
       "tema": "brasil",
-      "resumo": "O Tribunal de Justiça de São Paulo proibiu a Prefeitura de Rafard de conceder cesta básica mensal como bônus de assiduidade aos servidores."
+      "resumo": "Temporais causam dois óbitos, dois feridos e afetam mais de 1,6 mil residências no Rio Grande do Sul, com granizo danificando mais de mil casas."
     },
     {
-      "titulo": "Companhia de dança clássica lança espetáculo natalino 'O Quebra-Nozes' em Boa Vista",
+      "titulo": "Bois são abandonados sem água e comida na fronteira em Roraima e motorista é multado em R$ 37 mil",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/08/28/companhia-de-danca-classica-lanca-espetaculo-natalino-o-quebra-nozes-em-boa-vista.ghtml",
-      "hora": "Fri, 28 Aug 2026 20:43:35 -0000",
-      "tema": "cultura",
-      "resumo": "O Ballet Cristina Rocha lança nova temporada do espetáculo natalino 'O Quebra-Nozes' em Boa Vista em parceria com o Instituto de Música local."
-    },
-    {
-      "titulo": "Getúlio Abelha anuncia show no Rock in Rio 2026 e celebra: 'É um lugar ao qual pertenço'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/08/28/getulio-abelha-rock-in-rio-2026.ghtml",
-      "hora": "Fri, 28 Aug 2026 20:43:28 -0000",
-      "tema": "cultura",
-      "resumo": "O artista Getúlio Abelha anuncia sua apresentação no Rock in Rio 2026, celebrando o reconhecimento de seu trabalho experimental que mistura forró com outros estilos."
-    },
-    {
-      "titulo": "VÍDEO: Cachorro-do-mato\né avistado na parte alta do Parque Nacional do Itatiaia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/28/video-cachorro-do-mato-e-avistado-na-parte-alta-do-parque-nacional-do-itatiaia.ghtml",
-      "hora": "Fri, 28 Aug 2026 20:43:12 -0000",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/08/29/bois-sao-abandonados-sem-agua-e-comida-na-fronteira-em-roraima-e-motorista-e-multado-em-r-37-mil.ghtml",
+      "hora": "Sat, 29 Aug 2026 14:41:53 -0000",
       "tema": "brasil",
-      "resumo": "Um cachorro-do-mato foi avistado na parte alta do Parque Nacional do Itatiaia, no Rio de Janeiro, reforçando a presença da fauna local na unidade de conservação."
+      "resumo": "Motorista é multado em R$ 37,5 mil após abandonar 25 bois sem água e comida por cerca de 20 horas em rodovia de Roraima, configurando maus-tratos a animais."
     },
     {
-      "titulo": "Fernando de Noronha confirma 255 casos de intoxicação por peixe em quatro anos",
+      "titulo": "Mutirão oferece serviços gratuitos de saúde, cidadania e bem-estar em cinco cidades de MT",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/08/28/fernando-de-noronha-confirma-255-casos-de-intoxicacao-por-peixe-em-quatro-anos.ghtml",
-      "hora": "Fri, 28 Aug 2026 20:38:41 -0000",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/29/mutirao-oferece-servicos-gratuitos-de-saude-cidadania-e-bem-estar-em-cinco-cidades-de-mt.ghtml",
+      "hora": "Sat, 29 Aug 2026 14:32:18 -0000",
       "tema": "brasil",
-      "resumo": "Fernando de Noronha registrou 255 casos confirmados de intoxicação por ciguatera entre 2022 e 2026, sem ocorrência de mortes pela doença."
+      "resumo": "Cinco cidades de Mato Grosso realizam mutirão simultâneo oferecendo serviços gratuitos de saúde, cidadania e bem-estar à população."
+    },
+    {
+      "titulo": "Câmara fecha contrato de R$ 1,3 milhão para projeto de paisagismo com jardins, decks e móveis",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/29/camara-fecha-contrato-de-r-13-milhao-para-projeto-de-paisagismo-com-jardins-decks-e-moveis.ghtml",
+      "hora": "Sat, 29 Aug 2026 14:30:15 -0000",
+      "tema": "sp",
+      "resumo": "Câmara de Santos contrata serviço de paisagismo por R$ 1,3 milhão para revitalizar os espaços da sede do Legislativo no litoral paulista."
+    },
+    {
+      "titulo": "Eleições 2026: veja as propostas de Lenilda Luna ao governo de Alagoas",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/29/eleicoes-2026-veja-as-propostas-de-lenilda-luna-ao-governo-de-alagoas.ghtml",
+      "hora": "Sat, 29 Aug 2026 14:29:49 -0000",
+      "tema": "brasil",
+      "resumo": "Candidata ao governo de Alagoas em 2026 apresenta propostas que incluem proteção à memória de áreas afetadas por mineração e criação de memorial aos desaparecidos políticos."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -69,7 +69,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "O evento Bike Brasil acontece neste domingo na Zona Sul de São Paulo, reunindo ciclistas profissionais e amadores para competições de manobras e atividades."
+      "resumo": "Festival Bike Brasil na Zona Sul de São Paulo reúne ciclistas profissionais e amadores com competições de manobras e atividades para crianças."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -77,15 +77,15 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Um desempregado de Agudos pedalou 20 km até Bauru para concorrer a uma das 500 vagas de emprego oferecidas, passando 12 horas na fila."
+      "resumo": "Desempregado percorre 20 km de bicicleta e aguarda 12 horas na fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "sp",
-      "resumo": "Zé Ramalho apresentou sucessos de sua carreira e interpretou canções de Raul Seixas durante a 39ª Festa Junina de Sorocaba."
+      "tema": "cultura",
+      "resumo": "Zé Ramalho apresenta sucessos da carreira e faz homenagem a Raul Seixas na 39ª Festa Junina de Sorocaba."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -93,15 +93,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina neste sábado com entrada gratuita, oferecendo brincadeiras e atividades para cães e gatos."
+      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina com entrada gratuita, oferecendo brincadeiras e atividades para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
-      "tema": "sp",
-      "resumo": "O Maior Baile do Mundo acontece em São Paulo com presença de Anitta e MCs, esperando reunir 35 mil pessoas para 10 horas de shows."
+      "tema": "entretenimento",
+      "resumo": "Festival Maior Baile do Mundo acontece em São Paulo com apresentações de Anitta e MCs, esperando receber 35 mil pessoas para 10 horas de shows."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -109,7 +109,15 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializou a candidatura de Vera Lúcia, militante sindical, à Presidência da República nas eleições."
+      "resumo": "PSTU oficializa a candidatura de Vera Lúcia à Presidência da República nas eleições de 2026."
+    },
+    {
+      "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
+      "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
+      "tema": "sp",
+      "resumo": "Jundiaí realiza 15ª edição da Feiccad, feira dedicada a imóvel, construção, condomínios, arquitetura e decoração, com entrada gratuita."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -117,7 +125,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã (SP) abriu inscrições para concurso público com 34 vagas em diversos cargos do Executivo, com prazo até 31 de julho."
+      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diversos cargos da administração municipal."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -125,7 +133,47 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas conseguiu reencontrar a família após 37 anos de separação, facilitado por um boletim de ocorrência."
+      "resumo": "Homem em situação de rua em Campinas reencontra a família após 37 anos, graças a um boletim de ocorrência registrado quando foi vítima de roubo."
+    },
+    {
+      "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
+      "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
+      "tema": "sp",
+      "resumo": "Motorista de 75 anos morre em acidente de trânsito em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
+    },
+    {
+      "titulo": "Por que o Brasil ainda não sabe quantos entregadores se acidentam no trabalho?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c5y4klql8k9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 29 Aug 2026 09:37:24 GMT",
+      "tema": "brasil",
+      "resumo": "Estudo aponta que o Brasil carece de dados oficiais para quantificar acidentes de trabalho entre entregadores, dificultando a medição dos riscos da profissão."
+    },
+    {
+      "titulo": "Como memórias da guerra e do passado nazista estão no centro de disputa eleitoral na Alemanha",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c70lz2ky0rvo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 29 Aug 2026 13:00:28 GMT",
+      "tema": "mundo",
+      "resumo": "Na Alemanha, o partido de extrema-direita AfD busca reposicionar a memória histórica do país, questionando como a guerra e o passado nazista devem ser compreendidos."
+    },
+    {
+      "titulo": "Por que as imagens das inundações no Nepal e no Tibete não são mostradas na China e se sabe pouco sobre as vítimas no país",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cz7zqqnw5pjo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 29 Aug 2026 14:05:32 GMT",
+      "tema": "mundo",
+      "resumo": "Imagens das enchentes no Nepal e Tibete enfrentam restrições de divulgação na China, limitando o conhecimento público sobre as vítimas do desastre."
+    },
+    {
+      "titulo": "Trump diz ter fechado 'maior acordo petrolífero da história' com a Venezuela, envolvendo 65 bilhões de barris",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cvgy4rpz5rzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 29 Aug 2026 02:51:31 GMT",
+      "tema": "mundo",
+      "resumo": "Trump anuncia acordo de exploração de petróleo com a Venezuela envolvendo mais de 65 bilhões de barris, com participação acionária dos EUA confirmada pelo governo venezuelano."
     },
     {
       "titulo": "Os mapas e gráficos que mostram a magnitude e o impacto da avalanche no Nepal e Tibete",
@@ -133,15 +181,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c1dlp6wp9xyo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 28 Aug 2026 17:44:42 GMT",
       "tema": "mundo",
-      "resumo": "Uma avalanche no Himalaia, na fronteira entre Nepal e Tibete, deixou quase 600 mortos e cerca de 2 mil desaparecidos, afetando amplas áreas da região."
+      "resumo": "Desastre no Himalaia entre Nepal e Tibete deixa quase 600 mortos e aproximadamente 2 mil desaparecidos, com análise visual e cartográfica do impacto."
     },
     {
-      "titulo": "Desaparecidos no Nepal e Tibete chegam a quase 2 mil: as perguntas para entender  a tragédia",
+      "titulo": "Desaparecidos no Nepal e Tibete chegam a quase 2,5 mil: as perguntas para entender  a tragédia",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cj4jvn4qzv9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 28 Aug 2026 18:15:56 GMT",
+      "hora": "Sat, 29 Aug 2026 14:08:20 GMT",
       "tema": "mundo",
-      "resumo": "Reportagem analisa as principais questões sobre a avalanche no Nepal e Tibete, incluindo possíveis causas e circunstâncias do desastre."
+      "resumo": "Avalanche causada por colapso glacial no Nepal e Tibete deixa cerca de 2,5 mil desaparecidos; reportagem examina as circunstâncias e questões sobre prevenção do evento."
     },
     {
       "titulo": "Eleição 2026: quais são as propostas dos candidatos a presidente?",
@@ -149,55 +197,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cm2gryker9mo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 28 Aug 2026 17:55:11 GMT",
       "tema": "brasil",
-      "resumo": "Especial interativo apresenta propostas de todos os candidatos à Presidência em 2026 em oito áreas temáticas como economia, saúde, educação e segurança."
-    },
-    {
-      "titulo": "Economia vai decidir eleição, e não o caso Lulinha, diz fundador de instituto de pesquisa",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqlwry4xk6lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 28 Aug 2026 09:54:39 GMT",
-      "tema": "brasil",
-      "resumo": "Pesquisador aponta que a situação econômica será determinante na decisão de voto de milhões de eleitores ainda indecisos entre Lula e Flávio Bolsonaro."
-    },
-    {
-      "titulo": "Caso Lulinha põe campanha de Lula sob pressão: o que PF investiga sobre filho do presidente e ex-chefe de gabinete",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c1w1ypwxz98o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 28 Aug 2026 10:16:31 GMT",
-      "tema": "brasil",
-      "resumo": "Polícia Federal investiga suspeitas de tráfico de influência envolvendo o filho do presidente Lula e seu ex-chefe de gabinete, próximo às eleições de 2026."
-    },
-    {
-      "titulo": "Entrevista de Lula na Globo: o que disse o candidato à Presidência disse sobre suas propostas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwyzxded15qo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 28 Aug 2026 17:21:59 GMT",
-      "tema": "brasil",
-      "resumo": "Presidente Lula concedeu entrevista abordando acusações contra seu filho, caso do Banco Master e situação da dívida pública brasileira."
-    },
-    {
-      "titulo": "Por que o Brasil não tem bomba atômica, como propõe Renan Santos?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c750l106v00o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 28 Aug 2026 13:04:05 GMT",
-      "tema": "brasil",
-      "resumo": "Análise explica por que o Brasil não desenvolveu um programa de armas nucleares, apontando fatores como ausência de ameaça externa e altos custos."
-    },
-    {
-      "titulo": "Propaganda eleitoral começa hoje; veja como estão todos os candidatos no agregador de pesquisas da BBC News Brasil",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 28 Aug 2026 08:50:55 GMT",
-      "tema": "brasil",
-      "resumo": "Campanha eleitoral de 2026 iniciou sua fase de propaganda, com agregador de pesquisas mostrando intenções de voto entre candidatos presidenciais."
+      "resumo": "Compilação interativa das propostas de candidatos à presidência em 2026 abrange economia, saúde, educação, política, meio ambiente, programas sociais, política externa e segurança."
     },
     {
       "titulo": "Morto aos 89 anos, rei da Noruega era casado com plebeia e considerado reformista",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/crl6n2k93xzo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 28 Aug 2026 08:12:40 GMT",
-      "tema": "entretenimento",
-      "resumo": "Rei da Noruega faleceu aos 89 anos; era conhecido por romper tradições reais ao casar-se com uma plebeia e gozava de grande aprovação entre os noruegueses."
+      "tema": "mundo",
+      "resumo": "Rei da Noruega, falecido aos 89 anos, rompeu tradições da realeza ao se casar com uma mulher de fora da aristocracia e era amplamente apreciado pela população."
     },
     {
       "titulo": "Do Habib's às Casas Bahia, por que tantas empresas estão quebrando no Brasil?",
@@ -205,7 +213,7 @@
       "link": "https://www.bbc.com/portuguese/articles/czjz794k8v7o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 27 Aug 2026 19:11:42 GMT",
       "tema": "brasil",
-      "resumo": "Empresas como Habib's e Casas Bahia enfrentam dificuldades financeiras; especialistas apontam altas taxas de juros e erros de gestão como principais causas de recuperações judiciais."
+      "resumo": "Empresas brasileiras como Habib's e Casas Bahia enfrentam dificuldades financeiras; altas de juros somadas a erros de gestão explicam o aumento de recuperações empresariais."
     },
     {
       "titulo": "Colapso glacial: o fenômeno que causou a enchente repentina na fronteira entre Nepal e Tibete",
@@ -213,7 +221,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c70l4jen7qro?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 27 Aug 2026 11:57:55 GMT",
       "tema": "mundo",
-      "resumo": "Investigações científicas revelaram que o colapso de uma geleira, e não um terremoto, foi a causa da enchente repentina que atingiu a fronteira entre Nepal e Tibete."
+      "resumo": "Colapso glacial, não terremoto, foi o responsável pelas enchentes na fronteira entre Nepal e Tibete, conforme descobriram cientistas após investigação inicial."
     },
     {
       "titulo": "As imagens impressionantes da tragédia que matou mais de 500 e deixou quase 2.000 desaparecidos no Nepal",
@@ -221,7 +229,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cx2z52xznq7o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 28 Aug 2026 17:09:08 GMT",
       "tema": "mundo",
-      "resumo": "Imagens documentam os efeitos da tragédia no Nepal que deixou mais de 500 mortos; operações de resgate continuam com pessoas de múltiplas nacionalidades desaparecidas."
+      "resumo": "Tragédia na região do Himalaia entre Nepal e Tibete deixa mais de 500 mortos e cerca de 2 mil desaparecidos de 28 nacionalidades diferentes."
     },
     {
       "titulo": "Fim da escala 6x1 no Senado: quem tentar adiar votação 'vai ficar muito mal com a população', diz relator na CCJ",
@@ -229,7 +237,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c804l54z3p0o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 27 Aug 2026 21:09:24 GMT",
       "tema": "brasil",
-      "resumo": "Relator da PEC que busca acabar com a escala 6x1 afirma que votação será acelerada no Senado após negociações que envolveram o presidente Lula."
+      "resumo": "Relator da PEC que visa acabar com a escala 6x1 pressiona votação no Senado após acordo entre Alcolumbre e Lula, alertando sobre rejeição popular ao adiamento."
     }
   ]
 }
