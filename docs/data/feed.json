@@ -1,75 +1,67 @@
 {
-  "gerado_em": "2026-08-30T14:40:59.030Z",
+  "gerado_em": "2026-08-30T18:24:54.731Z",
   "modo": "ia",
   "clima": {
     "max": 31.2,
     "min": 19.9,
-    "chuva": 78
+    "chuva": 79
   },
   "noticias": [
     {
-      "titulo": "Derramamento de óleo interdita trecho da SP-55 e provoca congestionamento em São Sebastião",
+      "titulo": "Dia vira noite após tarde abafada, e SP tem chuva e vento forte",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/30/derramamento-de-oleo-interdita-trecho-da-sp-55-e-provoca-congestionamento-em-sao-sebastiao.ghtml",
-      "hora": "Sun, 30 Aug 2026 14:30:58 -0000",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/30/dia-vira-noite-apos-tarde-abafada-e-sp-tem-chuva-e-vento-forte.ghtml",
+      "hora": "Sun, 30 Aug 2026 18:12:28 -0000",
       "tema": "sp",
-      "resumo": "Um derramamento de óleo interditou trechos da rodovia SP-55 em São Sebastião, causando congestionamento na manhã de domingo."
+      "resumo": "Frente fria causa mudança rápida no tempo em São Paulo, com chegada de chuva, vento forte e raios esperados no domingo à noite após tarde quente e abafada."
     },
     {
-      "titulo": "Muretas de Santos viram patrimônio cultural; trecho original da Ponta da Praia é tombado",
+      "titulo": "Empresário de Goiás decide ‘largar tudo’ e ir morar na praia; vídeo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/30/muretas-de-santos-viram-patrimonio-cultural-trecho-original-da-ponta-da-praia-e-tombado.ghtml",
-      "hora": "Sun, 30 Aug 2026 14:30:15 -0000",
-      "tema": "sp",
-      "resumo": "As tradicionais muretas de Santos foram reconhecidas oficialmente como patrimônio cultural da cidade, com tombamento de um trecho original na Ponta da Praia."
+      "link": "https://g1.globo.com/go/goias/noticia/2026/08/30/empresario-de-goias-decide-largar-tudo-e-ir-morar-na-praia-video.ghtml",
+      "hora": "Sun, 30 Aug 2026 18:09:01 -0000",
+      "tema": "entretenimento",
+      "resumo": "Empresário e sushiman de Goiás decide deixar o trabalho e mudar-se para a praia com a esposa após quase duas décadas de relacionamento."
     },
     {
-      "titulo": "Cras Itinerante passa por bairros rurais e distritos de Itapetininga; veja locais",
+      "titulo": "Concursos e seleções em PE têm mais de mil vagas e salários de até R$ 15 mil; saiba como se inscrever",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/08/30/cras-itinerante-passa-por-bairros-rurais-e-distritos-de-itapetininga-veja-locais.ghtml",
-      "hora": "Sun, 30 Aug 2026 14:23:56 -0000",
-      "tema": "sp",
-      "resumo": "O Centro de Referência de Assistência Social (Cras) Itinerante percorrerá bairros rurais e distritos de Itapetininga ao longo de setembro para ampliar acesso a serviços sociais."
-    },
-    {
-      "titulo": "Temporais deixam duas mortes, causam danos em mais de 30 municípios e atingem mais de 1,6 mil residências no RS",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/30/granizo-rs-estragos-cidades.ghtml",
-      "hora": "Sun, 30 Aug 2026 14:20:36 -0000",
+      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/08/30/concursos-e-selecoes-em-pe-tem-mais-de-mil-vagas-e-salarios-de-ate-r-15-mil-saiba-como-se-inscrever.ghtml",
+      "hora": "Sun, 30 Aug 2026 18:05:12 -0000",
       "tema": "brasil",
-      "resumo": "Temporais no Rio Grande do Sul causaram duas mortes, deixaram mais de 1,6 mil residências atingidas e provocaram danos em 32 municípios."
+      "resumo": "Pernambuco oferece mais de mil vagas em concursos públicos e seleções simplificadas, com salários de até R$ 15 mil para candidatos de diferentes níveis de escolaridade."
     },
     {
-      "titulo": "Samara Martins, candidata à Presidência, defende fim da escala 6x1, em João Pessoa ",
+      "titulo": "Couro de píton, pelo de boi e muito brilho: as botas mais diferentonas da Festa do Peão de Barretos 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/30/samara-martins-candidata-a-presidencia-defende-fim-da-escala-6x1-em-joao-pessoa.ghtml",
-      "hora": "Sun, 30 Aug 2026 14:17:01 -0000",
-      "tema": "brasil",
-      "resumo": "A candidata presidencial Samara Martins cumpriu agenda em João Pessoa e defendeu o fim da escala 6x1 durante encontro com apoiadores."
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/festa-do-peao-de-barretos/noticia/2026/08/30/couro-de-piton-pelo-de-boi-e-muito-brilho-as-botas-mais-diferentonas-da-festa-do-peao-de-barretos-2026.ghtml",
+      "hora": "Sun, 30 Aug 2026 18:00:15 -0000",
+      "tema": "cultura",
+      "resumo": "Festeros apostam em botas texanas ousadas na 71ª Festa do Peão de Barretos, com materiais inusitados como couro de píton e pelos de boi, fugindo dos tons terrosos tradicionais."
     },
     {
-      "titulo": "Carro na contramão bate de frente com outro veículo e deixa quatro feridos na Dutra, em São José",
+      "titulo": "Nova ciclofaixa de lazer é inaugurada na orla da Zona Sul",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/30/carro-na-contramao-bate-de-frente-com-outro-veiculo-e-deixa-quatro-feridos-na-dutra-em-sao-jose.ghtml",
-      "hora": "Sun, 30 Aug 2026 14:12:40 -0000",
-      "tema": "sp",
-      "resumo": "Uma colisão frontal na Rodovia Presidente Dutra em São José dos Campos deixou três pessoas com ferimentos graves e uma com ferimentos leves."
-    },
-    {
-      "titulo": "O diretor de escola que salvou 900 estudantes das inundações no Nepal",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/noticia/2026/08/30/o-diretor-de-escola-que-salvou-900-estudantes-das-inundacoes-no-nepal.ghtml",
-      "hora": "Sun, 30 Aug 2026 14:12:32 -0000",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/30/nova-ciclofaixa-de-lazer-e-inaugurada-na-orla-da-zona-sul.ghtml",
+      "hora": "Sun, 30 Aug 2026 17:58:36 -0000",
       "tema": "mundo",
-      "resumo": "O diretor de uma escola nepalesa evacuou cerca de 900 alunos para segurança após receber alertas sobre risco de inundação na região."
+      "resumo": "Rio de Janeiro inaugura ciclofaixa de lazer com 7,2 quilômetros na orla da Zona Sul, funcionando aos domingos e feriados das 8h às 16h."
     },
     {
-      "titulo": "Em carreata em Maranguape, Elmano de Freitas promete construção de Hospital Metropolitano",
+      "titulo": "Os milhões de argentinos com dívidas em atraso e o que isso indica sobre a economia do país: 'Não tentamos mais refinanciar porque é impagável'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/08/30/em-carreata-em-maranguape-elmano-de-freitas-promete-construcao-de-hospital-metropolitano.ghtml",
-      "hora": "Sun, 30 Aug 2026 14:05:29 -0000",
-      "tema": "brasil",
-      "resumo": "O governador do Ceará Elmano de Freitas participou de carreata em Maranguape e prometeu a construção de um Hospital Metropolitano."
+      "link": "https://g1.globo.com/economia/noticia/2026/08/30/os-milhoes-de-argentinos-com-dividas-em-atraso-e-o-que-isso-indica-sobre-a-economia-do-pais-nao-tentamos-mais-refinanciar-porque-e-impagavel.ghtml",
+      "hora": "Sun, 30 Aug 2026 17:55:43 -0000",
+      "tema": "mundo",
+      "resumo": "Argentina enfrenta crise econômica com milhões de cidadãos com dívidas em atraso, refletindo deterioração nas condições financeiras do país."
+    },
+    {
+      "titulo": "Aposentada perde R$ 9,6 mil ao planejar casamento com suposto médico dos EUA que conheceu pela internet ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/08/30/aposentada-tem-prejuizo-ao-planejar-casamento-com-suposto-medico-dos-eua-que-conheceu-pela-internet.ghtml",
+      "hora": "Sun, 30 Aug 2026 17:54:41 -0000",
+      "tema": "checagem",
+      "resumo": "Aposentada de 73 anos perde R$ 9,6 mil em golpe ao planejar casamento com homem que conheceu pela internet e se apresentava como médico americano."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -77,7 +69,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "O evento Bike Brasil acontece no São Paulo Expo, na Zona Sul, reunindo ciclistas profissionais e amadores para competições e atividades diversas."
+      "resumo": "Festival Bike Brasil acontece na Zona Sul de São Paulo com competições de manobras radicais, profissionais e amadores, além de atividades para crianças."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -85,7 +77,7 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Um desempregado pedalou 20 km e passou 12 horas em fila em Bauru para concorrer a uma das 500 vagas de emprego oferecidas."
+      "resumo": "Desempregado percorre 20 quilômetros de bicicleta e aguarda 12 horas em fila para concorrer a uma das 500 vagas de emprego em Bauru."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -93,15 +85,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "cultura",
-      "resumo": "O cantor Zé Ramalho apresentou sucessos de sua carreira e interpretações de Raul Seixas durante a 39ª Festa Junina de Sorocaba."
-    },
-    {
-      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
-      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
-      "tema": "sp",
-      "resumo": "A Polícia Rodoviária Federal apreendeu 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo."
+      "resumo": "Zé Ramalho apresenta seus sucessos e duas canções de Raul Seixas na 39ª Festa Junina de Sorocaba diante de público em temperatura de 17ºC."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -109,7 +93,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "A 3ª edição da Festa Junina Canina de Jundiaí reunirá cães e gatos para brincadeiras e atividades diversas com entrada gratuita."
+      "resumo": "Jundiaí realiza 3ª edição da Festa Junina Canina com entrada gratuita, oferecendo brincadeiras e atividades para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -117,7 +101,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "O festival Maior Baile do Mundo, com Anitta e MCs entre as atrações, espera reunir 35 mil pessoas em São Paulo para 10 horas de shows."
+      "resumo": "O Maior Baile do Mundo em São Paulo reúne 35 mil pessoas e 10 horas de shows com Anitta e MCs, baseado nas músicas mais ouvidas na internet brasileira."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -125,7 +109,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializou Vera Lúcia, militante sindical, como candidata à Presidência da República nas eleições."
+      "resumo": "PSTU oficializa a candidatura de Vera Lúcia à Presidência da República nas próximas eleições, durante convenção em São Paulo."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -133,7 +117,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A 15ª edição da Feiccad acontece em Jundiaí até domingo, reunindo setores de imóvel, construção e decoração com entrada gratuita."
+      "resumo": "15ª edição da Feiccad (Feira do Imóvel, Construção e Decoração) acontece em Jundiaí até domingo com entrada gratuita mediante credenciamento."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -141,7 +125,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos do Executivo, com prazo até 31 de julho e provas a serem realizadas na cidade."
+      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diferentes cargos do Executivo, com prazo até 31 de julho."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -149,7 +133,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra a família após 37 anos, graças a um boletim de ocorrência registrado após ser alvo de roubo."
+      "resumo": "Morador de rua em Campinas reencontra a família após 37 anos de separação, graças a informações registradas em boletim de ocorrência."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -157,7 +141,15 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Motorista de 75 anos morre em acidente de trânsito dias antes de seu filho ser ordenado bispo em Itapetininga."
+      "resumo": "Homem de 75 anos falece em acidente de trânsito em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
+    },
+    {
+      "titulo": "Os milhões de argentinos com dívidas em atraso e o que isso indica sobre a economia do país: 'Não tentamos mais refinanciar porque é impagável'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cdr7jn02g13o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 30 Aug 2026 17:39:26 GMT",
+      "tema": "mundo",
+      "resumo": "Um terço da população argentina enfrenta dificuldades para pagar dívidas junto a instituições financeiras e agiotas, refletindo a crise econômica do país."
     },
     {
       "titulo": "O plano bilionário da China para fazer uma nova revolução industrial com milhões de robôs",
@@ -165,7 +157,23 @@
       "link": "https://www.bbc.com/portuguese/articles/c9w4j2555qro?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 30 Aug 2026 09:18:38 GMT",
       "tema": "mundo",
-      "resumo": "China investe US$ 20 bilhões em desenvolvimento de robótica industrial para liderar a inovação tecnológica e competir com os Estados Unidos."
+      "resumo": "China investe 20 bilhões de dólares em desenvolvimento de robótica industrial para liderar a inovação e competir com os Estados Unidos no setor."
+    },
+    {
+      "titulo": "'Fui sequestrada pela Coreia do Norte e forçada a casar com um soldado americano'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cx2zwzrlprjo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 30 Aug 2026 16:21:48 GMT",
+      "tema": "mundo",
+      "resumo": "Mulher japonesa relata ter sido sequestrada pela Coreia do Norte e forçada a casar com soldado americano, integrando grupo de pelo menos 17 cidadãos desaparecidos nas décadas de 1970 e 1980."
+    },
+    {
+      "titulo": "A mãe e a filha detidas pelo ICE em hospital após sofrerem acidente de carro: 'Socorro, por favor, socorro!'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cp8411evl10o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 30 Aug 2026 14:30:19 GMT",
+      "tema": "mundo",
+      "resumo": "Mãe e filha equatorianas são detidas pela agência de imigração americana enquanto recebem atendimento médico em hospital após acidente de carro."
     },
     {
       "titulo": "O diretor de escola que salvou 900 estudantes das inundações no Nepal",
@@ -173,7 +181,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c3d7x3p82kmo?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 30 Aug 2026 13:40:40 GMT",
       "tema": "mundo",
-      "resumo": "Diretor de escola no Nepal salva 900 estudantes ao tomar decisão rápida durante inundações que atingiram a região."
+      "resumo": "Diretor de escola no Nepal consegue evacuar 900 estudantes em tempo hábil durante inundações, evitando tragédia de grandes proporções."
     },
     {
       "titulo": "O país que enfrenta a escassez de água com sistemas hídricos abandonados há centenas de anos",
@@ -181,7 +189,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c78064pyzdzo?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 30 Aug 2026 10:55:43 GMT",
       "tema": "mundo",
-      "resumo": "Comunidades indianas restauram infraestruturas hídricas centenárias para enfrentar a escassez de água agravada pelas mudanças climáticas."
+      "resumo": "Comunidades na Índia restauram infraestruturas hídricas ancestrais construídas há séculos para enfrentar a escassez de água agravada pelas mudanças climáticas."
+    },
+    {
+      "titulo": "Por que fazer vários tipos de exercício pode ser a chave para uma vida mais longa",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cly5j4zvgqeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 30 Aug 2026 16:36:01 GMT",
+      "tema": "mundo",
+      "resumo": "Estudo indica que variar os tipos de exercício praticados durante a semana oferece mais benefícios para a longevidade do que focar em uma única atividade."
     },
     {
       "titulo": "Islândia rejeita aderir à União Europeia em referendo que revela divisão no país",
@@ -189,7 +205,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cvgyxj3jkxro?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 30 Aug 2026 12:04:07 GMT",
       "tema": "mundo",
-      "resumo": "Islândia rejeita em referendo a proposta de retomar negociações para adesão à União Europeia, com 52,5% dos votos contra."
+      "resumo": "Islândia rejeita em referendo a proposta de retomar negociações para adesão à União Europeia, com 52,5% votando contra e revelando divisão na população."
     },
     {
       "titulo": "O que faz Cuba depender do exterior para alimentar sua população",
@@ -197,7 +213,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cwyzj4rvv5eo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 29 Aug 2026 17:25:02 GMT",
       "tema": "mundo",
-      "resumo": "Cuba depende de importações para alimentar sua população, trazendo cerca de 80% dos alimentos consumidos no país apesar de seu potencial agrícola."
+      "resumo": "Cuba importa aproximadamente 80% dos alimentos que consome, apesar de seu potencial agrícola, gerando dependência de abastecimento externo."
     },
     {
       "titulo": "Augusto Cury na Globo: o que disse o candidato à Presidência na entrevista à emissora",
@@ -205,23 +221,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c2dwxj2zn63o?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 30 Aug 2026 02:23:38 GMT",
       "tema": "brasil",
-      "resumo": "Augusto Cury, candidato à Presidência pelo partido Avante, foi entrevistado pela Globo na série de entrevistas com postulantes às eleições de 2026."
-    },
-    {
-      "titulo": "Respiração quadrada: como funciona um dos 'truques mais poderosos' para controlar o estresse",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cj3d0r02ypxo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 29 Aug 2026 21:25:15 GMT",
-      "tema": "cultura",
-      "resumo": "Especialistas comentam sobre a técnica de respiração quadrada, que ganhou popularidade nas redes sociais como ferramenta para controle do estresse."
-    },
-    {
-      "titulo": "Por que restaurantes estão acabando com as gorjetas nos EUA",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c4gqln6l5ejo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 29 Aug 2026 18:18:54 GMT",
-      "tema": "mundo",
-      "resumo": "Restaurantes nos EUA eliminam o sistema de gorjetas, prática tradicional que tem gerado ampla discussão sobre remuneração e custos."
+      "resumo": "Augusto Cury, candidato pela legenda Avante, concede entrevista à Globo como último dos seis postulantes à Presidência em 2026 a participar da série da emissora."
     },
     {
       "titulo": "Como memórias da guerra e do passado nazista estão no centro de disputa eleitoral na Alemanha",
@@ -229,7 +229,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c70lz2ky0rvo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 29 Aug 2026 13:00:28 GMT",
       "tema": "mundo",
-      "resumo": "Memórias do passado nazista e da guerra tornam-se central no debate eleitoral alemão, com o partido de extrema-direita AfD buscando poder significativo após o período pós-guerra."
+      "resumo": "Partido de extrema-direita alemão AfD posiciona-se centralmente nas disputas eleitorais ao propor visão mais positiva do passado germânico, potencialmente conquistando poder significativo."
     },
     {
       "titulo": "A pequena cidade escocesa que procura migrantes para estancar a queda da população",
@@ -237,15 +237,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c3wjp7e9zl7o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 29 Aug 2026 16:15:10 GMT",
       "tema": "mundo",
-      "resumo": "Greenock, pequena cidade escocesa, busca atrair imigrantes para reverter a queda de população que afeta a região."
-    },
-    {
-      "titulo": "O que Augusto Cury diz sobre ser de esquerda ou de direita",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c2kwj59yledo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 29 Aug 2026 10:34:28 GMT",
-      "tema": "brasil",
-      "resumo": "Augusto Cury esclarece sua posição política no debate presidencial, criticando posicionamentos de adversários."
+      "resumo": "Greenock, pequena cidade na costa oeste da Escócia, busca atrair migrantes para se estabelecerem e reverter o declínio populacional."
     },
     {
       "titulo": "Morto aos 89 anos, rei da Noruega era casado com plebeia e considerado reformista",
@@ -253,15 +245,7 @@
       "link": "https://www.bbc.com/portuguese/articles/crl6n2k93xzo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 28 Aug 2026 08:12:40 GMT",
       "tema": "entretenimento",
-      "resumo": "Rei da Noruega falece aos 89 anos; conhecido por romper tradições ao se casar com uma plebeia, era reconhecido como reformista e amado pelos noruegueses."
-    },
-    {
-      "titulo": "Trump diz ter fechado 'maior acordo petrolífero da história' com a Venezuela, envolvendo 65 bilhões de barris",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvgy4rpz5rzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 29 Aug 2026 02:51:31 GMT",
-      "tema": "mundo",
-      "resumo": "Trump anuncia acordo petrolífero com a Venezuela envolvendo mais de 65 bilhões de barris, com participação americana na infraestrutura do setor."
+      "resumo": "Rei da Noruega falece aos 89 anos após vida marcada pela ruptura com tradições, incluindo casamento com plebeia e forte admiração popular no país."
     }
   ]
 }
