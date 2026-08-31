@@ -1,99 +1,99 @@
 {
-  "gerado_em": "2026-08-30T23:10:55.146Z",
+  "gerado_em": "2026-08-31T17:24:02.120Z",
   "modo": "ia",
   "clima": {
-    "max": 29.4,
-    "min": 19.9,
-    "chuva": 79
+    "max": 27.2,
+    "min": 17.7,
+    "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Vazamento de gás provoca incêndio na casa de presidente do TSE, ministro Nunes Marques",
+      "titulo": "Alexandre Kalil diz que é preciso rever subsídios às grandes empresas para reduzir dívida do estado; candidato foi entrevistado no MG1 de Juiz de Fora",
       "fonte": "G1",
-      "link": "https://g1.globo.com/df/noticia/2026/08/30/vazamento-de-gas-provoca-incendio-na-casa-de-presidente-do-tse-ministro-nunes-marques.ghtml",
-      "hora": "Sun, 30 Aug 2026 22:55:04 -0000",
+      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/08/31/alexandre-kalil-diz-que-e-preciso-rever-subsidios-as-grandes-empresas-para-reduzir-divida-do-estado-candidato-foi-entrevistado-no-mg1-de-juiz-de-fora.ghtml",
+      "hora": "Mon, 31 Aug 2026 17:07:23 -0000",
       "tema": "brasil",
-      "resumo": "Um vazamento de gás provocou incêndio na residência do ministro Kássio Nunes Marques, presidente do TSE e membro do STF, no domingo."
+      "resumo": "Candidato ao governo de Minas Gerais propõe revisão de subsídios às grandes empresas como estratégia para reduzir a dívida estadual."
     },
     {
-      "titulo": "Obra abandonada ao lado do Hospital Universitário Júlio Müller, em Cuiabá, vira alvo de fiscalização do MPF",
+      "titulo": "Como o granizo se forma? Bolas de gelo de até 4 cm danificaram carros e mais de 3 mil casas em SC",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/08/30/obra-abandonada-ao-lado-do-hospital-universitario-julio-muller-em-cuiaba-vira-alvo-de-fiscalizacao-do-mpf.ghtml",
-      "hora": "Sun, 30 Aug 2026 22:52:25 -0000",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/31/como-granizo-se-forma-bolas-de-gelo-danificaram-carros-casas-sc.ghtml",
+      "hora": "Mon, 31 Aug 2026 17:06:50 -0000",
       "tema": "brasil",
-      "resumo": "O Ministério Público Federal abriu procedimento para fiscalizar medidas de segurança em obra abandonada ao lado do Hospital Universitário em Cuiabá."
+      "resumo": "Temporal com granizo danificou casas e veículos em Santa Catarina, com pedras de gelo chegando a 4 centímetros, causado por frente fria estacionária."
     },
     {
-      "titulo": "Doença de Creutzfeldt-Jakob (DCJ): os sintomas e o diagnóstico de Lito Sousa",
+      "titulo": "População do Amapá chega a 809 mil habitantes em 2026, aponta IBGE ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/fantastico/podcast/isso-e-fantastico/noticia/2026/08/30/doenca-de-creutzfeldt-jakob-dcj-os-sintomas-e-o-diagnostico-de-lito-sousa.ghtml",
-      "hora": "Sun, 30 Aug 2026 22:48:05 -0000",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/08/31/populacao-do-amapa-chega-a-809-mil-habitantes-em-2026-aponta-ibge.ghtml",
+      "hora": "Mon, 31 Aug 2026 17:04:31 -0000",
       "tema": "brasil",
-      "resumo": "Um criador de conteúdo foi diagnosticado com a Doença de Creutzfeldt-Jakob, uma condição rara e degenerativa causada por proteínas anormais no cérebro."
+      "resumo": "IBGE registra população do Amapá em pouco mais de 809 mil habitantes em 2026, com crescimento de apenas 0,4% em relação ao ano anterior."
     },
     {
-      "titulo": "Carreata e adesivaço: como foi o dia dos candidatos ao governo do Ceará",
+      "titulo": "Novo míssil dos EUA utilizado pela 1ª vez contra o Irã deixou amplo rastro de destruição e dezenas de mortos, diz relatório",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/08/30/carreata-e-adesivaco-como-foi-o-dia-dos-candidatos-ao-governo-do-ceara.ghtml",
-      "hora": "Sun, 30 Aug 2026 22:29:43 -0000",
-      "tema": "brasil",
-      "resumo": "Candidatos ao governo do Ceará Ciro Gomes e Elmano de Freitas realizaram atividades de campanha na região de Fortaleza para a eleição de 2026."
+      "link": "https://g1.globo.com/mundo/noticia/2026/08/31/novo-missil-utilizado-pela-1a-vez-eua-contra-ira-deixou-amplo-rastro-destruicao-mortos-diz-relatorio.ghtml",
+      "hora": "Mon, 31 Aug 2026 17:02:40 -0000",
+      "tema": "mundo",
+      "resumo": "Novo tipo de míssil dos EUA, que se fragmenta antes de atingir o solo, foi utilizado pela primeira vez em combate contra o Irã, causando múltiplas vítimas."
     },
     {
-      "titulo": "Detran-RR suspende atendimento em unidade do shopping no Caçari para manutenção",
+      "titulo": "Após queda do sistema Cantareira para 33% em agosto, Tarcísio descarta rodízio ou racionamento de água em SP durante estiagem",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/08/30/detran-rr-suspende-atendimento-em-unidade-do-shopping-no-cacari-para-manutencao.ghtml",
-      "hora": "Sun, 30 Aug 2026 22:26:35 -0000",
-      "tema": "brasil",
-      "resumo": "O Detran de Roraima suspenderá atendimentos em unidade de Boa Vista durante segunda e terça-feira para manutenção de sistema."
-    },
-    {
-      "titulo": "Fim de semana de calor: DF tem dois dias mais quentes do ano no sábado e neste domingo (30)",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/30/fim-de-semana-de-calor-df-tem-dois-dias-mais-quentes-do-ano-no-sabado-e-neste-domingo-30.ghtml",
-      "hora": "Sun, 30 Aug 2026 22:25:29 -0000",
-      "tema": "brasil",
-      "resumo": "O Distrito Federal registrou temperaturas recordes no fim de semana, com o domingo marcando 35,1°C, a maior do ano até o momento."
-    },
-    {
-      "titulo": "Mais de 90 aves são apreendidas e 35 pessoas são conduzidas à delegacia após denúncia de torneio irregular de pássaros em Salvador",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/08/30/aves-sao-apreendidas-e-pessoas-conduzidas-a-delegacia-em-salvador.ghtml",
-      "hora": "Sun, 30 Aug 2026 22:11:56 -0000",
-      "tema": "brasil",
-      "resumo": "Autoridades apreenderam 95 aves e conduziram 35 pessoas à delegacia após flagrante de torneio irregular de pássaros em Salvador."
-    },
-    {
-      "titulo": "Itanhaém abre concurso para Guarda Municipal com salário de R$ 2,6 mil; veja como se inscrever ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/30/itanhaem-abre-concurso-para-guarda-municipal-com-salario-de-r-26-mil-veja-como-se-inscrever.ghtml",
-      "hora": "Sun, 30 Aug 2026 22:00:15 -0000",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/31/apos-queda-do-sistema-cantareira-para-33percent-em-agosto-tarcisio-descarta-rodizio-ou-racionamento-de-agua-em-sp-durante-estiagem.ghtml",
+      "hora": "Mon, 31 Aug 2026 17:01:34 -0000",
       "tema": "sp",
-      "resumo": "A Prefeitura de Itanhaém abre 20 vagas para Guarda Civil Municipal com salário de R$ 2.662 e inscrições a partir de segunda-feira."
+      "resumo": "Governador de SP descarta rodízio ou racionamento de água apesar da queda do Sistema Cantareira para 33% em agosto."
     },
     {
-      "titulo": "Rio começa semana com previsão de ventos fortes e rajadas de até 76 km/h nesta segunda",
+      "titulo": "Tentativas de golpes por meios como mensagens ou ligações afetam 45 milhões no Brasil, diz pesquisa",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/30/rio-comeca-semana-com-previsao-de-ventos-fortes-e-rajadas-de-ate-76-kmh-nesta-segunda.ghtml",
-      "hora": "Sun, 30 Aug 2026 21:57:17 -0000",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/08/31/tentativas-de-golpes-por-meios-como-mensagens-ou-ligacoes-afetam-45-milhoes-no-brasil-diz-pesquisa.ghtml",
+      "hora": "Mon, 31 Aug 2026 17:00:18 -0000",
       "tema": "brasil",
-      "resumo": "O Rio de Janeiro tem previsão de ventos fortes com rajadas de até 76 km/h para segunda-feira, conforme alerta da Defesa Civil."
+      "resumo": "Pesquisa indica que 32% dos brasileiros com internet sofreram tentativas de golpes com seus dados pessoais, afetando cerca de 45 milhões de pessoas."
     },
     {
-      "titulo": "TRE-CE determina que Elmano de Freitas remova vídeo gravado em canteiro de obras de hospital no Cariri",
+      "titulo": "Eleições 2026: veja todos os candidatos ao governo do Tocantins",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/08/30/tre-ce-determina-que-elmano-de-freitas-remova-video-gravado-em-canteiro-de-obras-de-hospital-no-cariri.ghtml",
-      "hora": "Sun, 30 Aug 2026 21:47:38 -0000",
+      "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-ao-governo-do-tocantins.ghtml",
+      "hora": "Mon, 31 Aug 2026 17:00:00 -0000",
       "tema": "brasil",
-      "resumo": "A Justiça Eleitoral determinou que o candidato Elmano de Freitas remova vídeo de campanha gravado em canteiro de obras de hospital no Ceará."
+      "resumo": "Tocantins tem sete candidatos registrados para disputar o governo estadual nas eleições de 2026, com votação marcada para 4 de outubro."
     },
     {
-      "titulo": "Chuva e ventos fortes deixam casas desatelhadas em BH; 5 mil pessoas estão sem luz ",
+      "titulo": "Eleições 2026: veja todos os candidatos ao governo de Santa Catarina",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/08/30/chuva-e-ventos-fortes-deixam-casas-desatelhadas-em-bh-5-mil-pessoas-estao-sem-luz.ghtml",
-      "hora": "Sun, 30 Aug 2026 21:46:38 -0000",
+      "link": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/08/31/eleicoes-2026-veja-todos-os-candidatos-ao-governo-de-santa-catarina.ghtml",
+      "hora": "Mon, 31 Aug 2026 16:57:04 -0000",
       "tema": "brasil",
-      "resumo": "Chuva intensa e ventos fortes deixaram pelo menos sete casas destelhadas em Belo Horizonte e causaram cortes de energia para 5 mil pessoas."
+      "resumo": "Santa Catarina tem oito candidatos registrados para a disputa ao governo estadual nas eleições de 2026."
+    },
+    {
+      "titulo": "Candidato ao governo de SP, Fernando Haddad promete rever contratos da gestão Tarcísio: 'Free flow, venda dos trilhos e Sabesp'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/eleicoes/2026/noticia/2026/08/31/entrevista-haddad-tvtem.ghtml",
+      "hora": "Mon, 31 Aug 2026 16:57:03 -0000",
+      "tema": "sp",
+      "resumo": "Fernando Haddad, candidato ao governo de SP, afirma que reveria contratos da gestão Tarcísio caso eleito, incluindo free flow, venda dos trilhos e privatização da Sabesp."
+    },
+    {
+      "titulo": "Tarcísio promete renovar benefício fiscal para transporte de cargas em SP e defende pedágio free flow",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/31/tarcisio-promete-renovar-beneficio-fiscal-para-transporte-de-cargas-em-sp-e-defende-pedagio-free-flow.ghtml",
+      "hora": "Mon, 31 Aug 2026 16:55:57 -0000",
+      "tema": "sp",
+      "resumo": "Governador Tarcísio promete renovação de benefício fiscal para transporte de cargas e defende a continuidade do pedágio free flow em São Paulo."
+    },
+    {
+      "titulo": "Casal venezuelano procurado por latrocínio no Chile é preso pela PF em Manaus",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/08/31/casal-venezuelano-procurado-por-latrocinio-no-chile-e-preso-pela-pf-em-manaus.ghtml",
+      "hora": "Mon, 31 Aug 2026 16:54:26 -0000",
+      "tema": "brasil",
+      "resumo": "Casal de venezuelanos procurado pela Justiça do Chile por suspeita de latrocínio é preso pela Polícia Federal em Manaus."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -101,7 +101,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Um festival de bicicletas ocorreu na Zona Sul de São Paulo com competições de manobras radicais e atividades para crianças."
+      "resumo": "Festival Bike Brasil na Zona Sul de São Paulo reúne ciclistas profissionais e amadores para competições de manobras e atividades infantis."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -109,15 +109,15 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Um desempregado pedalou 20 quilômetros e aguardou 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
+      "resumo": "Desempregado percorre 20 km de bicicleta e passa 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "sp",
-      "resumo": "O cantor Zé Ramalho apresentou sucessos da carreira e interpretou músicas de Raul Seixas na Festa Junina de Sorocaba."
+      "tema": "cultura",
+      "resumo": "Zé Ramalho apresenta sucessos de sua carreira e tributa Raul Seixas na Festa Junina de Sorocaba."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -125,7 +125,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realizará a terceira edição da Festa Junina Canina com brincadeiras e atividades para cães e gatos, com entrada gratuita."
+      "resumo": "Jundiaí realiza a terceira edição da Festa Junina Canina com entrada gratuita, oferecendo brincadeiras e atividades para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -133,7 +133,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "O Maior Baile do Mundo, festival em São Paulo com artistas como Anitta, espera reunir 35 mil pessoas em 10 horas de shows."
+      "resumo": "Festival Maior Baile do Mundo, com Anitta e MCs, espera reunir 35 mil pessoas em São Paulo para dez horas de apresentações."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -141,7 +141,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializou a sindicalista Vera Lúcia como candidata à Presidência da República nas eleições."
+      "resumo": "PSTU oficializa Vera Lúcia, militante sindical, como candidata à Presidência da República nas próximas eleições."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -149,7 +149,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A Feiccad, feira sobre construção civil e imóveis, é realizada em Jundiaí até domingo com entrada gratuita mediante credenciamento."
+      "resumo": "Feira especializada em construção civil, imóveis e decoração ocorre até domingo em Jundiaí com entrada gratuita."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -157,7 +157,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diferentes cargos do Executivo, com provas a serem realizadas na própria cidade."
+      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos, com prazo até 31 de julho e provas na própria cidade."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -165,7 +165,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência registrado após tentativa de roubo."
+      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, tendo saído para buscar emprego no Paraguai décadas atrás."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -173,63 +173,79 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Motorista de 75 anos morre em acidente de trânsito em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
+      "resumo": "Motorista de 75 anos, pai de um monsenhor que será ordenado bispo em Itapetininga, morre em acidente entre carro e caminhão em Capela do Alto."
     },
     {
-      "titulo": "Os milhões de argentinos com dívidas em atraso e o que isso indica sobre a economia do país: 'Não tentamos mais refinanciar porque é impagável'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cdr7jn02g13o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 30 Aug 2026 17:39:26 GMT",
-      "tema": "mundo",
-      "resumo": "Um em cada três argentinos enfrenta dificuldades para pagar dívidas contraídas com bancos e agiotas, refletindo a crise econômica do país."
+      "titulo": "Beach Park diz que checa peso e altura dos visitantes nos brinquedos; testemunha nega",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2018/07/19/beach-park-diz-que-checa-peso-e-altura-dos-visitantes-nos-brinquedos-testemunha-nega.ghtml",
+      "hora": "Thu, 19 Jul 2018 21:48:36 -0000",
+      "tema": "sp",
+      "resumo": "Beach Park emite nota sobre procedimentos de segurança após morte de visitante em brinquedo aquático, enquanto testemunha contesta protocolos informados."
     },
     {
-      "titulo": "As 4 regras de ouro do Japão para tornar suas cidades mais habitáveis",
+      "titulo": "Augusto Cury sobe nas pesquisas: candidato tira mais votos de Lula ou Flávio Bolsonaro? O que diz analista",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ce87e8p4p4go?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 30 Aug 2026 22:00:16 GMT",
-      "tema": "mundo",
-      "resumo": "Duas cidades japonesas estão entre as dez mais habitáveis do mundo; especialistas explicam as estratégias de planejamento urbano que tornam essas cidades funcionais e agradáveis."
+      "link": "https://www.bbc.com/portuguese/articles/c0req7qj02jo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 31 Aug 2026 17:10:03 GMT",
+      "tema": "brasil",
+      "resumo": "Analista político comenta o crescimento recente de Augusto Cury nas pesquisas eleitorais e seu possível impacto na eleição presidencial de 2026."
     },
     {
-      "titulo": "Como o GPS, criado para a guerra, moldou o mundo moderno",
+      "titulo": "Por que Lionel Messi anunciou sua aposentadoria da Seleção Argentina",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c62m4znn84lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 30 Aug 2026 19:27:04 GMT",
-      "tema": "mundo",
-      "resumo": "O GPS, originalmente desenvolvido para uso militar, tornou-se ferramenta essencial em diversos aspectos da vida cotidiana moderna, tanto em contextos de conflito quanto pacíficos."
+      "link": "https://www.bbc.com/portuguese/articles/cq5xgjl591xo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 31 Aug 2026 16:09:38 GMT",
+      "tema": "entretenimento",
+      "resumo": "Lionel Messi anuncia sua aposentadoria da Seleção Argentina, descrevendo a decisão como dolorosa mas oportuna."
     },
     {
-      "titulo": "Por que as paradas do orgulho gay estão sob ataque — dentro e fora da comunidade LGBT",
+      "titulo": "A corrida contra o tempo para resgatar mais de 600 trabalhadores presos em túneis após avalanche no Nepal e no Tibete",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c780d3e01y9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 30 Aug 2026 18:45:12 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cr503rrgg6mo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 31 Aug 2026 16:50:29 GMT",
       "tema": "mundo",
-      "resumo": "Grandes empresas que tradicionalmente apoiavam paradas do orgulho gay no Reino Unido agora demonstram hesitação em associar sua marca aos eventos."
+      "resumo": "Equipes de resgate no Nepal e Tibete realizam operações para resgatar mais de 600 trabalhadores presos em túneis após avalanche em usinas hidrelétricas."
     },
     {
-      "titulo": "O plano bilionário da China para fazer uma nova revolução industrial com milhões de robôs",
+      "titulo": "Roubo de canetas emagrecedoras em farmácias gera pavor e trauma em funcionários: 'Foram 4 assaltos em 10 dias'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c9w4j2555qro?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 30 Aug 2026 09:18:38 GMT",
-      "tema": "mundo",
-      "resumo": "A China investe 20 bilhões de dólares em robótica industrial para liderar inovação tecnológica e competir com os Estados Unidos no setor."
+      "link": "https://www.bbc.com/portuguese/articles/cvgvyvgppkko?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 31 Aug 2026 07:24:58 GMT",
+      "tema": "brasil",
+      "resumo": "Farmácias enfrentam série de assaltos motivados por roubo de canetas emagrecedoras, causando transtorno emocional e afastamentos entre funcionários."
     },
     {
-      "titulo": "'Fui sequestrada pela Coreia do Norte e forçada a casar com um soldado americano'",
+      "titulo": "EUA atacam Irã pela primeira vez desde julho; Teerã responde lançando mísseis contra bases na Jordânia",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cx2zwzrlprjo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 30 Aug 2026 16:21:48 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cx2zy9gnk6ro?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 31 Aug 2026 08:45:47 GMT",
       "tema": "mundo",
-      "resumo": "Mulher foi mantida sequestrada pela Coreia do Norte por mais de duas décadas e forçada a casar com soldado americano; pelo menos 17 cidadãs japonesas foram sequestradas no mesmo período."
+      "resumo": "Estados Unidos realiza ataque contra Irã, que responde com lançamento de mísseis contra bases na Jordânia, escalando tensão regional."
     },
     {
-      "titulo": "A mãe e a filha detidas pelo ICE em hospital após sofrerem acidente de carro: 'Socorro, por favor, socorro!'",
+      "titulo": "Por que acordo de Trump para assumir 'controle' do petróleo da Venezuela está sendo criticado",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cp8411evl10o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 30 Aug 2026 14:30:19 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cz0zl3ng740o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 31 Aug 2026 08:53:12 GMT",
       "tema": "mundo",
-      "resumo": "Cidadãs equatorianas foram detidas pelo ICE enquanto recebiam atendimento médico em hospital dos EUA após sofrerem acidente de carro."
+      "resumo": "Acordo anunciado por Trump prevê acesso americano a campos petrolíferos venezuelanos com reservas de 65 bilhões de barris, gerando críticas internacionais."
+    },
+    {
+      "titulo": "A música de IA que plagiou Taylor Swift, viralizou nas redes e agora não para de tocar nas rádios brasileiras",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cly7215x3vmo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 31 Aug 2026 10:57:19 GMT",
+      "tema": "cultura",
+      "resumo": "Música gerada por IA que copia estilo de Taylor Swift e clona vozes de artistas brasileiros viraliza e passa a ser tocada em rádios, levantando questões legais."
+    },
+    {
+      "titulo": "O ator diagnosticado com Alzheimer e que agora está à frente de um espetáculo solo",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c9w45p1pqv5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 31 Aug 2026 09:35:48 GMT",
+      "tema": "cultura",
+      "resumo": "Ator diagnosticado com Alzheimer vai protagonizar espetáculo solo de uma obra clássica de Samuel Beckett em Londres."
     },
     {
       "titulo": "O diretor de escola que salvou 900 estudantes das inundações no Nepal",
@@ -237,55 +253,39 @@
       "link": "https://www.bbc.com/portuguese/articles/c3d7x3p82kmo?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 30 Aug 2026 13:40:40 GMT",
       "tema": "mundo",
-      "resumo": "Diretor de escola no Nepal consegue retirar cerca de 900 alunos em segurança antes de enchentes devastarem a região, em decisão que salva inúmeras vidas."
+      "resumo": "Diretor de escola no Nepal salva aproximadamente 900 estudantes das inundações ao tomar decisão rápida que evitou tragédia."
     },
     {
-      "titulo": "O país que enfrenta a escassez de água com sistemas hídricos abandonados há centenas de anos",
+      "titulo": "A mãe e a filha detidas pelo ICE em hospital após sofrerem acidente de carro: 'Socorro, por favor, socorro!'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c78064pyzdzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 30 Aug 2026 10:55:43 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cp8411evl10o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 30 Aug 2026 14:30:19 GMT",
       "tema": "mundo",
-      "resumo": "Comunidades na Índia restauram sistemas hídricos ancestrais construídos há séculos para enfrentar a atual escassez de água e os impactos das mudanças climáticas."
+      "resumo": "Cidadãs equatorianas são detidas pela polícia de imigração dos EUA enquanto recebem atendimento médico em hospital após acidente de carro."
     },
     {
-      "titulo": "Por que fazer vários tipos de exercício pode ser a chave para uma vida mais longa",
+      "titulo": "Os milhões de argentinos com dívidas em atraso e o que isso indica sobre a economia do país: 'Não tentamos mais refinanciar porque é impagável'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cly5j4zvgqeo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 30 Aug 2026 16:36:01 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cdr7jn02g13o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 30 Aug 2026 17:39:26 GMT",
       "tema": "mundo",
-      "resumo": "Estudo sugere que praticar diferentes tipos de exercício ao longo da semana traz mais benefícios para a saúde e longevidade do que focar em apenas uma atividade."
+      "resumo": "Uma em cada três pessoas na Argentina enfrenta dificuldades para pagar dívidas contraídas junto a instituições financeiras e agiotas, refletindo crise econômica."
     },
     {
-      "titulo": "Islândia rejeita aderir à União Europeia em referendo que revela divisão no país",
+      "titulo": "As 4 regras de ouro do Japão para tornar suas cidades mais habitáveis",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvgyxj3jkxro?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 30 Aug 2026 12:04:07 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/ce87e8p4p4go?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 30 Aug 2026 22:00:16 GMT",
       "tema": "mundo",
-      "resumo": "Islândia rejeita em referendo a proposta de retomar negociações para aderir à União Europeia, com 52,5% votando contra, revelando divisão interna no país."
+      "resumo": "Cidades japonesas aparecem entre as mais habitáveis do mundo; análise explora práticas de planejamento urbano que tornaram essas localidades tão funcionais."
     },
     {
-      "titulo": "Augusto Cury na Globo: o que disse o candidato à Presidência na entrevista à emissora",
+      "titulo": "Por que as paradas do orgulho gay estão sob ataque — dentro e fora da comunidade LGBT",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c2dwxj2zn63o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 30 Aug 2026 02:23:38 GMT",
-      "tema": "brasil",
-      "resumo": "Augusto Cury, candidato pelo Avante à Presidência em 2026, é o último dos seis postulantes entrevistado pela Globo na série de entrevistas eleitorais."
-    },
-    {
-      "titulo": "O que faz Cuba depender do exterior para alimentar sua população",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwyzj4rvv5eo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 29 Aug 2026 17:25:02 GMT",
-      "tema": "mundo",
-      "resumo": "Apesar de seu potencial agrícola, Cuba importa cerca de 80% dos alimentos que consome, demonstrando dependência significativa do exterior para alimentação."
-    },
-    {
-      "titulo": "Como memórias da guerra e do passado nazista estão no centro de disputa eleitoral na Alemanha",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c70lz2ky0rvo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 29 Aug 2026 13:00:28 GMT",
-      "tema": "mundo",
-      "resumo": "Na Alemanha, disputas eleitorais atuais giram em torno de como lidar com a memória da Segunda Guerra e do nazismo; partido de extrema-direita AfD pode ganhar poder inédito no período pós-guerra."
+      "link": "https://www.bbc.com/portuguese/articles/c780d3e01y9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 30 Aug 2026 18:45:12 GMT",
+      "tema": "cultura",
+      "resumo": "Paradas do orgulho gay no Reino Unido enfrentam redução de apoio corporativo e tensões dentro da comunidade LGBT sobre o significado dos eventos."
     }
   ]
 }
