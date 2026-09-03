@@ -1,91 +1,99 @@
 {
-  "gerado_em": "2026-09-02T22:59:03.716Z",
+  "gerado_em": "2026-09-03T14:08:42.617Z",
   "modo": "ia",
   "clima": {
-    "max": 21.2,
-    "min": 12.6,
-    "chuva": 47
+    "max": 25.4,
+    "min": 11.9,
+    "chuva": 0
   },
   "noticias": [
     {
-      "titulo": "Candidatos ao governo do DF discutem déficit habitacional e problemas de infraestrutura nesta quarta",
+      "titulo": "Lito Sousa deixa hospital e inicia cuidados paliativos em casa; entenda como funciona a abordagem e quando é indicada",
       "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/02/candidatos-ao-governo-do-df-discutem-deficit-habitacional-e-problemas-de-infraestrutura-nesta-quarta.ghtml",
-      "hora": "Wed, 02 Sep 2026 22:47:58 -0000",
+      "link": "https://g1.globo.com/saude/noticia/2026/09/03/lito-sousa-deixa-hospital-e-inicia-cuidados-paliativos-em-casa-entenda-como-funciona-a-abordagem-e-quando-e-indicada.ghtml",
+      "hora": "Thu, 03 Sep 2026 13:54:35 -0000",
       "tema": "brasil",
-      "resumo": "Candidatos ao governo do Distrito Federal realizaram agendas de campanha com panfletagens, sabatinas e diálogos com associações e comerciantes, abordando temas como déficit habitacional e infraestrutura."
+      "resumo": "Criador de conteúdo Lito Sousa deixa hospital e inicia cuidados paliativos em casa, com estrutura de internação montada em seu domicílio para manutenção dos cuidados necessários."
     },
     {
-      "titulo": "Terminal BRT Metropolitano passa a ter nova opção de embarque para São Paulo",
+      "titulo": "PRF detalha vazamento de ácido clorídrico na Serra das Araras, em Piraí ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/02/terminal-brt-metropolitano-passa-a-ter-nova-opcao-de-embarque-para-sao-paulo.ghtml",
-      "hora": "Wed, 02 Sep 2026 22:46:59 -0000",
-      "tema": "sp",
-      "resumo": "Terminal BRT Metropolitano no Rio passa a concentrar serviços de conexão metropolitana, BRT Transbrasil e ônibus urbanos municipais, oferecendo nova opção de embarque aos usuários."
-    },
-    {
-      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao governo do Tocantins nesta quarta-feira (2)",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-tocantins-nesta-quarta-feira-2.ghtml",
-      "hora": "Wed, 02 Sep 2026 22:46:22 -0000",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/03/prf-detalha-vazamento-de-acido-cloridrico-na-serra-das-araras-em-pirai.ghtml",
+      "hora": "Thu, 03 Sep 2026 13:51:44 -0000",
       "tema": "brasil",
-      "resumo": "Candidatos ao governo do Tocantins cumpriram agendas de campanha, com participação desigual entre os pré-candidatos nas atividades do dia."
+      "resumo": "Carreta tanque vazou ácido clorídrico na Serra das Araras em Piraí (RJ), causando interdição total da via e gerando risco ambiental na região."
     },
     {
-      "titulo": "PGR arquiva denúncia de Vorcaro sobre supostas ameaças que diz ter sofrido quando preso ",
+      "titulo": "Desmoronamento às margens da RJ-230 avança pela estrada em Bom Jesus do Itabapoana",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/02/pgr-arquiva-denuncia-de-vorcaro-sobre-ameacas-que-diz-ter-sofrido-quando-preso.ghtml",
-      "hora": "Wed, 02 Sep 2026 22:42:01 -0000",
+      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/09/03/desmoronamento-as-margens-da-rj-230-avanca-pela-estrada-em-bom-jesus-do-itabapoana.ghtml",
+      "hora": "Thu, 03 Sep 2026 13:50:42 -0000",
       "tema": "brasil",
-      "resumo": "A Procuradoria-Geral da República arquivou denúncias de Daniel Vorcaro sobre supostas ameaças sofridas durante sua prisão, conforme decisão tomada nesta quarta-feira."
+      "resumo": "Desmoronamento na RJ-230 em Bom Jesus do Itabapoana avança sobre a pista, criando risco para motoristas e preocupando moradores da região."
     },
     {
-      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao governo do Pará nesta quarta-feira, 02",
+      "titulo": "'El Niño de proporções gigantescas': o alerta da ONU para fenômeno que põe planeta em 'águas desconhecidas'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-para-nesta-quarta-feira-02.ghtml",
-      "hora": "Wed, 02 Sep 2026 22:40:38 -0000",
-      "tema": "brasil",
-      "resumo": "Candidatos ao governo do Pará realizaram atividades de campanha incluindo panfletagem, gravação de conteúdo para redes sociais, reuniões com moradores e entrevistas."
-    },
-    {
-      "titulo": "'O Rio pode mais': Sul Fluminense e Costa Verde vivem desafios nas áreas do saneamento básico, energia e turismo sustentável",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/02/o-rio-pode-mais-sul-fluminense-e-costa-verde-vivem-desafios-nas-areas-do-saneamento-basico-energia-e-turismo-sustentavel.ghtml",
-      "hora": "Wed, 02 Sep 2026 22:38:39 -0000",
+      "link": "https://g1.globo.com/meio-ambiente/noticia/2026/09/03/el-nino-de-proporcoes-gigantescas-o-alerta-da-onu-para-fenomeno-que-poe-planeta-em-aguas-desconhecidas.ghtml",
+      "hora": "Thu, 03 Sep 2026 13:50:29 -0000",
       "tema": "mundo",
-      "resumo": "Regiões do Sul Fluminense e Costa Verde enfrentam desafios em saneamento básico, energia e turismo sustentável, apesar das potencialidades turísticas da área."
+      "resumo": "ONU alerta para El Niño de grande magnitude que coloca o planeta em risco de eventos climáticos extremos, conforme comunicado do secretário-geral António Guterres."
     },
     {
-      "titulo": "Bicho-preguiça é visto nadando em rio durante passeio turístico no Amazonas; VÍDEO",
+      "titulo": "'Decisões de Moraes não devem ser reconhecidas pelo Estado', diz Renan Santos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/02/bicho-preguica-e-visto-nadando-em-rio-durante-passeio-turistico-no-amazonas-video.ghtml",
-      "hora": "Wed, 02 Sep 2026 22:38:36 -0000",
-      "tema": "cultura",
-      "resumo": "Vídeo registrado em junho mostra um bicho-preguiça nadando em um rio durante passeio turístico no Amazonas, cena inusitada que viralizou nas redes sociais."
-    },
-    {
-      "titulo": "Dr. Daniel promete iniciar a construção de 30 hospitais e 30 policlínicas em cem dias de governo, se for eleito no Pará",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/02/dr-daniel-promete-construir-30-hospitais-e-30-policlinicas-em-cem-dias-de-governo-se-for-eleito-no-para.ghtml",
-      "hora": "Wed, 02 Sep 2026 22:36:53 -0000",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/03/renan-santos-entrevista.ghtml",
+      "hora": "Thu, 03 Sep 2026 13:45:46 -0000",
       "tema": "brasil",
-      "resumo": "O candidato ao governo do Pará Dr. Daniel promete iniciar a construção de 30 hospitais e 30 policlínicas nos primeiros cem dias de governo, caso eleito."
+      "resumo": "Candidato presidencial Renan Santos defende que decisões do ministro Alexandre de Moraes não devem ser reconhecidas pelo Estado, em crítica ao STF."
     },
     {
-      "titulo": "STF faz primeira sessão após revelação de mensagens de Vorcaro para Moraes",
+      "titulo": "Ana Castela faz show gratuito durante ExpoJaru em RO; confira programação completa",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/ao-vivo/supremo-sessao-apos-mensagens-de-vorcaro-moraes.ghtml",
-      "hora": "Wed, 02 Sep 2026 22:33:56 -0000",
-      "tema": "brasil",
-      "resumo": "Supremo Tribunal Federal realizou primeira sessão após a revelação de mensagens de Vorcaro para o ministro Moraes, discutindo questões constitucionais sobre contribuição previdenciária."
+      "link": "https://g1.globo.com/ro/rondonia/noticia/2026/09/03/ana-castela-faz-show-gratuito-durante-expojaru-em-ro-confira-programacao-completa.ghtml",
+      "hora": "Thu, 03 Sep 2026 13:44:18 -0000",
+      "tema": "entretenimento",
+      "resumo": "Cantora Ana Castela realiza show gratuito em Jaru (RO) durante a ExpoJaru 2026, que segue com entrada livre até o dia 6 de setembro."
     },
     {
-      "titulo": "Debate para o Senado em Pernambuco; veja como foi",
+      "titulo": "Nvidia vai comprar plataforma de inteligência artificial Hugging Face por cerca de R$ 66 bilhões",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/ao-vivo/debate-para-senador-em-pernambuco.ghtml",
-      "hora": "Wed, 02 Sep 2026 22:32:57 -0000",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/03/nvidia-vai-comprar-plataforma-de-inteligencia-artificial-hugging-face-por-cerca-de-r-66-bilhoes.ghtml",
+      "hora": "Thu, 03 Sep 2026 13:44:00 -0000",
+      "tema": "mundo",
+      "resumo": "Nvidia anuncia compra da plataforma de inteligência artificial Hugging Face por cerca de 12,93 bilhões de dólares, consolidando sua atuação no setor de IA."
+    },
+    {
+      "titulo": "Projeto prevê a instalação de 12 quadras esportivas na faixa de areia em Ponta Negra",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/03/projeto-preve-a-instalacao-de-12-quadras-esportivas-na-faixa-de-areia-em-ponta-negra.ghtml",
+      "hora": "Thu, 03 Sep 2026 13:40:21 -0000",
       "tema": "brasil",
-      "resumo": "Debate reuniu seis candidatos ao Senado por Pernambuco, abordando diferentes perspectivas políticas sobre questões estaduais e nacionais."
+      "resumo": "Natal receberá 12 quadras esportivas na faixa de areia de Ponta Negra para práticas de vôlei de praia, futevôlei e beach tennis, conforme projeto da prefeitura."
+    },
+    {
+      "titulo": "Candidato ao Senado, Acir Gurgacz diz que sua condenação foi uma 'uma grande injustiça'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/03/candidato-ao-senado-acir-gurgacz-e-entrevistado-no-bom-dia-rondonia.ghtml",
+      "hora": "Thu, 03 Sep 2026 13:40:14 -0000",
+      "tema": "brasil",
+      "resumo": "Candidato ao Senado Federal Acir Gurgacz (PDT) contesta sua condenação de 2018 por crime contra o sistema financeiro, classificando-a como injustiça."
+    },
+    {
+      "titulo": "Cadela toureira: ‘Pretinha’ invade rodeio e enfrenta touro na arena; vídeo  ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/09/03/cadela-toureira-pretinha-invade-rodeio-e-enfrenta-touro-na-arena-video.ghtml",
+      "hora": "Thu, 03 Sep 2026 13:38:37 -0000",
+      "tema": "entretenimento",
+      "resumo": "Cadela invadiu arena de rodeio em Goiás e enfrentou touro em atitude inusitada, viralizando em vídeos nas redes sociais."
+    },
+    {
+      "titulo": "Polícia prende mais cinco suspeitos de invadir escola e roubar mais de R$ 400 mil em eletrônicos em Itapetininga",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/09/03/policia-prende-mais-cinco-suspeitos-de-invadir-escola-e-roubar-mais-de-r-400-mil-em-eletronicos-em-itapetininga.ghtml",
+      "hora": "Thu, 03 Sep 2026 13:35:14 -0000",
+      "tema": "sp",
+      "resumo": "Polícia Civil prende cinco suspeitos envolvidos em invasão a escola em Itapetininga e roubo de mais de R$ 400 mil em eletrônicos."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -93,7 +101,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival Bike Brasil acontece na Zona Sul de São Paulo com competições de manobras radicais e atividades para crianças, reunindo ciclistas profissionais e amadores."
+      "resumo": "Festival de bikes realizado na Zona Sul de São Paulo oferece competição de manobras radicais e atividades para crianças interessadas no universo das bicicletas."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -101,7 +109,7 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado pedalou 20 quilômetros e aguardou 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
+      "resumo": "Desempregado pedalou 20 km de Agudos até Bauru para concorrer a uma de 500 vagas de emprego oferecidas na região, permanecendo 12 horas na fila."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -109,7 +117,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "cultura",
-      "resumo": "Zé Ramalho apresentou sucessos da carreira e homenageou Raul Seixas na 39ª edição da Festa Junina de Sorocaba, apesar da temperatura baixa."
+      "resumo": "Cantor Zé Ramalho apresentou sucessos de sua carreira e interpretou canções de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
@@ -117,7 +125,7 @@
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "Polícia Rodoviária Federal apreendeu 927 quilos de maconha transportados em carreta que seguia para São Paulo, com confissão do motorista."
+      "resumo": "PRF apreende 927 kg de maconha em Mato Grosso do Sul que seria entregue em São Paulo; motorista confessou envolvimento no tráfico."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -125,7 +133,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí recebe terceira edição da Festa Junina Canina com entrada gratuita, brincadeiras e atividades voltadas para cães e gatos."
+      "resumo": "Jundiaí realiza 3ª edição da Festa Junina Canina com entrada gratuita, oferecendo brincadeiras e atividades para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -133,7 +141,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "Festival Maior Baile do Mundo em São Paulo com destaque para Anitta e outros MCs espera reunir 35 mil pessoas para dez horas de shows."
+      "resumo": "Maior Baile do Mundo, festival em São Paulo com Anitta e MCs entre os destaques, espera reunir 35 mil pessoas em 10 horas de shows."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -141,7 +149,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "PSTU oficializa a sindicalista Vera Lúcia como candidata à Presidência da República nas próximas eleições."
+      "resumo": "PSTU lança Vera Lúcia, militante sindical, como candidata à Presidência da República nas próximas eleições."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -149,7 +157,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "Feiccad, feira dedicada a imóvel, construção, condomínios, arquitetura e decoração, realiza sua 15ª edição em Jundiaí com entrada gratuita mediante credenciamento."
+      "resumo": "15ª edição da Feiccad (Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração) segue até domingo em Jundiaí com entrada gratuita mediante credenciamento."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -157,7 +165,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diversos cargos do Executivo municipal, com provas a serem realizadas na própria cidade."
+      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diversos cargos do Executivo municipal."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -165,7 +173,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Um homem que vivia em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças ao registro de um boletim de ocorrência que permitiu o rastreamento e contato."
+      "resumo": "Homem em situação de rua em Campinas reencontra a família após 37 anos de separação, graças a um boletim de ocorrência que permitiu o rastreamento."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -173,23 +181,23 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Um motorista de 75 anos morre em acidente de trânsito dias antes de seu filho ser ordenado bispo em Itapetininga, em colisão entre carro e caminhão em Capela do Alto."
+      "resumo": "Motorista de 75 anos morre em acidente de trânsito em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
     },
     {
-      "titulo": "Fim da escala 6x1 é aprovado em comissão e avança no Senado",
+      "titulo": "'É a maior crise do STF': Gonet deveria se afastar do caso Master e Moraes precisa ser investigado, afirma ex-PGR Claudio Fonteles",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjdv3rxze04o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 02 Sep 2026 20:21:31 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cx2zgjg308ko?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 03 Sep 2026 07:38:27 GMT",
       "tema": "brasil",
-      "resumo": "Uma comissão do Senado aprova projeto que encaminha para votação em plenário a proposta de fim da escala de trabalho 6x1, que já havia passado pela Câmara."
+      "resumo": "Ex-procurador-geral da República afirma que há crise sem precedentes no STF e que ministros envolvidos devem se afastar de processos relacionados à situação."
     },
     {
-      "titulo": "Pattaya, a 'cidade do pecado' onde 5 mil militares americanos desembarcaram após oito meses em alto mar",
+      "titulo": "Qual o caminho da 6x1 após proposta ser aprovada na CCJ do Senado?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwyzg259neno?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 02 Sep 2026 20:48:35 GMT",
-      "tema": "mundo",
-      "resumo": "O porta-aviões USS Abraham Lincoln, após 250 dias no mar, atracou em Pattaya, cidade litorânea na Tailândia conhecida por sua vida noturna e turismo."
+      "link": "https://www.bbc.com/portuguese/articles/cpver2p41ggo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 03 Sep 2026 13:58:38 GMT",
+      "tema": "brasil",
+      "resumo": "Projeto que propõe fim da escala 6x1 é aprovado na Comissão de Constituição e Justiça do Senado e segue para votação no plenário."
     },
     {
       "titulo": "Número usado como contato de Moraes aparece ligado a contas digitais no TikTok e aplicativos de celular",
@@ -197,23 +205,47 @@
       "link": "https://www.bbc.com/portuguese/articles/c4gqm6vqd33o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 02 Sep 2026 19:39:04 GMT",
       "tema": "brasil",
-      "resumo": "Investigação da BBC identifica que um número atribuído ao ministro Alexandre de Moraes em relatório da PF está vinculado a perfis no TikTok e aplicativos de celular."
+      "resumo": "Investigação aponta que número de telefone atribuído a ministro do STF aparece vinculado a perfis em rede social e aplicativos de celular."
     },
     {
-      "titulo": "STF deve blindar Moraes de investigação, diz especialista: 'Não vi ministros do Supremo perderem nada em qualquer cenário'",
+      "titulo": "'El Niño de proporções gigantescas': o alerta da ONU para fenômeno que põe planeta em 'águas desconhecidas'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c7708nnn3g3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 02 Sep 2026 16:37:26 GMT",
-      "tema": "brasil",
-      "resumo": "Especialista em Direito analisa que o corporativismo do STF tende a impedir avanços na investigação sobre o ministro Alexandre de Moraes e o caso envolvendo mensagens com banqueiro."
+      "link": "https://www.bbc.com/portuguese/articles/cm2q5nl0pg3o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 03 Sep 2026 13:41:04 GMT",
+      "tema": "mundo",
+      "resumo": "Organização Meteorológica Mundial alerta que fenômeno El Niño em desenvolvimento pode ser o mais intenso em mais de 70 anos e prolongar-se até fevereiro de 2027."
     },
     {
-      "titulo": "Caso Moraes-Vorcaro dá gás à direita na disputa do Senado e desinfla 'pauta positiva de Lula', diz analista",
+      "titulo": "Vídeo mostra mãe e filha serem detidas pelo ICE em hospital após sofrerem acidente nos Estados Unidos",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cgl70yzxykko?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 02 Sep 2026 13:53:05 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c158v350n89o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 03 Sep 2026 11:42:26 GMT",
+      "tema": "mundo",
+      "resumo": "Mãe e filha imigrantes são detidas pela agência de imigração americana enquanto recebem atendimento hospitalar após sofrerem acidente de trânsito."
+    },
+    {
+      "titulo": "'Compartilhamos a casa com uma família de ursos que toma banho vários dias por semana na nossa piscina'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c93enjwy7d5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 03 Sep 2026 09:11:10 GMT",
+      "tema": "mundo",
+      "resumo": "Casal em Los Angeles convive regularmente com família de ursos-negros que usam sua piscina para banho e relaxamento."
+    },
+    {
+      "titulo": "Caso Vorcaro-Moraes pode alimentar onda antipolítica e favorecer Cury e Renan Santos nas eleições 2026, diz cientista política",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cn5d2grd55zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 03 Sep 2026 11:33:34 GMT",
       "tema": "brasil",
-      "resumo": "Analista político aponta que o caso Moraes-Vorcaro beneficia candidatos da direita na disputa do Senado e enfraquece a agenda positiva do governo Lula."
+      "resumo": "Cientista política analisa que crise envolvendo ministro do STF pode alimentar descontentamento político e influenciar disputas eleitorais de 2026."
+    },
+    {
+      "titulo": "Fim da escala 6x1 é aprovado em comissão e avança no Senado",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cjdv3rxze04o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 03 Sep 2026 00:34:12 GMT",
+      "tema": "brasil",
+      "resumo": "Comissão do Senado aprova projeto que encerra a escala 6x1 de trabalho, que agora será votado em plenário em dois turnos."
     },
     {
       "titulo": "Moraes x Mendonça: os bastidores da 'guerra civil' entre ministros do STF",
@@ -221,7 +253,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 02 Sep 2026 09:30:50 GMT",
       "tema": "brasil",
-      "resumo": "A decisão do ministro André Mendonça de retirar sigilo de relatório da PF expõe rivalidade que vinha ocorrendo de forma discreta entre ministros do STF, especialmente com Alexandre de Moraes."
+      "resumo": "Exposição de mensagens envolvendo ministros do STF revela rivalidade de longa data entre integrantes da corte suprema."
+    },
+    {
+      "titulo": "Pattaya, a 'cidade do pecado' onde 5 mil militares americanos desembarcaram após oito meses em alto mar",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwyzg259neno?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 02 Sep 2026 20:48:35 GMT",
+      "tema": "mundo",
+      "resumo": "Porta-aviões americano com 5 mil militares atracou na Tailândia após 250 dias de operação no mar."
     },
     {
       "titulo": "Por que caso Moraes é crise 'sem precedentes' no STF  — e o que pode acontecer agora com o ministro",
@@ -229,7 +269,15 @@
       "link": "https://www.bbc.com/portuguese/articles/czrznl6kzmno?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 02 Sep 2026 13:39:32 GMT",
       "tema": "brasil",
-      "resumo": "Juristas consideram o caso envolvendo mensagens entre o ministro Alexandre de Moraes e o banqueiro Daniel Vorcaro como uma crise sem precedentes no Supremo Tribunal Federal, que requer investigação."
+      "resumo": "Juristas apontam que interações entre ministro do STF e banqueiro reveladas em investigação constituem situação grave que requer apuração adequada."
+    },
+    {
+      "titulo": "Caso Moraes-Vorcaro dá gás à direita na disputa do Senado e desinfla 'pauta positiva de Lula', diz analista",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cgl70yzxykko?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 02 Sep 2026 13:53:05 GMT",
+      "tema": "brasil",
+      "resumo": "Analista político avalia que crise institucional favorece candidatos da direita nas eleições de senador e dificulta agenda do governo."
     },
     {
       "titulo": "André Mendonça admite encontro com Daniel Vorcaro, após vazamento de áudios: 'Uma única vez'",
@@ -237,47 +285,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cvgy5jrreyeo?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 02 Sep 2026 14:11:11 GMT",
       "tema": "brasil",
-      "resumo": "O ministro André Mendonça reconhece que se encontrou com o banqueiro Daniel Vorcaro uma única vez, a pedido do próprio banqueiro, e afirma ter apenas ouvido seu relato."
-    },
-    {
-      "titulo": "Augusto Cury chega a 3º lugar: quem está à frente na intenção de voto para presidente no Agregador de Pesquisas da BBC",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 02 Sep 2026 11:13:16 GMT",
-      "tema": "brasil",
-      "resumo": "Agregador de pesquisas eleitorais da BBC divulga estimativas atualizadas de intenção de voto para a disputa presidencial de 2026, com Augusto Cury alcançando terceiro lugar."
-    },
-    {
-      "titulo": "Como é o projeto de trabalho flexível apoiado por Flávio Bolsonaro que vai na contramão da PEC do fim da 6x1",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c36l0k403wzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 02 Sep 2026 07:52:10 GMT",
-      "tema": "brasil",
-      "resumo": "Parlamentar apresenta projeto alternativo de trabalho flexível que permite ao trabalhador definir sua jornada, gerando debate sobre se beneficia ou prejudica os direitos trabalhistas."
-    },
-    {
-      "titulo": "'Bomba atômica' e 'terremoto político': o que imprensa internacional disse sobre mensagens entre Vorcaro e Moraes",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cd79eygy3zjo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 02 Sep 2026 08:16:58 GMT",
-      "tema": "brasil",
-      "resumo": "A imprensa internacional descreve o caso das mensagens entre o banqueiro Daniel Vorcaro e o número atribuído ao ministro Alexandre de Moraes como evento político de grande magnitude."
-    },
-    {
-      "titulo": "As reações no mundo político e jurídico aos diálogos entre Alexandre de Moraes e Daniel Vorcaro",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c70lwzn8p5go?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 02 Sep 2026 10:16:28 GMT",
-      "tema": "brasil",
-      "resumo": "Candidatos presidenciais e parlamentares reagem à divulgação de diálogos entre o ministro Alexandre de Moraes e o banqueiro Daniel Vorcaro, com posicionamentos diversos no espectro político."
-    },
-    {
-      "titulo": "Como PF recuperou prints apagados de Vorcaro e identificou contato atribuído a ministro Alexandre de Moraes",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c99dnrkvnr1o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 01 Sep 2026 22:04:39 GMT",
-      "tema": "brasil",
-      "resumo": "A Polícia Federal recupera capturas de tela apagadas do celular do banqueiro Daniel Vorcaro e identifica o contato atribuído ao ministro Alexandre de Moraes através de análise técnica combinada."
+      "resumo": "Ministro do STF confirma que se encontrou uma única vez com banqueiro, afirmando ter apenas ouvido suas colocações."
     }
   ]
 }
