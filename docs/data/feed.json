@@ -1,83 +1,59 @@
 {
-  "gerado_em": "2026-09-03T18:20:56.647Z",
+  "gerado_em": "2026-09-03T23:00:27.644Z",
   "modo": "ia",
   "clima": {
-    "max": 25.4,
+    "max": 25.6,
     "min": 11.9,
     "chuva": 0
   },
   "noticias": [
     {
-      "titulo": "Biblioteca itinerante em motorhome leva histórias e atividades gratuitas a Rio Bonito e Maricá",
+      "titulo": "\nEmpresário que fez repasses para Dark Horse disse em delação que 'gerava' dinheiro vivo para Vorcaro e entregava em malas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/09/03/biblioteca-itinerante-em-motorhome-leva-historias-e-atividades-gratuitas-a-rio-bonito-e-marica.ghtml",
-      "hora": "Thu, 03 Sep 2026 18:09:19 -0000",
-      "tema": "sp",
-      "resumo": "Projeto de biblioteca itinerante em motorhome leva atividades culturais e contação de histórias gratuitas para municípios da Região Metropolitana do Rio em setembro."
-    },
-    {
-      "titulo": "Empresas são condenadas a pagar R$ 3 mil após manterem cobrança não reconhecida em cartão de crédito",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/03/empresas-sao-condenadas-a-pagar-r-3-mil-apos-manterem-cobranca-nao-reconhecida-em-cartao-de-credito.ghtml",
-      "hora": "Thu, 03 Sep 2026 18:06:34 -0000",
+      "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/03/empresario-que-fez-repasses-para-dark-horse-disse-em-delacao-que-gerava-dinheiro-vivo-para-vorcaro-e-entregava-em-malas.ghtml",
+      "hora": "Thu, 03 Sep 2026 22:50:56 -0000",
       "tema": "brasil",
-      "resumo": "Instituição financeira e plataforma de e-commerce são condenadas a pagar indenização por danos morais após manter cobrança não autorizada em cartão de crédito."
+      "resumo": "Empresário que repassava recursos para o extinto Banco Master informou em delação premiada que gerava dinheiro em espécie para o dono da instituição e realizava entregas em malas, conforme investigação da Procuradoria-Geral da República."
     },
     {
-      "titulo": "Obra de reconstrução da ponte do Estreito dos Mosquitos terá início no dia 10; tráfego será restrito no feriado ",
+      "titulo": "Trump anuncia secretário interino do Exército dos EUA",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/09/03/obra-de-reconstrucao-da-ponte-do-estreito-dos-mosquitos-tera-inicio-no-dia-10-trafego-sera-restrito-no-feriado.ghtml",
-      "hora": "Thu, 03 Sep 2026 18:05:12 -0000",
-      "tema": "brasil",
-      "resumo": "Reconstrução da Ponte do Estreito dos Mosquitos, que liga São Luís ao continente, terá início em 10 de setembro com restrição ao tráfego."
-    },
-    {
-      "titulo": "Prisões de imigrantes nos EUA bateram novo recorde em agosto, diz governo Trump ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/03/prisoes-de-imigrantes-nos-eua-bateram-novo-recorde-em-agosto-diz-governo-trump.ghtml",
-      "hora": "Thu, 03 Sep 2026 18:01:21 -0000",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/03/trump-anuncia-novo-secretario-do-exercito-dos-eua.ghtml",
+      "hora": "Thu, 03 Sep 2026 22:50:52 -0000",
       "tema": "mundo",
-      "resumo": "Prisões de imigrantes nos EUA atingiram novo recorde em agosto sob a administração Trump, segundo dados governamentais."
+      "resumo": "O presidente Trump nomeou Adam Telle para o cargo de secretário interino do Exército dos Estados Unidos, que anteriormente era secretário assistente para obras civis."
     },
     {
-      "titulo": "OpenAI lança primeiro modelo de IA após ataque 'sem precedentes' por seus sistemas",
+      "titulo": "Remanejamento de R$ 239 mil da saúde para Festa do Peão gera polêmica em Nova Resende, MG",
       "fonte": "G1",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/03/openai-gpt-6-astra-modelo-inteligencia-artificial.ghtml",
-      "hora": "Thu, 03 Sep 2026 18:00:58 -0000",
+      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/03/remanejamento-de-r-239-mil-da-saude-para-festa-do-peao-gera-polemica-em-nova-resende-mg.ghtml",
+      "hora": "Thu, 03 Sep 2026 22:49:41 -0000",
       "tema": "brasil",
-      "resumo": "OpenAI anuncia lançamento do GPT-6 Astra, novo modelo de inteligência artificial com maior cautela na execução de instruções."
+      "resumo": "A Prefeitura de Nova Resende, em Minas Gerais, remanejou 239 mil reais do orçamento da saúde para a Festa do Peão, decisão que gerou divisão de opiniões entre moradores."
     },
     {
-      "titulo": "Candidatos ao Senado apresentam propostas para reduzir violência em Pernambuco; VÍDEOS",
+      "titulo": "Justiça anula processo seletivo para contratação temporária de professores em Taubaté",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/03/candidatos-ao-senado-apresentam-propostas-para-reduzir-violencia-em-pernambuco-videos.ghtml",
-      "hora": "Thu, 03 Sep 2026 17:57:02 -0000",
-      "tema": "brasil",
-      "resumo": "Candidatos ao Senado por Pernambuco apresentam propostas para reduzir a violência no estado, em série especial de entrevistas."
-    },
-    {
-      "titulo": "Patrus Ananias promete concluir hospitais, investir na educação e combater o crime organizado em Minas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/vales-mg/eleicoes/2026/noticia/2026/09/03/patrus-ananias-promete-concluir-hospitais-investir-na-educacao-e-combater-o-crime-organizado-em-minas.ghtml",
-      "hora": "Thu, 03 Sep 2026 17:52:30 -0000",
-      "tema": "brasil",
-      "resumo": "Candidato ao governo de Minas Gerais promete conclusão de hospitais, investimento em educação e combate ao crime organizado."
-    },
-    {
-      "titulo": "Candidata ao governo de SP, Vera Lúcia propõe 'desmilitarizar' a polícia para punir criminosos 'a partir do topo'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/09/03/vera-lucia-propoe-desmilitarizar-policia-punir-criminosos-partir-topo.ghtml",
-      "hora": "Thu, 03 Sep 2026 17:51:54 -0000",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/03/justica-anula-processo-seletivo-para-contratacao-temporaria-de-professores-em-taubate.ghtml",
+      "hora": "Thu, 03 Sep 2026 22:49:21 -0000",
       "tema": "sp",
-      "resumo": "Candidata ao governo de São Paulo propõe desmilitarização da polícia como estratégia para combater organizações criminosas no estado."
+      "resumo": "A Justiça de Taubaté anulou a contratação de instituto terceirizado e o processo seletivo simplificado realizado pela prefeitura para contratação temporária de professores da rede municipal."
     },
     {
-      "titulo": "De ida ao vestiário a comemoração de gol: Hugo, da dupla com Guilherme, vai a jogo que garantiu acesso à Série C; vídeo ",
+      "titulo": "Congresso aprova financiamento do Redata e facilita emendas para cidades que não cumprem regra fiscal ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/09/03/de-ida-ao-vestiario-a-comemoracao-de-gol-hugo-da-dupla-com-guilherme-vai-a-jogo-que-garantiu-acesso-a-serie-c-video.ghtml",
-      "hora": "Thu, 03 Sep 2026 17:46:05 -0000",
-      "tema": "entretenimento",
-      "resumo": "Hugo, da dupla Hugo e Guilherme, acompanha jogo que garantiu o acesso do time Goiatuba à Série C do Campeonato Brasileiro."
+      "link": "https://g1.globo.com/politica/noticia/2026/09/03/congresso-aprova-financiamento-do-redata-e-facilita-emendas-para-cidades-que-nao-cumprem-regra-fiscal.ghtml",
+      "hora": "Thu, 03 Sep 2026 22:48:03 -0000",
+      "tema": "brasil",
+      "resumo": "O Congresso Nacional aprovou projeto para financiar o Redata, programa governamental de implementação de datacenters no Brasil, mas incluiu dispositivo que flexibiliza exigências fiscais para municípios com dificuldades orçamentárias."
+    },
+    {
+      "titulo": "Superlotação deixa pacientes em corredores no Complexo Hospitalar Sul; pai pode perder o pé e mulher esperou dois dias para remover feto",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/03/superlotacao-deixa-pacientes-em-corredores-no-complexo-hospitalar-sul-pai-pode-perder-o-pe-e-mulher-esperou-dois-dias-para-remover-feto.ghtml",
+      "hora": "Thu, 03 Sep 2026 22:47:47 -0000",
+      "tema": "brasil",
+      "resumo": "O Complexo Hospitalar Sul em Manaus enfrenta superlotação crítica, com relatos de pacientes em corredores, incluindo casos de atendimento atrasado e risco de amputação por falta de leitos."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -85,7 +61,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival de bicicletas na Zona Sul de São Paulo reúne competições de manobras e atividades para toda a família."
+      "resumo": "Festival de bicicletas acontece neste domingo na Zona Sul de São Paulo, reunindo ciclistas profissionais e amadores para competições de manobras e atividades para o público em geral."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -93,15 +69,23 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado percorre 20 km de bicicleta e passa 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
+      "resumo": "Desempregado pedalou 20 quilômetros e aguardou 12 horas em fila em Bauru para concorrer a uma das 500 vagas de emprego oferecidas, demonstrando a procura por oportunidades de trabalho na região."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "cultura",
-      "resumo": "Zé Ramalho apresenta sucessos da carreira e canções de Raul Seixas na Festa Junina de Sorocaba."
+      "tema": "sp",
+      "resumo": "O cantor Zé Ramalho apresentou sucessos de sua carreira e interpretou músicas de Raul Seixas na 39ª edição da Festa Junina de Sorocaba, na região interior do estado."
+    },
+    {
+      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
+      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
+      "tema": "sp",
+      "resumo": "A Polícia Rodoviária Federal apreendeu 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo; motorista da carreta confessou o tráfico."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -109,7 +93,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Terceira edição da Festa Junina Canina em Jundiaí oferece entrada gratuita com brincadeiras e atividades para cães e gatos."
+      "resumo": "Jundiaí realiza a terceira edição da Festa Junina Canina com entrada gratuita, oferecendo brincadeiras e atividades voltadas para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -117,7 +101,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "Festival Maior Baile do Mundo em São Paulo reúne 35 mil pessoas para dez horas de shows com Anitta e outros artistas."
+      "resumo": "O festival Maior Baile do Mundo, com Anitta e diversos MCs, acontece neste domingo em São Paulo e espera reunir 35 mil pessoas para dez horas de apresentações."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -125,7 +109,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "PSTU oficializa Vera Lúcia, militante sindical, como candidata à Presidência da República."
+      "resumo": "O PSTU oficializou a sindicalista Vera Lúcia como candidata à Presidência da República nas próximas eleições."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -133,7 +117,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "Décima quinta edição da Feira de Imóvel, Construção e Decoração (Feiccad) ocorre em Jundiaí com entrada gratuita mediante credenciamento."
+      "resumo": "A 15ª edição da Feiccad, feira focada em imóveis, construção e decoração, prossegue até domingo em Jundiaí com entrada gratuita mediante credenciamento prévio."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -141,7 +125,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diversos cargos da administração municipal."
+      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diversos cargos do Executivo municipal."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -149,7 +133,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra a família após 37 anos de afastamento, graças a informações de um boletim de ocorrência."
+      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência que permitiu o encontro."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -157,39 +141,47 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Motorista de 75 anos, pai de monsenhor que será ordenado bispo em Itapetininga, morre em acidente de trânsito em Capela do Alto."
+      "resumo": "Motorista de 75 anos morre em acidente entre carro e caminhão em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
+    },
+    {
+      "titulo": "Como instituto de André Mendonça conseguiu R$ 10,7 milhões em dois anos com contratos públicos",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c1j4xxn88d5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 03 Sep 2026 22:09:54 GMT",
+      "tema": "brasil",
+      "resumo": "Instituto ligado ao ministro André Mendonça recebeu R$ 10,7 milhões em contratos públicos nos últimos dois anos, segundo investigação."
     },
     {
       "titulo": "Por que é tão raro o impeachment de juízes das Supremas Cortes no mundo",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cpd0e98yvpwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 03 Sep 2026 16:58:55 GMT",
-      "tema": "brasil",
-      "resumo": "Análise sobre a raridade de impeachment de ministros em Supremas Cortes ao redor do mundo, incluindo o Brasil, que nunca teve esse caso."
+      "hora": "Thu, 03 Sep 2026 21:08:08 GMT",
+      "tema": "mundo",
+      "resumo": "Análise sobre a raridade histórica de impeachments contra juízes de Supremas Cortes: no Brasil nunca houve, e nos EUA apenas um processo em 1804."
     },
     {
-      "titulo": "'É a maior crise do STF': Gonet deveria se afastar do caso Master e Moraes precisa ser investigado, afirma ex-PGR Claudio Fonteles",
+      "titulo": "Nikolas Ferreira admite ter pedido ajuda a Vorcaro mas diz que não recebeu 'nenhum tostão' do banqueiro",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cx2zgjg308ko?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 03 Sep 2026 07:38:27 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cx2zvgr7pr1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 03 Sep 2026 19:16:46 GMT",
       "tema": "brasil",
-      "resumo": "Ex-procurador-geral da República avalia que há crise institucional no STF e critica ações de ministros envolvidos em questões relacionadas a relatório da PF."
+      "resumo": "Deputado Nikolas Ferreira admite ter pedido ajuda ao banqueiro Vorcaro para destravar ativos, mas nega ter recebido valores financeiros."
     },
     {
-      "titulo": "Qual o caminho da 6x1 após proposta ser aprovada na CCJ do Senado?",
+      "titulo": "Morre aos 33 anos Carla Jeffery, 'linda e vibrante' estrela da Disney",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cpver2p41ggo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 03 Sep 2026 14:12:55 GMT",
-      "tema": "brasil",
-      "resumo": "Projeto que busca eliminar a escala 6x1 é aprovado na Comissão de Constituição e Justiça do Senado e segue para votação no plenário."
+      "link": "https://www.bbc.com/portuguese/articles/cz0z1930er9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 03 Sep 2026 22:43:13 GMT",
+      "tema": "entretenimento",
+      "resumo": "Atriz Carla Jeffery, conhecida por papéis em produções do Disney Channel, morre aos 33 anos."
     },
     {
       "titulo": "Gloria Steinem, um ícone do feminismo americano que se infiltrou na Playboy para denunciar as condições de trabalho das mulheres",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c5yjre413e4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 03 Sep 2026 17:30:32 GMT",
+      "hora": "Thu, 03 Sep 2026 19:22:30 GMT",
       "tema": "cultura",
-      "resumo": "Gloria Steinem, ícone do movimento feminista americano que se infiltrou na revista Playboy para denunciar más condições de trabalho, falece aos 92 anos."
+      "resumo": "Gloria Steinem, ícone do movimento feminista americano que se infiltrou na Playboy para denunciar exploração de mulheres, morre aos 92 anos."
     },
     {
       "titulo": "'El Niño de proporções gigantescas': o alerta da ONU para fenômeno que põe planeta em 'águas desconhecidas'",
@@ -197,15 +189,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cm2q5nl0pg3o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 03 Sep 2026 13:41:04 GMT",
       "tema": "mundo",
-      "resumo": "Organização Meteorológica Mundial alerta que fenômeno El Niño em curso pode ser o mais intenso em mais de 70 anos, com duração até fevereiro de 2027."
-    },
-    {
-      "titulo": "'Compartilhamos a casa com uma família de ursos que toma banho vários dias por semana na nossa piscina'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c93enjwy7d5o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 03 Sep 2026 09:11:10 GMT",
-      "tema": "entretenimento",
-      "resumo": "Casal em Los Angeles convive regularmente com uma família de ursos-negros que usam sua piscina para se refrescar e compartilha vídeos dos visitantes."
+      "resumo": "Organização Meteorológica Mundial alerta que El Niño atual pode ser o mais intenso em mais de 70 anos, com possível duração até fevereiro de 2027."
     },
     {
       "titulo": "Fim da escala 6x1 é aprovado em comissão e avança no Senado",
@@ -213,23 +197,23 @@
       "link": "https://www.bbc.com/portuguese/articles/cjdv3rxze04o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 03 Sep 2026 00:34:12 GMT",
       "tema": "brasil",
-      "resumo": "Projeto que visa acabar com a escala 6x1 é aprovado na Comissão de Constituição e Justiça e avança para votação no plenário do Senado."
+      "resumo": "Comissão do Senado aprova projeto que encaminha fim da escala 6x1 para votação em plenário em dois turnos, ainda sem data marcada."
     },
     {
-      "titulo": "Após Quaest, Cury se firma em 3º lugar e Lula e Flávio aparecem empatados no 2º turno: como está a intenção de voto para presidente no Agregador de Pesquisas da BBC",
+      "titulo": "Lula e Flávio aparecem empatados no 2º turno: a corrida para presidente no Agregador de Pesquisas da BBC",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 03 Sep 2026 08:40:04 GMT",
+      "hora": "Thu, 03 Sep 2026 22:43:31 GMT",
       "tema": "brasil",
-      "resumo": "Agregador de pesquisas eleitorais da BBC acompanha as estimativas mais recentes de intenção de voto para a eleição presidencial de 2026."
+      "resumo": "Agregador de pesquisas eleitorais da BBC mostra Lula e Flávio empatados em projeção para segundo turno na eleição presidencial de 2026."
     },
     {
-      "titulo": "Moraes x Mendonça: os bastidores da 'guerra civil' entre ministros do STF",
+      "titulo": "'É a maior crise do STF': Gonet deveria se afastar do caso Master e Moraes precisa ser investigado, afirma ex-PGR Claudio Fonteles",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 02 Sep 2026 09:30:50 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cx2zgjg308ko?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 03 Sep 2026 07:38:27 GMT",
       "tema": "brasil",
-      "resumo": "Análise sobre a rivalidade entre ministros do STF exposta por decisão de um deles de retirar sigilo de relatório da PF envolvendo o outro."
+      "resumo": "Ex-procurador-geral da República critica atuação do procurador-geral atual e ministro do STF em caso envolvendo investigações, descrevendo situação como crise institucional."
     },
     {
       "titulo": "Número usado como contato de Moraes aparece ligado a contas digitais no TikTok e aplicativos de celular",
@@ -237,15 +221,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c4gqm6vqd33o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 02 Sep 2026 19:39:04 GMT",
       "tema": "brasil",
-      "resumo": "Investigação da BBC identifica número atribuído a ministro do STF vinculado a contas digitais em redes sociais e aplicativos, conforme relatório da PF."
+      "resumo": "Número de contato atribuído a ministro do STF aparece vinculado a perfis em redes sociais e aplicativos, segundo relatório investigativo."
     },
     {
-      "titulo": "Pattaya, a 'cidade do pecado' onde 5 mil militares americanos desembarcaram após oito meses em alto mar",
+      "titulo": "Pattaya, a 'cidade do pecado' da Tailândia onde milhares de militares americanos desembarcaram após 8 meses em alto mar",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cwyzg259neno?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 02 Sep 2026 20:48:35 GMT",
       "tema": "mundo",
-      "resumo": "Navio militar americano USS Abraham Lincoln atracou na cidade tailandesa de Pattaya após 250 dias em missão no mar, trazendo 5 mil militares."
+      "resumo": "Porta-aviões americana USS Abraham Lincoln atraca em Pattaya, Tailândia, após oito meses navegando, permitindo que tripulação desembarque na conhecida cidade turística."
     },
     {
       "titulo": "Por que caso Moraes é crise 'sem precedentes' no STF  — e o que pode acontecer agora com o ministro",
@@ -253,15 +237,7 @@
       "link": "https://www.bbc.com/portuguese/articles/czrznl6kzmno?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 02 Sep 2026 13:39:32 GMT",
       "tema": "brasil",
-      "resumo": "Criminalistas avaliam que interações entre ministro do STF e banqueiro, conforme mensagens extraídas de aparelho celular, constituem grave questão a ser apurada."
-    },
-    {
-      "titulo": "Caso Moraes-Vorcaro dá gás à direita na disputa do Senado e desinfla 'pauta positiva de Lula', diz analista",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cgl70yzxykko?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 02 Sep 2026 13:53:05 GMT",
-      "tema": "brasil",
-      "resumo": "Analista avalia que recente crise institucional tem efeito negativo para governo e positivo para candidatos da direita que defendem impeachment de ministros do STF nas eleições de 2026."
+      "resumo": "Análise sobre grave crise institucional no STF envolvendo ministro em questão, com juristas apontando necessidade de investigação aprofundada sobre interações questionáveis documentadas."
     }
   ]
 }
