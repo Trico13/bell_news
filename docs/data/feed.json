@@ -1,83 +1,83 @@
 {
-  "gerado_em": "2026-09-04T14:00:49.035Z",
+  "gerado_em": "2026-09-04T18:06:36.603Z",
   "modo": "ia",
   "clima": {
     "max": 27.7,
     "min": 16.4,
-    "chuva": 75
+    "chuva": 81
   },
   "noticias": [
     {
-      "titulo": "Feriado da Independência: veja o que abre e fecha em Natal no dia 7 de setembro",
+      "titulo": "Pescadores do RN afetados por derramamento de óleo em 2019 podem aderir a ação por indenização; saiba como",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/04/feriado-independencia-abre-fecha-natal-7-setembro.ghtml",
-      "hora": "Fri, 04 Sep 2026 13:48:06 -0000",
-      "tema": "sp",
-      "resumo": "Comércio de Natal funciona em horário especial no feriado de 7 de setembro, incluindo alterações no funcionamento de shoppings e estabelecimentos."
-    },
-    {
-      "titulo": "Carro bate em carreta e trava faixa do Anel Viário em Valinhos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/09/04/carro-bate-em-carreta-e-trava-faixa-do-anel-viario-em-valinhos.ghtml",
-      "hora": "Fri, 04 Sep 2026 13:44:14 -0000",
-      "tema": "sp",
-      "resumo": "Acidente entre carro e carreta interdita faixa do Anel Viário em Valinhos na manhã de sexta-feira."
-    },
-    {
-      "titulo": "7 de Setembro: confira programação dos desfiles cívicos na região de Feira de Santana ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/09/04/7-de-setembro-confira-programacao-na-bahia.ghtml",
-      "hora": "Fri, 04 Sep 2026 13:44:03 -0000",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/04/pescadores-do-rn-afetados-por-derramamento-de-oleo-em-2019-podem-aderir-a-acao-por-indenizacao-saiba-como.ghtml",
+      "hora": "Fri, 04 Sep 2026 17:53:17 -0000",
       "tema": "brasil",
-      "resumo": "Cidades da região de Feira de Santana promovem programações para celebrar os 204 anos do Dia da Independência do Brasil."
+      "resumo": "Pescadores do Rio Grande do Norte afetados pelo derramamento de óleo de 2019 poderão participar de ação coletiva internacional para buscar indenizações, com atendimento presencial gratuito oferecido em setembro."
     },
     {
-      "titulo": "Parada LGBT+ Bahia reúne 13 trios com apresentações musicais e performances drags no domingo",
+      "titulo": "Candidatos ao Senado em Mato Grosso do Sul participam de debate no g1",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/04/parada-lgbt-bahia.ghtml",
-      "hora": "Fri, 04 Sep 2026 13:41:56 -0000",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/ao-vivo/g1-debate-candidatos-senado-mato-grosso-do-sul.ghtml",
+      "hora": "Fri, 04 Sep 2026 17:52:44 -0000",
+      "tema": "brasil",
+      "resumo": "Candidatos ao Senado em Mato Grosso do Sul participam de debate com enfoque nas propostas para o estado, com presença de candidatos de diferentes partidos."
+    },
+    {
+      "titulo": "O que é a 'economia prateada' e como o crescimento da população com mais de 50 anos em Campinas tem mudado o mercado",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/04/economia-prateada-crescimento-populacao-campinas-mudado-mercado.ghtml",
+      "hora": "Fri, 04 Sep 2026 17:51:51 -0000",
+      "tema": "sp",
+      "resumo": "Campinas experiencia crescimento da população acima de 50 anos, impulsionando a chamada economia prateada, que compreende produtos e serviços direcionados a esse público."
+    },
+    {
+      "titulo": "BR-163 terá obras de modernização para ampliar segurança e fluidez",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pr/parana/especial-publicitario/via-campo-via-campo-conectando-caminhos/noticia/2026/09/04/br-163-tera-obras-de-modernizacao-para-ampliar-seguranca-e-fluidez.ghtml",
+      "hora": "Fri, 04 Sep 2026 17:50:01 -0000",
+      "tema": "brasil",
+      "resumo": "A BR-163 passará por obras de modernização para aumentar segurança e fluidez do trânsito, com investimentos em recuperação, sinalização e infraestrutura."
+    },
+    {
+      "titulo": "Gato é resgatado com balde após cair em poço de 12 metros em MT",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/04/gato-e-resgatado-com-balde-apos-cair-em-poco-de-12-metros-em-mt.ghtml",
+      "hora": "Fri, 04 Sep 2026 17:49:29 -0000",
+      "tema": "brasil",
+      "resumo": "Um gato foi resgatado com sucesso após cair em um poço de 12 metros de profundidade em Mato Grosso, com auxílio do Corpo de Bombeiros."
+    },
+    {
+      "titulo": "SIGA: portões abertos para o 1º dia de Rock in Rio",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml",
+      "hora": "Fri, 04 Sep 2026 17:44:39 -0000",
       "tema": "cultura",
-      "resumo": "A 23ª Parada do Orgulho LGBT+ da Bahia reúne 13 trios elétricos com apresentações musicais e performances em Salvador no domingo."
+      "resumo": "O Rock in Rio começa com portões abertos para o primeiro dia de festival, com apresentações de bandas internacionais e nacionais."
     },
     {
-      "titulo": "Avenida Principal do Dirceu será interditada para desfile cívico da Independência nesta sexta (4), em Teresina",
+      "titulo": "Veja o que abre e fecha no feriado de independência e do aniversário em São Luís",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/09/04/desfile-dirceu-teresina.ghtml",
-      "hora": "Fri, 04 Sep 2026 13:40:18 -0000",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/09/04/veja-o-que-abre-e-fecha-no-feriado-de-independencia-e-do-aniversario-em-sao-luis.ghtml",
+      "hora": "Fri, 04 Sep 2026 17:41:27 -0000",
       "tema": "brasil",
-      "resumo": "Avenida Principal do Dirceu em Teresina será interditada para desfile cívico em comemoração à Independência do Brasil."
+      "resumo": "O feriado prolongado de 7 e 8 de setembro em São Luís altera os horários de funcionamento de repartições públicas, bancos e comércios."
     },
     {
-      "titulo": "Conveniência e lava-jato são fechados após denúncias de tráfico de drogas em Campo Grande",
+      "titulo": "Festival de Corais de Catanduva reúne regentes do Brasil e concerto de 300 vozes",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/04/conveniencia-e-lava-jato-sao-fechados-apos-denuncias-de-trafico-de-drogas-em-campo-grande.ghtml",
-      "hora": "Fri, 04 Sep 2026 13:38:55 -0000",
-      "tema": "brasil",
-      "resumo": "Polícia Civil e Procon fecham conveniência e lava-jato em Campo Grande após denúncias de envolvimento com tráfico de drogas."
-    },
-    {
-      "titulo": "Polícia apreende carros e celulares em operação contra sorteios e rifas ilegais no interior de SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/04/policia-apreende-carros-e-celulares-em-operacao-contra-sorteios-e-rifas-ilegais-no-interior-de-sp.ghtml",
-      "hora": "Fri, 04 Sep 2026 13:37:09 -0000",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/especial-publicitario/fescc/noticia/2026/09/04/festival-de-corais-de-catanduva-reune-regentes-do-brasil-e-concerto-de-300-vozes.ghtml",
+      "hora": "Fri, 04 Sep 2026 17:38:26 -0000",
       "tema": "sp",
-      "resumo": "Polícia Civil apreende veículos, dinheiro e celulares em operação contra sorteios e rifas ilegais no interior de São Paulo."
+      "resumo": "Catanduva recebe a 13ª edição do Festival de Corais com participação de regentes e professores de música de todo o Brasil, incluindo um concerto com 300 vozes."
     },
     {
-      "titulo": "'Cuidados paliativos não são cuidados terminais', diz esposa de Lito Sousa",
+      "titulo": "Anvisa autoriza importação de medicamento em fase de testes para tratamento do influenciador Lito Sousa",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/04/cuidados-paliativos-nao-sao-cuidados-terminais-diz-esposa-de-lito-sousa.ghtml",
-      "hora": "Fri, 04 Sep 2026 13:33:56 -0000",
-      "tema": "entretenimento",
-      "resumo": "Esposa de Lito Sousa esclarece que o influenciador recebe cuidados paliativos em casa e segue cognitivamente ativo."
-    },
-    {
-      "titulo": "Cachorro caramelo defende tutor durante briga em rua de Goiânia; vídeo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/09/04/cachorro-caramelo-defende-tutor-durante-briga-em-rua-de-goiania-video.ghtml",
-      "hora": "Fri, 04 Sep 2026 13:33:37 -0000",
+      "link": "https://g1.globo.com/saude/noticia/2026/09/04/anvisa-autoriza-importacao-de-medicamento-compassivo-para-tratamento-em-fase-de-teste-do-caso-de-lito.ghtml",
+      "hora": "Fri, 04 Sep 2026 17:35:56 -0000",
       "tema": "brasil",
-      "resumo": "Cachorro tenta defender tutor durante briga em rua de Goiânia, conforme registrado em vídeo."
+      "resumo": "A Anvisa autorizou a importação de um medicamento experimental para o tratamento da doença de Creutzfeldt-Jakob em um paciente específico."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -85,7 +85,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival Bike Brasil na Zona Sul de São Paulo oferece competição de manobras radicais e atividades para crianças."
+      "resumo": "São Paulo recebe festival de bikes na Zona Sul com competições de manobras radicais e atividades para crianças, reunindo ciclistas profissionais e amadores."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -93,23 +93,15 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado percorre 20 km de bicicleta e passa 12 horas em fila para concorrer a uma de 500 vagas de emprego em Bauru."
+      "resumo": "Desempregado percorre 20 quilômetros de bicicleta e aguarda 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "cultura",
-      "resumo": "Zé Ramalho apresenta sucessos da carreira e canções de Raul Seixas na 39ª Festa Junina de Sorocaba."
-    },
-    {
-      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
-      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "PRF apreende 927 quilos de maconha em carreta em Mato Grosso do Sul que seria entregue em São Paulo."
+      "resumo": "Zé Ramalho apresenta sucessos de sua carreira e músicas de Raul Seixas na Festa Junina de Sorocaba."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -117,7 +109,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza 3ª edição da Festa Junina Canina com entrada gratuita, brincadeiras e atividades para cães e gatos."
+      "resumo": "A 3ª edição da Festa Junina Canina de Jundiaí oferece entrada gratuita com brincadeiras e atividades voltadas para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -125,7 +117,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "Festival Maior Baile do Mundo em São Paulo reúne Anitta e MCs com expectativa de 35 mil pessoas e 10 horas de shows."
+      "resumo": "Festival de música em São Paulo com Anitta e MCs espera reunir 35 mil pessoas para dez horas de apresentações de atrações populares."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -133,7 +125,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "PSTU oficializa Vera Lúcia como candidata à Presidência da República nas próximas eleições."
+      "resumo": "O PSTU oficializa a candidatura de Vera Lúcia à Presidência da República nas próximas eleições."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -141,7 +133,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "15ª edição da Feiccad (Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração) ocorre em Jundiaí com entrada gratuita."
+      "resumo": "A 15ª edição da Feira do Imóvel, Construção e Decoração ocorre em Jundiaí com entrada gratuita e programação até domingo."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -149,7 +141,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diversos cargos do executivo municipal."
+      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diferentes funções, com prazo até 31 de julho e provas na própria cidade."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -157,15 +149,31 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência que permitiu a localização."
+      "resumo": "Homem em situação de rua em Campinas consegue reencontrar sua família após 37 anos de separação, graças a um boletim de ocorrência que permitiu rastreá-lo."
     },
     {
-      "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
+      "titulo": "Chefe de facção que atua dentro e fora dos presídios brasileiros é transferido da PF em Foz do Iguaçu",
       "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
-      "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
+      "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2018/07/20/chefe-de-faccao-que-atua-dentro-e-fora-dos-presidios-brasileiros-e-transferido-da-pf-em-foz-do-iguacu.ghtml",
+      "hora": "Fri, 20 Jul 2018 10:55:41 -0000",
       "tema": "sp",
-      "resumo": "Motorista de 75 anos morre em acidente de trânsito em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
+      "resumo": "Chefe do PCC é transferido da delegacia da Polícia Federal em Foz do Iguaçu para penitenciária de Catanduvas como parte de operação de segurança."
+    },
+    {
+      "titulo": "'Ou o Supremo julga Moraes ou o Congresso julga', diz jurista Joaquim Falcão",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c0m39rw19keo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 04 Sep 2026 17:08:53 GMT",
+      "tema": "brasil",
+      "resumo": "Jurista discute crise institucional no Supremo Tribunal Federal, argumentando que ministro envolvido em polêmica deve se afastar para apaziguar situação."
+    },
+    {
+      "titulo": "Fachin diz que meta é acabar com Inquérito das Fake News e manda tirar acusações contra Mendonça da investigação",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c780jqdep1go?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 04 Sep 2026 15:49:27 GMT",
+      "tema": "brasil",
+      "resumo": "Presidente do Supremo determina encerramento do Inquérito das Fake News e pede esclarecimentos à PGR sobre acusações entre ministros da corte."
     },
     {
       "titulo": "Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no STF",
@@ -173,7 +181,23 @@
       "link": "https://www.bbc.com/portuguese/articles/cly457vr0nro?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 04 Sep 2026 12:14:01 GMT",
       "tema": "brasil",
-      "resumo": "O ministro Alexandre de Moraes acusa colega de agir para favorecer grupos políticos, aprofundando crise institucional no Supremo Tribunal Federal."
+      "resumo": "Ministro do Supremo acusa colega de favorecer grupos políticos usando inquérito controverso, agravando crise institucional na corte."
+    },
+    {
+      "titulo": "Brasil pode sentir efeitos do 'super El Niño' na primavera; veja previsões para diferentes regiões",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c93eg21nz8jo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 04 Sep 2026 17:42:30 GMT",
+      "tema": "brasil",
+      "resumo": "Previsões indicam que Brasil pode sofrer efeitos de intenso El Niño na primavera, com chuvas acima da média em São Paulo e calor intenso no Norte e Nordeste."
+    },
+    {
+      "titulo": "Os gráficos que revelam quem são e quanto ganham os trabalhadores de aplicativos no Brasil",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c3d7k452g9xo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 04 Sep 2026 15:52:20 GMT",
+      "tema": "brasil",
+      "resumo": "Análise revela que trabalhadores de aplicativos no Brasil ganham em média similar a outros empregados do setor privado, mas trabalham mais horas sem direitos trabalhistas garantidos."
     },
     {
       "titulo": "Crise entre Moraes e Mendonça: a reação de Lula, Flávio e do mundo político",
@@ -181,7 +205,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c5y75qky1zgo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 04 Sep 2026 13:07:37 GMT",
       "tema": "brasil",
-      "resumo": "A disputa entre ministros do STF provoca reações imediatas de lideranças políticas, especialmente da oposição, em novo capítulo da crise institucional."
+      "resumo": "Crise entre ministros do Supremo provoca reações imediatas de líderes políticos, incluindo presidente e figuras da oposição."
     },
     {
       "titulo": "'Não tem ninguém certo nessa história': analistas apontam crise sem precedentes e enraizada no STF",
@@ -189,7 +213,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cgrvgd7j7k8o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 04 Sep 2026 11:19:00 GMT",
       "tema": "brasil",
-      "resumo": "Analistas identificam crise sem precedentes no Supremo Tribunal Federal, com questionamentos sobre a instituição do ponto de vista institucional e da confiança pública."
+      "resumo": "Analistas apontam que crise envolvendo ministros do Supremo representa situação sem precedentes na instituição e gera preocupações sobre sua imagem pública."
     },
     {
       "titulo": "Como Nepal resgatou dois sobreviventes em túnel nove dias após  avalanche que deixou mais de 1,3 mil mortos",
@@ -197,15 +221,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c86xjey5155o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 04 Sep 2026 13:44:58 GMT",
       "tema": "mundo",
-      "resumo": "Nepal consegue resgatar dois sobreviventes em túnel nove dias após avalanche que deixou mais de 1,3 mil mortos, superando desafios logísticos significativos."
+      "resumo": "Nepal consegue resgatar dois sobreviventes em túnel soterrado nove dias após avalanche que causou mais de mil mortes, superando desafios significativos de acesso."
     },
     {
-      "titulo": "'Crise no STF se agrava': o que diz imprensa internacional sobre disputa entre Moraes e Mendonça",
+      "titulo": "Lula e Flávio aparecem empatados no 2º turno: a corrida para presidente no Agregador de Pesquisas da BBC",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cgrvgzj74w4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 04 Sep 2026 10:27:37 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 04 Sep 2026 14:44:10 GMT",
       "tema": "brasil",
-      "resumo": "Imprensa internacional repercute a crise no Supremo Tribunal Federal, com destaque para reportagens sobre a disputa entre Moraes e Mendonça."
+      "resumo": "Agregador de pesquisas eleitorais da BBC acompanha levantamentos de intenção de voto para segundo turno da eleição presidencial de 2026."
     },
     {
       "titulo": "BBC entra em área do Líbano onde Israel avança com tropas e demolições apesar de cessar-fogo",
@@ -213,39 +237,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cvgyp5xpmmlo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 04 Sep 2026 08:40:21 GMT",
       "tema": "mundo",
-      "resumo": "A BBC documenta atividades militares israelenses em território libanês, incluindo demolições, durante período de cessar-fogo declarado."
-    },
-    {
-      "titulo": "Por que a Holanda retirou US$ 12 bilhões em ouro dos EUA e do Canadá",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c7v4nn87vp9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 04 Sep 2026 07:41:04 GMT",
-      "tema": "mundo",
-      "resumo": "O Banco Central da Holanda transferiu 86 toneladas de reservas de ouro para Londres, refletindo mudanças nas estratégias de custódia internacional."
-    },
-    {
-      "titulo": "Como instituto de André Mendonça conseguiu R$ 10,7 milhões em dois anos com contratos públicos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c1j4xxn88d5o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 03 Sep 2026 22:09:54 GMT",
-      "tema": "brasil",
-      "resumo": "Instituto ligado ao ministro André Mendonça obteve R$ 10,7 milhões em contratos públicos em dois anos, levantando questões sobre conflitos de interesse."
-    },
-    {
-      "titulo": "Lula e Flávio aparecem empatados no 2º turno: a corrida para presidente no Agregador de Pesquisas da BBC",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 03 Sep 2026 22:43:31 GMT",
-      "tema": "brasil",
-      "resumo": "Pesquisas indicam que Lula e Flávio Bolsonaro aparecem tecnicamente empatados em simulações de segundo turno para a eleição presidencial de 2026."
-    },
-    {
-      "titulo": "Moraes x Mendonça: os bastidores da 'guerra civil' entre ministros do STF",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 04 Sep 2026 01:41:23 GMT",
-      "tema": "brasil",
-      "resumo": "Reportagem detalha a escalação de conflito entre ministros do STF, com Moraes solicitando investigação de Mendonça após retirada de sigilo de relatório da PF."
+      "resumo": "Correspondentes da BBC visitam área do Líbano onde Israel continua atuando e demolindo estruturas apesar de cessar-fogo em vigor, segundo relatos de missão humanitária da ONU."
     },
     {
       "titulo": "'El Niño de proporções gigantescas': o alerta da ONU para fenômeno que põe planeta em 'águas desconhecidas'",
@@ -253,7 +245,23 @@
       "link": "https://www.bbc.com/portuguese/articles/cm2q5nl0pg3o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 03 Sep 2026 13:41:04 GMT",
       "tema": "mundo",
-      "resumo": "Organização Meteorológica Mundial alerta que fenômeno El Niño atual pode ser o mais intenso em mais de 70 anos, com duração prevista até fevereiro de 2027."
+      "resumo": "Organização Meteorológica Mundial alerta que atual El Niño pode ser o mais intenso em 70 anos, com possibilidade de duração até fevereiro de 2027."
+    },
+    {
+      "titulo": "Moraes x Mendonça: os bastidores da 'guerra civil' entre ministros do STF",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 04 Sep 2026 01:41:23 GMT",
+      "tema": "brasil",
+      "resumo": "Tensão entre ministros do Supremo intensifica-se quando um acusa o outro de tentar prejudicá-lo, revelando rivalidade que permanecia velada nos bastidores da corte."
+    },
+    {
+      "titulo": "Como instituto de André Mendonça conseguiu R$ 10,7 milhões em dois anos com contratos públicos",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c1j4xxn88d5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 03 Sep 2026 22:09:54 GMT",
+      "tema": "brasil",
+      "resumo": "Instituto ligado a ministro do Supremo recebeu mais de R$ 10 milhões em contratos públicos em dois anos, levantando questões sobre possível conflito de interesses."
     },
     {
       "titulo": "Nikolas Ferreira admite ter pedido ajuda a Vorcaro mas diz que não recebeu 'nenhum tostão' do banqueiro",
@@ -261,23 +269,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cx2zvgr7pr1o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 03 Sep 2026 19:16:46 GMT",
       "tema": "brasil",
-      "resumo": "Deputado Nikolas Ferreira admite ter pedido ajuda a banqueiro para destravar ativos, mas nega ter recebido valores em troca, segundo mensagens reveladas."
-    },
-    {
-      "titulo": "Por que é tão raro o impeachment de juízes das Supremas Cortes no mundo",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cpd0e98yvpwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 03 Sep 2026 21:08:08 GMT",
-      "tema": "brasil",
-      "resumo": "Análise mostra que impeachment de ministros do Supremo é extremamente raro no Brasil e em cortes internacionais, nunca tendo ocorrido no STF."
-    },
-    {
-      "titulo": "Morre aos 33 anos Carla Jeffery, 'linda e vibrante' estrela da Disney",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cz0z1930er9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 03 Sep 2026 22:43:13 GMT",
-      "tema": "entretenimento",
-      "resumo": "Atriz Carla Jeffery, conhecida por papéis em produções da Disney como 'Zombies', falece aos 33 anos."
+      "resumo": "Deputado federal admite ter solicitado ajuda a banqueiro mencionado em crise política recente, mas nega ter recebido recursos financeiros dele."
     }
   ]
 }
