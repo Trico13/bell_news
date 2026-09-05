@@ -1,43 +1,83 @@
 {
-  "gerado_em": "2026-09-04T22:46:57.601Z",
+  "gerado_em": "2026-09-05T13:15:22.079Z",
   "modo": "ia",
   "clima": {
-    "max": 27.8,
-    "min": 16.6,
-    "chuva": 88
+    "max": 24.4,
+    "min": 15.6,
+    "chuva": 94
   },
   "noticias": [
     {
-      "titulo": "Relatório identifica milhares de resultados atípicos no Provão Paulista, que seleciona para universidades públicas",
+      "titulo": "Psicólogo e escritor de Três Corações lança livro infantil sobre TDAH",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/04/relatorio-identifica-milhares-de-resultados-atipicos-no-provao-paulista-que-seleciona-para-universidades-publicas.ghtml",
-      "hora": "Fri, 04 Sep 2026 22:38:29 -0000",
-      "tema": "sp",
-      "resumo": "Análise de resultados do Provão Paulista, exame que seleciona candidatos para universidades públicas de SP, identificou milhares de desempenhos estatisticamente atípicos, sugerindo possível fraude sistêmica nas provas."
-    },
-    {
-      "titulo": "Polícia prende 2º envolvido na invasão a condomínio de luxo em Campinas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/04/policia-prende-envolvido-invasao-condominio-luxo-campinas.ghtml",
-      "hora": "Fri, 04 Sep 2026 22:37:56 -0000",
-      "tema": "sp",
-      "resumo": "Polícia prende segundo suspeito envolvido em invasão a condomínio de luxo em Campinas, que está sendo apresentado à delegacia."
-    },
-    {
-      "titulo": "Polícia investiga suspeita de fraude em contratos imobiliários em Montes Claros",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/04/policia-investiga-suspeita-de-fraude-em-contratos-imobiliarios-em-montes-claros.ghtml",
-      "hora": "Fri, 04 Sep 2026 22:32:37 -0000",
-      "tema": "brasil",
-      "resumo": "Polícia Civil de Minas Gerais investiga suspeita de estelionato envolvendo contratos imobiliários fraudulentos em empresa de soluções financeiras de Montes Claros."
-    },
-    {
-      "titulo": "Fafá de Belém lança projeto em Portugal e destaca impacto econômico do Círio de Nazaré no Pará",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/09/04/fafa-de-belem-lanca-projeto-em-portugal-e-destaca-impacto-economico-do-cirio-de-nazare-no-para.ghtml",
-      "hora": "Fri, 04 Sep 2026 22:32:06 -0000",
+      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/05/psicologo-e-escritor-de-tres-coracoes-lanca-livro-infantil-sobre-tdah.ghtml",
+      "hora": "Sat, 05 Sep 2026 13:05:14 -0000",
       "tema": "cultura",
-      "resumo": "A cantora Fafá de Belém lançou em Lisboa o projeto 'Encontro das Nazarés', uma iniciativa que busca criar ponte cultural e turística entre a Amazônia e a Europa, destacando o impacto econômico do Círio de Nazaré."
+      "resumo": "Psicólogo infantojuvenil de Minas Gerais lança livro infantil para ajudar crianças com TDAH a compreender melhor seus sentimentos e comportamentos."
+    },
+    {
+      "titulo": "Ruas de Caruaru são interditadas para desfile cívico de 7 de Setembro",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/09/05/ruas-de-caruaru-sao-interditadas-para-desfile-civico-de-7-de-setembro.ghtml",
+      "hora": "Sat, 05 Sep 2026 13:03:50 -0000",
+      "tema": "sp",
+      "resumo": "Caruaru (PE) interdita ruas da área central para realização do desfile cívico de 7 de Setembro, com alterações coordenadas na mobilidade urbana."
+    },
+    {
+      "titulo": "Manaus recebe vaquejada com R$ 70 mil em prêmios e entrada gratuita; veja como participar",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/05/manaus-recebe-vaquejada-com-r-70-mil-em-premios-e-entrada-gratuita-veja-como-participar.ghtml",
+      "hora": "Sat, 05 Sep 2026 13:00:31 -0000",
+      "tema": "entretenimento",
+      "resumo": "Manaus sedia vaquejada nos dias 25 e 26 de setembro com R$ 70 mil em prêmios e entrada gratuita para o público."
+    },
+    {
+      "titulo": "Fachin indica intenção de levar ao plenário crise envolvendo Moraes e Mendonça",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/05/fachin-indica-intencao-de-levar-ao-plenario-crise-envolvendo-moraes-e-mendonca.ghtml",
+      "hora": "Sat, 05 Sep 2026 12:55:23 -0000",
+      "tema": "brasil",
+      "resumo": "Presidente do STF sinaliza intenção de levar ao plenário da Corte os desdobramentos da crise envolvendo ministros Alexandre de Moraes e Mendonça."
+    },
+    {
+      "titulo": "Quando faltam frutos, macacos-prego aumentam caça de pequenos vertebrados, aponta estudo",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/05/quando-faltam-frutos-macacos-prego-aumentam-caca-de-pequenos-vertebrados-aponta-estudo.ghtml",
+      "hora": "Sat, 05 Sep 2026 12:48:57 -0000",
+      "tema": "cultura",
+      "resumo": "Estudo publicado em revista científica revela que macacos-prego aumentam a caça de pequenos vertebrados quando há escassez de frutos disponíveis."
+    },
+    {
+      "titulo": "ExpoCruz 2026 terá shows de Jau, Rachel Reis e Devinho Novaes em Cruz das Almas; veja programação",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/09/05/expocruz-2026-na-bahia.ghtml",
+      "hora": "Sat, 05 Sep 2026 12:46:54 -0000",
+      "tema": "entretenimento",
+      "resumo": "ExpoCruz 2026 em Cruz das Almas confirma shows de Jau, Rachel Reis e Devinho Novaes entre 24 e 27 de setembro."
+    },
+    {
+      "titulo": "Cinco suspeitos são presos por esquema de furto de carros de luxo em Natal",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/05/suspeitos-sao-presos-por-esquema-de-furto-de-carros-de-luxo-em-natal.ghtml",
+      "hora": "Sat, 05 Sep 2026 12:42:09 -0000",
+      "tema": "brasil",
+      "resumo": "Polícia Civil do Rio Grande do Norte prende cinco pessoas suspeitas de integrar associação criminosa especializada em furtos de veículos de luxo em Natal."
+    },
+    {
+      "titulo": "Motoristas encaram congestionamento rumo ao litoral de SP na véspera do feriado da Independência",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/05/motoristas-encaram-congestionamento-rumo-ao-litoral-de-sp-na-vespera-do-feriado-da-independencia.ghtml",
+      "hora": "Sat, 05 Sep 2026 12:39:41 -0000",
+      "tema": "sp",
+      "resumo": "Motoristas enfrentam congestionamento nas rodovias do Sistema Anchieta-Imigrantes na véspera do feriado de 7 de Setembro, com destino ao litoral paulista."
+    },
+    {
+      "titulo": "Carlos Alberto Parreira recebe alta após quase 3 meses internado",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/05/carlos-alberto-parreira-alta.ghtml",
+      "hora": "Sat, 05 Sep 2026 12:38:22 -0000",
+      "tema": "entretenimento",
+      "resumo": "Ex-técnico da Seleção Brasileira Carlos Alberto Parreira, aos 83 anos, recebe alta após quase três meses internado."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -45,7 +85,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival de bikes ocorre neste domingo na Zona Sul de São Paulo com competições de manobras e atividades para diferentes públicos."
+      "resumo": "Festival de bikes acontece na Zona Sul de São Paulo com competições de manobras radicais e atividades para crianças."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -53,23 +93,23 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado de Agudos pedala 20 km e passa 12 horas em fila em Bauru para concorrer a uma das 500 vagas de emprego oferecidas."
+      "resumo": "Desempregado de Agudos percorre 20 km de bicicleta até Bauru e passa 12 horas em fila para concorrer a uma das 500 vagas de emprego."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "cultura",
-      "resumo": "Zé Ramalho apresentou sucessos da carreira e interpretações de composições de Raul Seixas na 39ª Festa Junina de Sorocaba."
+      "tema": "sp",
+      "resumo": "Cantor Zé Ramalho apresenta sucessos da carreira e canções de Raul Seixas na 39ª Festa Junina de Sorocaba."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
-      "tema": "sp",
-      "resumo": "PRF apreende 927 quilos de maconha em carreta no Mato Grosso do Sul que seria entregue em São Paulo; motorista confessou o tráfico."
+      "tema": "brasil",
+      "resumo": "Polícia Rodoviária Federal apreende 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -77,7 +117,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina neste sábado com entrada gratuita, oferecendo brincadeiras e atividades para cães e gatos."
+      "resumo": "Jundiaí realiza 3ª edição da Festa Junina Canina com entrada gratuita e atividades para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -85,7 +125,15 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "Maior Baile do Mundo acontece domingo em São Paulo com Anitta e outros MCs, esperando reunir 35 mil pessoas em 10 horas de shows."
+      "resumo": "Festival Maior Baile do Mundo acontece em São Paulo com Anitta e MCs, esperando reunir 35 mil pessoas para 10 horas de shows."
+    },
+    {
+      "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
+      "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
+      "tema": "brasil",
+      "resumo": "PSTU oficializa Vera Lúcia como candidata à Presidência da República nas próximas eleições."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -93,7 +141,15 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "15ª edição da Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração acontece em Jundiaí até domingo com entrada gratuita."
+      "resumo": "15ª Feiccad, feira de imóvel e construção civil, realiza-se em Jundiaí até domingo com entrada gratuita."
+    },
+    {
+      "titulo": "Caso Vitória: trio acusado de envolvimento no crime é transferido para Tremembé",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2018/07/20/caso-vitoria-trio-acusado-de-envolvimento-no-crime-e-transferido-para-tremembe.ghtml",
+      "hora": "Fri, 20 Jul 2018 18:44:51 -0000",
+      "tema": "sp",
+      "resumo": "Trio acusado de envolvimento na morte da menina Vitória Gabrielly é transferido para presídios em Tremembé após meses de prisão."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -101,7 +157,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos do Executivo até 31 de julho, com provas a serem realizadas na cidade."
+      "resumo": "A prefeitura de Tabapuã (SP) abriu inscrições para concurso público com 34 vagas em diversos cargos do Executivo até 31 de julho, com provas a serem realizadas no município."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -109,7 +165,39 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem que vive em situação de rua em Campinas reencontra sua família após 37 anos, graças a circunstâncias derivadas de um boletim de ocorrência por roubo."
+      "resumo": "Homem em situação de rua em Campinas reencontra a família após 37 anos de separação, graças a um boletim de ocorrência registrado quando foi vítima de roubo."
+    },
+    {
+      "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
+      "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
+      "tema": "sp",
+      "resumo": "Um motorista de 75 anos, pai de monsenhor que seria ordenado bispo em Itapetininga, morreu em acidente entre carro e caminhão em Capela do Alto (SP)."
+    },
+    {
+      "titulo": "Os alertas vermelhos na campanha de Lula e as armas que ele quer usar",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c2dweydp69yo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 05 Sep 2026 09:41:04 GMT",
+      "tema": "brasil",
+      "resumo": "Lula aparece empatado com Flávio Bolsonaro para segundo turno presidencial e teme impacto da crise no Supremo, preparando estratégia com atos em grandes centros e aprovação de projetos no Congresso."
+    },
+    {
+      "titulo": "O que se sabe sobre explosão na Bolívia que deixou ao menos 2 mortos e 81 feridos",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cx2ze0nnn7do?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 05 Sep 2026 12:00:57 GMT",
+      "tema": "mundo",
+      "resumo": "Explosão em Viacha, na Bolívia, deixa ao menos 2 mortos e 81 feridos; autoridades alertam para risco de novas detonações e temem aumento no número de vítimas."
+    },
+    {
+      "titulo": "Por que Brasil 'cresceu' em novo mapa  aprovado pela ONU",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cvgyv1v5xjno?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 05 Sep 2026 11:06:56 GMT",
+      "tema": "brasil",
+      "resumo": "ONU aprova novo mapa-múndi que reduz distorções cartográficas históricas, corrigindo proporções de países próximos à linha do Equador, incluindo o Brasil."
     },
     {
       "titulo": "'Ou o Supremo julga Moraes ou o Congresso julga', diz jurista Joaquim Falcão",
@@ -117,7 +205,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c0m39rw19keo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 04 Sep 2026 17:08:53 GMT",
       "tema": "brasil",
-      "resumo": "Jurista Joaquim Falcão comenta a crise envolvendo o ministro Alexandre de Moraes, argumentando que o Supremo deve julgá-lo ou que ele deveria se demitir para encerrar o conflito."
+      "resumo": "Jurista constitucionalista comenta crise no Supremo e sugere que ministro Alexandre de Moraes se demita para apaziguar situação ou enfrente julgamento no Congresso."
     },
     {
       "titulo": "Os novos indícios que ligam o número de telefone salvo por Daniel Vorcaro a Alexandre de Moraes",
@@ -125,7 +213,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c4gk300l15eo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 04 Sep 2026 19:27:33 GMT",
       "tema": "brasil",
-      "resumo": "Investigação da Polícia Federal identifica número de telefone ligado a Alexandre de Moraes em documentos de processos e perfis em redes sociais, relacionado a mensagens do banqueiro Daniel Vorcaro."
+      "resumo": "Investigação da PF identifica ligações entre número de telefone usado por Daniel Vorcaro e o ministro Alexandre de Moraes, com evidências encontradas também em procedimentos legislativos anteriores."
     },
     {
       "titulo": "Fachin diz que meta é acabar com Inquérito das Fake News e manda tirar acusações contra Mendonça da investigação",
@@ -133,15 +221,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c780jqdep1go?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 04 Sep 2026 15:49:27 GMT",
       "tema": "brasil",
-      "resumo": "O presidente do Supremo Tribunal Federal anuncia intenção de encerrar o Inquérito das Fake News e determina que acusações contra o ministro André Mendonça sejam removidas da investigação."
+      "resumo": "Presidente do Supremo Fachin anuncia intenção de encerrar Inquérito das Fake News e ordena remoção de acusações contra ministro André Mendonça da investigação."
     },
     {
-      "titulo": "Brasil pode sentir efeitos do 'super El Niño' na primavera; veja previsões para diferentes regiões",
+      "titulo": "ONU aprova novo mapa-múndi mais fiel ao tamanho real da África",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c93eg21nz8jo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 04 Sep 2026 17:42:30 GMT",
-      "tema": "brasil",
-      "resumo": "Especialistas preveem que o El Niño pode provocar chuvas acima da média em São Paulo, calor intenso no Norte e Nordeste, e risco de tempestades no Sul durante a primavera."
+      "link": "https://www.bbc.com/portuguese/articles/c3058301rl8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 05 Sep 2026 02:57:28 GMT",
+      "tema": "mundo",
+      "resumo": "ONU aprova novo mapa-múndi com projeção mais fiel aos tamanhos reais dos continentes, em resolução apoiada por 164 nações; apenas EUA votaram contra."
     },
     {
       "titulo": "Os gráficos que revelam quem são e quanto ganham os trabalhadores de aplicativos no Brasil",
@@ -149,31 +237,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c3d7k452g9xo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 04 Sep 2026 15:52:20 GMT",
       "tema": "brasil",
-      "resumo": "Análise revela que trabalhadoras de aplicativos ganham em média o equivalente a outras trabalhadoras do setor privado, mas enfrentam jornadas mais longas e carecem de direitos trabalhistas."
-    },
-    {
-      "titulo": "Crise entre Moraes e Mendonça: a reação de Lula, Flávio e do mundo político",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5y75qky1zgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 04 Sep 2026 13:07:37 GMT",
-      "tema": "brasil",
-      "resumo": "A escalada de tensão entre os ministros Moraes e Mendonça provoca reações imediatas no mundo político, especialmente entre a oposição."
-    },
-    {
-      "titulo": "'Não tem ninguém certo nessa história': analistas apontam crise sem precedentes e enraizada no STF",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cgrvgd7j7k8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 04 Sep 2026 11:19:00 GMT",
-      "tema": "brasil",
-      "resumo": "Analistas descrevem a crise envolvendo ministros do Supremo como sem precedentes, apontando que a instituição passa por desgaste significativo aos olhos da sociedade."
-    },
-    {
-      "titulo": "Como Nepal resgatou dois sobreviventes em túnel nove dias após  avalanche que deixou mais de 1,3 mil mortos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c86xjey5155o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 04 Sep 2026 13:44:58 GMT",
-      "tema": "mundo",
-      "resumo": "Nepal resgata dois sobreviventes em um túnel nove dias após avalanche que matou mais de 1,3 mil pessoas, superando desafios como destruição de rochas de grande tamanho."
+      "resumo": "Estudo revela que trabalhadores de aplicativos no Brasil ganham renda próxima à média do setor privado, mas com jornadas muito mais extensas e sem proteção trabalhista."
     },
     {
       "titulo": "Lula e Flávio aparecem empatados no 2º turno: a corrida para presidente no Agregador de Pesquisas da BBC",
@@ -181,7 +245,31 @@
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 04 Sep 2026 14:44:10 GMT",
       "tema": "brasil",
-      "resumo": "Agregador de pesquisas eleitorais da BBC mostra empate técnico entre Lula e Flávio Bolsonaro em simulação de segundo turno para a eleição presidencial de 2026."
+      "resumo": "Agregador de pesquisas eleitorais da BBC mostra Lula e Flávio Bolsonaro empatados nas intenções de voto para segundo turno presidencial em 2026."
+    },
+    {
+      "titulo": "Brasil pode sentir efeitos do 'super El Niño' na primavera; veja previsões para diferentes regiões",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c93eg21nz8jo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 04 Sep 2026 17:42:30 GMT",
+      "tema": "brasil",
+      "resumo": "Especialistas preveem que o 'super El Niño' pode trazer chuva acima da média em São Paulo, calor mais intenso no Norte e Nordeste, e novos temporais no Sul durante a primavera."
+    },
+    {
+      "titulo": "Crise entre Moraes e Mendonça: a reação de Lula, Flávio e do mundo político",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c5y75qky1zgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 04 Sep 2026 13:07:37 GMT",
+      "tema": "brasil",
+      "resumo": "Crise entre ministros do Supremo gera reações do mundo político; Alexandre de Moraes passa de investigado para autor de contra-acusação contra André Mendonça."
+    },
+    {
+      "titulo": "'Não tem ninguém certo nessa história': analistas apontam crise sem precedentes e enraizada no STF",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cgrvgd7j7k8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 04 Sep 2026 11:19:00 GMT",
+      "tema": "brasil",
+      "resumo": "Analistas identificam crise institucional sem precedentes no Supremo Tribunal Federal, descrevendo a situação como implosão visível aos olhos da sociedade."
     },
     {
       "titulo": "BBC entra em área do Líbano onde Israel avança com tropas e demolições apesar de cessar-fogo",
@@ -189,7 +277,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cvgyp5xpmmlo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 04 Sep 2026 08:40:21 GMT",
       "tema": "mundo",
-      "resumo": "Equipe da BBC acompanha operações humanitárias no Líbano e documenta atividades militares israelenses, incluindo demolições de estruturas, apesar de acordo de cessar-fogo."
+      "resumo": "Correspondentes da BBC acompanham situação no Líbano onde Israel mantém avanço com tropas e demolições apesar de cessar-fogo em vigor."
     },
     {
       "titulo": "'El Niño de proporções gigantescas': o alerta da ONU para fenômeno que põe planeta em 'águas desconhecidas'",
@@ -197,31 +285,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cm2q5nl0pg3o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 03 Sep 2026 13:41:04 GMT",
       "tema": "mundo",
-      "resumo": "A Organização Meteorológica Mundial alerta que o El Niño atual pode ser o mais intenso dos últimos 70 anos, com possibilidade de perdurar até fevereiro de 2027."
-    },
-    {
-      "titulo": "Moraes x Mendonça: os bastidores da 'guerra civil' entre ministros do STF",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 04 Sep 2026 01:41:23 GMT",
-      "tema": "brasil",
-      "resumo": "Reportagem detalha a rivalidade entre os ministros Alexandre de Moraes e André Mendonça do Supremo Tribunal Federal, que ganhou publicidade após divulgação de mensagens de banqueiro."
-    },
-    {
-      "titulo": "Como instituto de André Mendonça conseguiu R$ 10,7 milhões em dois anos com contratos públicos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c1j4xxn88d5o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 03 Sep 2026 22:09:54 GMT",
-      "tema": "brasil",
-      "resumo": "Instituto do qual o ministro André Mendonça era cotista obteve R$ 10,7 milhões em contratos públicos ao longo de dois anos, segundo investigação."
-    },
-    {
-      "titulo": "Nikolas Ferreira admite ter pedido ajuda a Vorcaro mas diz que não recebeu 'nenhum tostão' do banqueiro",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cx2zvgr7pr1o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 03 Sep 2026 19:16:46 GMT",
-      "tema": "brasil",
-      "resumo": "Deputado Nikolas Ferreira confirma ter pedido ajuda ao banqueiro Daniel Vorcaro para resolver questões financeiras, mas nega ter recebido recursos do mesmo."
+      "resumo": "ONU alerta sobre 'El Niño de proporções gigantescas' que pode ser o mais forte em mais de 70 anos e persistir até fevereiro de 2027, colocando o planeta em 'águas desconhecidas'."
     }
   ]
 }
