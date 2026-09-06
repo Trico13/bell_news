@@ -1,67 +1,107 @@
 {
-  "gerado_em": "2026-09-05T22:39:07.080Z",
+  "gerado_em": "2026-09-06T13:24:19.062Z",
   "modo": "ia",
   "clima": {
-    "max": 22.5,
-    "min": 15.6,
-    "chuva": 98
+    "max": 15,
+    "min": 10.2,
+    "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Fatec de Tatuí terá curso de Engenharia Mecatrônica a partir de 2027; vestibular será em dezembro",
+      "titulo": "Bragança Alimenta substitui cesta básica por cartão; veja valor e como funciona",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/09/05/fatec-de-tatui-tera-curso-de-engenharia-mecatronica-a-partir-de-2027-vestibular-sera-em-dezembro.ghtml",
-      "hora": "Sat, 05 Sep 2026 22:28:09 -0000",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-braganca-paulista/noticia/2026/09/06/braganca-alimenta-substitui-cesta-basica-por-cartao-veja-valor-e-como-funciona.ghtml",
+      "hora": "Sun, 06 Sep 2026 13:10:19 -0000",
       "tema": "sp",
-      "resumo": "A Fatec de Tatuí abrirá um novo curso de Engenharia Mecatrônica a partir de 2027, com vestibular previsto para dezembro."
+      "resumo": "Bragança Paulista substitui gradualmente a distribuição de cestas básicas físicas por um cartão exclusivo para compras de alimentos em estabelecimentos credenciados, mudando o formato do benefício alimentar para famílias atendidas pela assistência social."
     },
     {
-      "titulo": "VÍDEO: vendaval atinge bar e arrasta cadeiras e galhos no interior de SP",
+      "titulo": "TeAbraça inicia atendimentos para crianças com TEA e neurodivergentes",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/05/video-vendaval-atinge-bar-e-arrasta-cadeiras-e-galhos-no-interior-de-sp.ghtml",
-      "hora": "Sat, 05 Sep 2026 22:25:24 -0000",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-braganca-paulista/noticia/2026/09/06/teabraca-inicia-atendimentos-para-criancas-com-tea-e-neurodivergentes.ghtml",
+      "hora": "Sun, 06 Sep 2026 13:07:01 -0000",
       "tema": "sp",
-      "resumo": "Um temporal com vento forte e granizo atingiu os municípios de Bálsamo e Macaubal, provocando destelhamentos, destruição de estruturas e queda de árvores."
+      "resumo": "Serviço especializado de atendimento para crianças com Transtorno do Espectro Autista e neurodivergentes iniciou operações em Bragança Paulista, ampliando a oferta de cuidados de saúde para essas populações."
     },
     {
-      "titulo": "Caminhão tomba, derrama carga e provoca engavetamento entre vários veículos na BR-324",
+      "titulo": "Mutirão da Saúde em Bragança Paulista prevê mais de 80 mil procedimentos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/09/05/acidente-na-324.ghtml",
-      "hora": "Sat, 05 Sep 2026 22:24:18 -0000",
-      "tema": "brasil",
-      "resumo": "Um caminhão tombou na BR-324 em Amélia Rodrigues, derramando carga e provocando engavetamento com vários veículos."
-    },
-    {
-      "titulo": "Homem acredita ter ganhado R$ 50 mil em sorteio, mas perde R$ 5 mil em golpe por telefone",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/05/homem-acredita-ter-ganhado-r-50-mil-em-sorteio-mas-perde-r-5-mil-em-golpe-por-telefone.ghtml",
-      "hora": "Sat, 05 Sep 2026 22:16:50 -0000",
-      "tema": "brasil",
-      "resumo": "Um homem perdeu R$ 5 mil em golpe por telefone após receber uma ligação falsa de representante de empresa de sorteios que informava um prêmio de R$ 50 mil."
-    },
-    {
-      "titulo": "Zanin pede que Deltan Dallagnoll seja responsabilizado por abrir seu sigilo fiscal ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/politico/noticia/2026/09/05/zanin-pede-que-deltan-dallagnoll-seja-responsabilizado-por-abrir-seu-sigilo-fiscal.ghtml",
-      "hora": "Sat, 05 Sep 2026 22:15:20 -0000",
-      "tema": "brasil",
-      "resumo": "O ministro Cristiano Zanin pediu ao Tribunal Regional Eleitoral do Paraná que responsabilize Deltan Dallagnol pela violação de seu sigilo fiscal e bancário."
-    },
-    {
-      "titulo": "Maroon 5 em Rio Preto: veja o que pode e o que não pode levar no show de estreia da turnê no Brasil",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/05/maroon-5-em-rio-preto-veja-o-que-pode-e-o-que-nao-pode-levar-no-show-de-estreia-da-turne-no-brasil.ghtml",
-      "hora": "Sat, 05 Sep 2026 22:13:46 -0000",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-braganca-paulista/noticia/2026/09/06/mutirao-da-saude-em-braganca-paulista-preve-mais-de-80-mil-procedimentos.ghtml",
+      "hora": "Sun, 06 Sep 2026 13:03:38 -0000",
       "tema": "sp",
-      "resumo": "O Maroon 5 fará show em São José do Rio Preto, e a organização divulgou as regras de acesso e itens permitidos e proibidos no evento."
+      "resumo": "Bragança Paulista realiza segundo mutirão de saúde com previsão de atender mais de 45 mil pacientes e executar mais de 80 mil procedimentos, funcionando diariamente até dezembro, incluindo domingos e feriados."
     },
     {
-      "titulo": "Homem é preso por porte ilegal de arma após fugir com revólver em punho e apontá-lo para policiais em Pirapora",
+      "titulo": "Com seca, catraieiro relata dificuldade em manter trabalho no Rio Acre: ‘Estamos na luta’",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/05/homem-e-preso-por-porte-ilegal-de-arma-apos-fugir-com-revolver-em-punho-e-aponta-lo-para-policiais-em-pirapora.ghtml",
-      "hora": "Sat, 05 Sep 2026 22:09:00 -0000",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/09/06/com-seca-catraieiro-relata-dificuldade-em-manter-trabalho-no-rio-acre-estamos-na-luta.ghtml",
+      "hora": "Sun, 06 Sep 2026 13:00:00 -0000",
       "tema": "brasil",
-      "resumo": "Um homem foi preso em Pirapora após resistir a abordagem policial e apontar uma arma de fogo para os policiais."
+      "resumo": "Seca avançada no Rio Acre impacta o trabalho de catraieiros, criando desafios como bancos de areia que dificultam o sustento de quem depende da navegação fluvial durante a estação seca."
+    },
+    {
+      "titulo": "Frente fria derruba temperaturas, e feriado deve ser ainda mais gelado em MS; veja a previsão",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/06/frente-fria-derruba-temperaturas-e-feriado-deve-ser-ainda-mais-gelado-em-ms-veja-a-previsao.ghtml",
+      "hora": "Sun, 06 Sep 2026 12:54:33 -0000",
+      "tema": "brasil",
+      "resumo": "Frente fria acompanhada de massa de ar polar avança pelo Centro-Oeste, provocando queda significativa nas temperaturas em Mato Grosso do Sul neste fim de semana."
+    },
+    {
+      "titulo": "Sem luz, água, nem transporte: as frustrações da minha vida em Cuba e seus apagões",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/06/sem-luz-agua-nem-transporte-as-frustracoes-da-minha-vida-em-cuba-e-seus-apagoes.ghtml",
+      "hora": "Sun, 06 Sep 2026 12:49:23 -0000",
+      "tema": "mundo",
+      "resumo": "Apagões frequentes em Cuba afetam a vida cotidiana de cidadãos em Havana, impactando acesso a eletricidade, água e transporte público de forma recorrente."
+    },
+    {
+      "titulo": "Ex-alunos da UFSCar já criaram mais de 13 mil empresas e faturam R$ 14 bilhões ao ano, diz pesquisa",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-carlos-regiao/educacao/noticia/2026/09/06/ex-alunos-da-ufscar-ja-criaram-mais-de-13-mil-empresas-e-faturam-r-14-bilhoes-ao-ano-diz-pesquisa.ghtml",
+      "hora": "Sun, 06 Sep 2026 12:49:13 -0000",
+      "tema": "brasil",
+      "resumo": "Pesquisa da UFSCar revela que ex-alunos da universidade criaram mais de 13 mil empresas que faturam anualmente R$ 14 bilhões, demonstrando o impacto econômico de uma instituição pública brasileira."
+    },
+    {
+      "titulo": "Com 3,1 mil emplacamentos em um mês, Campinas ganha, em média, 101 veículos novos por dia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/06/com-31-mil-emplacamentos-em-um-mes-campinas-ganha-em-media-101-veiculos-novos-por-dia.ghtml",
+      "hora": "Sun, 06 Sep 2026 12:48:55 -0000",
+      "tema": "sp",
+      "resumo": "Campinas ultrapassou a marca de 100 veículos novos emplacados diariamente em agosto, com 3.145 unidades zero quilômetro registradas no mês."
+    },
+    {
+      "titulo": "Parte da estrutura de camarote da Festa do Peão cede e 24 pessoas ficam feridas em Campo Limpo Paulista",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/06/parte-da-estrutura-de-camarote-da-festa-do-peao-cede-e-24-pessoas-ficam-feridas-em-campo-limpo-paulista.ghtml",
+      "hora": "Sun, 06 Sep 2026 12:46:39 -0000",
+      "tema": "sp",
+      "resumo": "Parte da estrutura de um camarote cedeu durante a 22ª Festa do Peão de Campo Limpo Paulista, deixando 24 pessoas feridas que foram encaminhadas ao hospital."
+    },
+    {
+      "titulo": "Homem condenado por tráfico de drogas em São Paulo é preso em Campina Grande",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/09/06/homem-condenado-por-trafico-de-drogas-em-sao-paulo-e-preso-em-campina-grande.ghtml",
+      "hora": "Sun, 06 Sep 2026 12:40:19 -0000",
+      "tema": "brasil",
+      "resumo": "Homem condenado por tráfico de drogas em São Paulo foi capturado pela polícia em Campina Grande, Paraíba."
+    },
+    {
+      "titulo": "Acidente envolvendo carro, moto e carreta deixa feridos na Via Expressa, em Contagem",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/06/acidente-feridos-via-expressa-contagem.ghtml",
+      "hora": "Sun, 06 Sep 2026 12:39:57 -0000",
+      "tema": "brasil",
+      "resumo": "Acidente envolvendo carro, moto e carreta na Via Expressa em Contagem deixou pessoas feridas."
+    },
+    {
+      "titulo": "Eleições 2026: veja a agenda dos candidatos ao Governo do Maranhão neste domingo (6)",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/06/eleicoes-2026-veja-a-agenda-dos-candidatos-ao-governo-do-maranhao-neste-domingo-6.ghtml",
+      "hora": "Sun, 06 Sep 2026 12:39:15 -0000",
+      "tema": "brasil",
+      "resumo": "Oito candidatos ao governo do Maranhão iniciaram suas agendas de campanha em preparação para as eleições de 2026."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -69,7 +109,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "O evento Bike Brasil acontece na Zona Sul de São Paulo com competição de manobras de bicicleta, atividades para crianças e reunião de ciclistas profissionais e amadores."
+      "resumo": "Festival de bicicletas ocorre na Zona Sul de São Paulo reunindo ciclistas profissionais e amadores com competições de manobras e atividades para crianças."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -77,7 +117,7 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Um desempregado pedalou 20 km de Agudos para Bauru e permaneceu 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas."
+      "resumo": "Desempregado percorreu 20 quilômetros de bicicleta e passou 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -85,7 +125,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "sp",
-      "resumo": "Zé Ramalho apresentou sucessos de sua carreira e músicas de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
+      "resumo": "Cantor Zé Ramalho apresentou sucessos de sua carreira e músicas de Raul Seixas na 39ª Festa Junina de Sorocaba, apesar das temperaturas baixas."
+    },
+    {
+      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
+      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
+      "tema": "sp",
+      "resumo": "Polícia Rodoviária Federal apreendeu 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo, prendendo o motorista da carreta."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -93,7 +141,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina com entrada gratuita, brincadeiras e atividades para cães e gatos."
+      "resumo": "Jundiaí realiza 3ª edição da Festa Junina Canina com entrada gratuita, oferecendo brincadeiras e atividades para cães e gatos com seus donos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -101,7 +149,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "O Maior Baile do Mundo, festival em São Paulo com Anitta e MCs, espera reunir 35 mil pessoas em 10 horas de shows com atrações baseadas nas músicas mais ouvidas na internet brasileira."
+      "resumo": "Festival Maior Baile do Mundo acontece em São Paulo com artistas como Anitta e MCs, esperando reunir 35 mil pessoas em 10 horas de apresentações."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -109,7 +157,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializou a militante sindical Vera Lúcia como candidata à Presidência da República nas eleições."
+      "resumo": "Partido Socialista dos Trabalhadores Unificado oficializa Vera Lúcia, militante sindical, como candidata à Presidência da República nas próximas eleições."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -117,15 +165,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A 15ª edição da Feiccad, feira de imóvel, construção, condomínios, arquitetura e decoração, acontece em Jundiaí com entrada gratuita até domingo."
-    },
-    {
-      "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
-      "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
-      "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã (SP) abre inscrições até 31 de julho para concurso público com 34 vagas em diversos cargos do Executivo, incluindo cadastro de reserva."
+      "resumo": "15ª edição da Feira do Imóvel, Construção e Decoração (Feiccad) acontece em Jundiaí com entrada gratuita mediante credenciamento prévio."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -133,15 +173,63 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra família após 37 anos de separação, encontro facilitado por registro de boletim de ocorrência."
+      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a informações obtidas através de um boletim de ocorrência."
+    },
+    {
+      "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
+      "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
+      "tema": "sp",
+      "resumo": "Idoso morre em acidente de trânsito em Capela do Alto dias antes de seu filho ser ordenado bispo em cerimônia em Itapetininga."
+    },
+    {
+      "titulo": "Como direita radical da Alemanha planeja chegar ao poder com eleição deste domingo e mudar história do país",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cjrx7xl1pvwo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 06 Sep 2026 09:22:38 GMT",
+      "tema": "mundo",
+      "resumo": "Partido de direita radical alemão busca conquistar maioria absoluta em eleição estadual, o que representaria a primeira vez desde a Segunda Guerra que tal grupo detém poder em nível estadual no país."
+    },
+    {
+      "titulo": "Sem luz, água, nem transporte: as frustrações da minha vida em Cuba e seus apagões",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c74ekv4emn9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 06 Sep 2026 12:28:03 GMT",
+      "tema": "mundo",
+      "resumo": "Cuba enfrenta crise de infraestrutura com falta generalizada de energia, água e transporte que reconfigurou a vida de seus cidadãos."
+    },
+    {
+      "titulo": "Vulcão 'filhote do Krakatoa' entra em erupção na Indonésia, afeta voos na Ásia e deixa 150 mil passageiros retidos",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ce3090wv8k2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 06 Sep 2026 11:17:51 GMT",
+      "tema": "mundo",
+      "resumo": "Vulcão indonésio Anak Krakatau entra em erupção, afetando centenas de voos na Ásia e deixando aproximadamente 150 mil passageiros retidos."
+    },
+    {
+      "titulo": "Quem é Alejandro Betancourt, o polêmico bilionário por trás do acordo de petróleo entre EUA e Venezuela",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c23x42j85zxo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 06 Sep 2026 10:12:30 GMT",
+      "tema": "mundo",
+      "resumo": "Bilionário polêmico Alejandro Betancourt foi escolhido pelo governo americano para explorar jazidas de petróleo na Venezuela em acordo com seu governo."
     },
     {
       "titulo": "'EUA em primeiro lugar': como Trump troca diplomacia por aliados políticos e tensiona a relação com o Brasil",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cd9w5yk7wxdo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 05 Sep 2026 17:32:41 GMT",
-      "tema": "mundo",
-      "resumo": "Presidente americano Trump prioriza apoiadores políticos em posições diplomáticas no segundo mandato, alterando dinâmica das relações internacionais incluindo com o Brasil."
+      "tema": "brasil",
+      "resumo": "Donald Trump tem implementado mudanças no Departamento de Estado americano que priorizam interesses políticos e criam tensões nas relações diplomáticas com o Brasil."
+    },
+    {
+      "titulo": "Sem polícia nos gabinetes: o pedido de Gilmar Mendes que expõe tensão entre ministros do Supremo",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cg49vnnk606o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 05 Sep 2026 23:23:38 GMT",
+      "tema": "brasil",
+      "resumo": "Ministro Gilmar Mendes propõe alteração no Regimento Interno do Supremo Tribunal Federal em meio a crise institucional na Corte."
     },
     {
       "titulo": "'Ou o Supremo julga Moraes ou o Congresso julga', diz jurista Joaquim Falcão",
@@ -149,7 +237,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c0m39rw19keo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 04 Sep 2026 17:08:53 GMT",
       "tema": "brasil",
-      "resumo": "Jurista constitucionalista comenta crise envolvendo ministro do Supremo e afirma que situação demanda posicionamento do Congresso ou renúncia para apaziguar tensões institucionais."
+      "resumo": "Constitucionalista Joaquim Falcão defende que o Supremo julgue ou o Congresso julgue a situação de ministro envolvido em polêmica após revelação de conversas."
     },
     {
       "titulo": "Os adolescentes chineses que consomem medicamentos para adormecer a mente e 'fugir da realidade'",
@@ -157,47 +245,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c7v4zjd8nrpo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 05 Sep 2026 20:04:13 GMT",
       "tema": "mundo",
-      "resumo": "Adolescentes chineses recorrem a medicamentos com efeitos sedativos como estratégia para lidar com ansiedade e pressão relacionada ao desempenho acadêmico."
-    },
-    {
-      "titulo": "João Amoêdo vê Cury crescendo mais, critica silêncio do Supremo no caso Moraes e ainda não define voto",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c87vpzy7lggo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 05 Sep 2026 16:43:40 GMT",
-      "tema": "brasil",
-      "resumo": "Empresário João Amoêdo comenta cenário político, critica resposta do Supremo sobre revelações recentes e mantém indefinição sobre posicionamento eleitoral."
-    },
-    {
-      "titulo": "'Influenciadoras que fingem submissão aos maridos são as mesmas que gerenciam impérios multimilionários', diz autora de best-seller sobre tradwives ",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c86nj8dxzd3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 05 Sep 2026 14:32:11 GMT",
-      "tema": "cultura",
-      "resumo": "Autora lançada no Brasil critica influenciadoras conservadoras que simulam submissão enquanto administram negócios de grande vulto, livro será adaptado para cinema."
-    },
-    {
-      "titulo": "Os alertas vermelhos na campanha de Lula e as armas que ele quer usar",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c2dweydp69yo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 05 Sep 2026 17:42:29 GMT",
-      "tema": "brasil",
-      "resumo": "Campanha presidencial enfrenta desafios com crise institucional; candidato planeja estratégia em grandes colégios eleitorais e aprovação de projetos legislativos para reverter cenário."
-    },
-    {
-      "titulo": "O que se sabe sobre explosão na Bolívia que deixou ao menos 2 mortos e 81 feridos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cx2ze0nnn7do?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 05 Sep 2026 12:00:57 GMT",
-      "tema": "mundo",
-      "resumo": "Explosão na Bolívia deixa pelo menos 2 mortos e 81 feridos; buscas por desaparecidos continuam com risco de novas detonações."
-    },
-    {
-      "titulo": "Por que Brasil 'cresceu' em novo mapa  aprovado pela ONU",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvgyv1v5xjno?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 05 Sep 2026 11:06:56 GMT",
-      "tema": "brasil",
-      "resumo": "Novo mapa aprovado pela ONU corrige distorções que reduziam proporção de países equatoriais, apresentando representação mais fiel dos territórios reais."
+      "resumo": "Adolescentes chineses recorrem a medicamentos sedativos e psicoativos para lidar com ansiedade e pressão decorrente da competição acadêmica."
     },
     {
       "titulo": "Lula e Flávio aparecem empatados no 2º turno: a corrida para presidente no Agregador de Pesquisas da BBC",
@@ -205,47 +253,47 @@
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 04 Sep 2026 14:44:10 GMT",
       "tema": "brasil",
-      "resumo": "Agregador de pesquisas eleitorais da BBC acompanha intenção de voto para eleição presidencial de 2026, indicando cenário equilibrado entre os principais candidatos."
+      "resumo": "Pesquisas eleitorais mostram empate entre Lula e Flávio Bolsonaro para o segundo turno na eleição presidencial de 2026."
     },
     {
-      "titulo": "Fachin diz que meta é acabar com Inquérito das Fake News e manda tirar acusações contra Mendonça da investigação",
+      "titulo": "João Amoêdo vê Cury crescendo mais, critica silêncio do Supremo no caso Moraes e ainda não define voto",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c780jqdep1go?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 04 Sep 2026 15:49:27 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c87vpzy7lggo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 05 Sep 2026 16:43:40 GMT",
       "tema": "brasil",
-      "resumo": "Presidente do Supremo determina encerramento de investigação e ordenação de remoção de acusações relacionadas, além de solicitar manifestação da PGR sobre nova investigação."
+      "resumo": "Empresário João Amoêdo, fora da política partidária, critica postura do Supremo quanto ao caso Moraes e ainda não define seu voto para próxima eleição."
     },
     {
-      "titulo": "EUA dizem ter atacado 3 petroleiros iranianos após seus navios de guerra serem alvejados",
+      "titulo": "'Influenciadoras que fingem submissão aos maridos são as mesmas que gerenciam impérios multimilionários', diz autora de best-seller sobre tradwives ",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c9v9gr4enxwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 05 Sep 2026 16:43:24 GMT",
-      "tema": "mundo",
-      "resumo": "EUA relatam ter interceptado múltiplos ataques da Guarda Revolucionária Islâmica do Irã contra navios de guerra americanos no golfo."
+      "link": "https://www.bbc.com/portuguese/articles/c86nj8dxzd3o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 05 Sep 2026 14:32:11 GMT",
+      "tema": "cultura",
+      "resumo": "Autora americana critica influenciadoras conservadoras que fingem submissão aos maridos enquanto gerenciam impérios multimilionários em novo livro lançado no Brasil e adaptado para cinema."
     },
     {
-      "titulo": "ONU aprova novo mapa-múndi mais fiel ao tamanho real da África",
+      "titulo": "Os alertas vermelhos na campanha de Lula e as armas que ele quer usar",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3058301rl8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 05 Sep 2026 02:57:28 GMT",
-      "tema": "mundo",
-      "resumo": "ONU aprova resolução que adota novo mapa-múndi com representação mais precisa das dimensões reais dos continentes, especialmente da África, com apoio de 164 países."
-    },
-    {
-      "titulo": "Os gráficos que revelam quem são e quanto ganham os trabalhadores de aplicativos no Brasil",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3d7k452g9xo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 04 Sep 2026 15:52:20 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c2dweydp69yo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 05 Sep 2026 17:42:29 GMT",
       "tema": "brasil",
-      "resumo": "Análise sobre trabalhadores de aplicativos no Brasil mostra renda mensal comparável à média do setor privado, porém com jornadas mais extensas e ausência de direitos trabalhistas formais."
+      "resumo": "Lula busca reverter cenário de empate no segundo turno com Flávio Bolsonaro investindo em campanha nos principais colégios eleitorais e aprovação de projetos no Congresso."
     },
     {
-      "titulo": "Brasil pode sentir efeitos do 'super El Niño' na primavera; veja previsões para diferentes regiões",
+      "titulo": "Como proteger as boas bactérias da sua boca",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c93eg21nz8jo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 04 Sep 2026 17:42:30 GMT",
-      "tema": "brasil",
-      "resumo": "Previsões climáticas indicam chuvas acima da média em São Paulo, calor mais intenso no Norte e Nordeste, e risco de temporais no Sul durante a primavera."
+      "link": "https://www.bbc.com/portuguese/articles/c780ev8nvyqo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 05 Sep 2026 23:45:32 GMT",
+      "tema": "cultura",
+      "resumo": "Artigo explora a importância da microbiota oral para a saúde e recomenda alimentos que preservam a diversidade de bactérias benéficas na boca."
+    },
+    {
+      "titulo": "Por que você nunca realmente supera a época de ensino médio: 'São lembranças que voltam o tempo todo'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c7503vplpr2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 06 Sep 2026 00:21:48 GMT",
+      "tema": "cultura",
+      "resumo": "Estudo sugere que experiências do ensino médio, particularmente relacionadas à popularidade, deixam marcas duradouras na memória e consciência das pessoas."
     }
   ]
 }
