@@ -1,107 +1,91 @@
 {
-  "gerado_em": "2026-09-06T22:41:49.912Z",
+  "gerado_em": "2026-09-07T15:30:46.874Z",
   "modo": "ia",
   "clima": {
-    "max": 15,
-    "min": 10.5,
-    "chuva": 100
+    "max": 13.5,
+    "min": 10,
+    "chuva": 88
   },
   "noticias": [
     {
-      "titulo": "No Hallel, padre Marcelo Rossi celebra 31 anos de sacerdócio com mensagem de superação pela fé: 'Tocar as feridas'",
+      "titulo": "Em meio à crise no STF, desfile de 7 de Setembro tem conversas reservadas e encontros entre autoridades",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/06/no-hallel-padre-marcelo-rossi-celebra-31-anos-de-sacerdocio-com-mensagem-de-superacao-pela-fe-tocar-as-feridas.ghtml",
-      "hora": "Sun, 06 Sep 2026 22:24:39 -0000",
-      "tema": "cultura",
-      "resumo": "Padre Marcelo Rossi celebra 31 anos de ordenação sacerdotal durante participação no evento Hallel em Franca, refletindo sobre fé e superação ao longo de sua trajetória religiosa."
-    },
-    {
-      "titulo": "Carro de PM encontrado após ser furtado foi negociado entre diferentes pessoas, diz polícia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/09/06/carro-de-pm-encontrado-apos-ser-furtado-foi-negociado-entre-diferentes-pessoas-diz-policia.ghtml",
-      "hora": "Sun, 06 Sep 2026 22:20:24 -0000",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/07/em-meio-a-crise-no-stf-desfile-de-7-de-setembro-tem-conversas-reservadas-e-encontros-entre-autoridades.ghtml",
+      "hora": "Mon, 07 Sep 2026 15:20:19 -0000",
       "tema": "brasil",
-      "resumo": "Carro de policial militar furtado durante cerimônia de promoção foi negociado entre várias pessoas, conforme revelado pela investigação da Polícia Civil."
+      "resumo": "Autoridades marcaram presença no desfile de 7 de Setembro com conversas reservadas e encontros nos bastidores, em meio a tensões institucionais no STF."
     },
     {
-      "titulo": "Barbeiro que estava em camarote que cedeu e deixou mais de 20 feridos relata superlotação: 'Isso vira notícia amanhã'",
+      "titulo": "Grito dos Excluídos: manifestantes pedem direito à moradia e denunciam violência contra a mulher",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/06/barbeiro-que-estava-em-camarote-que-cedeu-e-deixou-mais-de-20-feridos-relata-superlotacao-isso-vira-noticia-amanha.ghtml",
-      "hora": "Sun, 06 Sep 2026 22:17:12 -0000",
-      "tema": "sp",
-      "resumo": "Camarote parcialmente cedeu durante Festa do Peão em Campo Limpo Paulista deixando mais de 20 feridos; investigação aponta superlotação da estrutura como possível causa."
-    },
-    {
-      "titulo": "Itaquá Rodeio Fest começa nesta quinta-feira (10); veja shows",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/09/06/itaqua-rodeio-fest-comeca-nesta-quinta-feira-10-veja-shows.ghtml",
-      "hora": "Sun, 06 Sep 2026 22:16:37 -0000",
-      "tema": "sp",
-      "resumo": "Itaquá Rodeio Fest começa quinta-feira com shows de Gusttavo Lima, Sorriso Maroto e Matuê após adiamento por alerta de temporal."
-    },
-    {
-      "titulo": "Motorista embriagado dorme ao volante, invade contramão e deixa cinco feridos na BR-494, em MG",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/09/06/motorista-embriagado-dorme-ao-volante-invade-contramao-e-deixa-cinco-feridos-na-br-494-em-mg.ghtml",
-      "hora": "Sun, 06 Sep 2026 22:08:41 -0000",
+      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/09/07/grito-dos-excluidos-manifestantes-pedem-direito-a-moradia-e-denunciam-violencia-contra-a-mulher.ghtml",
+      "hora": "Mon, 07 Sep 2026 15:19:48 -0000",
       "tema": "brasil",
-      "resumo": "Motorista alcoolizado provocou acidente entre carro e minivan na BR-494 em Minas Gerais, deixando cinco feridos após dormir ao volante e invadir contramão."
+      "resumo": "A 32ª edição do Grito dos Excluídos reuniu manifestantes que reivindicaram direito à moradia e denunciaram violência contra mulheres no Centro do Recife."
     },
     {
-      "titulo": "Caminhão bate em muro de casa e motorista fica ferido em Paulínia",
+      "titulo": "Candidata ao governo de SP, Vivian Mendes defende reestatização de serviços e polícia comunitária",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/06/caminhao-bate-em-muro-de-casa-e-motorista-fica-ferido-em-paulinia.ghtml",
-      "hora": "Sun, 06 Sep 2026 22:07:40 -0000",
+      "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/09/07/candidata-ao-governo-de-sp-vivian-mendes-defende-reestatizacao-de-servicos-e-policia-comunitaria.ghtml",
+      "hora": "Mon, 07 Sep 2026 15:19:33 -0000",
       "tema": "sp",
-      "resumo": "Caminhão bateu em muro de residência em Paulínia, deixando motorista ferido e atingindo três veículos estacionados e em garagem."
+      "resumo": "Candidata ao governo de SP apresenta propostas de reestatização de serviços públicos e criação de polícia comunitária com participação popular."
     },
     {
-      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao Governo do Piauí neste domingo (6)",
+      "titulo": "Candidato do Democracia Cristã ao Senado pelo AM, Dailson Corrêa defende mudanças em leis ambientais",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/06/dia-candidatos-domingo-6.ghtml",
-      "hora": "Sun, 06 Sep 2026 22:02:36 -0000",
+      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/07/candidato-do-democracia-crista-ao-senado-pelo-am-dailson-correa-defende-mudancas-em-leis-ambientais.ghtml",
+      "hora": "Mon, 07 Sep 2026 15:12:50 -0000",
       "tema": "brasil",
-      "resumo": "Candidatos ao governo do Piauí cumprem agendas de campanha em Teresina com visitas, carreatas e atividades para eleição prevista em outubro."
+      "resumo": "Candidato ao Senado pelo Amazonas defende mudanças em leis ambientais e regularização fundiária como estratégia de desenvolvimento econômico."
     },
     {
-      "titulo": "BaianaSystem engrandece cultura popular em show dirigido por Alice Carvalho no Rock in Rio",
+      "titulo": "Candidato do PSTU ao Senado pelo AM, Evandro de Oliveira defende fim das privatizações",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/06/baianasystem-engrandece-cultura-popular-em-show-dirigido-por-alice-carvalho-no-rock-in-rio.ghtml",
-      "hora": "Sun, 06 Sep 2026 22:01:42 -0000",
-      "tema": "cultura",
-      "resumo": "BaianaSystem se apresenta no palco Sunset do Rock in Rio 2026, homenageando tradições e apresentando seus principais sucessos."
-    },
-    {
-      "titulo": "Rock in Rio 2026: Rapper Nelly sobe ao Palco Mundo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml",
-      "hora": "Sun, 06 Sep 2026 22:00:26 -0000",
-      "tema": "cultura",
-      "resumo": "Rapper Nelly se apresenta no Palco Mundo do Rock in Rio 2026 ao lado de Calvin Harris, Black Eyed Peas e Ne-Yo no domingo."
-    },
-    {
-      "titulo": "Veja agenda de campanha dos candidatos ao governo de MG neste domingo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/06/veja-agenda-de-campanha-dos-candidatos-ao-governo-de-mg-neste-domingo.ghtml",
-      "hora": "Sun, 06 Sep 2026 22:00:00 -0000",
+      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/07/candidato-do-pstu-ao-senado-pelo-am-evandro-de-oliveira-defende-fim-das-privatizacoes.ghtml",
+      "hora": "Mon, 07 Sep 2026 15:12:32 -0000",
       "tema": "brasil",
-      "resumo": "Candidatos ao governo de Minas Gerais participam de encontros com eleitores e eventos de campanha; primeiro turno eleitoral será em outubro."
+      "resumo": "Candidato ao Senado pelo Amazonas propõe fim das privatizações de empresas públicas e fortalecimento de serviços ofertados pelo Estado."
     },
     {
-      "titulo": "Setlist do Black Eyed Peas no Rock in Rio: veja como pode ser show do grupo no festival",
+      "titulo": "Candidata do Psol ao Senado pelo AM, Professora Evany quer ampliar voz do Amazonas nas decisões nacionais",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/06/setlist-do-black-eyed-peas-no-rock-in-rio-veja-como-pode-ser-show-do-grupo-no-festival.ghtml",
-      "hora": "Sun, 06 Sep 2026 22:00:00 -0000",
-      "tema": "cultura",
-      "resumo": "Black Eyed Peas, formado por Will.I.Am, Taboo e Apl.de.Ap, se apresenta no Rock in Rio 2026 com principais sucessos da carreira."
+      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/07/candidata-do-psol-ao-senado-pelo-am-professora-evany-quer-ampliar-voz-do-amazonas-nas-decisoes-nacionais.ghtml",
+      "hora": "Mon, 07 Sep 2026 15:12:22 -0000",
+      "tema": "brasil",
+      "resumo": "Candidata ao Senado pelo Amazonas defende proteção à floresta, povos indígenas e populações tradicionais, além de ampliar representação regional nas decisões nacionais."
     },
     {
-      "titulo": "Dia da Independência: veja o que abre e fecha em Piracicaba e Limeira",
+      "titulo": "Candidato do Mobiliza ao Senado pelo AM, Xuxa do Amazonas propõe descentralizar saúde",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/06/dia-da-independencia-veja-o-que-abre-e-fecha-em-piracicaba-e-limeira.ghtml",
-      "hora": "Sun, 06 Sep 2026 21:56:55 -0000",
+      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/07/candidato-do-mobiliza-ao-senado-pelo-am-xuxa-do-amazonas-propoe-descentralizar-saude.ghtml",
+      "hora": "Mon, 07 Sep 2026 15:12:15 -0000",
+      "tema": "brasil",
+      "resumo": "Candidato ao Senado pelo Amazonas propõe descentralização dos serviços de saúde e investimentos em educação e esporte."
+    },
+    {
+      "titulo": "Candidato ao Senado pelo AM, Ismael Munduruku defende BR com governança ambiental e consulta indígena",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/07/candidato-ao-senado-pelo-am-ismael-munduruku-defende-br-com-governanca-ambiental-e-consulta-indigena.ghtml",
+      "hora": "Mon, 07 Sep 2026 15:11:28 -0000",
+      "tema": "brasil",
+      "resumo": "Candidato indígena ao Senado pelo Amazonas defende desenvolvimento econômico voltado para povos indígenas e ribeirinhos, com governança ambiental e consulta prévia."
+    },
+    {
+      "titulo": "Candidato do PCB ao governo de SP, Carlos Machado quer desmilitarizar a polícia e reestatizar a Sabesp",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/eleicoes/2026/noticia/2026/09/07/candidato-do-pcb-ao-governo-de-sp-carlos-machado-quer-desmilitarizar-a-policia-e-reestatizar-a-sabesp.ghtml",
+      "hora": "Mon, 07 Sep 2026 15:07:10 -0000",
       "tema": "sp",
-      "resumo": "Comércio, serviços públicos e saúde em Piracicaba e Limeira funcionarão com horários alterados na segunda-feira devido ao feriado de Independência."
+      "resumo": "Candidato ao governo de SP propõe desmilitarização da polícia e reestatização da Sabesp como prioridades de sua campanha."
+    },
+    {
+      "titulo": "Drogas são encontradas embaixo de telhado de casa e em tonel enterrado em Itaperuna",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/09/07/drogas-sao-encontradas-embaixo-de-telhado-de-casa-e-em-tonel-enterrado-em-itaperuna.ghtml",
+      "hora": "Mon, 07 Sep 2026 15:04:08 -0000",
+      "tema": "brasil",
+      "resumo": "Polícia Militar apreende grande quantidade de drogas em operação de combate ao tráfico em Itaperuna, com entorpecentes encontrados escondidos em casa e enterrados em área de mata."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -109,7 +93,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival Bike Brasil na Zona Sul de São Paulo reúne ciclistas profissionais e amadores com competições de manobras e atividades para crianças."
+      "resumo": "Festival de bicicletas na Zona Sul de São Paulo reúne ciclistas profissionais e amadores para competições de manobras e atividades para crianças."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -117,7 +101,7 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado percorre 20 quilômetros de bicicleta e aguarda 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
+      "resumo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas no interior de São Paulo."
     },
     {
       "titulo": "'Não foi uma fatalidade', diz viúva de homem morto em acidente no Beach Park",
@@ -125,15 +109,15 @@
       "link": "https://g1.globo.com/ce/ceara/noticia/2018/07/23/nao-foi-uma-fatalidade-diz-viuva-de-homem-morto-em-acidente-no-beach-park.ghtml",
       "hora": "Mon, 23 Jul 2018 00:24:35 -0000",
       "tema": "brasil",
-      "resumo": "Viúva de radialista morto em toboágua do Beach Park afirma em entrevista que o acidente foi resultado de irresponsabilidade e não fatalidade."
+      "resumo": "Viúva de radialista morto em acidente em parque aquático questiona segurança do equipamento, descrevendo o ocorrido como resultado de irresponsabilidade."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "sp",
-      "resumo": "Zé Ramalho apresenta seus sucessos e canções de Raul Seixas durante a 39ª edição da Festa Junina de Sorocaba."
+      "tema": "cultura",
+      "resumo": "Zé Ramalho apresenta sucessos de sua carreira e canções de Raul Seixas na 39ª Festa Junina de Sorocaba."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
@@ -141,7 +125,7 @@
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "brasil",
-      "resumo": "Polícia Rodoviária Federal apreende 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo; motorista confessou tráfico."
+      "resumo": "Polícia Rodoviária Federal apreende 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -149,15 +133,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Terceira edição da Festa Junina Canina em Jundiaí oferece entrada gratuita com brincadeiras e atividades para cães e gatos."
+      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina com brincadeiras e atividades gratuitas para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
-      "tema": "cultura",
-      "resumo": "Maior Baile do Mundo em São Paulo reúne 35 mil pessoas para 10 horas de shows com Anitta e MCs, celebrando as músicas mais ouvidas da internet brasileira."
+      "tema": "sp",
+      "resumo": "Festival de música em São Paulo reúne artistas como Anitta e MCs em evento que espera reunir 35 mil pessoas com 10 horas de shows."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -165,7 +149,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "Partido Socialista dos Trabalhadores Unificado oficializa a militante sindical Vera Lúcia como candidata à Presidência da República."
+      "resumo": "PSTU oficializa Vera Lúcia, militante sindical, como candidata à Presidência da República."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -173,7 +157,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "Décima quinta edição da Feiccad, feira de imóveis e construção civil, ocorre até domingo em Jundiaí com entrada gratuita mediante credenciamento."
+      "resumo": "15ª edição de feira sobre construção civil, imóveis e decoração ocorre em Jundiaí com entrada gratuita mediante credenciamento."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -181,7 +165,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos do Executivo, com inscrições até 31 de julho."
+      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diversos cargos da administração municipal."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -189,7 +173,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem que saiu de Campinas em busca de trabalho no Paraguai reencontra a família após 37 anos morando nas ruas, graças a um boletim de ocorrência."
+      "resumo": "Homem em situação de rua em Campinas reencontra família após 37 anos de separação, encontro possibilitado por um boletim de ocorrência."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -197,103 +181,111 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Motorista de 75 anos, pai de um monsenhor que será ordenado bispo em Itapetininga, morre em acidente de trânsito em Capela do Alto."
+      "resumo": "Pai de monsenhor de Itapetininga morre em acidente de trânsito em Capela do Alto dias antes do filho ser ordenado bispo."
     },
     {
-      "titulo": "O que esperam os 6 milhões de afegãos deportados de volta ao país governado pelo Talibã",
+      "titulo": "Crise do STF embala 7 de setembro e vira trunfo para Flávio Bolsonaro tentar recuperar força eleitoral",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c9qrjzr5n0no?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 06 Sep 2026 18:04:27 GMT",
-      "tema": "mundo",
-      "resumo": "Aproximadamente 6 milhões de afegãos foram deportados para o país governado pelo Talibã, com mais de 1 milhão retornando este ano do Paquistão e Irã."
+      "link": "https://www.bbc.com/portuguese/articles/c87vpnpel9jo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 07 Sep 2026 07:54:58 GMT",
+      "tema": "brasil",
+      "resumo": "Flávio Bolsonaro aposta no desgaste institucional para mobilizar eleitores bolsonaristas na campanha para 2026, onde simula empate contra Lula."
     },
     {
-      "titulo": "Pesquisas de boca de urna apontam grande vitória da direita radical em Estado da Alemanha",
+      "titulo": "O dilema da Europa após direita radical na Alemanha obter vitória inédita desde a 2ª Guerra",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crr4q7zj985o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 07 Sep 2026 09:19:43 GMT",
+      "tema": "mundo",
+      "resumo": "Após vitória eleitoral da direita radical na Alemanha, União Europeia se preocupa com possível avanço de partidos extremistas em eleições previstas para os próximos meses em países-chave."
+    },
+    {
+      "titulo": "Dia da independência do Brasil: a mulher que assinou separação de Portugal e foi a primeira a governar o país",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c93v9l32r3ko?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 07 Sep 2026 08:58:20 GMT",
+      "tema": "brasil",
+      "resumo": "Maria Leopoldina se tornou a primeira mulher a governar o Brasil ao exercer a regência durante o processo de independência em 1822."
+    },
+    {
+      "titulo": "O matemático que passou 7 anos tentando resolver problema solucionado por amador com IA",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c4gkd6qp22no?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 07 Sep 2026 14:11:47 GMT",
+      "tema": "mundo",
+      "resumo": "Um matemático amador conseguiu resolver um problema clássico que um pesquisador de Stanford tentava solucionar há sete anos, com auxílio de inteligência artificial."
+    },
+    {
+      "titulo": "Por que Keiko Fujimori declarou estado de emergência em prisões peruanas e o que ela quer com a medida",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c5y4lk1mv1mo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 07 Sep 2026 11:10:56 GMT",
+      "tema": "mundo",
+      "resumo": "Keiko Fujimori declarou estado de emergência em presídios peruanos para combater atividades criminosas coordenadas por líderes encarcerados."
+    },
+    {
+      "titulo": "A rede de propaganda pró-Rússia que explora violência sexual e usa mulheres do Exército ucraniano como isca",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c93ekydj3q1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 07 Sep 2026 12:54:49 GMT",
+      "tema": "mundo",
+      "resumo": "Canais russos no Telegram usam falsas acusações de abuso sexual e imagens de mulheres do Exército ucraniano para atrair usuários a conteúdos pró-guerra."
+    },
+    {
+      "titulo": "O incessante aumento da proibição de livros nas escolas públicas dos EUA",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cde0202dl49o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 07 Sep 2026 10:13:30 GMT",
+      "tema": "mundo",
+      "resumo": "Bibliotecas de escolas públicas americanas enfrentam intenso conflito ideológico sobre quais livros devem estar disponíveis aos alunos, com crescimento de censuras."
+    },
+    {
+      "titulo": "Como o Dia da Independência apagou a memória da luta negra por independência e abolição",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c0j3ppkk054o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 07 Sep 2026 08:11:21 GMT",
+      "tema": "brasil",
+      "resumo": "Historiadores ressaltam que movimentos pela independência e abolição anteriores a 1822 foram suprimidos, com seus líderes executados, sendo essa memória apagada pela data oficial."
+    },
+    {
+      "titulo": "Lula e Flávio aparecem empatados no 2º turno: a corrida para presidente no Agregador de Pesquisas da BBC",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 07 Sep 2026 12:46:36 GMT",
+      "tema": "brasil",
+      "resumo": "Agregador de pesquisas eleitorais da BBC acompanha simulações de segundo turno para 2026 entre Lula e Flávio Bolsonaro com resultado em empate."
+    },
+    {
+      "titulo": "Por que o Brasil continuou um só enquanto a América espanhola se dividiu em vários países?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c3gjpmvkv5eo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 07 Sep 2026 08:21:49 GMT",
+      "tema": "brasil",
+      "resumo": "Historiadores explicam as razões pelas quais o Brasil permaneceu unificado enquanto os territórios espanhóis na América se fragmentaram em diversos países."
+    },
+    {
+      "titulo": "Direita radical na Alemanha tem vitória estadual inédita desde a 2ª Guerra Mundial, mas não consegue maioria para formar governo",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cqlw2ldp5w9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 06 Sep 2026 16:44:26 GMT",
+      "hora": "Mon, 07 Sep 2026 07:04:04 GMT",
       "tema": "mundo",
-      "resumo": "Pesquisas de boca de urna indicam resultado expressivo da direita radical alemã na Saxônia-Anhalt, com o partido AfD superando significativamente a CDU."
+      "resumo": "O partido alemão AfD obtém resultado histórico em eleição estadual desde a Segunda Guerra Mundial, mas não consegue maioria para formar governo."
     },
     {
       "titulo": "'Império esquecido': a época em que a Rússia colonizou a Califórnia",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cvgy4djlzldo?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 06 Sep 2026 20:48:33 GMT",
-      "tema": "cultura",
-      "resumo": "Durante cerca de 30 anos na primeira metade do século 19, o Império Russo administrou parte do condado de Sonoma na Califórnia, influenciando a formação dos Estados Unidos."
-    },
-    {
-      "titulo": "Por que medir qualidade do sono pode estar fazendo você dormir pior",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cew9gx2pnklo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 06 Sep 2026 19:00:22 GMT",
-      "tema": "cultura",
-      "resumo": "Estudos indicam que medir constantemente a qualidade do sono pode prejudicar a capacidade de descanso, criando um ciclo contraproducente."
-    },
-    {
-      "titulo": "Eleição na Alemanha: como direita radical planeja mudar o país após provável vitória na Saxônia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjrx7xl1pvwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 06 Sep 2026 16:59:18 GMT",
       "tema": "mundo",
-      "resumo": "A possível vitória de um partido de direita radical na Saxônia-Anhalt marcaria a primeira vez desde a Segunda Guerra que tal força política assume poder estadual na Alemanha."
+      "resumo": "Parte do condado de Sonoma na Califórnia foi administrada pelo império russo durante cerca de 30 anos na primeira metade do século 19, episódio pouco conhecido que influenciou a história americana."
     },
     {
-      "titulo": "Por que disputa pelas Malvinas voltou ao centro da política na Argentina? A resposta tem a ver com petróleo",
+      "titulo": "O que esperam os 6 milhões de afegãos deportados de volta ao país governado pelo Talebã",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3058em249no?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 06 Sep 2026 13:26:22 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c9qrjzr5n0no?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 06 Sep 2026 18:04:27 GMT",
       "tema": "mundo",
-      "resumo": "O presidente argentino coloca a disputa pelas Malvinas como prioridade política, buscando recuperar popularidade; a presença de petróleo na região aumenta a importância estratégica do território."
-    },
-    {
-      "titulo": "Lula e Flávio aparecem empatados no 2º turno: a corrida para presidente no Agregador de Pesquisas da BBC",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 04 Sep 2026 14:44:10 GMT",
-      "tema": "brasil",
-      "resumo": "Agregador de pesquisas eleitorais da BBC mostra Lula e Flávio empatados em simulações de segundo turno para a eleição presidencial de 2026."
-    },
-    {
-      "titulo": "Sem luz, água, nem transporte: as frustrações da minha vida em Cuba e seus apagões",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c74ekv4emn9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 06 Sep 2026 12:28:03 GMT",
-      "tema": "mundo",
-      "resumo": "Jovem historiador de arte em Havana relata como os apagões e crises de infraestrutura em Cuba reconfigurem a vida cotidiana e perspectivas futuras da população."
-    },
-    {
-      "titulo": "'EUA em primeiro lugar': como Trump troca diplomacia por aliados políticos e tensiona a relação com o Brasil",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cd9w5yk7wxdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 05 Sep 2026 17:32:41 GMT",
-      "tema": "brasil",
-      "resumo": "Desde o início de seu segundo mandato, Trump substitui diplomacia tradicional por aliados políticos no Departamento de Estado, criando tensões nas relações com o Brasil."
-    },
-    {
-      "titulo": "Sem polícia nos gabinetes: o pedido de Gilmar Mendes que expõe tensão entre ministros do Supremo",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cg49vnnk606o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 05 Sep 2026 23:23:38 GMT",
-      "tema": "brasil",
-      "resumo": "Ministro Gilmar Mendes propõe alteração no Regimento Interno do Supremo Tribunal Federal em meio a crise institucional sem precedentes na história da Corte."
-    },
-    {
-      "titulo": "'Ou o Supremo julga Moraes ou o Congresso julga', diz jurista Joaquim Falcão",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c0m39rw19keo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 04 Sep 2026 17:08:53 GMT",
-      "tema": "brasil",
-      "resumo": "Constitucionalista Joaquim Falcão defende que ministro Moraes se demita para apaziguar crise, argumentando que apenas o Supremo ou o Congresso podem resolver o impasse."
-    },
-    {
-      "titulo": "Vulcão 'filhote do Krakatoa' entra em erupção na Indonésia, afeta voos na Ásia e deixa 150 mil passageiros retidos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ce3090wv8k2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 06 Sep 2026 11:17:51 GMT",
-      "tema": "mundo",
-      "resumo": "Erupção de vulcão na Indonésia provoca interrupção massiva de voos na Ásia, deixando aproximadamente 150 mil passageiros retidos em aeroportos da região."
+      "resumo": "Seis milhões de afegãos enfrentam deportação forçada de volta ao país sob governo do Talebã, com mais um milhão retornando este ano do Paquistão e Irã."
     }
   ]
 }
