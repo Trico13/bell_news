@@ -1,59 +1,67 @@
 {
-  "gerado_em": "2026-09-07T23:16:57.650Z",
+  "gerado_em": "2026-09-08T14:09:23.978Z",
   "modo": "ia",
   "clima": {
-    "max": 14.5,
-    "min": 10,
-    "chuva": 88
+    "max": 20.5,
+    "min": 11.6,
+    "chuva": 98
   },
   "noticias": [
     {
-      "titulo": "Candidatos ao GDF fazem campanha em feiras, eventos e ação social nesta segunda",
+      "titulo": "Incêndio em Capanema: Vítimas são homenageadas em culto ecumênico  ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/07/candidatos-ao-gdf-fazem-campanha-em-feiras-eventos-e-ato-social-nesta-segunda.ghtml",
-      "hora": "Mon, 07 Sep 2026 22:55:04 -0000",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/09/08/incendio-em-capanema-vitimas-sao-homenageadas-em-culto-ecumenico.ghtml",
+      "hora": "Tue, 08 Sep 2026 14:00:43 -0000",
       "tema": "brasil",
-      "resumo": "Candidatos ao governo do Distrito Federal cumprem agendas de campanha em feiras e eventos, apresentando propostas aos eleitores."
+      "resumo": "Moradores de Capanema, no Pará, realizaram culto ecumênico em homenagem às quatro vítimas de um incêndio que atingiu um prédio na região."
     },
     {
-      "titulo": "Rock in Rio 2026: Melly se apresenta no palco Supernova",
+      "titulo": "IFPA abre 23 vagas remanescentes para curso técnico em Agropecuária em Bragança",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml",
-      "hora": "Mon, 07 Sep 2026 22:54:05 -0000",
-      "tema": "cultura",
-      "resumo": "Rock in Rio 2026 segue sua programação com apresentações de artistas como Melly, Elton John e Gilberto Gil no festival que acontece até o dia 13."
+      "link": "https://g1.globo.com/pa/para/noticia/2026/09/08/ifpa-abre-23-vagas-remanescentes-para-curso-tecnico-em-agropecuaria-em-braganca.ghtml",
+      "hora": "Tue, 08 Sep 2026 14:00:27 -0000",
+      "tema": "brasil",
+      "resumo": "O Instituto Federal do Pará abre processo seletivo para 23 vagas remanescentes no curso técnico de Agropecuária em Bragança, na modalidade subsequente."
     },
     {
-      "titulo": "Eleições 2026: saiba como foi o dia do candidato Eduardo Braide ao governo do Maranhão",
+      "titulo": "Mais da metade dos veículos importados no Brasil vem da China",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-saiba-como-foi-o-dia-do-candidato-eduardo-braide-ao-governo-do-maranhao.ghtml",
-      "hora": "Mon, 07 Sep 2026 22:52:05 -0000",
+      "link": "https://g1.globo.com/carros/noticia/2026/09/08/resultado-producao-anfavea.ghtml",
+      "hora": "Tue, 08 Sep 2026 14:00:01 -0000",
       "tema": "brasil",
-      "resumo": "Candidatos ao governo do Maranhão realizam campanha no estado apresentando propostas aos eleitores em São Luís."
+      "resumo": "A produção de veículos no Brasil atingiu 271,2 mil unidades em agosto, o melhor desempenho mensal desde outubro de 2019, com importações chinesas representando mais da metade dos veículos importados."
     },
     {
-      "titulo": "Desfile cívico, inauguração de comitê e presença em ato: veja como foi o dia dos candidatos ao governo da Paraíba",
+      "titulo": "Ponte Leonel Brizola tem operação especial para pedestres e ciclistas em Campos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/07/veja-como-foi-o-dia-dos-candidatos-ao-governo-da-paraiba-nesta-segunda-feira-7.ghtml",
-      "hora": "Mon, 07 Sep 2026 22:51:46 -0000",
+      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/09/08/ponte-leonel-brizola-tem-operacao-especial-para-pedestres-e-ciclistas-em-campos.ghtml",
+      "hora": "Tue, 08 Sep 2026 13:55:30 -0000",
       "tema": "brasil",
-      "resumo": "Candidatos ao governo da Paraíba participam de desfiles cívicos e atos de campanha em diferentes locais do estado."
+      "resumo": "A Ponte Leonel Brizola em Campos dos Goytacazes passa a ter operação especial para pedestres e ciclistas enquanto a Ponte Barcelos Martins permanece interditada."
     },
     {
-      "titulo": "Policial que matou jovem a tiros no Natal de 2024 é condenado a mais de 17 anos de prisão em Manaus",
+      "titulo": "Recém-nascida consegue transferência após 5 dias com rim paralisado em MT",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/07/policial-que-matou-jovem-a-tiros-no-natal-de-2024-e-condenado-a-mais-de-17-anos-de-prisao-em-manaus.ghtml",
-      "hora": "Mon, 07 Sep 2026 22:50:26 -0000",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/08/recem-nascida-consegue-transferencia-apos-5-dias-com-rim-paralisado-em-mt.ghtml",
+      "hora": "Tue, 08 Sep 2026 13:53:20 -0000",
       "tema": "brasil",
-      "resumo": "Um policial militar em Manaus é condenado a mais de 17 anos de prisão pela morte de um jovem ocorrida em festa de Natal."
+      "resumo": "Recém-nascida internada com insuficiência renal aguda foi transferida de um hospital em Colíder (MT) para uma UTI pediátrica especializada no tratamento de problemas renais."
     },
     {
-      "titulo": "Eleições 2026 em SC: João Rodrigues ouve reivindicações de moradores em Florianópolis ",
+      "titulo": "Homem é preso após arrombar chafariz e furtar peça em Volta Redonda",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/07/eleicoes-2026-em-sc-joao-rodrigues-ouve-reivindicacoes-de-moradores-em-florianopolis.ghtml",
-      "hora": "Mon, 07 Sep 2026 22:42:02 -0000",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/08/homem-e-preso-apos-arrombar-chafariz-e-furtar-peca-em-volta-redonda.ghtml",
+      "hora": "Tue, 08 Sep 2026 13:50:54 -0000",
       "tema": "brasil",
-      "resumo": "Candidato ao governo de Santa Catarina cumpre agenda de campanha em Florianópolis, ouvindo reivindicações de moradores."
+      "resumo": "Um homem foi preso em flagrante após arrombar e furtar uma peça hidráulica do chafariz de uma praça em Volta Redonda (RJ)."
+    },
+    {
+      "titulo": "Acidente entre carreta e caminhão deixa motorista gravemente ferido na Washington Luís",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/08/acidente-washington-luis.ghtml",
+      "hora": "Tue, 08 Sep 2026 13:50:39 -0000",
+      "tema": "sp",
+      "resumo": "Um caminhoneiro ficou gravemente ferido após acidente entre dois veículos de carga na Rodovia Washington Luís em Santa Adélia (SP)."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -61,7 +69,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival de bikes acontece na Zona Sul de São Paulo reunindo ciclistas profissionais e amadores para competições e atividades diversas."
+      "resumo": "O festival Bike Brasil acontece na Zona Sul de São Paulo com competições de manobras, atividades para crianças e participação de ciclistas profissionais e amadores."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -69,7 +77,7 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado percorre 20 km de bicicleta e enfrenta fila de 12 horas para concorrer a uma de 500 vagas de emprego oferecidas em Bauru."
+      "resumo": "Um desempregado pedalou 20 km e aguardou 12 horas em fila em Bauru para concorrer a uma das 500 vagas de emprego oferecidas."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -77,15 +85,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "cultura",
-      "resumo": "Zé Ramalho apresenta sucessos da carreira e interpretações de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
-    },
-    {
-      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
-      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
-      "tema": "sp",
-      "resumo": "Polícia Rodoviária Federal apreende 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo; motorista confessou tráfico."
+      "resumo": "Zé Ramalho apresentou sucessos de sua carreira e canções de Raul Seixas na 39ª edição da Festa Junina de Sorocaba (SP)."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -93,7 +93,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí recebe a 3ª edição da Festa Junina Canina com entrada gratuita, oferecendo brincadeiras e atividades para cães e gatos."
+      "resumo": "A 3ª edição da Festa Junina Canina de Jundiaí oferece entrada gratuita com brincadeiras e atividades voltadas para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -101,7 +101,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "cultura",
-      "resumo": "Maior Baile do Mundo, festival em São Paulo com Anitta e outros artistas, espera reunir 35 mil pessoas para 10 horas de shows."
+      "resumo": "O festival Maior Baile do Mundo acontece em São Paulo com Anitta e MCs, esperando reunir 35 mil pessoas em 10 horas de shows."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -109,7 +109,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "PSTU oficializa a candidatura de Vera Lúcia, militante sindical, à Presidência da República nas eleições."
+      "resumo": "O Partido Socialista dos Trabalhadores Unificado oficializa Vera Lúcia, militante sindical, como candidata à Presidência da República."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -117,7 +117,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "15ª edição da Feiccad, feira de imóvel, construção e decoração, acontece em Jundiaí com entrada gratuita até domingo."
+      "resumo": "A 15ª edição da Feiccad (Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração) ocorre em Jundiaí com entrada gratuita até domingo."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -125,7 +125,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diferentes áreas da administração até o final de julho, com provas a serem realizadas na cidade."
+      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diversos cargos administrativos, com provas realizadas na própria cidade."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -133,7 +133,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência registrado quando sofreu roubo."
+      "resumo": "Morador de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência que permitiu rastreá-lo."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -141,23 +141,78 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Motorista de 75 anos morre em acidente de trânsito em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
+      "resumo": "Pai de monsenhor que seria ordenado bispo em Itapetininga morre em acidente de trânsito em Capela do Alto dias antes da cerimônia religiosa."
     },
     {
-      "titulo": "Beach Park diz que checa peso e altura dos visitantes nos brinquedos; testemunha nega",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2018/07/19/beach-park-diz-que-checa-peso-e-altura-dos-visitantes-nos-brinquedos-testemunha-nega.ghtml",
-      "hora": "Thu, 19 Jul 2018 21:48:36 -0000",
-      "tema": "sp",
-      "resumo": "Parque aquático Beach Park esclarece sobre protocolos de segurança após morte de visitante em toboágua, enquanto testemunha contesta informações do estabelecimento."
-    },
-    {
-      "titulo": "Ato de Flávio Bolsonaro na av. Paulista vira protesto contra Moraes e reúne quase 30 mil: 'Última semana me fez estar aqui'",
+      "titulo": "STF tem maioria pelo afastamento de diretor-geral da PF, mas julgamento está suspenso por Gilmar Mendes; acompanhe",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c0j34vd8x3no?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 07 Sep 2026 22:01:48 GMT",
+      "link": "https://www.bbc.co.uk/portuguese/live/cqx2zxy6eg0kt?at_medium=RSS&at_campaign=rss",
       "tema": "brasil",
-      "resumo": "Ato político na avenida Paulista reuniu cerca de 30 mil pessoas em protesto contra decisões de integrante do Supremo Tribunal Federal."
+      "resumo": "STF tem maioria para afastar diretor-geral da PF, mas julgamento foi suspenso por Gilmar Mendes que solicitou vista do processo."
+    },
+    {
+      "titulo": "Por que André Mendonça determinou o afastamento do diretor-geral da PF, Andrei Rodrigues",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c5yw3pvzreeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 08 Sep 2026 13:39:35 GMT",
+      "tema": "brasil",
+      "resumo": "Ministro André Mendonça determinou o afastamento do diretor-geral da PF em contexto de investigação solicitada pelo ministro Alexandre de Moraes."
+    },
+    {
+      "titulo": "A carta de 13 ministros aposentados do STF para Edson Fachin: 'mais aguda crise' e 'imediata e rigorosa apuração'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c39mzex0882o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 08 Sep 2026 11:09:07 GMT",
+      "tema": "brasil",
+      "resumo": "Treze ministros aposentados do STF, incluindo Celso de Mello e Rosa Weber, pedem ao presidente Edson Fachin uma resposta rigorosa diante de crise institucional na Corte."
+    },
+    {
+      "titulo": "Caso Master pode ser anulado por causa de crise entre ministros do STF?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cx2z0v90eydo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 08 Sep 2026 07:45:55 GMT",
+      "tema": "brasil",
+      "resumo": "Criminalista aponta que crise entre ministros do STF pode resultar na anulação do Caso Master e de operações como a Compliance Zero."
+    },
+    {
+      "titulo": "Quais países da América Latina têm educação melhor do que o Brasil, segundo o ranking Pisa",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cx2z9n0853wo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 08 Sep 2026 13:33:23 GMT",
+      "tema": "brasil",
+      "resumo": "Ranking Pisa mostra que Chile, Uruguai e Costa Rica têm desempenho superior ao Brasil em educação nas áreas de ciências, leitura, matemática e resolução de problemas."
+    },
+    {
+      "titulo": "Reino Unido anuncia sanções inéditas contra assentamentos israelenses e acusa colonos de 'limpeza étnica'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cly53nyz3vjo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 08 Sep 2026 13:57:30 GMT",
+      "tema": "mundo",
+      "resumo": "Reino Unido anuncia sanções inéditas contra assentamentos israelenses na Cisjordânia, acusando colonos de práticas de limpeza étnica contra palestinos."
+    },
+    {
+      "titulo": "'Acreditei em tudo o que disseram': a mulher que alugou apartamento a condenados pelos ataques do 11 de Setembro",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c74ewjxpvnyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 08 Sep 2026 10:23:19 GMT",
+      "tema": "mundo",
+      "resumo": "Mulher que alugou apartamento a membros da al-Qaeda envolvidos nos ataques de 11 de setembro fala publicamente pela primeira vez sobre o ocorrido."
+    },
+    {
+      "titulo": "As obras de Renoir roubadas em invasão a museu no sul da França",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c0revk5qn0go?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 08 Sep 2026 11:33:51 GMT",
+      "tema": "cultura",
+      "resumo": "Obras de Renoir foram roubadas em invasão a museu no sul da França, sendo deixadas para trás quando os ladrões fugiram da perseguição policial."
+    },
+    {
+      "titulo": "Pesquisas para presidente: Como Lula, Flávio Bolsonaro e Cury aparecem no Agregador de Pesquisas eleitorais da BBC",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 08 Sep 2026 11:23:21 GMT",
+      "tema": "brasil",
+      "resumo": "BBC News Brasil publica agregador de pesquisas eleitorais mostrando intenções de voto para eleição presidencial de 2026 envolvendo Lula, Flávio Bolsonaro e outros candidatos."
     },
     {
       "titulo": "Crise entre Moraes e Mendonça põe legitimidade do STF em risco em meio a eleição acirrada, diz cientista política",
@@ -165,15 +220,23 @@
       "link": "https://www.bbc.com/portuguese/articles/cx2zyek2wqwo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 07 Sep 2026 19:50:28 GMT",
       "tema": "brasil",
-      "resumo": "Pesquisadora aponta que crise institucional no Supremo Tribunal Federal pode comprometer sua capacidade de exercer papel equilibrador entre poderes em período eleitoral sensível."
+      "resumo": "Pesquisadora aponta que crise entre ministros do STF sem precedentes na história recente compromete a legitimidade da Corte e sua capacidade de fazer contrapeso institucional."
     },
     {
-      "titulo": "'Ninguém está preparado para as consequências da inteligência artificial', adverte cientista-chefe da OpenAI",
+      "titulo": "Ato de Flávio Bolsonaro na av. Paulista vira protesto contra Moraes e reúne quase 30 mil: 'Última semana me fez estar aqui'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvgyevpqk3vo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 07 Sep 2026 19:20:22 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c0j34vd8x3no?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 07 Sep 2026 22:01:48 GMT",
+      "tema": "brasil",
+      "resumo": "Ato de Flávio Bolsonaro na Avenida Paulista reúne aproximadamente 30 mil pessoas em protesto contra o ministro Alexandre de Moraes."
+    },
+    {
+      "titulo": "As mais de 250 mil mulheres solteiras forçadas a dar seus filhos em adoção no Reino Unido em meados do século passado",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ckgwrwr9k97o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 08 Sep 2026 09:30:50 GMT",
       "tema": "mundo",
-      "resumo": "Cientista-chefe da OpenAI alerta que ninguém está adequadamente preparado para as consequências da inteligência artificial avançada, logo após lançamento de novo modelo."
+      "resumo": "Documentário revela história de mais de 250 mil mulheres solteiras obrigadas a dar seus filhos em adoção no Reino Unido entre 1949 e 1976."
     },
     {
       "titulo": "Os novos vídeos que indicam possível papel de agente da Arábia Saudita no 11 de Setembro ",
@@ -181,23 +244,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c74kzzk05zdo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 07 Sep 2026 18:00:48 GMT",
       "tema": "mundo",
-      "resumo": "Novos vídeos e evidências não divulgados pelo FBI questionam negativas de longa data sobre possível envolvimento de agente saudita nos ataques de 11 de setembro."
-    },
-    {
-      "titulo": "Após vitória histórica em eleições regionais, direita radical alemã busca apoio para formar governo na Saxônia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cj06m1jgj2jo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 07 Sep 2026 17:14:02 GMT",
-      "tema": "mundo",
-      "resumo": "Partido de direita radical alemão obtém resultado histórico em eleição estadual na Saxônia e negocia apoio para formar governo, ficando a poucas cadeiras de maioria."
-    },
-    {
-      "titulo": "Dia da independência do Brasil: a mulher que assinou separação de Portugal e foi a primeira a governar o país",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c93v9l32r3ko?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 07 Sep 2026 08:58:20 GMT",
-      "tema": "cultura",
-      "resumo": "A imperatriz Maria Leopoldina, que assinou a declaração de independência do Brasil, tornou-se a primeira mulher a governar o país durante a regência."
+      "resumo": "Vídeos e evidências recentemente divulgados questionam o envolvimento de agente saudita nos ataques de 11 de Setembro, contrariando negativas de 25 anos."
     },
     {
       "titulo": "O matemático que passou 7 anos tentando resolver problema solucionado por amador com IA",
@@ -205,55 +252,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c4gkd6qp22no?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 07 Sep 2026 14:11:47 GMT",
       "tema": "mundo",
-      "resumo": "Matemático de Stanford que trabalhava há sete anos em um problema clássico recebe solução de um amador com auxílio de inteligência artificial."
-    },
-    {
-      "titulo": "Por que Keiko Fujimori declarou estado de emergência em prisões peruanas e o que ela quer com a medida",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5y4lk1mv1mo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 07 Sep 2026 11:10:56 GMT",
-      "tema": "mundo",
-      "resumo": "Presidente do Peru decreta estado de emergência em presídios específicos que abrigam líderes de organizações criminosas que atuam fora das prisões."
-    },
-    {
-      "titulo": "A rede de propaganda pró-Rússia que explora violência sexual e usa mulheres do Exército ucraniano como isca",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c93ekydj3q1o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 07 Sep 2026 12:54:49 GMT",
-      "tema": "mundo",
-      "resumo": "Rede de propaganda favorável à Rússia utiliza falsas acusações de crimes sexuais e imagens de militares ucranianas para atrair usuários em plataformas de mensageria."
-    },
-    {
-      "titulo": "Como o Dia da Independência apagou a memória da luta negra por independência e abolição",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c0j3ppkk054o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 07 Sep 2026 17:25:31 GMT",
-      "tema": "brasil",
-      "resumo": "Análise histórica mostra como a celebração do Dia da Independência ofuscou a memória de movimentos populares anteriores que buscavam república e abolição da escravidão, cujos líderes foram executados."
-    },
-    {
-      "titulo": "Por que o Brasil continuou um só enquanto a América espanhola se dividiu em vários países?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3gjpmvkv5eo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 07 Sep 2026 08:21:49 GMT",
-      "tema": "brasil",
-      "resumo": "Historiadores explicam por que o Brasil permaneceu unificado enquanto colônias espanholas vizinhas se dividiram em múltiplos países após independência."
-    },
-    {
-      "titulo": "O incessante aumento da proibição de livros nas escolas públicas dos EUA",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cde0202dl49o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 07 Sep 2026 10:13:30 GMT",
-      "tema": "mundo",
-      "resumo": "Bibliotecas de escolas públicas americanas enfrentam intenso debate ideológico sobre restrição de livros, refletindo conflitos sobre acesso a conteúdos específicos."
-    },
-    {
-      "titulo": "Direita radical na Alemanha tem vitória estadual inédita desde a 2ª Guerra Mundial, mas não consegue maioria para formar governo",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqlw2ldp5w9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 07 Sep 2026 07:04:04 GMT",
-      "tema": "mundo",
-      "resumo": "Partido de direita radical na Alemanha conquista resultado eleitoral inédito desde a Segunda Guerra Mundial em eleição estadual, mas não consegue maioria para governar sozinho."
+      "resumo": "Pesquisador de Stanford recebe solução para problema matemático de décadas em que trabalhava há sete anos, obtida por amador com auxílio de inteligência artificial."
     }
   ]
 }
