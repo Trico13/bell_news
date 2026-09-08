@@ -1,99 +1,99 @@
 {
-  "gerado_em": "2026-09-08T18:19:07.700Z",
+  "gerado_em": "2026-09-08T23:11:59.417Z",
   "modo": "ia",
   "clima": {
-    "max": 20.5,
+    "max": 20.7,
     "min": 11.6,
     "chuva": 98
   },
   "noticias": [
     {
-      "titulo": "Investigado por esquema de cultivo de maconha em MG é preso na BA; 5 plantações já foram descobertas",
+      "titulo": "Eleições 2026 em SC: Gelson Merísio  participa de evento em Xanxerê ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/08/investigado-por-esquema-de-cultivo-de-maconha-em-mg-e-preso-na-ba-5-plantacoes-ja-foram-descobertas.ghtml",
-      "hora": "Tue, 08 Sep 2026 18:10:13 -0000",
+      "link": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-em-sc-gelson-merisio-participa-de-evento-em-xanxere.ghtml",
+      "hora": "Tue, 08 Sep 2026 22:53:05 -0000",
       "tema": "brasil",
-      "resumo": "Homem suspeito de integrar esquema de cultivo de maconha em larga escala em Minas Gerais foi preso na Bahia; operação já descobriu cinco plantações e apreendeu cerca de sete toneladas da droga."
+      "resumo": "Candidato ao governo de Santa Catarina cumpre agenda de campanha eleitoral em município do Oeste do estado."
     },
     {
-      "titulo": "Inscrições para concurso da Polícia Civil da Bahia com 750 vagas são prorrogadas e encerram em 13 de setembro",
+      "titulo": "Veja o que é #FATO e o que é #FAKE na entrevista de Douglas Ruas a 'O Globo', 'Extra', 'Valor' e CBN",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/09/08/inscricoes-para-concurso-da-policia-civil-da-bahia-sao-prorrogadas.ghtml",
-      "hora": "Tue, 08 Sep 2026 18:10:00 -0000",
-      "tema": "brasil",
-      "resumo": "Inscrições para concurso da Polícia Civil da Bahia com 750 vagas foram prorrogadas até 13 de setembro, oferecendo posições para delegado, escrivão e investigador."
+      "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/08/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-douglas-ruas-a-o-globo-extra-valor-e-cbn.ghtml",
+      "hora": "Tue, 08 Sep 2026 22:50:30 -0000",
+      "tema": "checagem",
+      "resumo": "Verificação de declarações feitas por candidato ao governo do Rio de Janeiro em entrevista com veículos de imprensa."
     },
     {
-      "titulo": "Câmara aprova em 2ª votação empréstimo de R$ 700 milhões pedido pela Prefeitura de Teresina",
+      "titulo": "Eleições 2026: saiba como foi o dia dos candidatos ao governo de Sergipe nesta terça-feira",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/09/08/camara-2-votacao-emprestimo.ghtml",
-      "hora": "Tue, 08 Sep 2026 18:07:00 -0000",
+      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-saiba-como-foi-o-dia-dos-candidatos-ao-governo-de-sergipe-nesta-terca-feira.ghtml",
+      "hora": "Tue, 08 Sep 2026 22:49:35 -0000",
       "tema": "brasil",
-      "resumo": "Câmara Municipal de Teresina aprovou em segunda votação empréstimo de R$ 700 milhões para a prefeitura junto ao Banco do Brasil, que agora aguarda sanção do prefeito."
+      "resumo": "Candidatos ao governo de Sergipe cumprem compromissos de campanha no período eleitoral."
     },
     {
-      "titulo": "Homens fingem ser entregadores para invadir prédio e fogem após roubo de joias em Bragança Paulista; VÍDEO",
+      "titulo": "Eleições 2026: Ricardo Marques diz que pretende promover a alfabetização na idade certa",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/08/homens-fingem-ser-entregadores-para-invadir-predio-e-fogem-apos-roubo-de-joias-em-braganca-paulista-video.ghtml",
-      "hora": "Tue, 08 Sep 2026 18:06:00 -0000",
+      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-ricardo-marques-diz-que-pretende-promover-a-alfabetizacao-na-idade-certa.ghtml",
+      "hora": "Tue, 08 Sep 2026 22:49:14 -0000",
+      "tema": "brasil",
+      "resumo": "Candidato ao governo de Sergipe apresenta proposta de promoção da alfabetização na idade certa durante campanha."
+    },
+    {
+      "titulo": "Eleições 2026: Emanuel Cacho diz que vai pagar os direitos devidos ao magistério",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-emanuel-cacho-diz-que-vai-pagar-os-direitos-devidos-ao-magisterio.ghtml",
+      "hora": "Tue, 08 Sep 2026 22:48:26 -0000",
+      "tema": "brasil",
+      "resumo": "Candidato ao governo de Sergipe apresenta compromisso de pagamento de direitos ao magistério como proposta de campanha."
+    },
+    {
+      "titulo": "Moradores saem de casa após vazamento de gás em prédio de Porto Alegre",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/08/vazamento-gas-predio-porto-alegre.ghtml",
+      "hora": "Tue, 08 Sep 2026 22:47:05 -0000",
+      "tema": "brasil",
+      "resumo": "Vazamento de gás em prédio de Porto Alegre força evacuação de moradores; Bombeiros atenderam à ocorrência sem feridos registrados."
+    },
+    {
+      "titulo": "Decreto federal anuncia ampliação de 7,1 mil hectares do Parque Nacional de Sete Cidades no PI",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/09/08/decreto-ampliacao-parque-sete-cidades.ghtml",
+      "hora": "Tue, 08 Sep 2026 22:46:08 -0000",
+      "tema": "brasil",
+      "resumo": "Governo Federal assina decreto ampliando área do Parque Nacional de Sete Cidades no Piauí em mais de sete mil hectares."
+    },
+    {
+      "titulo": "Eleições 2026 em SC: João Rodrigues visita obras na BR-282 e participa de sabatina com entidades do estado ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-em-sc-joao-rodrigues-visita-obras-na-br-282-e-participa-de-sabatina-com-entidades-do-estado.ghtml",
+      "hora": "Tue, 08 Sep 2026 22:44:53 -0000",
+      "tema": "brasil",
+      "resumo": "Candidato ao governo de Santa Catarina participa de agenda de campanha visitando obras viárias e participando de sabatina com entidades."
+    },
+    {
+      "titulo": "Vídeo mostra perseguição de viatura da GCM antes de batida que matou adolescente em moto em São José dos Campos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/08/video-mostra-perseguicao-de-viatura-da-gcm-antes-de-batida-que-matou-adolescente-em-moto-em-sao-jose-dos-campos.ghtml",
+      "hora": "Tue, 08 Sep 2026 22:43:30 -0000",
       "tema": "sp",
-      "resumo": "Três criminosos invadiram prédio em Bragança Paulista fingindo ser entregadores e fugiram após roubo de joias; polícia busca identificá-los."
+      "resumo": "Vídeo documenta perseguição de viatura da Guarda Civil Municipal que precedeu morte de adolescente em acidente de motocicleta em São José dos Campos."
     },
     {
-      "titulo": "Campanha do Comespi mobiliza arrecadação de alimentos no Mês do Voluntariado",
+      "titulo": "Mutirão em Rio Preto oferece mais de 120 vagas de emprego nesta quarta-feira; veja cargos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/especial-publicitario/simespi/simespi/noticia/2026/09/08/campanha-do-comespi-mobiliza-arrecadacao-de-alimentos-no-mes-do-voluntariado.ghtml",
-      "hora": "Tue, 08 Sep 2026 18:03:26 -0000",
-      "tema": "cultura",
-      "resumo": "Campanha do Comespi mobiliza arrecadação de alimentos durante o Mês do Voluntariado, aproximando iniciativas de solidariedade às empresas de Piracicaba e região."
-    },
-    {
-      "titulo": "Todos os 5 mortos em incidente com avião da Amazon que saiu da pista em Miami estavam em van; pilotos receberam alta do hospital",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/08/todos-os-5-mortos-de-incidente-com-aviao-da-amazon-que-saiu-da-pista-em-miami-estavam-em-van.ghtml",
-      "hora": "Tue, 08 Sep 2026 18:03:19 -0000",
-      "tema": "mundo",
-      "resumo": "Investigação do acidente no Aeroporto Internacional de Miami com avião de carga da Amazon confirma que os cinco falecidos estavam dentro de uma van; pilotos receberam alta hospitalar."
-    },
-    {
-      "titulo": "Polícia Civil de Sorocaba deflagra operação contra estelionato em comércios da região",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/08/policia-civil-de-sorocaba-deflagra-operacao-contra-estelionato-em-comercios-e-realiza-apreensoes-em-cinco-cidades.ghtml",
-      "hora": "Tue, 08 Sep 2026 18:02:34 -0000",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/08/mutirao-em-rio-preto-oferece-vagas-de-emprego-nesta-quarta-feira-veja-cargos.ghtml",
+      "hora": "Tue, 08 Sep 2026 22:43:17 -0000",
       "tema": "sp",
-      "resumo": "Polícia Civil de Sorocaba deflagra operação contra estelionato em estabelecimentos comerciais, cumprindo dez mandados de busca."
+      "resumo": "Secretaria de Trabalho de Rio Preto organiza mutirão com oferta de mais de 120 vagas de emprego para diferentes funções."
     },
     {
-      "titulo": "Renan Santos diz que próximo presidente da República 'deverá ir para o enfrentamento contra STF'",
+      "titulo": "Cachorro é resgatado de bueiro após passar três dias preso em Manaus; VÍDEO",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/08/renan-stf-enfrentamento.ghtml",
-      "hora": "Tue, 08 Sep 2026 17:57:32 -0000",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/08/cachorro-e-resgatado-de-bueiro-apos-passar-tres-dias-preso-em-manaus-video.ghtml",
+      "hora": "Tue, 08 Sep 2026 22:42:45 -0000",
       "tema": "brasil",
-      "resumo": "Candidato à Presidência Renan Santos declara que o próximo presidente 'deverá ir para o enfrentamento contra o STF', em contexto de recentes desdobramentos políticos."
-    },
-    {
-      "titulo": "EUA acusam empresas chinesas de IA de copiar modelos avançados para reduzir custos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/08/eua-acusam-empresas-chinesas-de-ia-de-copiar-modelos-avancados-para-reduzir-custos.ghtml",
-      "hora": "Tue, 08 Sep 2026 17:57:12 -0000",
-      "tema": "mundo",
-      "resumo": "Autoridades americanas acusam empresas chinesas de inteligência artificial de realizar atividades ilegais de cópia de modelos avançados para reduzir custos operacionais."
-    },
-    {
-      "titulo": "Comespi recebe moção de aplausos pelos 15 anos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/especial-publicitario/simespi/simespi/noticia/2026/09/08/comespi-recebe-mocao-de-aplausos-pelos-15-anos.ghtml",
-      "hora": "Tue, 08 Sep 2026 17:56:31 -0000",
-      "tema": "cultura",
-      "resumo": "Comespi recebe moção de aplausos da Câmara Municipal de Piracicaba pelos 15 anos de atuação em fortalecimento de liderança feminina e iniciativas de impacto social."
-    },
-    {
-      "titulo": "Após Mendonça afastar diretor-geral da PF, Fachin se reúne com ministro da Justiça e advogado-geral da União",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/08/apos-mendonca-afastar-diretor-geral-da-pf-fachin-se-reune-com-ministro-da-justica-e-advogado-geral-da-uniao.ghtml",
-      "hora": "Tue, 08 Sep 2026 17:53:36 -0000",
-      "tema": "brasil",
-      "resumo": "Presidente do STF Edison Fachin reúne-se com ministro da Justiça e advogado-geral da União após afastamento preventivo do diretor-geral da Polícia Federal determinado por André Mendonça."
+      "resumo": "Cão é resgatado pelo Corpo de Bombeiros após passar três dias preso em bueiro em Manaus."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -101,7 +101,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival Bike Brasil acontece neste domingo na Zona Sul de São Paulo, reunindo ciclistas profissionais e amadores para competição de manobras e atividades educativas."
+      "resumo": "Festival de bicicletas na Zona Sul de São Paulo reúne ciclistas profissionais e amadores para competições e atividades variadas."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -109,7 +109,7 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado percorre 20 km de bicicleta e passa 12 horas em fila em Bauru para concorrer a uma das 500 vagas de emprego oferecidas."
+      "resumo": "Desempregado percorre 20 km de bicicleta e aguarda em fila por 12 horas para concorrer a uma de 500 vagas de emprego no interior de São Paulo."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -117,15 +117,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "cultura",
-      "resumo": "Zé Ramalho apresenta sucessos da carreira e canções de Raul Seixas na 39ª Festa Junina de Sorocaba, reunindo público apesar da temperatura baixa."
+      "resumo": "Cantor Zé Ramalho apresenta sucessos e músicas de Raul Seixas em festa junina de Sorocaba."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
-      "tema": "sp",
-      "resumo": "Polícia Rodoviária Federal apreende 927 quilos de maconha em carreta em Mato Grosso do Sul que seria entregue em São Paulo; motorista confessa tráfico."
+      "tema": "brasil",
+      "resumo": "Polícia Rodoviária Federal apreende quase 930 quilos de maconha em carreta no Mato Grosso do Sul que seria entregue em São Paulo."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -133,7 +133,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Terceira edição da Festa Junina Canina acontece em Jundiaí com entrada gratuita, oferecendo brincadeiras e entretenimento para cães e gatos."
+      "resumo": "Jundiaí realiza terceira edição de festa junina temática com cães e gatos como convidados especiais, com entrada gratuita."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -141,7 +141,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "entretenimento",
-      "resumo": "Festival Maior Baile do Mundo acontece em São Paulo com Anitta e MCs entre os artistas, esperando reunir 35 mil pessoas para dez horas de shows."
+      "resumo": "Festival de música em São Paulo reúne 35 mil pessoas para dez horas de apresentações com artistas populares na internet."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -149,7 +149,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "PSTU oficializa Vera Lúcia, militante sindical, como candidata à Presidência da República nas próximas eleições."
+      "resumo": "Partido Socialista dos Trabalhadores Unificado oficializa candidata sindical à Presidência da República para eleição em 2026."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -157,7 +157,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "15ª edição da Feiccad reúne expositores de construção civil, imóveis, condomínios e decoração em Jundiaí até domingo, com entrada gratuita."
+      "resumo": "Feira de imóvel, construção e decoração é realizada em Jundiaí com entrada gratuita mediante credenciamento."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -165,7 +165,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diferentes áreas da administração, com prazo até 31 de julho."
+      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diferentes funções da administração municipal."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -173,7 +173,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem que vivia nas ruas de Campinas reencontra sua família após 37 anos de separação, com ajuda de um boletim de ocorrência que permitiu o rastreamento."
+      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos, possibilitado por um boletim de ocorrência relacionado a um roubo."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -184,19 +184,35 @@
       "resumo": "Motorista de 75 anos morre em acidente de trânsito em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
     },
     {
-      "titulo": "Mendonça afasta Andrei Rodrigues da chefia da PF; diretores da polícia colocam cargo à disposição: veja repercussão",
+      "titulo": "Delegados da PF temem 'efeito cascata' e impacto duradouro da guerra Moraes-Mendonça na corporação",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c2l8704v88zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 08 Sep 2026 22:53:36 GMT",
+      "tema": "brasil",
+      "resumo": "Delegados da Polícia Federal expressam preocupação sobre possíveis impactos duradouros da crise institucional entre ministros do STF na autonomia e carreira da corporação."
+    },
+    {
+      "titulo": "AGU pede a Fachin que suspenda afastamento de Andrei Rodrigues da PF: o que aconteceu na guerra Mendonça x Moraes nesta terça",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.co.uk/portuguese/live/cqx2zxy6eg0kt?at_medium=RSS&at_campaign=rss",
       "tema": "brasil",
-      "resumo": "Ministro André Mendonça pede afastamento do diretor-geral da Polícia Federal, Andrei Rodrigues, em caso que será julgado pelo Supremo Tribunal Federal."
+      "resumo": "A AGU pede suspensão do afastamento do diretor-geral da PF Andrei Rodrigues, cujo caso está sob julgamento na Segunda Turma do Supremo Tribunal Federal."
     },
     {
-      "titulo": "Quem é Andrei Rodrigues, da PF, e como ele aparece nas mensagens de Vorcaro e na guerra Moraes-Mendonça",
+      "titulo": "Por que André Mendonça determinou o afastamento do diretor-geral da PF, Andrei Rodrigues",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckg8exwg94jo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 08 Sep 2026 17:57:33 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c5yw3pvzreeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 08 Sep 2026 22:28:15 GMT",
       "tema": "brasil",
-      "resumo": "Diretor-geral da PF Andrei Rodrigues tem envolvimento em investigações relacionadas a tensões entre ministros do Supremo Tribunal Federal."
+      "resumo": "Ministro André Mendonça determinou o afastamento do diretor-geral da PF Andrei Rodrigues, decisão publicada dias após pedido de investigação contra o próprio ministro."
+    },
+    {
+      "titulo": "Quem são os diretores da PF que colocaram os cargos à disposição após afastamento de Andrei Rodrigues",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cp30ez2zgl2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 08 Sep 2026 18:55:01 GMT",
+      "tema": "brasil",
+      "resumo": "Diretores da Polícia Federal colocam seus cargos à disposição em resposta ao afastamento do diretor-geral Andrei Rodrigues."
     },
     {
       "titulo": "Decisão de Mendonça afasta também delegado que investigou morte de Marielle Franco",
@@ -204,7 +220,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cg7kj85xgkro?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 08 Sep 2026 14:23:44 GMT",
       "tema": "brasil",
-      "resumo": "Afastamento do diretor-geral da PF também atinge o diretor de Inteligência da corporação, delegado que participou da investigação sobre morte de Marielle Franco."
+      "resumo": "O afastamento determinado pelo ministro Mendonça atingiu também o diretor de Inteligência da PF, delegado Leandro Almada, que investigou a morte de Marielle Franco."
     },
     {
       "titulo": "Caso Master pode ser anulado por causa de crise entre ministros do STF?",
@@ -212,7 +228,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cx2z0v90eydo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 08 Sep 2026 07:45:55 GMT",
       "tema": "brasil",
-      "resumo": "Crise institucional entre ministros do Supremo pode resultar em nulidade de operação policial, segundo análise de criminalista."
+      "resumo": "Especialista em direito criminal analisa possibilidade de anulação do caso Operação Master em decorrência da crise institucional entre ministros do STF."
     },
     {
       "titulo": "Governo cobra do Google retirada de vídeos com falsos médicos de IA após reportagens da BBC e alerta Polícia Federal",
@@ -220,7 +236,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c1wx8q4jzz4o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 08 Sep 2026 18:02:35 GMT",
       "tema": "brasil",
-      "resumo": "Governo solicita ao Google retirada de perfis com falsos médicos de inteligência artificial que prometem curas sem comprovação científica, motivando investigação da Polícia Federal."
+      "resumo": "Governo cobra do Google remoção de vídeos com falsos médicos de inteligência artificial que prometem curas; Ministério da Saúde investiga conteúdos fraudulentos."
     },
     {
       "titulo": "Quais países da América Latina têm educação melhor do que o Brasil, segundo o ranking Pisa",
@@ -228,15 +244,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cx2z9n0853wo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 08 Sep 2026 13:33:23 GMT",
       "tema": "brasil",
-      "resumo": "Ranking educacional internacional Pisa mostra que Chile, Uruguai e Costa Rica têm desempenho superior ao Brasil em ciências, leitura, matemática e resolução de problemas computacionais."
-    },
-    {
-      "titulo": "Reino Unido anuncia sanções inéditas contra assentamentos israelenses; Israel responde com fechamento de consulado britânico",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cly53nyz3vjo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 08 Sep 2026 16:22:22 GMT",
-      "tema": "mundo",
-      "resumo": "Reino Unido anuncia sanções contra assentamentos israelenses na Cisjordânia, ao qual Israel responde fechando seu consulado britânico."
+      "resumo": "Ranking Pisa mostra que Chile, Uruguai e Costa Rica têm desempenho superior ao Brasil em ciências, leitura, matemática e resolução de problemas computacionais."
     },
     {
       "titulo": "'Acreditei em tudo o que disseram': a mulher que alugou apartamento a condenados pelos ataques do 11 de Setembro",
@@ -244,7 +252,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c74ewjxpvnyo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 08 Sep 2026 10:23:19 GMT",
       "tema": "mundo",
-      "resumo": "Mulher que alugou apartamento a membros da al-Qaeda envolvidos nos ataques de 11 de setembro fala publicamente sobre a experiência pela primeira vez."
+      "resumo": "Mulher que alugou apartamento para membros da al-Qaeda envolvidos nos ataques de 11 de setembro fala publicamente sobre a experiência pela primeira vez."
     },
     {
       "titulo": "A carta de 13 ministros aposentados do STF para Edson Fachin: 'mais aguda crise' e 'imediata e rigorosa apuração'",
@@ -252,7 +260,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c39mzex0882o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 08 Sep 2026 11:09:07 GMT",
       "tema": "brasil",
-      "resumo": "Treze ministros aposentados do Supremo Tribunal Federal pedem ao presidente Edson Fachin ações rigorosas diante do que descrevem como a crise mais grave da Corte."
+      "resumo": "Treze ministros aposentados do STF, incluindo Celso de Mello e Rosa Weber, enviam carta ao presidente Edson Fachin pedindo resposta firme diante do que chamam de crise sem precedentes na Corte."
     },
     {
       "titulo": "Crise entre Moraes e Mendonça põe legitimidade do STF em risco em meio a eleição acirrada, diz cientista política",
@@ -260,7 +268,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cx2zyek2wqwo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 07 Sep 2026 19:50:28 GMT",
       "tema": "brasil",
-      "resumo": "Cientista política analisa como a crise entre ministros do Supremo pode afetar a credibilidade institucional e o papel de contrapeso da Corte em período de eleição acirrada."
+      "resumo": "Cientista política alerta que crise institucional no STF pode comprometer legitimidade da Corte e sua capacidade de contrapeso em momento de eleição polarizada."
     },
     {
       "titulo": "Ato de Flávio Bolsonaro na av. Paulista vira protesto contra Moraes e reúne quase 30 mil: 'Última semana me fez estar aqui'",
@@ -268,7 +276,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c0j34vd8x3no?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 07 Sep 2026 22:01:48 GMT",
       "tema": "brasil",
-      "resumo": "Manifestação liderada por Flávio Bolsonaro na Avenida Paulista reúne quase 30 mil pessoas, com críticas direcionadas ao ministro Moraes do Supremo."
+      "resumo": "Ato político de Flávio Bolsonaro na Avenida Paulista reúne cerca de 30 mil pessoas e incorpora protesto contra ministro Alexandre de Moraes."
     },
     {
       "titulo": "As mais de 250 mil mulheres solteiras forçadas a dar seus filhos em adoção no Reino Unido em meados do século passado",
@@ -276,15 +284,7 @@
       "link": "https://www.bbc.com/portuguese/articles/ckgwrwr9k97o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 08 Sep 2026 09:30:50 GMT",
       "tema": "mundo",
-      "resumo": "Documentário revela história de mais de 250 mil mulheres solteiras obrigadas a dar seus filhos em adoção no Reino Unido entre 1949 e 1976."
-    },
-    {
-      "titulo": "Os novos vídeos que indicam possível papel de agente da Arábia Saudita no 11 de Setembro ",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c74kzzk05zdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 07 Sep 2026 18:00:48 GMT",
-      "tema": "mundo",
-      "resumo": "Novos vídeos e evidências questionam a possível conexão de agente saudita com os atentados de 11 de setembro, desmentindo décadas de negações."
+      "resumo": "Documentário retrata histórias de mais de 250 mil mulheres solteiras obrigadas a entregar seus filhos em adoção no Reino Unido entre 1949 e 1976."
     }
   ]
 }
