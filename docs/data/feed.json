@@ -1,99 +1,83 @@
 {
-  "gerado_em": "2026-09-08T23:11:59.417Z",
+  "gerado_em": "2026-09-09T14:09:59.519Z",
   "modo": "ia",
   "clima": {
-    "max": 20.7,
-    "min": 11.6,
-    "chuva": 98
+    "max": 22.9,
+    "min": 15.4,
+    "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Eleições 2026 em SC: Gelson Merísio  participa de evento em Xanxerê ",
+      "titulo": "Renan Filho propõe criação de 5 mil casas e pagamento de até R$ 1 mil para alunos da rede estadual ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-em-sc-gelson-merisio-participa-de-evento-em-xanxere.ghtml",
-      "hora": "Tue, 08 Sep 2026 22:53:05 -0000",
+      "link": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/09/renan-filho-propoe-criacao-de-5-mil-casas-e-pagamento-de-ate-r-1-mil-para-alunos-da-rede-estadual.ghtml",
+      "hora": "Wed, 09 Sep 2026 13:54:33 -0000",
       "tema": "brasil",
-      "resumo": "Candidato ao governo de Santa Catarina cumpre agenda de campanha eleitoral em município do Oeste do estado."
+      "resumo": "Candidato ao governo de Alagoas propõe programa que ofereceria até R$ 1 mil para alunos da rede estadual e criação de 5 mil casas se eleito."
     },
     {
-      "titulo": "Veja o que é #FATO e o que é #FAKE na entrevista de Douglas Ruas a 'O Globo', 'Extra', 'Valor' e CBN",
+      "titulo": "Prefeitura abre processo seletivo com salários de até R$ 3,2 mil em Vilhena, RO",
       "fonte": "G1",
-      "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/08/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-douglas-ruas-a-o-globo-extra-valor-e-cbn.ghtml",
-      "hora": "Tue, 08 Sep 2026 22:50:30 -0000",
-      "tema": "checagem",
-      "resumo": "Verificação de declarações feitas por candidato ao governo do Rio de Janeiro em entrevista com veículos de imprensa."
-    },
-    {
-      "titulo": "Eleições 2026: saiba como foi o dia dos candidatos ao governo de Sergipe nesta terça-feira",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-saiba-como-foi-o-dia-dos-candidatos-ao-governo-de-sergipe-nesta-terca-feira.ghtml",
-      "hora": "Tue, 08 Sep 2026 22:49:35 -0000",
+      "link": "https://g1.globo.com/ro/rondonia/noticia/2026/09/09/prefeitura-abre-processo-seletivo-com-salarios-de-ate-r-32-mil-em-vilhena-ro.ghtml",
+      "hora": "Wed, 09 Sep 2026 13:53:29 -0000",
       "tema": "brasil",
-      "resumo": "Candidatos ao governo de Sergipe cumprem compromissos de campanha no período eleitoral."
+      "resumo": "Prefeitura de Vilhena, RO abre processo seletivo com 30 vagas para agentes de saúde e combate a endemias, com salários até R$ 3,2 mil."
     },
     {
-      "titulo": "Eleições 2026: Ricardo Marques diz que pretende promover a alfabetização na idade certa",
+      "titulo": "Polícia investiga supostas irregularidades em contratações de hospital público no DF",
       "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-ricardo-marques-diz-que-pretende-promover-a-alfabetizacao-na-idade-certa.ghtml",
-      "hora": "Tue, 08 Sep 2026 22:49:14 -0000",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/09/policia-investiga-supostas-irregularidades-em-contratacoes-de-hospital-publico-no-df.ghtml",
+      "hora": "Wed, 09 Sep 2026 13:52:26 -0000",
       "tema": "brasil",
-      "resumo": "Candidato ao governo de Sergipe apresenta proposta de promoção da alfabetização na idade certa durante campanha."
+      "resumo": "Polícia Civil investiga possíveis irregularidades em contratações realizadas por programa de saúde em hospital regional do Distrito Federal."
     },
     {
-      "titulo": "Eleições 2026: Emanuel Cacho diz que vai pagar os direitos devidos ao magistério",
+      "titulo": "PF investiga suposto esquema de fraudes em licitações e desvio de recursos públicos em três cidades do Ceará",
       "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-emanuel-cacho-diz-que-vai-pagar-os-direitos-devidos-ao-magisterio.ghtml",
-      "hora": "Tue, 08 Sep 2026 22:48:26 -0000",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/09/09/pf-investiga-suposto-esquema-de-fraudes-em-licitacoes-e-desvio-de-recursos-publicos-em-tres-cidades-do-ceara.ghtml",
+      "hora": "Wed, 09 Sep 2026 13:49:13 -0000",
       "tema": "brasil",
-      "resumo": "Candidato ao governo de Sergipe apresenta compromisso de pagamento de direitos ao magistério como proposta de campanha."
+      "resumo": "Polícia Federal investiga esquema de fraudes em licitações e desvio de recursos públicos federais em três cidades do Ceará."
     },
     {
-      "titulo": "Moradores saem de casa após vazamento de gás em prédio de Porto Alegre",
+      "titulo": "Feira oferece mais de 300 vagas de emprego nesta quinta-feira (9) em Sertãozinho, SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/08/vazamento-gas-predio-porto-alegre.ghtml",
-      "hora": "Tue, 08 Sep 2026 22:47:05 -0000",
-      "tema": "brasil",
-      "resumo": "Vazamento de gás em prédio de Porto Alegre força evacuação de moradores; Bombeiros atenderam à ocorrência sem feridos registrados."
-    },
-    {
-      "titulo": "Decreto federal anuncia ampliação de 7,1 mil hectares do Parque Nacional de Sete Cidades no PI",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/09/08/decreto-ampliacao-parque-sete-cidades.ghtml",
-      "hora": "Tue, 08 Sep 2026 22:46:08 -0000",
-      "tema": "brasil",
-      "resumo": "Governo Federal assina decreto ampliando área do Parque Nacional de Sete Cidades no Piauí em mais de sete mil hectares."
-    },
-    {
-      "titulo": "Eleições 2026 em SC: João Rodrigues visita obras na BR-282 e participa de sabatina com entidades do estado ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-em-sc-joao-rodrigues-visita-obras-na-br-282-e-participa-de-sabatina-com-entidades-do-estado.ghtml",
-      "hora": "Tue, 08 Sep 2026 22:44:53 -0000",
-      "tema": "brasil",
-      "resumo": "Candidato ao governo de Santa Catarina participa de agenda de campanha visitando obras viárias e participando de sabatina com entidades."
-    },
-    {
-      "titulo": "Vídeo mostra perseguição de viatura da GCM antes de batida que matou adolescente em moto em São José dos Campos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/08/video-mostra-perseguicao-de-viatura-da-gcm-antes-de-batida-que-matou-adolescente-em-moto-em-sao-jose-dos-campos.ghtml",
-      "hora": "Tue, 08 Sep 2026 22:43:30 -0000",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/09/feira-oferece-mais-de-300-vagas-de-emprego-nesta-quinta-feira-9-em-sertaozinho-sp.ghtml",
+      "hora": "Wed, 09 Sep 2026 13:48:40 -0000",
       "tema": "sp",
-      "resumo": "Vídeo documenta perseguição de viatura da Guarda Civil Municipal que precedeu morte de adolescente em acidente de motocicleta em São José dos Campos."
+      "resumo": "Maratona pelo Emprego em Sertãozinho oferece mais de 300 vagas de trabalho com participação gratuita nesta quinta-feira."
     },
     {
-      "titulo": "Mutirão em Rio Preto oferece mais de 120 vagas de emprego nesta quarta-feira; veja cargos",
+      "titulo": "Etanol do posto pode receber corante verde e gosto amargo para não ser usado em bebidas falsas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/08/mutirao-em-rio-preto-oferece-vagas-de-emprego-nesta-quarta-feira-veja-cargos.ghtml",
-      "hora": "Tue, 08 Sep 2026 22:43:17 -0000",
-      "tema": "sp",
-      "resumo": "Secretaria de Trabalho de Rio Preto organiza mutirão com oferta de mais de 120 vagas de emprego para diferentes funções."
-    },
-    {
-      "titulo": "Cachorro é resgatado de bueiro após passar três dias preso em Manaus; VÍDEO",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/08/cachorro-e-resgatado-de-bueiro-apos-passar-tres-dias-preso-em-manaus-video.ghtml",
-      "hora": "Tue, 08 Sep 2026 22:42:45 -0000",
+      "link": "https://g1.globo.com/carros/noticia/2026/09/09/anp-medidas-etanol-combustivel-em-bebidas.ghtml",
+      "hora": "Wed, 09 Sep 2026 13:48:20 -0000",
       "tema": "brasil",
-      "resumo": "Cão é resgatado pelo Corpo de Bombeiros após passar três dias preso em bueiro em Manaus."
+      "resumo": "Agência Nacional do Petróleo aprovou estudo que propõe adicionar corante e gosto amargo ao etanol para evitar seu desvio para fabricação de bebidas clandestinas."
+    },
+    {
+      "titulo": "STF cancela sessão em meio a crise envolvendo Dino, Moraes e Mendonça",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/09/stf-cancela-sessao-em-meio-a-crise-envolvendo-dino-moraes-e-mendonca.ghtml",
+      "hora": "Wed, 09 Sep 2026 13:46:46 -0000",
+      "tema": "brasil",
+      "resumo": "Presidente do STF cancela sessão plenária em meio a crise institucional envolvendo ministros da Corte."
+    },
+    {
+      "titulo": "Premiê de Israel sobre o Irã: 'Estamos muito perto de derrubar o regime'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/09/premie-de-israel-sobre-o-ira-estamos-muito-perto-de-derrubar-o-regime.ghtml",
+      "hora": "Wed, 09 Sep 2026 13:46:17 -0000",
+      "tema": "mundo",
+      "resumo": "Primeiro-ministro de Israel declara que o Irã está à beira do colapso e que a queda do regime está próxima."
+    },
+    {
+      "titulo": "Obras da ponte de Palmas chegam a 87,49% de execução",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/09/09/obras-da-ponte-de-palmas-chegam-a-8749percent-de-execucao.ghtml",
+      "hora": "Wed, 09 Sep 2026 13:44:20 -0000",
+      "tema": "brasil",
+      "resumo": "Obra de requalificação da Ponte Governador José Wilson Siqueira Campos, que liga Palmas a Porto Nacional, alcança 87,49% de execução."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -101,7 +85,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival de bicicletas na Zona Sul de São Paulo reúne ciclistas profissionais e amadores para competições e atividades variadas."
+      "resumo": "Festival Bike Brasil acontece neste domingo na Zona Sul de São Paulo com competição de manobras radicais e atividades para crianças."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -109,7 +93,7 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado percorre 20 km de bicicleta e aguarda em fila por 12 horas para concorrer a uma de 500 vagas de emprego no interior de São Paulo."
+      "resumo": "Desempregado pedala 20 km até Bauru para concorrer a uma das 500 vagas de emprego oferecidas, passando 12 horas na fila."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -117,15 +101,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "cultura",
-      "resumo": "Cantor Zé Ramalho apresenta sucessos e músicas de Raul Seixas em festa junina de Sorocaba."
+      "resumo": "Cantor Zé Ramalho apresenta sucessos da carreira e músicas de Raul Seixas na 39ª Festa Junina de Sorocaba."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
-      "tema": "brasil",
-      "resumo": "Polícia Rodoviária Federal apreende quase 930 quilos de maconha em carreta no Mato Grosso do Sul que seria entregue em São Paulo."
+      "tema": "sp",
+      "resumo": "PRF apreende 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo; motorista confessou tráfico."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -133,15 +117,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza terceira edição de festa junina temática com cães e gatos como convidados especiais, com entrada gratuita."
+      "resumo": "Jundiaí realiza 3ª edição da Festa Junina Canina neste sábado com entrada gratuita e atividades para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
-      "tema": "entretenimento",
-      "resumo": "Festival de música em São Paulo reúne 35 mil pessoas para dez horas de apresentações com artistas populares na internet."
+      "tema": "cultura",
+      "resumo": "Festival Maior Baile do Mundo em São Paulo este domingo reúne Anitta e MCs em 10 horas de shows esperando 35 mil pessoas."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -149,7 +133,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "Partido Socialista dos Trabalhadores Unificado oficializa candidata sindical à Presidência da República para eleição em 2026."
+      "resumo": "Partido Socialista dos Trabalhadores Unificado oficializa Vera Lúcia como candidata à Presidência da República nas próximas eleições."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -157,7 +141,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "Feira de imóvel, construção e decoração é realizada em Jundiaí com entrada gratuita mediante credenciamento."
+      "resumo": "15ª edição da Feira do Imóvel, Construção e Decoração (Feiccad) em Jundiaí oferece entrada gratuita e segue até este domingo."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -165,7 +149,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diferentes funções da administração municipal."
+      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos do Executivo, com prazo até 31 de julho e provas na própria cidade."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -173,7 +157,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos, possibilitado por um boletim de ocorrência relacionado a um roubo."
+      "resumo": "Um homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, possibilitado por um boletim de ocorrência relacionado a um roubo que sofreu."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -181,7 +165,61 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Motorista de 75 anos morre em acidente de trânsito em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
+      "resumo": "Um motorista de 75 anos morre em acidente de trânsito em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
+    },
+    {
+      "titulo": "Flávio Dino determina a volta de Andrei Rodrigues à direção da PF; acompanhe",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.co.uk/portuguese/live/c52e0n4kprw4t?at_medium=RSS&at_campaign=rss",
+      "tema": "brasil",
+      "resumo": "O ministro Flávio Dino determina a reintegração do diretor da PF Andrei Rodrigues após seu afastamento decretado por André Mendonça, pedindo que a questão seja votada no plenário do STF."
+    },
+    {
+      "titulo": "Os argumentos de Flávio Dino para reconduzir Andrei Rodrigues à PF",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c8e31506l5yo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 09 Sep 2026 12:31:38 GMT",
+      "tema": "brasil",
+      "resumo": "Flávio Dino apresenta argumentos para reconduzir Andrei Rodrigues à direção da PF, revertendo a decisão de André Mendonça tomada poucos dias antes."
+    },
+    {
+      "titulo": "A linha do tempo da crise que abala o STF (com Vorcaro como estopim)",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq637dqe2qyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 09 Sep 2026 13:32:42 GMT",
+      "tema": "brasil",
+      "resumo": "Conheça a sequência de eventos que levou à atual crise institucional no STF, iniciada com a divulgação de mensagens entre um ex-banqueiro e um número atribuído a Alexandre de Moraes."
+    },
+    {
+      "titulo": "'Guerra' Mendonça x Moraes escalou; relembre tudo o que aconteceu",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.co.uk/portuguese/live/cqx2zxy6eg0kt?at_medium=RSS&at_campaign=rss",
+      "tema": "brasil",
+      "resumo": "O conflito entre os ministros André Mendonça e Alexandre de Moraes no STF se intensifica com pedidos de afastamento e votações na Segunda Turma do tribunal."
+    },
+    {
+      "titulo": "Fachin sob pressão: por que presidente do STF não consegue debelar crise às vésperas de eleição",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm2r1yxmmg1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 09 Sep 2026 13:18:09 GMT",
+      "tema": "brasil",
+      "resumo": "O presidente do STF, Edson Fachin, enfrenta pressão para resolver a crise institucional no tribunal mas dispõe de ferramentas limitadas para agir, segundo especialistas."
+    },
+    {
+      "titulo": "Crise aprofundada no STF ameaça repetir 'estrago' da Lava Jato nas instituições e na campanha eleitoral, diz professora da FGV",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cn4k321em39o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 09 Sep 2026 09:25:06 GMT",
+      "tema": "brasil",
+      "resumo": "Professora da FGV analisa que a crise no STF pode ter impactos similares aos da Lava Jato nas instituições, especialmente considerando o contexto eleitoral de 2026."
+    },
+    {
+      "titulo": "'Escalada da guerra interna no tribunal politizado': o que disse a imprensa internacional sobre afastamento do diretor da PF",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cj9xw7mz1d4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 09 Sep 2026 10:02:09 GMT",
+      "tema": "brasil",
+      "resumo": "A imprensa internacional acompanha o conflito no STF como uma escalada de crise que afeta o governo Lula meses antes das eleições."
     },
     {
       "titulo": "Delegados da PF temem 'efeito cascata' e impacto duradouro da guerra Moraes-Mendonça na corporação",
@@ -189,46 +227,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c2l8704v88zo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 08 Sep 2026 22:53:36 GMT",
       "tema": "brasil",
-      "resumo": "Delegados da Polícia Federal expressam preocupação sobre possíveis impactos duradouros da crise institucional entre ministros do STF na autonomia e carreira da corporação."
-    },
-    {
-      "titulo": "AGU pede a Fachin que suspenda afastamento de Andrei Rodrigues da PF: o que aconteceu na guerra Mendonça x Moraes nesta terça",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/cqx2zxy6eg0kt?at_medium=RSS&at_campaign=rss",
-      "tema": "brasil",
-      "resumo": "A AGU pede suspensão do afastamento do diretor-geral da PF Andrei Rodrigues, cujo caso está sob julgamento na Segunda Turma do Supremo Tribunal Federal."
-    },
-    {
-      "titulo": "Por que André Mendonça determinou o afastamento do diretor-geral da PF, Andrei Rodrigues",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5yw3pvzreeo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 08 Sep 2026 22:28:15 GMT",
-      "tema": "brasil",
-      "resumo": "Ministro André Mendonça determinou o afastamento do diretor-geral da PF Andrei Rodrigues, decisão publicada dias após pedido de investigação contra o próprio ministro."
-    },
-    {
-      "titulo": "Quem são os diretores da PF que colocaram os cargos à disposição após afastamento de Andrei Rodrigues",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cp30ez2zgl2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 08 Sep 2026 18:55:01 GMT",
-      "tema": "brasil",
-      "resumo": "Diretores da Polícia Federal colocam seus cargos à disposição em resposta ao afastamento do diretor-geral Andrei Rodrigues."
-    },
-    {
-      "titulo": "Decisão de Mendonça afasta também delegado que investigou morte de Marielle Franco",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cg7kj85xgkro?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 08 Sep 2026 14:23:44 GMT",
-      "tema": "brasil",
-      "resumo": "O afastamento determinado pelo ministro Mendonça atingiu também o diretor de Inteligência da PF, delegado Leandro Almada, que investigou a morte de Marielle Franco."
-    },
-    {
-      "titulo": "Caso Master pode ser anulado por causa de crise entre ministros do STF?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cx2z0v90eydo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 08 Sep 2026 07:45:55 GMT",
-      "tema": "brasil",
-      "resumo": "Especialista em direito criminal analisa possibilidade de anulação do caso Operação Master em decorrência da crise institucional entre ministros do STF."
+      "resumo": "Delegados da PF expressam preocupação de que o conflito entre Moraes e Mendonça no STF possa enfraquecer a corporação e afetar carreiras de seus servidores."
     },
     {
       "titulo": "Governo cobra do Google retirada de vídeos com falsos médicos de IA após reportagens da BBC e alerta Polícia Federal",
@@ -236,55 +235,39 @@
       "link": "https://www.bbc.com/portuguese/articles/c1wx8q4jzz4o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 08 Sep 2026 18:02:35 GMT",
       "tema": "brasil",
-      "resumo": "Governo cobra do Google remoção de vídeos com falsos médicos de inteligência artificial que prometem curas; Ministério da Saúde investiga conteúdos fraudulentos."
+      "resumo": "O Ministério da Saúde cobra do Google a remoção de perfis que usam IA falsa para se passar por médicos e promover produtos sem comprovação científica, informação também encaminhada à Polícia Federal."
     },
     {
-      "titulo": "Quais países da América Latina têm educação melhor do que o Brasil, segundo o ranking Pisa",
+      "titulo": "Por que André Mendonça determinou o afastamento do diretor-geral da PF, Andrei Rodrigues",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cx2z9n0853wo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 08 Sep 2026 13:33:23 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c5yw3pvzreeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 08 Sep 2026 22:28:15 GMT",
       "tema": "brasil",
-      "resumo": "Ranking Pisa mostra que Chile, Uruguai e Costa Rica têm desempenho superior ao Brasil em ciências, leitura, matemática e resolução de problemas computacionais."
+      "resumo": "O ministro André Mendonça determinou o afastamento de Andrei Rodrigues, diretor-geral da PF, dias após Alexandre de Moraes pedir uma investigação contra Mendonça."
     },
     {
-      "titulo": "'Acreditei em tudo o que disseram': a mulher que alugou apartamento a condenados pelos ataques do 11 de Setembro",
+      "titulo": "Chefe de governo mais bem pago do mundo ganha aumento de salário de mais de R$ 5 milhões por ano",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c74ewjxpvnyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 08 Sep 2026 10:23:19 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/czjzmpm1r4lo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 09 Sep 2026 09:47:46 GMT",
       "tema": "mundo",
-      "resumo": "Mulher que alugou apartamento para membros da al-Qaeda envolvidos nos ataques de 11 de setembro fala publicamente sobre a experiência pela primeira vez."
+      "resumo": "O primeiro-ministro de Singapura recebe aumento de salário para mais de R$ 14 milhões anuais, com o governo argumentando que remuneração elevada é necessária para atrair líderes qualificados e reduzir corrupção."
     },
     {
-      "titulo": "A carta de 13 ministros aposentados do STF para Edson Fachin: 'mais aguda crise' e 'imediata e rigorosa apuração'",
+      "titulo": "Quem são os diretores da PF que colocaram os cargos à disposição após afastamento de Andrei Rodrigues",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c39mzex0882o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 08 Sep 2026 11:09:07 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cp30ez2zgl2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 08 Sep 2026 18:55:01 GMT",
       "tema": "brasil",
-      "resumo": "Treze ministros aposentados do STF, incluindo Celso de Mello e Rosa Weber, enviam carta ao presidente Edson Fachin pedindo resposta firme diante do que chamam de crise sem precedentes na Corte."
+      "resumo": "Após o afastamento de Andrei Rodrigues da direção da PF, vários diretores da corporação colocam seus cargos à disposição."
     },
     {
-      "titulo": "Crise entre Moraes e Mendonça põe legitimidade do STF em risco em meio a eleição acirrada, diz cientista política",
+      "titulo": "Caso Master pode ser anulado por causa de crise entre ministros do STF?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cx2zyek2wqwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 07 Sep 2026 19:50:28 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cx2z0v90eydo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 08 Sep 2026 07:45:55 GMT",
       "tema": "brasil",
-      "resumo": "Cientista política alerta que crise institucional no STF pode comprometer legitimidade da Corte e sua capacidade de contrapeso em momento de eleição polarizada."
-    },
-    {
-      "titulo": "Ato de Flávio Bolsonaro na av. Paulista vira protesto contra Moraes e reúne quase 30 mil: 'Última semana me fez estar aqui'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c0j34vd8x3no?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 07 Sep 2026 22:01:48 GMT",
-      "tema": "brasil",
-      "resumo": "Ato político de Flávio Bolsonaro na Avenida Paulista reúne cerca de 30 mil pessoas e incorpora protesto contra ministro Alexandre de Moraes."
-    },
-    {
-      "titulo": "As mais de 250 mil mulheres solteiras forçadas a dar seus filhos em adoção no Reino Unido em meados do século passado",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckgwrwr9k97o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 08 Sep 2026 09:30:50 GMT",
-      "tema": "mundo",
-      "resumo": "Documentário retrata histórias de mais de 250 mil mulheres solteiras obrigadas a entregar seus filhos em adoção no Reino Unido entre 1949 e 1976."
+      "resumo": "Criminalista comenta que a crise entre ministros do STF pode levar à anulação do caso Master, já que Moraes enfrenta suspeitas sobre sua conduta na investigação."
     }
   ]
 }
