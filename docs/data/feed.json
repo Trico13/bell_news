@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-10T14:04:13.928Z",
+  "gerado_em": "2026-09-10T18:06:08.706Z",
   "modo": "ia",
   "clima": {
     "max": 21.9,
@@ -8,108 +8,60 @@
   },
   "noticias": [
     {
-      "titulo": "Sesc RN oferece 200 vagas gratuitas em cursos de qualificação; veja como participar",
+      "titulo": "Greve na Caixa: bancários paralisam serviços em agências no interior de SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/10/sesc-rn-oferece-200-vagas-gratuitas-em-cursos-de-qualificacao-veja-como-participar.ghtml",
-      "hora": "Thu, 10 Sep 2026 13:55:53 -0000",
-      "tema": "brasil",
-      "resumo": "O Sesc Rio Grande do Norte abre 200 vagas gratuitas em dez cursos de qualificação profissional distribuídos em várias unidades do estado durante outubro."
-    },
-    {
-      "titulo": "Dino proíbe Mario Frias de sair do país e ter contato com outros investigados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/10/dino-proibe-mario-frias-de-sair-do-pais-e-ter-contato-com-outros-investigados.ghtml",
-      "hora": "Thu, 10 Sep 2026 13:53:16 -0000",
-      "tema": "brasil",
-      "resumo": "O ministro Flávio Dino determina medidas cautelares contra o deputado Mario Frias, proibindo-o de deixar o país e manter contato com outros investigados em inquérito sobre desvio de recursos públicos."
-    },
-    {
-      "titulo": "Greve da Caixa Econômica afeta atendimento na região de Campinas a partir desta quinta",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/10/funcionarios-da-caixa-entram-em-greve-e-agencias-de-campinas-aderem-a-paralisacao.ghtml",
-      "hora": "Thu, 10 Sep 2026 13:51:23 -0000",
+      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/09/10/greve-na-caixa-bancarios-paralisam-servicos-em-agencias-no-interior-de-sp.ghtml",
+      "hora": "Thu, 10 Sep 2026 17:56:40 -0000",
       "tema": "sp",
-      "resumo": "Funcionários da Caixa Econômica Federal entram em greve por tempo indeterminado a partir de quinta-feira, afetando atendimento presencial em Campinas onde 100% das agências aderiram."
+      "resumo": "Bancários da Caixa Econômica Federal iniciaram greve por tempo indeterminado em São Carlos e Araraquara, no interior de São Paulo, como parte de mobilização nacional da categoria."
     },
     {
-      "titulo": "Rock in Rio: veja lista de ruas interditadas no segundo fim de semana de shows",
+      "titulo": "Uberlândia receberá investimento de de R$ 120 milhões e 560 empregos no setor atacadista",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/10/rock-in-rio-veja-lista-de-ruas-interditadas-no-segundo-fim-de-semana-de-shows.ghtml",
-      "hora": "Thu, 10 Sep 2026 13:50:45 -0000",
-      "tema": "mundo",
-      "resumo": "Rock in Rio divulga lista de ruas interditadas no segundo fim de semana de shows para organizar trânsito na zona oeste do Rio de Janeiro onde está montada a Cidade do Rock."
-    },
-    {
-      "titulo": "Greve nacional dos bancários afeta atendimento presencial no Amapá",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/09/10/greve-nacional-dos-bancarios-afeta-atendimento-presencial-no-amapa.ghtml",
-      "hora": "Thu, 10 Sep 2026 13:49:54 -0000",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/10/uberlandia-recebera-investimento-de-de-r-120-milhoes-e-560-empregos-no-setor-atacadista.ghtml",
+      "hora": "Thu, 10 Sep 2026 17:54:31 -0000",
       "tema": "brasil",
-      "resumo": "Bancários entram em greve por tempo indeterminado após rejeitar proposta dos bancos, afetando atendimento em agências no Amapá e em todo o país."
+      "resumo": "Uberlândia receberá investimento de R$ 120 milhões de rede supermercadista, com previsão de geração de 560 empregos diretos através da construção de duas lojas."
     },
     {
-      "titulo": "Polícia encontra quase 4 quilos de drogas dentro de táxi em Itaperuna; dois homens foram presos",
+      "titulo": "Pancada de chuva alaga e bloqueia rodovia em São Pedro",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/09/10/policia-encontra-quase-4-quilos-de-drogas-dentro-de-taxi-em-itaperuna-dois-homens-foram-presos.ghtml",
-      "hora": "Thu, 10 Sep 2026 13:49:24 -0000",
-      "tema": "brasil",
-      "resumo": "Polícia Militar apreende quase 4 quilos de drogas, uma pistola e munições em abordagem a táxi em Itaperuna, prendendo dois homens."
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/10/pancada-de-chuva-alaga-e-bloqueia-rodovia-em-sao-pedro.ghtml",
+      "hora": "Thu, 10 Sep 2026 17:52:19 -0000",
+      "tema": "sp",
+      "resumo": "Chuva intensa alagou e bloqueou um trecho da Rodovia SP-304 em São Pedro na tarde desta quinta-feira."
     },
     {
-      "titulo": "Aulas da rede municipal são suspensas em Novo Progresso, no PA, por falta de energia e calor intenso",
+      "titulo": "Manaus terá 'Semana do Cinema' com ingressos a partir de R$ 10; veja cinemas participantes",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/09/10/aulas-da-rede-municipal-sao-suspensas-em-novo-progresso-no-pa-por-falta-de-energia-e-calor-intenso-diz-secretaria-de-educacao.ghtml",
-      "hora": "Thu, 10 Sep 2026 13:49:18 -0000",
-      "tema": "brasil",
-      "resumo": "Secretaria de Educação de Novo Progresso, no Pará, suspende aulas da rede municipal devido à falta de energia e calor intenso."
-    },
-    {
-      "titulo": "Mais 400 celulares recuperados em operação devem ser devolvidos em Sergipe",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/09/10/mais-400-celulares-recuperados-em-operacao-devem-ser-devolvidos-em-sergipe.ghtml",
-      "hora": "Thu, 10 Sep 2026 13:49:02 -0000",
-      "tema": "brasil",
-      "resumo": "Cerca de 400 celulares recuperados durante operação policial serão devolvidos aos proprietários em Sergipe na próxima semana."
-    },
-    {
-      "titulo": "Palco Giratório Sesc apresenta espetáculo “Infinito” em Rio Branco",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/especial-publicitario/fecomercio-ac-transformando-vidas-fortalecendo-empresas-e-construindo-futuros/noticia/2026/09/10/palco-giratorio-sesc-apresenta-espetaculo-infinito-em-rio-branco.ghtml",
-      "hora": "Thu, 10 Sep 2026 13:47:58 -0000",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/10/manaus-tera-semana-do-cinema-com-ingressos-a-partir-de-r-10-veja-cinemas-participantes.ghtml",
+      "hora": "Thu, 10 Sep 2026 17:48:55 -0000",
       "tema": "cultura",
-      "resumo": "O espetáculo 'Infinito', que une dança, teatro e poesia sobre memória e ancestralidade, é apresentado em Rio Branco como parte da 28ª edição do Palco Giratório Sesc."
+      "resumo": "Manaus promove Semana do Cinema de 10 a 16 de setembro com ingressos a partir de R$ 10 em diversas salas."
     },
     {
-      "titulo": "Empresários que prestaram serviço para gabinete de Mário Frias e ONG de Karina da Gama em SP são alvo da PF",
+      "titulo": "Forte chuva alaga centro de assistência social e causa goteiras em escolas da região",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/10/empresarios-que-prestaram-servico-para-gabinete-de-mario-frias-e-ong-de-karina-da-gama-em-sp-sao-alvo-da-pf.ghtml",
-      "hora": "Thu, 10 Sep 2026 13:47:23 -0000",
-      "tema": "brasil",
-      "resumo": "Polícia Federal opera contra empresários ligados ao gabinete do deputado Mário Frias e a uma ONG investigando financiamento do filme Dark Horse."
-    },
-    {
-      "titulo": "Obras causam congestionamento e lentidão na GO-020; veja desvios ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/transito/noticia/2026/09/10/obras-causam-congestionamento-e-lentidao-na-go-020-veja-desvios.ghtml",
-      "hora": "Thu, 10 Sep 2026 13:47:22 -0000",
-      "tema": "brasil",
-      "resumo": "Nova etapa de obras de restauração da GO-020 causa congestionamento e lentidão no trecho entre Goiânia e Bela Vista de Goiás."
-    },
-    {
-      "titulo": "Previsão do tempo em MS hoje: veja como fica o clima nesta quinta-feira em meio a alerta de tornado",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/10/previsao-do-tempo-em-ms-hoje-veja-como-fica-o-clima-nesta-quinta-feira-em-meio-a-alerta-de-tornado.ghtml",
-      "hora": "Thu, 10 Sep 2026 13:47:12 -0000",
-      "tema": "brasil",
-      "resumo": "Mato Grosso do Sul tem previsão de calor intenso e chuva forte com alerta de tornado, com temperaturas que podem chegar a 37°C."
-    },
-    {
-      "titulo": "Caso Dark Horse: operação que apura envio de R$ 2 milhões em emendas para filme sobre Bolsonaro cumpre mandado em Limeira",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/10/caso-dark-horse-operacao-que-apura-envio-de-r-2-milhoes-em-emendas-para-filme-sobre-bolsonaro-cumpre-mandado-em-limeira.ghtml",
-      "hora": "Thu, 10 Sep 2026 13:47:07 -0000",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/10/forte-chuva-alaga-centro-de-assistencia-social-escolas-regiao.ghtml",
+      "hora": "Thu, 10 Sep 2026 17:48:30 -0000",
       "tema": "sp",
-      "resumo": "Polícia Federal cumpre mandado em Limeira em operação que apura desvio de emendas parlamentares para o filme Dark Horse, com foco no deputado Mario Frias."
+      "resumo": "Forte chuva alagou centro de assistência social e causou goteiras em escolas e ônibus em região de Americana."
+    },
+    {
+      "titulo": "Ronaldo Caiado é internado em hospital de SP para tratar faringite aguda",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/10/ronaldo-caiado-e-internado-em-hospital-de-sp-para-tratar-faringite-aguda.ghtml",
+      "hora": "Thu, 10 Sep 2026 17:44:22 -0000",
+      "tema": "brasil",
+      "resumo": "Ronaldo Caiado, candidato à Presidência pelo PSD, foi internado em hospital de São Paulo para tratamento de faringite aguda."
+    },
+    {
+      "titulo": "Mais de 100 profissionais devem atuar na segurança da 20ª Parada do Orgulho LGBT+ no Acre",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/09/10/mais-de-100-profissionais-devem-atuar-na-seguranca-da-20a-parada-do-orgulho-lgbt-no-acre.ghtml",
+      "hora": "Thu, 10 Sep 2026 17:42:30 -0000",
+      "tema": "brasil",
+      "resumo": "Cerca de 170 profissionais atuarão na segurança da 20ª Parada do Orgulho LGBT+ do Acre, marcada para domingo no centro de Rio Branco."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -117,7 +69,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival de bikes na Zona Sul de São Paulo reúne ciclistas profissionais e amadores com competição de manobras e atividades para crianças no pavilhão do São Paulo Expo."
+      "resumo": "Festival Bike Brasil acontece neste domingo na Zona Sul de São Paulo com competições de manobras, atividades para crianças e participação de ciclistas profissionais e amadores."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -125,7 +77,7 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado pedalou 20 km e aguardou 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
+      "resumo": "Desempregado pedalou 20 km e passou 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -133,15 +85,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "cultura",
-      "resumo": "O cantor Zé Ramalho apresenta sucessos da carreira e músicas de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
-    },
-    {
-      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
-      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
-      "tema": "sp",
-      "resumo": "Polícia Rodoviária Federal apreende 927 quilos de maconha em carreta abordada em Mato Grosso do Sul que seria entregue em São Paulo."
+      "resumo": "Zé Ramalho apresentou sucessos de sua carreira e canções de Raul Seixas na 39ª Festa Junina de Sorocaba."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -149,7 +93,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina com entrada gratuita, oferecendo brincadeiras e atividades para cães e seus donos."
+      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina neste sábado com entrada gratuita, brincadeiras e atividades para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -157,7 +101,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "O Maior Baile do Mundo, festival em São Paulo com Anitta e MCs, espera reunir 35 mil pessoas para 10 horas de shows com artistas mais ouvidos da internet brasileira."
+      "resumo": "Maior Baile do Mundo acontece neste domingo em São Paulo com Anitta, MCs e outras atrações, esperando reunir 35 mil pessoas para 10 horas de shows."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -165,7 +109,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializa a candidatura da militante sindical Vera Lúcia à Presidência da República nas eleições."
+      "resumo": "PSTU oficializou Vera Lúcia, militante sindical, como candidata à Presidência da República nas eleições."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -173,7 +117,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A 15ª edição da Feiccad, feira de imóveis, construção e decoração, ocorre em Jundiaí com entrada gratuita até domingo."
+      "resumo": "15ª edição da Feiccad (Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração) segue até domingo em Jundiaí com entrada gratuita."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -181,7 +125,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público até 31 de julho, com 34 vagas para diversos cargos no Executivo municipal."
+      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diferentes cargos do Executivo municipal."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -189,7 +133,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, quando havia saído para buscar emprego no Paraguai."
+      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência que permitiu o rastreamento."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -197,22 +141,30 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Motorista de 75 anos morre em acidente de trânsito em Capela do Alto, dias antes de seu filho ser ordenado bispo em Itapetininga."
+      "resumo": "Motorista de 75 anos morre em acidente de trânsito em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
+    },
+    {
+      "titulo": "Por que Mario Frias e a produtora do filme sobre Bolsonaro são alvo da PF",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 10 Sep 2026 15:57:43 GMT",
+      "tema": "brasil",
+      "resumo": "A Polícia Federal investiga Mario Frias e produtora por suspeita de desvio de recursos públicos de emendas parlamentares destinados a organização da sociedade civil."
+    },
+    {
+      "titulo": "Entenda as duas investigações sobre 'Dark Horse': uma envolve Daniel Vorcaro, e a outra, Mario Frias",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cj9xz29p70eo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 10 Sep 2026 16:35:36 GMT",
+      "tema": "brasil",
+      "resumo": "Operação da Polícia Federal investiga desvio de emendas parlamentares relacionado ao filme 'Dark Horse', com Mario Frias como alvo da ação."
     },
     {
       "titulo": "PF deflagra operação para rastrear financiamento de 'Dark Horse', filme sobre Jair Bolsonaro",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.co.uk/portuguese/live/cqn4klxypp44t?at_medium=RSS&at_campaign=rss",
       "tema": "brasil",
-      "resumo": "A Polícia Federal deflagra operação para investigar o financiamento do filme 'Dark Horse' sobre Jair Bolsonaro, com foco em possível desvio de emendas parlamentares."
-    },
-    {
-      "titulo": "Por que Mario Frias e a produtora do filme sobre Bolsonaro são alvo da PF",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 10 Sep 2026 10:32:43 GMT",
-      "tema": "brasil",
-      "resumo": "A PF investiga suspeita de desvio de recursos públicos de emendas parlamentares destinados a organização da sociedade civil envolvida no filme sobre Bolsonaro."
+      "resumo": "A Polícia Federal deflagra operação para investigar o financiamento do filme 'Dark Horse', com o deputado Mario Frias e a produtora Karina da Gama como alvos."
     },
     {
       "titulo": "O que Flávio Bolsonaro ainda precisa esclarecer sobre 'Dark Horse' — e por que o filme não sai antes das eleições",
@@ -220,7 +172,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cy9zvqle2r0o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 10 Sep 2026 12:10:12 GMT",
       "tema": "brasil",
-      "resumo": "Filme 'Dark Horse' enfrenta controvérsias e seu lançamento está adiado para após as eleições, sem data definida."
+      "resumo": "Filme 'Dark Horse' sobre Jair Bolsonaro será lançado após as eleições e segue cercado de polêmicas relacionadas a questões de financiamento."
     },
     {
       "titulo": "Alexandre de Moraes cancela pronunciamento uma hora depois de anunciar que falaria no Supremo",
@@ -228,15 +180,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c9qrn7rpy47o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 10 Sep 2026 11:55:02 GMT",
       "tema": "brasil",
-      "resumo": "Alexandre de Moraes cancela pronunciamento agendado para o Supremo Tribunal Federal uma hora após o anúncio, em meio a crise institucional na Corte."
-    },
-    {
-      "titulo": "Quem é Mario Frias, alvo da PF em operação que investiga suspeita de desvio de emendas e o financiamento de 'Dark Horse'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c4gv7ww9p4do?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 10 Sep 2026 13:03:51 GMT",
-      "tema": "brasil",
-      "resumo": "Mario Frias, roteirista do filme 'Dark Horse', é alvo de investigação da PF que apura se emendas parlamentares por ele destinadas foram desviadas."
+      "resumo": "O ministro Alexandre de Moraes cancela pronunciamento uma hora após anunciá-lo, em meio a crise institucional no Supremo Tribunal Federal."
     },
     {
       "titulo": "A aposta da Apple ao lançar iPhone dobrável",
@@ -244,31 +188,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c3d7reexypvo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 10 Sep 2026 13:44:16 GMT",
       "tema": "mundo",
-      "resumo": "Apple apresenta seu primeiro iPhone dobrável, marcando a maior mudança no design do dispositivo em quase duas décadas."
+      "resumo": "Apple apresenta seu primeiro iPhone dobrável em evento com novo CEO, marcando a maior mudança no design da linha em quase duas décadas."
     },
     {
-      "titulo": "A linha do tempo da crise que abala o STF (com Vorcaro como estopim)",
+      "titulo": "'Tenho 27 anos e já escrevi meu testamento': por que algumas pessoas decidem fazer o documento ainda na juventude",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq637dqe2qyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 10 Sep 2026 03:16:07 GMT",
-      "tema": "brasil",
-      "resumo": "Cronologia da crise do STF desencadeada após revelação de trocas de mensagens entre o ex-banqueiro Daniel Vorcaro e número telefônico atribuído a Alexandre de Moraes."
-    },
-    {
-      "titulo": "Quando e como será sessão do STF que vai analisar caso Vorcaro-Moraes ",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq8j79jpwjko?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 10 Sep 2026 10:27:41 GMT",
-      "tema": "brasil",
-      "resumo": "Edson Fachin, presidente do STF, convoca sessão plenária extraordinária para analisar o caso envolvendo Vorcaro e Moraes, em resposta à crise institucional na Corte."
-    },
-    {
-      "titulo": "Guerra Moraes x Mendonça: o que Fachin decidiu e o que acontece agora com os ministros do STF",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5y423dne20o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 10 Sep 2026 03:52:49 GMT",
-      "tema": "brasil",
-      "resumo": "Fachin derruba decisões de ministros sobre a Polícia Federal e retira a relatoria do inquérito das Fake News de Moraes, em tentativa de conter a crise no STF."
+      "link": "https://www.bbc.com/portuguese/articles/cq8j7pnxlzeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 10 Sep 2026 16:45:41 GMT",
+      "tema": "mundo",
+      "resumo": "Cada vez mais jovens decidem fazer testamento ainda na juventude, buscando organizar questões legais e garantir disposição de bens para o futuro."
     },
     {
       "titulo": "4 pontos da fala de Trump em evento eleitoral: 'US$ 5 mil para cada americano' e guerra do Irã vai acabar 'após eleição'",
@@ -276,7 +204,47 @@
       "link": "https://www.bbc.com/portuguese/articles/crl6587p7n2o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 10 Sep 2026 11:43:44 GMT",
       "tema": "mundo",
-      "resumo": "Trump promete US$ 5 mil para cada americano e fim da guerra do Irã após sua eleição, mas não esclarece origem dos recursos para custear o plano."
+      "resumo": "Trump apresenta propostas em evento eleitoral, incluindo promessa de distribuir US$ 5 mil por americano, mas não detalha origem do financiamento."
+    },
+    {
+      "titulo": "Flávio Bolsonaro ultrapassa Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 10 Sep 2026 09:19:35 GMT",
+      "tema": "brasil",
+      "resumo": "Agregador de pesquisas eleitorais da BBC News Brasil mostra Flávio Bolsonaro ultrapassando Lula em projeções para o segundo turno presidencial de 2026."
+    },
+    {
+      "titulo": "Quando e como será sessão do STF que vai analisar caso Vorcaro-Moraes ",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq8j79jpwjko?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 10 Sep 2026 10:27:41 GMT",
+      "tema": "brasil",
+      "resumo": "Supremo Tribunal Federal marca sessão plenária extraordinária para analisar crise institucional envolvendo os ministros Vorcaro e Alexandre de Moraes."
+    },
+    {
+      "titulo": "Quem é Mario Frias, alvo da PF em operação que investiga suspeita de desvio de emendas e o financiamento de 'Dark Horse'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c4gv7ww9p4do?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 10 Sep 2026 13:03:51 GMT",
+      "tema": "brasil",
+      "resumo": "Mario Frias, roteirista e produtor do filme 'Dark Horse', é investigado por suspeita de desvio de emendas parlamentares repassadas a instituto ligado a produtora."
+    },
+    {
+      "titulo": "A linha do tempo da crise que abala o STF (com Vorcaro como estopim)",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq637dqe2qyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 10 Sep 2026 03:16:07 GMT",
+      "tema": "brasil",
+      "resumo": "Crise no Supremo Tribunal Federal intensifica-se após publicação de troca de mensagens entre ex-banqueiro Daniel Vorcaro e Alexandre de Moraes."
+    },
+    {
+      "titulo": "Tratado pelo fim de testes nucleares: letra morta ou esperança de paz?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cddjp8negzdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 10 Sep 2026 16:14:39 GMT",
+      "tema": "mundo",
+      "resumo": "Tratado internacional de 30 anos buscando fim de testes nucleares permanece sem ratificação de nove países-chave, limitando seu impacto."
     },
     {
       "titulo": "25 anos do 11 de Setembro: a agonia dos parentes das vítimas, que até hoje aguardam julgamento do 'cérebro' dos atentados",
@@ -284,22 +252,7 @@
       "link": "https://www.bbc.com/portuguese/articles/ckgwjpll9l4o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 10 Sep 2026 09:00:53 GMT",
       "tema": "mundo",
-      "resumo": "Familiares das vítimas do 11 de Setembro manifestam frustração com a demora no julgamento do 'cérebro' dos atentados, preso em Guantánamo há mais de duas décadas."
-    },
-    {
-      "titulo": "Fachin derruba decisões de ministros sobre PF e retira inquérito das Fake News de Moraes; entenda o mais recente episódio da crise no STF",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/c52e0n4kprw4t?at_medium=RSS&at_campaign=rss",
-      "tema": "brasil",
-      "resumo": "Fachin marca sessão para o dia 15 após derrubar decisões de ministros sobre a PF, caracterizando atos isolados como lesão à ordem pública do STF."
-    },
-    {
-      "titulo": "'Pior crise desde a redemocratização': como imprensa internacional noticiou novo capítulo da guerra no STF",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cde0rn1724xo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 10 Sep 2026 09:34:33 GMT",
-      "tema": "brasil",
-      "resumo": "Imprensa internacional qualifica como a pior crise desde a redemocratização as medidas agressivas tomadas por Fachin para retomar o controle do STF."
+      "resumo": "Familiares das vítimas do 11 de Setembro reclamam da demora em processar e julgar os autores dos atentados presos em Guantánamo, 25 anos após os ataques."
     }
   ]
 }
