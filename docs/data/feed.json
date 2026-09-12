@@ -1,99 +1,67 @@
 {
-  "gerado_em": "2026-09-12T17:41:20.675Z",
+  "gerado_em": "2026-09-12T22:50:40.276Z",
   "modo": "ia",
   "clima": {
-    "max": 22.9,
-    "min": 15.8,
+    "max": 20.6,
+    "min": 16.1,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Campo Grande decreta situação de emergência após temporal que deixou rastro de destruição",
+      "titulo": "Candidatos ao governo do Ceará intensificam campanha no interior do estado neste sábado; confira agendas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/12/campo-grande-decreta-situacao-de-emergencia-apos-temporal-que-deixou-rastro-de-destruicao.ghtml",
-      "hora": "Sat, 12 Sep 2026 17:17:49 -0000",
+      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/12/candidatos-ao-governo-do-ceara-intensificam-campanha-no-interior-do-estado-neste-sabado-confira-agendas.ghtml",
+      "hora": "Sat, 12 Sep 2026 22:41:59 -0000",
       "tema": "brasil",
-      "resumo": "Campo Grande decretou situação de emergência após temporal que causou destruição na capital de Mato Grosso do Sul. O decreto tem validade de 180 dias e foi publicado no Diário Oficial."
+      "resumo": "Candidatos ao governo do Ceará intensificam campanha pelo interior do estado, visitando regiões como Sertão dos Inhamuns e Vale, em preparação para as eleições de 2026."
     },
     {
-      "titulo": "Rio transborda, deixa 20 pessoas desabrigadas e interdita vias em Capivari ",
+      "titulo": "Clécio Luís participa de reunião em Macapá",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/12/rio-transborda-deixa-pessoas-desabrigadas-e-interdita-vias-em-capivari.ghtml",
-      "hora": "Sat, 12 Sep 2026 17:14:37 -0000",
+      "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/12/clecio-luis-participa-de-reuniao-em-macapa.ghtml",
+      "hora": "Sat, 12 Sep 2026 22:41:35 -0000",
       "tema": "brasil",
-      "resumo": "Rio Capivari transbordou deixando 20 pessoas desabrigadas e provocando interdição de vias em Capivari (SP). O município decretou estado de alerta."
+      "resumo": "O candidato à reeleição para governador do Amapá, Clécio Luís, cumpre agenda de campanha em Macapá com atividades em bairros da capital."
     },
     {
-      "titulo": "VÍDEO: cobras 'dançam' durante disputa por fêmea e formam 'bolo nupcial' em MT",
+      "titulo": "Dr. Furlan participa de reunião em Macapá",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/12/video-cobras-dancam-durante-disputa-por-femea-e-formam-bolo-nupcial-em-mt.ghtml",
-      "hora": "Sat, 12 Sep 2026 17:12:33 -0000",
-      "tema": "cultura",
-      "resumo": "Cena rara de acasalamento entre três cobras caninas foi registrada em vídeo em propriedade rural próxima a Cáceres, em Mato Grosso, formando o que é conhecido como 'bolo nupcial'."
+      "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/12/dr-furlan-participa-de-reuniao-em-macapa.ghtml",
+      "hora": "Sat, 12 Sep 2026 22:41:31 -0000",
+      "tema": "brasil",
+      "resumo": "O candidato ao governo do Amapá Dr. Furlan realiza agendas de campanha em Macapá, incluindo atividade no Parque Linear da Zona Norte."
     },
     {
-      "titulo": "Busca dos Mastros movimenta águas de Alter do Chão e abre contagem regressiva para Sairé 2026 em Santarém ",
+      "titulo": "Estrutura de ponte no San Marino volta a ceder após temporais em Santa Bárbara d'Oeste",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/12/busca-dos-mastros-movimenta-aguas-de-alter-do-chao-e-abre-contagem-regressiva-para-saire-2026-em-santarem.ghtml",
-      "hora": "Sat, 12 Sep 2026 17:11:55 -0000",
-      "tema": "cultura",
-      "resumo": "Rito Tradicional do Sairé iniciou-se com a Busca dos Mastros no Rio Tapajós em Alter do Chão, marcando o começo dos festejos que antecedem o Festival dos Botos e o Sairé 2026 em Santarém."
-    },
-    {
-      "titulo": "6º dia de Rock in Rio tem pop com Maroon 5 e Demi Lovato e folk de Mumford & Sons ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml",
-      "hora": "Sat, 12 Sep 2026 17:04:16 -0000",
-      "tema": "cultura",
-      "resumo": "Rock in Rio apresenta seu sexto dia de festividades com apresentações de Maroon 5, Demi Lovato e Mumford & Sons. O festival encerra no domingo."
-    },
-    {
-      "titulo": "Caneleira de peso: por que a carga no tornozelo pede cautela",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/centro-oeste/especial-publicitario/panela-de-ferro-fundido-casa-cozinha-decoracao/noticia/2026/09/12/caneleira-de-peso-por-que-a-carga-no-tornozelo-pede-cautela.ghtml",
-      "hora": "Sat, 12 Sep 2026 17:00:00 -0000",
-      "tema": "entretenimento",
-      "resumo": "Artigo esclarece sobre o uso correto de caneleiras de peso em academia, alertando que a distância do peso da articulação exige cautela na progressão de carga."
-    },
-    {
-      "titulo": "'Vamos correr para lugares altos': prefeito de Eldorado faz alerta após Rio Ribeira transbordar em SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/12/vamos-correr-para-lugares-altos-prefeito-de-eldorado-faz-alerta-apos-rio-ribeira-transbordar-em-sp.ghtml",
-      "hora": "Sat, 12 Sep 2026 16:57:35 -0000",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/12/parte-de-ponte-cede-e-estrutura-racha-apos-chuva-em-santa-barbara-do-oeste.ghtml",
+      "hora": "Sat, 12 Sep 2026 22:35:55 -0000",
       "tema": "sp",
-      "resumo": "Prefeito de Eldorado alertou moradores para deixarem áreas baixas da cidade após Rio Ribeira transbordar, pedindo que procurem locais elevados."
+      "resumo": "A ponte do San Marino em Santa Bárbara d'Oeste cede novamente após chuvas intensas, com estrutura já interditada para circulação de veículos e pedestres."
     },
     {
-      "titulo": "Parada do Orgulho LGBTQIAPN+ é realizada neste sábado em Montes Claros; veja programação",
+      "titulo": "Homem é preso com 11 fuzis em Seropédica",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/12/parada-do-orgulho-lgbtqiapn-e-realizada-neste-sabado-em-montes-claros-veja-programacao.ghtml",
-      "hora": "Sat, 12 Sep 2026 16:57:14 -0000",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/12/homem-e-preso-com-11-fuzis-em-seropedica.ghtml",
+      "hora": "Sat, 12 Sep 2026 22:30:39 -0000",
       "tema": "brasil",
-      "resumo": "Parada do Orgulho LGBTQIAPN+ foi realizada em Montes Claros com programação de atrações, marcando a 21ª edição do evento na cidade."
+      "resumo": "Homem é preso em flagrante com 11 fuzis e uma submetralhadora em transporte ilegal na Rodovia Presidente Dutra, em Seropédica."
     },
     {
-      "titulo": "766 multas de trânsito: carro com mais de R$ 310 mil em débitos é apreendido no interior de SP",
+      "titulo": "VÍDEO: drone registra incêndio em supermercado no Norte do ES",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/09/12/766-multas-de-transito-carro-com-mais-de-r-310-mil-em-debitos-e-apreendido-no-interior-de-sp.ghtml",
-      "hora": "Sat, 12 Sep 2026 16:53:20 -0000",
-      "tema": "sp",
-      "resumo": "Carro foi apreendido em São Carlos acumulando 766 multas de trânsito e débitos superiores a R$ 310 mil."
-    },
-    {
-      "titulo": "SC tem mais de 10 cidades em emergência após fortes chuvas causarem estragos e impactos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/12/sc-cidades-emergencia-fortes-chuvas-estragos-impactos.ghtml",
-      "hora": "Sat, 12 Sep 2026 16:49:09 -0000",
+      "link": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/09/12/video-drone-registra-incendio-em-supermercado-no-norte-do-es.ghtml",
+      "hora": "Sat, 12 Sep 2026 22:30:10 -0000",
       "tema": "brasil",
-      "resumo": "Mais de 10 cidades em Santa Catarina decretaram emergência após fortes chuvas causarem alagamentos, deslizamentos e destruição de estruturas."
+      "resumo": "Incêndio atinge supermercado no centro de São Gabriel da Palha, no Noroeste do Espírito Santo, registrado por drone com grande volume de fumaça."
     },
     {
-      "titulo": "Tem Solução: arborização ajuda a reduzir calor extremo e ganha espaço como estratégia de adaptação climática",
+      "titulo": "Telhado de casa desaba e móveis são destruídos por incêndio em Montes Claros",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/09/12/tem-solucao-arborizacao-ajuda-a-reduzir-calor-extremo-e-ganha-espaco-como-estrategia-de-adaptacao-climatica.ghtml",
-      "hora": "Sat, 12 Sep 2026 16:48:06 -0000",
+      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/12/telhado-de-casa-desaba-e-moveis-sao-destruidos-por-incendio-em-montes-claros.ghtml",
+      "hora": "Sat, 12 Sep 2026 22:29:15 -0000",
       "tema": "brasil",
-      "resumo": "Arborização urbana vem sendo utilizada como estratégia de adaptação climática para reduzir o impacto do calor extremo nas cidades brasileiras."
+      "resumo": "Incêndio provoca desabamento parcial do telhado e destruição de residência no bairro Alterosa em Montes Claros."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -101,7 +69,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival de bikes será realizado na Zona Sul de São Paulo reunindo ciclistas profissionais e amadores para competições de manobras e atividades."
+      "resumo": "Festival Bike Brasil acontece na Zona Sul de São Paulo reunindo ciclistas profissionais e amadores para competições de manobras e atividades diversas."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -109,7 +77,15 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado pedalou 20 km e aguardou 12 horas em fila em Bauru para concorrer a uma das 500 vagas de emprego oferecidas."
+      "resumo": "Desempregado percorre 20 km de bicicleta e fica 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
+    },
+    {
+      "titulo": "'Não foi uma fatalidade', diz viúva de homem morto em acidente no Beach Park",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2018/07/23/nao-foi-uma-fatalidade-diz-viuva-de-homem-morto-em-acidente-no-beach-park.ghtml",
+      "hora": "Mon, 23 Jul 2018 00:24:35 -0000",
+      "tema": "brasil",
+      "resumo": "Viúva de radialista morto em toboágua do Beach Park questiona segurança do brinquedo, afirmando que a morte não foi acidental mas resultado de irresponsabilidade."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -117,7 +93,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "cultura",
-      "resumo": "Cantor Zé Ramalho apresentou sucessos de sua carreira e interpretou músicas de Raul Seixas na Festa Junina de Sorocaba."
+      "resumo": "Cantor Zé Ramalho se apresenta na 39ª edição da Festa Junina de Sorocaba, interpretando sucessos próprios e canções de Raul Seixas."
+    },
+    {
+      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
+      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
+      "tema": "sp",
+      "resumo": "Polícia Rodoviária Federal apreende 927 quilos de maconha em carreta em Mato Grosso do Sul que seria entregue em São Paulo, com motorista confessando o tráfico."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -125,15 +109,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Terceira edição da Festa Junina Canina foi realizada em Jundiaí com atividades gratuitas para cães e seus donos."
+      "resumo": "Terceira edição da Festa Junina Canina de Jundiaí oferece entrada gratuita com brincadeiras, pula-pula e atividades para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
-      "tema": "cultura",
-      "resumo": "Maior Baile do Mundo, festival em São Paulo com Anitta e MCs entre as atrações, esperava reunir 35 mil pessoas para 10 horas de shows."
+      "tema": "entretenimento",
+      "resumo": "Festival Maior Baile do Mundo em São Paulo reúne artistas como Anitta e MCs e espera atrair 35 mil pessoas para 10 horas de shows."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -141,7 +125,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "PSTU oficializou a candidatura de Vera Lúcia, militante sindical, para a disputa da Presidência da República."
+      "resumo": "PSTU oficializa a militante sindical Vera Lúcia como candidata à Presidência da República nas eleições de 2026."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -149,7 +133,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "Décima quinta edição da Feiccad (Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração) foi realizada em Jundiaí com entrada gratuita."
+      "resumo": "15ª edição da Feiccad, feira que reúne imóvel, construção, condomínios, arquitetura e decoração, acontece em shopping de Jundiaí até domingo com entrada gratuita."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -157,7 +141,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abriu inscrições para concurso público com 34 vagas em diferentes cargos administrativos, com prazo até 31 de julho."
+      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diversos cargos da administração municipal."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -165,7 +149,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência registrado pela polícia."
+      "resumo": "Um homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, facilitado por um boletim de ocorrência."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -173,7 +157,15 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Motorista de 75 anos morreu em colisão com caminhão dias antes de seu filho ser ordenado bispo em Itapetininga."
+      "resumo": "Motorista de 75 anos, pai de um monsenhor que será ordenado bispo em Itapetininga, morre em acidente de trânsito dias antes da cerimônia religiosa."
+    },
+    {
+      "titulo": "Os números milionários de 'Dark Horse' que Flávio Bolsonaro prometeu a Vorcaro: cachê de 'Oppenheimer', bilheteria da Zendaya",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm2rllgyjdvo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 12 Sep 2026 21:02:26 GMT",
+      "tema": "brasil",
+      "resumo": "Investigação envolve promessas de altos valores a produtor relacionadas à produção de filme sobre político, com comparações a cachês de produções cinematográficas de grande porte."
     },
     {
       "titulo": "Flávio Bolsonaro e 'Dark Horse': 7 perguntas para entender inquérito — e o que falta ser esclarecido",
@@ -181,7 +173,15 @@
       "link": "https://www.bbc.com/portuguese/articles/crr4jg9pveeo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 12 Sep 2026 16:11:04 GMT",
       "tema": "brasil",
-      "resumo": "Inquérito envolvendo o senador Flávio Bolsonaro e operações financeiras ligadas à produção cinematográfica segue em investigação, com documentos liberados pelo STF."
+      "resumo": "Inquérito instaurado em julho sobre suposto filme político ganha novos detalhes após liberação de documentos pelo ministro do STF."
+    },
+    {
+      "titulo": "Ela postou, sem saber, sobre uma festa de Daniel Vorcaro no Madame Satã e sua vida sofreu um terremoto: 'Só agora entendi tudo'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c4gdpwelzeqo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 12 Sep 2026 18:44:04 GMT",
+      "tema": "brasil",
+      "resumo": "Mulher que perdera sua conta de redes sociais sem explicação descobre, anos depois, que estava envolvida indiretamente em investigação de autoridades federais."
     },
     {
       "titulo": "Lula e Flávio Bolsonaro voltam a empatar no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
@@ -189,7 +189,7 @@
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 12 Sep 2026 15:06:17 GMT",
       "tema": "brasil",
-      "resumo": "Pesquisa eleitoral agregada pela BBC mostra empate entre Lula e Flávio Bolsonaro em simulação de segundo turno presidencial para 2026."
+      "resumo": "Agregador de pesquisas eleitorais da BBC aponta resultado empatado entre dois possíveis candidatos para disputa presidencial de 2026."
     },
     {
       "titulo": "Fachin decide que julgará Moraes e Mendonça separadamente e marca nova sessão para 23 de setembro",
@@ -197,23 +197,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cwyz1e26921o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 12 Sep 2026 15:25:36 GMT",
       "tema": "brasil",
-      "resumo": "Ministro Fachin decidiu julgar denúncias contra Alexandre de Moraes e André Mendonça separadamente, agendando nova sessão para setembro."
+      "resumo": "Ministro do STF decide julgar denúncias contra dois ministros em sessões separadas, com novo julgamento marcado para setembro."
     },
     {
-      "titulo": "O celular de Vorcaro: os pedidos de ministros do STF para acesso a conteúdo — e a resposta de Mendonça",
+      "titulo": "A disputa no STF para liberar o conteúdo do celular de Vorcaro — e a resposta de Fachin",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c5yw9ezd93lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 12 Sep 2026 12:09:58 GMT",
+      "hora": "Sat, 12 Sep 2026 22:16:24 GMT",
       "tema": "brasil",
-      "resumo": "Ministros do STF divergem sobre o acesso ao conteúdo completo extraído do celular do banqueiro Daniel Vorcaro em investigação em curso."
-    },
-    {
-      "titulo": "Trump tenta interferir na eleição brasileira e o preocupante é que muitas vezes isso funciona, diz cientista político alemão",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ce9en9gk5y1o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 12 Sep 2026 10:36:41 GMT",
-      "tema": "mundo",
-      "resumo": "Cientista político europeu aponta que o governo Trump tenta influenciar a eleição presidencial brasileira, prática que historicamente gerou impactos na América Latina."
+      "resumo": "Ministros do STF divergem sobre o acesso ao conteúdo integral de dispositivo eletrônico envolvido em investigação."
     },
     {
       "titulo": "Por que diretor da Anthropic está pedindo freio no desenvolvimento da IA",
@@ -221,23 +213,23 @@
       "link": "https://www.bbc.com/portuguese/articles/crerx5389leo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 12 Sep 2026 16:25:46 GMT",
       "tema": "mundo",
-      "resumo": "Diretor da empresa Anthropic pede desaceleração no desenvolvimento de inteligência artificial, citando preocupações com possíveis danos globais."
+      "resumo": "Executivo de empresa de inteligência artificial pede regulação mais rigorosa do desenvolvimento tecnológico diante de preocupações crescentes sobre riscos potenciais."
     },
     {
-      "titulo": "Por que os anos 1980 foram tão coloridos e extravagantes? Entenda a 'trend' de fotos de IA que viralizou",
+      "titulo": "'Não reconheci meu namorado quando o encontrei no supermercado': como descobri que tinha cegueira facial",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cp80jlp2e11o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 12 Sep 2026 14:06:28 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cy0zweng245o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 12 Sep 2026 22:39:20 GMT",
       "tema": "cultura",
-      "resumo": "Análise explora por que os anos 1980 foram marcados por estilo visual extravagante, refletindo respostas artísticas a crises políticas e sociais do período."
+      "resumo": "Jornalista relata experiência pessoal de diagnóstico de prosopagnosia e explora a ciência por trás dessa condição neurológica que afeta o reconhecimento de rostos."
     },
     {
-      "titulo": "O que diz inquérito sobre relação de Jaques Wagner com Banco Master e Vorcaro",
+      "titulo": "Onda de calor recorde na França deixará champanhe com mais álcool — e mais forte",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cz6znw0ev0vo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 12 Sep 2026 01:27:34 GMT",
-      "tema": "brasil",
-      "resumo": "Inquérito da Polícia Federal aponta indícios de crimes de corrupção e lavagem de ativos envolvendo o ex-ministro Jaques Wagner em relação ao caso Master."
+      "link": "https://www.bbc.com/portuguese/articles/cm2m77lny61o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 12 Sep 2026 18:08:18 GMT",
+      "tema": "mundo",
+      "resumo": "Colheita marcada por temperaturas recordes na França resultará em champanhe com maior teor alcoólico e perfil gustativo mais intenso."
     },
     {
       "titulo": "Mendonça libera sigilo de inquéritos sobre 'Dark Horse', que envolve Flávio Bolsonaro, e sobre Jaques Wagner, aliado de Lula; o que se sabe",
@@ -245,7 +237,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cy9znz1p4q8o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 12 Sep 2026 00:08:59 GMT",
       "tema": "brasil",
-      "resumo": "Ministro André Mendonça liberou o sigilo de inquéritos relacionados aos casos envolvendo Flávio Bolsonaro e Jaques Wagner, revelando novos documentos ao público."
+      "resumo": "Ministro do STF libera sigilo de inquéritos relacionados a investigações sobre figuras políticas após pressão para transparência processual."
     },
     {
       "titulo": "PGR pediu para apurar se Flávio Bolsonaro atuou no Senado para beneficiar Vorcaro",
@@ -253,7 +245,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cpvelg8231ko?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 11 Sep 2026 20:39:48 GMT",
       "tema": "brasil",
-      "resumo": "Procurador-Geral da República pediu apuração sobre atuação do senador Flávio Bolsonaro no Senado em benefício de banqueiro envolvido em negociação cinematográfica."
+      "resumo": "Procurador-geral da República solicita apuração sobre possível atuação de senador em favor de banqueiro em questões relacionadas a produção cinematográfica."
     },
     {
       "titulo": "25 anos do 11 de Setembro: a agonia dos parentes das vítimas, que até hoje aguardam julgamento do 'cérebro' dos atentados",
@@ -261,7 +253,7 @@
       "link": "https://www.bbc.com/portuguese/articles/ckgwjpll9l4o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 10 Sep 2026 09:00:53 GMT",
       "tema": "mundo",
-      "resumo": "Familiares de vítimas do 11 de Setembro protestam contra atrasos no julgamento do principal articulador dos atentados, ainda preso em Guantânamo 25 anos depois."
+      "resumo": "Familiares de vítimas dos atentados de 11 de setembro manifestam preocupação com atrasos no julgamento de suspeitos presos há mais de duas décadas."
     },
     {
       "titulo": "Os argumentos de Gilmar Mendes para que sessão do dia 15 também analise acusações contra Mendonça",
@@ -269,7 +261,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cj64n212xleo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 11 Sep 2026 23:11:39 GMT",
       "tema": "brasil",
-      "resumo": "Ministro Gilmar Mendes pediu que julgamento agendado também analise acusações contra André Mendonça junto com outros temas em pauta no STF."
+      "resumo": "Ministro do STF solicita que sessão deliberativa considere também acusações contra outro ministro, além de pedido de nulidade relacionado a investigação."
     },
     {
       "titulo": "Anthropic diz ter barrado tentativa de uso de IA para fazer armas biológicas",
@@ -277,7 +269,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c99dgl92k53o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 11 Sep 2026 14:08:10 GMT",
       "tema": "mundo",
-      "resumo": "Empresa Anthropic reporta ter impedido tentativa de uso de inteligência artificial para desenvolvimento de armas biológicas, reforçando alertas sobre riscos da tecnologia."
+      "resumo": "Empresa de inteligência artificial relata ter identificado e bloqueado tentativa de utilizar sua tecnologia para fins prejudiciais, reforçando alertas sobre segurança da IA."
     }
   ]
 }
