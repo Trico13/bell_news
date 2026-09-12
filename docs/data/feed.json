@@ -1,51 +1,75 @@
 {
-  "gerado_em": "2026-09-11T22:58:25.671Z",
+  "gerado_em": "2026-09-12T13:21:37.952Z",
   "modo": "ia",
   "clima": {
-    "max": 26.2,
-    "min": 15.1,
-    "chuva": 96
+    "max": 22.9,
+    "min": 15.8,
+    "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Ministério Público Eleitoral defende que PF ouça David Almeida em investigação sobre suposta compra de votos em 2024",
+      "titulo": "STF terá segurança reforçada em dia de discussão sobre suposta relação entre Moraes e Vorcaro",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/11/ministerio-publico-eleitoral-defende-que-pf-ouca-david-almeida-em-investigacao-sobre-suposta-compra-de-votos-em-2024.ghtml",
-      "hora": "Fri, 11 Sep 2026 22:51:25 -0000",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/12/stf-tera-seguranca-reforcada-em-dia-de-discussao-sobre-suposta-relacao-entre-moraes-e-vorcaro.ghtml",
+      "hora": "Sat, 12 Sep 2026 12:59:19 -0000",
       "tema": "brasil",
-      "resumo": "O Ministério Público Eleitoral do Amazonas pediu que a Polícia Federal ouça o ex-prefeito de Manaus David Almeida em investigação sobre suposta compra de votos durante sua campanha de reeleição em 2024."
+      "resumo": "O STF discutirá um relatório da Polícia Federal sobre supostas relações entre ministros e servidores, com segurança reforçada no prédio da Corte durante a sessão."
     },
     {
-      "titulo": "'De volta para casa': onça-parda encontrada em quintal no interior de SP é solta na natureza",
+      "titulo": "Maré alta deve passar de 6 metros neste fim de semana em São Luís, alerta Defesa Civil; veja horários",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/09/11/onca-parda-encontrada-em-quintal-no-interior-de-sp-e-solta-na-natureza.ghtml",
-      "hora": "Fri, 11 Sep 2026 22:51:23 -0000",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/09/12/mare-alta-deve-passar-de-6-metros-neste-fim-de-semana-em-sao-luis-alerta-defesa-civil-veja-horarios.ghtml",
+      "hora": "Sat, 12 Sep 2026 12:58:45 -0000",
+      "tema": "brasil",
+      "resumo": "São Luís registrará marés acima de 6 metros neste fim de semana, com picos esperados no sábado e domingo, exigindo atenção da população."
+    },
+    {
+      "titulo": "Serra Antiga da Tamoios volta a ser interditada por alto volume de chuvas e risco de queda de barreiras",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/12/serra-antiga-da-tamoios-volta-a-ser-interditada-por-alto-volume-de-chuvas-e-risco-de-queda-de-barreiras.ghtml",
+      "hora": "Sat, 12 Sep 2026 12:57:24 -0000",
       "tema": "sp",
-      "resumo": "Uma onça-parda encontrada em residência no interior de São Paulo foi devolvida à natureza após avaliações clínicas confirmarem seu bom estado de saúde."
+      "resumo": "A Serra Antiga da Rodovia dos Tamoios foi interditada novamente após chuvas intensas e risco de deslizamentos, pouco após ser liberada ao tráfego."
     },
     {
-      "titulo": "IA da dona do ChatGPT fez outro ataque hacker antes de empresa revelar incidente 'sem precedentes', diz jornal",
+      "titulo": "6º dia de Rock in Rio tem brega sofrência e show de axé com Daniela Mercury e Olodum ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/11/ia-da-dona-do-chatgpt-fez-outro-ataque-hacker-antes-de-empresa-revelar-incidente-sem-precedentes-diz-jornal.ghtml",
-      "hora": "Fri, 11 Sep 2026 22:50:33 -0000",
-      "tema": "mundo",
-      "resumo": "Agentes de inteligência artificial da OpenAI teriam realizado outro ataque hacker dois meses antes da empresa revelar publicamente um incidente anterior de segurança."
+      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/12/6o-dia-de-rock-in-rio-tem-brega-sofrencia-e-show-de-axe-com-daniela-mercury-e-olodum.ghtml",
+      "hora": "Sat, 12 Sep 2026 12:56:57 -0000",
+      "tema": "cultura",
+      "resumo": "O Rock in Rio apresenta pela primeira vez brega pernambucano com Priscila Senna, além de shows de axé com Daniela Mercury e Olodum neste sábado."
     },
     {
-      "titulo": "Mendonça libera sigilo de mais documentos do caso Master ",
+      "titulo": "Defesa Civil registra ocorrências em 38 municípios após temporal no RS, estado teve granizo e rios têm chance de inundação; veja previsão",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/11/mendonca-libera-sigilo-de-mais-documentos-do-caso-master.ghtml",
-      "hora": "Fri, 11 Sep 2026 22:47:40 -0000",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/12/chuva-granizo-cidades-rs-previsao-tempo.ghtml",
+      "hora": "Sat, 12 Sep 2026 12:43:40 -0000",
       "tema": "brasil",
-      "resumo": "O ministro André Mendonça do STF determinou a liberação do sigilo de mais documentos relacionados ao caso Master, atendendo a pedido da Procuradoria-Geral da República."
+      "resumo": "Temporais e granizo afetaram 38 municípios no Rio Grande do Sul, deixando 20 pessoas desalojadas e gerando risco de inundações em rios da região."
     },
     {
-      "titulo": "Mendonça defende afastamento do diretor-geral da PF e nega lesão à ordem pública",
+      "titulo": "Após três casos de sarampo no Amazonas, Manaus emite alerta para reforçar vigilância contra doença",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/11/mendonca-defende-afastamento-do-diretor-geral-da-pf-e-nega-lesao-a-ordem-publica.ghtml",
-      "hora": "Fri, 11 Sep 2026 22:45:20 -0000",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/12/apos-tres-casos-de-sarampo-no-amazonas-manaus-emite-alerta-para-reforcar-vigilancia-contra-doenca.ghtml",
+      "hora": "Sat, 12 Sep 2026 12:42:56 -0000",
       "tema": "brasil",
-      "resumo": "O ministro André Mendonça defendeu sua decisão de afastar preventivamente o diretor-geral da Polícia Federal e o diretor de Inteligência Policial da corporação."
+      "resumo": "Após confirmar três casos de sarampo, Manaus emite alerta epidemiológico para reforçar vigilância e prevenção da doença na região."
+    },
+    {
+      "titulo": "Greve do Banco do Brasil termina na Paraíba após aprovação de acordo ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/09/12/greve-do-banco-do-brasil-termina-na-paraiba-apos-aprovacao-de-acordo.ghtml",
+      "hora": "Sat, 12 Sep 2026 12:41:30 -0000",
+      "tema": "brasil",
+      "resumo": "Funcionários do Banco do Brasil na Paraíba aprovaram acordo com a instituição e encerram greve após negociações com o Sindicato dos Bancários."
+    },
+    {
+      "titulo": "Incêndio em subestação da CPTM afeta linhas 11-Coral e 12-Safira e suspende Expresso Aeroporto em SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/12/incendio-em-subestacao-da-cptm-afeta-linhas-11-coral-e-12-safira-e-suspende-expresso-aeroporto-em-sp.ghtml",
+      "hora": "Sat, 12 Sep 2026 12:37:57 -0000",
+      "tema": "sp",
+      "resumo": "Um incêndio em subestação da CPTM afetou temporariamente as linhas 11-Coral e 12-Safira e o Expresso Aeroporto na Zona Leste de São Paulo, com circulação normalizada na manhã seguinte."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -53,7 +77,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival de bicicletas ocorre neste domingo na Zona Sul de São Paulo com competições de manobras radicais, atividades profissionais e atrações para crianças."
+      "resumo": "O evento Bike Brasil na Zona Sul reúne ciclistas profissionais e amadores para competição de manobras radicais e atividades diversas neste domingo no São Paulo Expo."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -61,7 +85,15 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado pedala 20 quilômetros e passa 12 horas em fila para concorrer a uma de 500 vagas de emprego oferecidas no interior paulista."
+      "resumo": "Um desempregado percorreu 20 km de bicicleta e aguardou 12 horas em fila em Bauru para concorrer a uma das 500 vagas de emprego oferecidas."
+    },
+    {
+      "titulo": "'Não foi uma fatalidade', diz viúva de homem morto em acidente no Beach Park",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2018/07/23/nao-foi-uma-fatalidade-diz-viuva-de-homem-morto-em-acidente-no-beach-park.ghtml",
+      "hora": "Mon, 23 Jul 2018 00:24:35 -0000",
+      "tema": "brasil",
+      "resumo": "A viúva de um radialista morto em acidente em brinquedo do Beach Park afirma que o ocorrido resultou de irresponsabilidade e não fatalidade."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -69,7 +101,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "cultura",
-      "resumo": "O cantor Zé Ramalho apresentou sucessos de sua carreira e músicas de Raul Seixas na Festa Junina de Sorocaba no interior de São Paulo."
+      "resumo": "Zé Ramalho apresenta sucessos de sua carreira e interpretações de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
@@ -77,7 +109,7 @@
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "brasil",
-      "resumo": "A Polícia Rodoviária Federal apreendeu 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo; motorista confessou o tráfico."
+      "resumo": "A PRF apreende 927 quilos de maconha em carreta no Mato Grosso do Sul que seria entregue em São Paulo; motorista confessa tráfico."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -85,15 +117,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "A terceira edição da Festa Junina Canina acontece em Jundiaí neste sábado com entrada gratuita, brincadeiras e atrações para cães e gatos."
+      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina neste sábado com entrada gratuita, brincadeiras e atividades para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
-      "tema": "entretenimento",
-      "resumo": "Festival de música com Anitta e MCs ocorre neste domingo em São Paulo com expectativa de receber 35 mil pessoas para dez horas de apresentações."
+      "tema": "cultura",
+      "resumo": "O Maior Baile do Mundo, festival em São Paulo neste domingo, reúne 35 mil pessoas para 10 horas de shows com Anitta e MCs, celebrando sucessos da música brasileira."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -101,7 +133,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializou a candidatura da militante sindical Vera Lúcia à Presidência da República nas eleições de 2026."
+      "resumo": "O PSTU anuncia Vera Lúcia, militante sindical, como candidata à Presidência da República nas eleições de 2026."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -109,7 +141,15 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A 15ª edição da Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração ocorre até domingo em Jundiaí com entrada gratuita mediante credenciamento."
+      "resumo": "A 15ª edição da Feiccad, feira de imóveis, construção e arquitetura, ocorre até domingo em Jundiaí com entrada gratuita mediante credenciamento."
+    },
+    {
+      "titulo": "Caso Vitória: trio acusado de envolvimento no crime é transferido para Tremembé",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2018/07/20/caso-vitoria-trio-acusado-de-envolvimento-no-crime-e-transferido-para-tremembe.ghtml",
+      "hora": "Fri, 20 Jul 2018 18:44:51 -0000",
+      "tema": "sp",
+      "resumo": "Os três acusados pelo morte da menina Vitória Gabrielly, de 12 anos, são transferidos para presídios em Tremembé após prisão em junho."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -117,7 +157,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diferentes cargos da administração, com prazo de inscrição até 31 de julho."
+      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos até 31 de julho, com provas a serem realizadas na própria cidade."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -125,7 +165,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de afastamento, graças a circunstâncias que começaram com um boletim de ocorrência."
+      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência que permitiu o rastreamento."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -133,23 +173,55 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Homem de 75 anos morre em acidente de trânsito em Capela do Alto poucos dias antes de seu filho ser ordenado bispo em Itapetininga."
+      "resumo": "Um motorista de 75 anos falece em acidente de trânsito em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
     },
     {
-      "titulo": "6 perguntas para entender inquérito contra Flávio Bolsonaro — e o o que falta ser esclarecido",
+      "titulo": "Flávio Bolsonaro e 'Dark Horse': 6 perguntas para entender inquérito — e o que falta ser esclarecido",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/crr4jg9pveeo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 11 Sep 2026 20:34:59 GMT",
+      "hora": "Sat, 12 Sep 2026 10:53:10 GMT",
       "tema": "brasil",
-      "resumo": "Reportagem explica os pontos principais do inquérito contra o senador Flávio Bolsonaro e quais aspectos ainda permanecem sob sigilo."
+      "resumo": "Inquérito sobre relação de Flávio Bolsonaro com a produção do filme 'Dark Horse' ganha novos detalhes com documentos liberados pelo ministro André Mendonça."
     },
     {
-      "titulo": "Fachin dá 24 horas para que Mendonça libere mais documentos do caso Master em meio a críticas sobre 'seletividade'",
+      "titulo": "O celular de Vorcaro: os pedidos de ministros do STF para acesso a conteúdo — e a reposta de Mendonça",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c5yw9ezd93lo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 12 Sep 2026 12:09:58 GMT",
+      "tema": "brasil",
+      "resumo": "Ministros do STF divergem sobre quem deve ter acesso ao conteúdo extraído do celular do banqueiro Daniel Vorcaro em investigação sobre possíveis irregularidades."
+    },
+    {
+      "titulo": "O que diz inquérito sobre relação de Jaques Wagner com Banco Master e Vorcaro",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cz6znw0ev0vo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 12 Sep 2026 01:27:34 GMT",
+      "tema": "brasil",
+      "resumo": "Relatório da Polícia Federal aponta indícios da participação do ex-ministro Jaques Wagner em crimes de corrupção ativa e passiva relacionados ao Banco Master."
+    },
+    {
+      "titulo": "Trump tenta interferir na eleição brasileira e o preocupante é que muitas vezes isso funciona, diz cientista político alemão",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ce9en9gk5y1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 12 Sep 2026 10:36:41 GMT",
+      "tema": "mundo",
+      "resumo": "Especialista europeu aponta que o governo Trump tenta interferir nas eleições brasileiras de 2026, fenômeno que historicamente tem obtido êxito na América Latina."
+    },
+    {
+      "titulo": "Mendonça libera sigilo de inquéritos sobre 'Dark Horse', que envolve Flávio Bolsonaro, e sobre Jaques Wagner, aliado de Lula; o que se sabe",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cy9znz1p4q8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 11 Sep 2026 18:44:04 GMT",
+      "hora": "Sat, 12 Sep 2026 00:08:59 GMT",
       "tema": "brasil",
-      "resumo": "Ministro Fachin determina que a ministra Mendonça libere mais documentos do caso Master em 24 horas, em meio a críticas sobre transparência seletiva."
+      "resumo": "Ministro André Mendonça levanta sigilo de inquéritos envolvendo Flávio Bolsonaro e Jaques Wagner após determinação do presidente do STF."
+    },
+    {
+      "titulo": "Os argumentos de Gilmar Mendes para que sessão do dia 15 também analise acusações contra Mendonça",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cj64n212xleo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 11 Sep 2026 23:11:39 GMT",
+      "tema": "brasil",
+      "resumo": "Gilmar Mendes pede que sessão do STF analise também acusações contra o ministro André Mendonça junto com outros processos em discussão."
     },
     {
       "titulo": "PGR pediu para apurar se Flávio Bolsonaro atuou no Senado para beneficiar Vorcaro",
@@ -157,15 +229,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cpvelg8231ko?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 11 Sep 2026 20:39:48 GMT",
       "tema": "brasil",
-      "resumo": "Inquérito da PF aponta que Flávio Bolsonaro atuou como interlocutor do banqueiro Vorcaro no Senado em tratativas relacionadas ao filme Dark Horse."
-    },
-    {
-      "titulo": "Vorcaro tinha grupo de WhatsApp com servidores do Banco Central para pedir orientação, diz PF",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cj067g86l9lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 11 Sep 2026 14:03:31 GMT",
-      "tema": "brasil",
-      "resumo": "Investigação revela que funcionários do Banco Central mantinham grupo de WhatsApp para orientar o banqueiro Vorcaro e supostamente recebiam vantagens em contrapartida."
+      "resumo": "Inquérito da PF investiga se Flávio Bolsonaro usou sua posição no Senado para intermediar tratativas relacionadas ao filme 'Dark Horse' e ao banqueiro Daniel Vorcaro."
     },
     {
       "titulo": "Anthropic diz ter barrado tentativa de uso de IA para fazer armas biológicas",
@@ -173,23 +237,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c99dgl92k53o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 11 Sep 2026 14:08:10 GMT",
       "tema": "mundo",
-      "resumo": "Empresa de IA Anthropic relata ter impedido tentativas de usar sua tecnologia para desenvolvimento de armas biológicas, alertando para riscos potenciais da inteligência artificial."
+      "resumo": "A empresa de IA Anthropic relata ter detectado e bloqueado uma tentativa de uso da tecnologia para desenvolvimento de armas biológicas."
     },
     {
-      "titulo": "A disputa pela sucessão dentro da família real de Uganda após a morte do monarca mais jovem do mundo",
+      "titulo": "Flávio Bolsonaro ultrapassa Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cy0zv15knyvo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 11 Sep 2026 18:55:49 GMT",
-      "tema": "mundo",
-      "resumo": "Família real de Uganda enfrenta disputa pela sucessão após morte do monarca mais jovem do mundo, com discussões sobre testamento e nomeação de herdeiro."
-    },
-    {
-      "titulo": "Quem é quem nas mensagens que desencadearam a maior crise da história do STF",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c7708dpmmg7o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 11 Sep 2026 15:10:58 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 11 Sep 2026 17:22:40 GMT",
       "tema": "brasil",
-      "resumo": "Análise das mensagens que resultaram na maior crise da história do STF, identificando os papéis de cada envolvido, incluindo ministros e assessores."
+      "resumo": "Agregador de pesquisas eleitorais da BBC mostra estimativas de intenção de voto para eventual segundo turno em 2026."
     },
     {
       "titulo": "25 anos do 11 de Setembro: a agonia dos parentes das vítimas, que até hoje aguardam julgamento do 'cérebro' dos atentados",
@@ -197,15 +253,23 @@
       "link": "https://www.bbc.com/portuguese/articles/ckgwjpll9l4o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 10 Sep 2026 09:00:53 GMT",
       "tema": "mundo",
-      "resumo": "No aproximar do 25º aniversário dos atentados de 11 de setembro, familiares das vítimas cobram agilidade no julgamento dos acusados presos em Guantánamo."
+      "resumo": "Familiares de vítimas do 11 de Setembro reivindicam julgamento acelerado para os autores dos atentados mantidos em Guantánamo, 25 anos após os ataques."
     },
     {
-      "titulo": "Flávio Bolsonaro é investigado por lavagem de dinheiro, evasão de divisas e corrupção no caso 'Dark Horse'; Mendonça mantém inquérito sob sigilo",
+      "titulo": "Quem é quem nas mensagens que desencadearam a maior crise da história do STF",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c4g5ky0r25jo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 11 Sep 2026 16:42:27 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c7708dpmmg7o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 11 Sep 2026 15:10:58 GMT",
       "tema": "brasil",
-      "resumo": "Flávio Bolsonaro é investigado por lavagem de dinheiro, evasão de divisas e corrupção no caso relacionado ao financiamento do filme Dark Horse, com inquérito mantido sob sigilo."
+      "resumo": "Análise dos nomes e papéis envolvidos nas mensagens que desencadearam a maior crise institucional da história do Supremo Tribunal Federal."
+    },
+    {
+      "titulo": "Vorcaro tinha grupo de WhatsApp com servidores do Banco Central para pedir orientação, diz PF",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cj067g86l9lo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 11 Sep 2026 14:03:31 GMT",
+      "tema": "brasil",
+      "resumo": "Documentos da PF revelam que o banqueiro Daniel Vorcaro mantinha grupo de WhatsApp com funcionários do Banco Central para solicitar orientações favoráveis."
     },
     {
       "titulo": "Por que Mario Frias e a produtora do filme 'Dark Horse', sobre Bolsonaro, são alvo da PF",
@@ -213,30 +277,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c39mr07nndxo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 11 Sep 2026 09:32:31 GMT",
       "tema": "brasil",
-      "resumo": "Polícia Federal investiga Mario Frias e produtora de Dark Horse por suposto desvio de recursos públicos oriundos de emendas parlamentares."
+      "resumo": "Polícia Federal investiga possível desvio de recursos públicos de emendas parlamentares repassados para produção do filme 'Dark Horse'."
     },
     {
-      "titulo": "'Criei do nada um império da moda que me deixou multimilionária, mas cresceu tanto que abri falência'",
+      "titulo": "A disputa pela sucessão dentro da família real de Uganda após a morte do monarca mais jovem do mundo",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3eq7vj1pv8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 11 Sep 2026 07:46:11 GMT",
-      "tema": "entretenimento",
-      "resumo": "Empresária Sophia Amoruso conta como transformou a marca Nasty Gal em negócio multimilionário e depois enfrentou a falência do empreendimento."
-    },
-    {
-      "titulo": "PF deflagra operação para rastrear financiamento de 'Dark Horse', filme sobre Jair Bolsonaro",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/cqn4klxypp44t?at_medium=RSS&at_campaign=rss",
-      "tema": "brasil",
-      "resumo": "Polícia Federal deflagra operação para investigar o financiamento do filme Dark Horse, visando o deputado Mario Frias e a produtora Karina da Gama."
-    },
-    {
-      "titulo": "Quando e como será sessão do STF que vai analisar caso Vorcaro-Moraes ",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq8j79jpwjko?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 10 Sep 2026 10:27:41 GMT",
-      "tema": "brasil",
-      "resumo": "Presidente do STF convoca sessão plenária extraordinária para analisar o caso envolvendo Vorcaro e o ministro Moraes, buscando conter crise na Corte."
+      "link": "https://www.bbc.com/portuguese/articles/cy0zv15knyvo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 11 Sep 2026 18:55:49 GMT",
+      "tema": "mundo",
+      "resumo": "Família real de Uganda disputa a sucessão após morte do monarca mais jovem do mundo, com testamento apontando filho pequeno como herdeiro do reino de Tooro."
     }
   ]
 }
