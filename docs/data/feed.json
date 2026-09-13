@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-13T14:04:16.645Z",
+  "gerado_em": "2026-09-13T17:55:24.291Z",
   "modo": "ia",
   "clima": {
     "max": 16.9,
@@ -8,76 +8,84 @@
   },
   "noticias": [
     {
-      "titulo": "Candidatos ao governo do AM participam de série de entrevistas na Rede Amazônica; veja datas e como assistir",
+      "titulo": "TRE-PI indefere pedido de registro de candidatura do Professor Jurity ao Governo do Piauí",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/13/candidatos-ao-governo-do-am-participam-de-serie-de-entrevistas-na-rede-amazonica-veja-datas-e-como-assistir.ghtml",
-      "hora": "Sun, 13 Sep 2026 13:51:29 -0000",
+      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/13/tre-jurity-piaui.ghtml",
+      "hora": "Sun, 13 Sep 2026 17:40:27 -0000",
       "tema": "brasil",
-      "resumo": "A Rede Amazônica realiza série de entrevistas com candidatos ao governo do Amazonas para as eleições de 2026, com transmissão ao vivo entre 14 e 17 de janeiro."
+      "resumo": "O Tribunal Regional Eleitoral do Piauí indeferiu o registro de candidatura de Francisco Jurity ao Governo do estado, decisão tomada pela juíza eleitoral Keyll na sexta-feira."
     },
     {
-      "titulo": "Dark Horse: Dino levanta sigilo de investigação que cita Mário Frias, aponta indícios de irregularidades e menciona possível elo com PCC",
+      "titulo": "Prefeitura de Valença abre inscrições para concurso com vagas para professores da rede municipal",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/13/dark-horse-dino-levanta-sigilo-de-investigacao-que-cita-mario-frias-aponta-indicios-de-irregularidades-e-menciona-possivel-elo-com-pcc.ghtml",
-      "hora": "Sun, 13 Sep 2026 13:43:20 -0000",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/13/prefeitura-de-valenca-abre-inscricoes-para-concurso-com-vagas-para-professores-da-rede-municipal.ghtml",
+      "hora": "Sun, 13 Sep 2026 17:30:33 -0000",
       "tema": "brasil",
-      "resumo": "O ministro Flávio Dino levantou sigilo de investigação sobre desvio de recursos públicos em emendas parlamentares federais que envolve Mário Frias e possível conexão com o PCC."
+      "resumo": "A Prefeitura de Valença (RJ) abriu inscrições para concurso público com 96 vagas imediatas para professores da rede municipal, com prazo até 5 de outubro."
     },
     {
-      "titulo": "Nível do rio volta a subir e número de famílias desabrigadas chega a 15 em Capivari",
+      "titulo": "Leilão de guitarras autografadas tem Foo Fighters, Bring me The Horizon e Calvin Harris ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/13/nivel-do-rio-volta-a-subir-e-numero-de-familias-desabrigadas-chega-a-15-em-capivari.ghtml",
-      "hora": "Sun, 13 Sep 2026 13:37:26 -0000",
-      "tema": "brasil",
-      "resumo": "Rio Capivari em São Paulo volta a subir durante a madrugada, atingindo 2,97 metros e deixando 15 famílias desabrigadas pela enchente."
-    },
-    {
-      "titulo": "Banda que atravessa gerações mantém viva em Itapecerica tradição musical iniciada há mais de dois séculos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/09/13/banda-que-atravessa-geracoes-mantem-viva-em-itapecerica-tradicao-musical-iniciada-ha-mais-de-dois-seculos.ghtml",
-      "hora": "Sun, 13 Sep 2026 13:30:42 -0000",
+      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/13/leilao-de-guitarras-autografadas-rock-in-rio.ghtml",
+      "hora": "Sun, 13 Sep 2026 17:30:04 -0000",
       "tema": "cultura",
-      "resumo": "Banda de Itapecerica em Minas Gerais mantém viva tradição musical de mais de 200 anos, acompanhando celebrações religiosas e procissões ao longo dos séculos."
+      "resumo": "O Rock in Rio realizará uma nova edição de leilão com itens autografados, incluindo guitarras de artistas como Foo Fighters, Bring Me The Horizon e Calvin Harris."
     },
     {
-      "titulo": "Inmet emite alerta de tempestade para cidades do Sul do Rio e Costa Verde",
+      "titulo": "Justiça extingue ação da Prefeitura de Santos para retomar área da Abor",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/13/inmet-emite-alerta-de-tempestade-para-cidades-do-sul-do-rio-e-costa-verde.ghtml",
-      "hora": "Sun, 13 Sep 2026 13:30:13 -0000",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/13/justica-extingue-acao-da-prefeitura-de-santos-para-retomar-area-da-abor.ghtml",
+      "hora": "Sun, 13 Sep 2026 17:30:00 -0000",
+      "tema": "sp",
+      "resumo": "Justiça de Santos extinguiu processo da prefeitura que tentava retomar área de cinco mil metros quadrados ocupada pela Associação Beneficente Osvaldo De Rosis."
+    },
+    {
+      "titulo": "Mendonça diz que compartilhar conteúdo do celular de Vorcaro só serviria para 'tumultuar' e pode colocar investigações em risco",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/13/mendonca-celular-vorcaro.ghtml",
+      "hora": "Sun, 13 Sep 2026 17:20:15 -0000",
       "tema": "brasil",
-      "resumo": "Instituto Nacional de Meteorologia emite alerta amarelo de tempestade para 24 cidades do Sul do Rio de Janeiro e Costa Verde."
+      "resumo": "O ministro André Mendonça do STF decidiu não divulgar integralmente dados do celular do ex-banqueiro Daniel Vorcaro, argumentando que isso prejudicaria o julgamento e investigações em andamento."
     },
     {
-      "titulo": "VÍDEO: Itaipu abre vertedouro pela 3ª vez no ano para controlar nível do reservatório",
+      "titulo": "Artesanato maranhense conquista duas vagas entre os 100 melhores do Brasil",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/09/13/video-itaipu-abre-vertedouro.ghtml",
-      "hora": "Sun, 13 Sep 2026 13:28:54 -0000",
-      "tema": "brasil",
-      "resumo": "Usina de Itaipu abre vertedouro pela terceira vez no ano para controlar o nível do reservatório após chuvas intensas na bacia."
-    },
-    {
-      "titulo": "Jovem que morreu após aguardar transferência teve alterações nos pulmões e coração aumentado, diz família",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/09/13/jovem-que-morreu-apos-aguardar-transferencia-teve-alteracoes-nos-pulmoes-e-coracao-aumentado-diz-familia.ghtml",
-      "hora": "Sun, 13 Sep 2026 13:23:46 -0000",
-      "tema": "brasil",
-      "resumo": "Jovem de 28 anos faleceu após aguardar transferência hospitalar em Pinheiro, Maranhão; família relata que havia alterações nos pulmões e coração aumentado."
-    },
-    {
-      "titulo": "Fraude contra rede de supermercados: o que se sabe sobre operação que bloqueou R$ 5,7 milhões na Bahia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/13/fraude-contra-rede-de-supermercados-o-que-se-sabe-sobre-operacao-que-bloqueou-r-57-milhoes-na-bahia.ghtml",
-      "hora": "Sun, 13 Sep 2026 13:12:30 -0000",
-      "tema": "brasil",
-      "resumo": "Operação bloqueia R$ 5,7 milhões e apreende bens em investigação sobre fraude contra rede de supermercados em Euclides da Cunha, Bahia."
-    },
-    {
-      "titulo": "Museu de Arte Moderna de SP reabre no Ibirapuera após dois anos fechado para obras",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/13/museu-de-arte-moderna-de-sp-reabre-no-ibirapuera-apos-dois-anos-fechado-para-obras.ghtml",
-      "hora": "Sun, 13 Sep 2026 13:06:14 -0000",
+      "link": "https://g1.globo.com/ma/maranhao/empreendedorismo/noticia/2026/09/13/artesanato-maranhense-conquista-duas-vagas-entre-os-100-melhores-do-brasil.ghtml",
+      "hora": "Sun, 13 Sep 2026 17:17:23 -0000",
       "tema": "cultura",
-      "resumo": "Museu de Arte Moderna de São Paulo reabre portas no Ibirapuera após dois anos de obras na Marquise do parque."
+      "resumo": "Artesanato maranhense conquistou duas vagas entre os 100 melhores do Brasil na 6ª edição do Prêmio Sebrae Top 100 de Artesanato."
+    },
+    {
+      "titulo": "Remédio caseiro faz mal? Ciência alerta para riscos de plantas",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/13/muito-alem-do-cha-o-que-a-ciencia-ja-descobriu-sobre-as-plantas-medicinais.ghtml",
+      "hora": "Sun, 13 Sep 2026 17:16:59 -0000",
+      "tema": "mundo",
+      "resumo": "Pesquisadores estudam os efeitos e riscos de plantas medicinais usadas como remédios caseiros, buscando formas seguras de uso e possíveis aplicações à saúde."
+    },
+    {
+      "titulo": "Como o ar mais limpo acelera o aquecimento global — e vem revelando um problema maior",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/13/como-o-ar-mais-limpo-acelera-o-aquecimento-global-e-vem-revelando-um-problema-maior.ghtml",
+      "hora": "Sun, 13 Sep 2026 17:16:36 -0000",
+      "tema": "mundo",
+      "resumo": "Novas evidências científicas indicam que a redução de poluição do ar pode intensificar o aquecimento global, sugerindo emissões de gases do efeito estufa maiores que o previsto."
+    },
+    {
+      "titulo": "'Caminhada do Amicão' reúne famílias e animais de estimação em Vassouras; veja fotos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/13/caminhada-do-amicao-reune-familias-e-animais-de-estimacao-em-vassouras-veja-fotos.ghtml",
+      "hora": "Sun, 13 Sep 2026 17:09:39 -0000",
+      "tema": "brasil",
+      "resumo": "A 'Caminhada do Amicão' reuniu cerca de 250 animais de estimação e suas famílias em Vassouras (RJ), promovida pela TV Rio Sul."
+    },
+    {
+      "titulo": "Suplente ao Senado é derrubada, chutada e atingida por bala de borracha pela PM em SC; VÍDEO ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/13/suplente-ao-senado-e-derrubada-chutada-e-atingida-por-bala-de-borracha-pela-pm-em-sc-video.ghtml",
+      "hora": "Sun, 13 Sep 2026 17:07:07 -0000",
+      "tema": "brasil",
+      "resumo": "Candidata a suplente ao Senado Fernanda Klitzke foi agredida pela Polícia Militar durante ocorrência em Jaraguá do Sul, Santa Catarina, sofrendo derrubamento e pancadas."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -85,7 +93,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Evento Bike Brasil ocorre na Zona Sul de São Paulo com competição de manobras radicais e atividades para crianças reunindo ciclistas profissionais e amadores."
+      "resumo": "Festival Bike Brasil ocorre no pavilhão do São Paulo Expo reunindo ciclistas profissionais e amadores para competições de manobras e atividades para crianças na Zona Sul de SP."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -93,23 +101,23 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado pedala 20 km e passa 12 horas em fila em Bauru para concorrer a uma das 500 vagas de emprego oferecidas em processo seletivo."
+      "resumo": "Desempregado pedalou 20 quilômetros e aguardou 12 horas em fila em Bauru para concorrer a uma das 500 vagas de emprego oferecidas."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "cultura",
-      "resumo": "Zé Ramalho apresenta sucessos da carreira e interpreta canções de Raul Seixas na 39ª Festa Junina de Sorocaba."
+      "tema": "sp",
+      "resumo": "O cantor Zé Ramalho apresentou sucessos de sua carreira e músicas de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
-      "tema": "brasil",
-      "resumo": "Polícia Rodoviária Federal apreende 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo; motorista confessa tráfico."
+      "tema": "sp",
+      "resumo": "Polícia Rodoviária Federal apreendeu 927 quilos de maconha em carreta em Mato Grosso do Sul destinada a São Paulo; motorista confessou tráfico."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -117,15 +125,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza terceira edição da Festa Junina Canina com entrada gratuita, brincadeiras e atividades para cães e gatos."
+      "resumo": "Jundiaí recebe a 3ª edição da Festa Junina Canina com entrada gratuita, brincadeiras e atividades voltadas para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
-      "tema": "cultura",
-      "resumo": "Festival Maior Baile do Mundo com Anitta e MCs ocorre em São Paulo esperando reunir 35 mil pessoas para dez horas de shows."
+      "tema": "sp",
+      "resumo": "O Maior Baile do Mundo, festival em São Paulo com Anitta e MCs, espera reunir 35 mil pessoas para dez horas de shows."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -133,7 +141,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "PSTU oficializa Vera Lúcia, militante sindical, como candidata à Presidência da República nas eleições."
+      "resumo": "O PSTU oficializou a militante sindical Vera Lúcia como candidata à Presidência da República nas eleições."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -141,15 +149,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "15ª edição da Feiccad (Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração) ocorre em Jundiaí até domingo com entrada gratuita mediante credenciamento."
-    },
-    {
-      "titulo": "Caso Vitória: trio acusado de envolvimento no crime é transferido para Tremembé",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2018/07/20/caso-vitoria-trio-acusado-de-envolvimento-no-crime-e-transferido-para-tremembe.ghtml",
-      "hora": "Fri, 20 Jul 2018 18:44:51 -0000",
-      "tema": "sp",
-      "resumo": "Trio acusado de envolvimento na morte da menina Vitória Gabrielly, de 12 anos, é transferido para presídios em Tremembé após prisão em junho."
+      "resumo": "A 15ª edição da Feiccad, feira de imóvel, construção e decoração, acontece em Jundiaí até domingo com entrada gratuita mediante credenciamento."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -157,7 +157,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em cargos administrativos, com prazo até 31 de julho e provas na própria cidade."
+      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos administrativos, com prazo até 31 de julho e provas na própria cidade."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -165,7 +165,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra a família após 37 anos graças a um boletim de ocorrência registrado quando foi vítima de roubo."
+      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, resultado de um boletim de ocorrência que permitiu o contato."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -173,15 +173,23 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Motorista de 75 anos falece em acidente de trânsito em Capela do Alto poucos dias antes do filho ser ordenado bispo em Itapetininga."
+      "resumo": "Motorista de 75 anos morre em acidente de trânsito em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
     },
     {
-      "titulo": "O que novo presidente da Colômbia pretende com polêmicas imagens caminhando entre cadáveres",
+      "titulo": "'Dark Horse': Dino retira sigilo de material da polícia de SP sobre financiamento do filme",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c14d7400emlo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 13 Sep 2026 09:25:53 GMT",
-      "tema": "mundo",
-      "resumo": "Novo presidente da Colômbia faz declaração visual sobre segurança ao ser fotografado em contexto polêmico, gerando debate sobre estratégia de comunicação."
+      "link": "https://www.bbc.com/portuguese/articles/c36l46yp0dgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 13 Sep 2026 14:23:42 GMT",
+      "tema": "brasil",
+      "resumo": "Ministro Dino retira sigilo de documentos sobre investigação do filme 'Dark Horse', que envolve o deputado federal Mario Frias como produtor executivo e questões de financiamento."
+    },
+    {
+      "titulo": "PF diz estar pronta para entregar registros do celular de Vorcaro: a disputa pelo aparelho do banqueiro no STF",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c5yw9ezd93lo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 13 Sep 2026 17:43:12 GMT",
+      "tema": "brasil",
+      "resumo": "Polícia Federal comunica estar preparada para entregar extração de dados do celular do banqueiro Vorcaro aos ministros do STF em disputa judicial."
     },
     {
       "titulo": "Os números milionários de 'Dark Horse' que Flávio Bolsonaro prometeu a Vorcaro: cachê de 'Oppenheimer', bilheteria da Zendaya",
@@ -189,23 +197,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cm2rllgyjdvo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 12 Sep 2026 21:02:26 GMT",
       "tema": "brasil",
-      "resumo": "Documentos revelam que ator Jim Caviezel recebeu cachê similar ao de Robert Downey Jr. em 'Oppenheimer' para participar de produção cinematográfica sobre figura política brasileira."
+      "resumo": "Investigação revela montantes milionários prometidos em relação ao filme 'Dark Horse', incluindo cachê de ator comparável ao de produções hollywoodianas."
     },
     {
-      "titulo": "Ela postou, sem saber, sobre uma festa de Daniel Vorcaro no Madame Satã e sua vida sofreu um terremoto: 'Só agora entendi tudo'",
+      "titulo": "O que novo presidente da Colômbia pretende com polêmicas imagens caminhando entre cadáveres",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c4gdpwelzeqo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 13 Sep 2026 13:43:57 GMT",
-      "tema": "brasil",
-      "resumo": "Mulher que perdeu perfil e emprego após publicar inadvertidamente sobre evento tem sua história relacionada a documentos da PF que revelam pressão de banqueiro influente."
-    },
-    {
-      "titulo": "Fachin decide ser relator de caso Moraes-Vorcaro, e retira também de Mendonça processos ligados ao Master e ao escândalo do INSS",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwyz5xkdvndo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 13 Sep 2026 01:09:08 GMT",
-      "tema": "brasil",
-      "resumo": "Ministro Fachin assume como relator em caso envolvendo ministro Moraes e banqueiro, e também retira de colega processos ligados a investigações recentes."
+      "link": "https://www.bbc.com/portuguese/articles/c14d7400emlo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 13 Sep 2026 09:25:53 GMT",
+      "tema": "mundo",
+      "resumo": "Novo presidente da Colômbia utiliza imagens controversas para comunicar posição sobre segurança pública e estratégia de governo."
     },
     {
       "titulo": "Profissionais de IA estão 'genuinamente assustados' com futuro da humanidade, diz pesquisador que se demitiu da Anthropic",
@@ -213,7 +213,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c1mv342273vo?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 13 Sep 2026 12:49:59 GMT",
       "tema": "mundo",
-      "resumo": "Pesquisador que deixou empresa de IA alerta que profissionais da área expressam preocupação genuína com riscos existenciais da inteligência artificial para a humanidade."
+      "resumo": "Pesquisador que deixou empresa de inteligência artificial alerta que profissionais da área têm preocupações genuínas sobre os riscos futuros da tecnologia."
+    },
+    {
+      "titulo": "Como o ar mais limpo acelera o aquecimento global — e vem revelando um problema maior",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cly74p4dznpo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 13 Sep 2026 16:30:25 GMT",
+      "tema": "mundo",
+      "resumo": "Estudo científico identifica relação entre redução da poluição atmosférica e aceleração do aquecimento global, trazendo novas dimensões ao entendimento das mudanças climáticas."
     },
     {
       "titulo": "'O que aprendi ao ter um AVC aos 26 anos'",
@@ -221,7 +229,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c1dl0w4zzxko?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 13 Sep 2026 10:17:45 GMT",
       "tema": "mundo",
-      "resumo": "Mulher que sofreu AVC aos 26 anos compartilha experiência e destaca que derrames podem ocorrer em pessoas de qualquer idade, não apenas idosos."
+      "resumo": "Mulher relata experiência de ter sofrido acidente vascular cerebral aos 26 anos e alerta que o evento pode ocorrer em pessoas de qualquer idade."
     },
     {
       "titulo": "'Inclusão e empoderamento são um discurso fracassado e adormecedor', diz escritora",
@@ -229,15 +237,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cvgyp1pdpy0o?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 13 Sep 2026 10:53:25 GMT",
       "tema": "cultura",
-      "resumo": "Escritora e ativista latino-americana, líder de coletivo feminista há mais de 30 anos, questiona efetividade de discursos sobre inclusão e empoderamento."
-    },
-    {
-      "titulo": "Por que alguns chefões do Vale do Silício rejeitam previsão de que IA pode extinguir a humanidade",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cy4zpg8pjgwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 12 Sep 2026 23:28:40 GMT",
-      "tema": "mundo",
-      "resumo": "Executivos e investidores do Vale do Silício recebem com ceticismo alertas recentes sobre possíveis ameaças existenciais da inteligência artificial."
+      "resumo": "Escritora e ativista feminista latino-americana comenta sobre limitações de discursos contemporâneos de inclusão e seu trabalho há décadas em coletivo de base."
     },
     {
       "titulo": "Lula e Flávio Bolsonaro voltam a empatar no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
@@ -245,7 +245,15 @@
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 12 Sep 2026 15:06:17 GMT",
       "tema": "brasil",
-      "resumo": "Agregador de pesquisas eleitorais da BBC mostra empate técnico entre Lula e Flávio Bolsonaro em simulação de segundo turno para eleição presidencial de 2026."
+      "resumo": "Agregador de pesquisas eleitorais da BBC mostra estimativas técnicas de intenção de voto para possível confronto presidencial em 2026."
+    },
+    {
+      "titulo": "Fachin decide ser relator de caso Moraes-Vorcaro, e retira também de Mendonça processos ligados ao Master e ao escândalo do INSS",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwyz5xkdvndo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 13 Sep 2026 01:09:08 GMT",
+      "tema": "brasil",
+      "resumo": "Ministro Fachin assume como relator de casos envolvendo Moraes e Vorcaro no Supremo Tribunal Federal, alterando distribuição de processos relacionados a investigações."
     },
     {
       "titulo": "Flávio Bolsonaro e 'Dark Horse': 7 perguntas para entender inquérito — e o que falta ser esclarecido",
@@ -253,15 +261,7 @@
       "link": "https://www.bbc.com/portuguese/articles/crr4jg9pveeo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 12 Sep 2026 16:11:04 GMT",
       "tema": "brasil",
-      "resumo": "Análise apresenta sete questões centrais sobre inquérito aberto em julho relacionado a 'Dark Horse' e seus desdobramentos revelados recentemente por tribunal."
-    },
-    {
-      "titulo": "A disputa no STF para liberar o conteúdo do celular de Vorcaro — e a resposta de Fachin",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5yw9ezd93lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 12 Sep 2026 22:16:24 GMT",
-      "tema": "brasil",
-      "resumo": "Ministros do STF entram em disputa sobre liberação de conteúdo extraído de celular de banqueiro, com novo posicionamento do ministro Fachin sobre o tema."
+      "resumo": "Resumo explicativo sobre investigação que envolve Flávio Bolsonaro e o filme 'Dark Horse', com cronologia e pontos que permanecem sem esclarecimento."
     },
     {
       "titulo": "Mendonça libera sigilo de inquéritos sobre 'Dark Horse', que envolve Flávio Bolsonaro, e sobre Jaques Wagner, aliado de Lula; o que se sabe",
@@ -269,7 +269,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cy9znz1p4q8o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 12 Sep 2026 00:08:59 GMT",
       "tema": "brasil",
-      "resumo": "Sigilo é levantado para inquéritos envolvendo caso relacionado a senador e figura política, liberando novos documentos ao público após decisão do presidente do STF."
+      "resumo": "Presidente do STF ordena levantamento de sigilo de inquéritos sobre o filme 'Dark Horse', envolvendo Flávio Bolsonaro, e investigação sobre figura política ligada ao governo."
     },
     {
       "titulo": "PGR pediu para apurar se Flávio Bolsonaro atuou no Senado para beneficiar Vorcaro",
@@ -277,15 +277,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cpvelg8231ko?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 11 Sep 2026 20:39:48 GMT",
       "tema": "brasil",
-      "resumo": "Procurador-geral investiga se senador atuou em sua posição para beneficiar banqueiro em transações de produção cinematográfica; senador nega acusações."
-    },
-    {
-      "titulo": "Por que diretor da Anthropic está pedindo freio no desenvolvimento da IA",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crerx5389leo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 12 Sep 2026 16:25:46 GMT",
-      "tema": "mundo",
-      "resumo": "Diretor de empresa de IA pede desaceleração no desenvolvimento da tecnologia diante de preocupações crescentes sobre possíveis danos globais causados por modelos avançados."
+      "resumo": "Procurador-geral da República solicita investigação sobre possível atuação de Flávio Bolsonaro no Senado em benefício do banqueiro Vorcaro, conforme documentos de inquérito."
     }
   ]
 }
