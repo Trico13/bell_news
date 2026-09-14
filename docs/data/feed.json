@@ -1,107 +1,27 @@
 {
-  "gerado_em": "2026-09-13T22:52:56.937Z",
+  "gerado_em": "2026-09-14T16:09:39.055Z",
   "modo": "ia",
   "clima": {
-    "max": 16.2,
-    "min": 14.2,
+    "max": 17.4,
+    "min": 13.7,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Rock in Rio 2026: DENNIS se apresenta no Espaço Favela neste último dia",
+      "titulo": "Líderes de Escócia, Irlanda do Norte e País de Gales se unem para reivindicar independência do Reino Unido: 'O tempo de Westminster acabou'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml",
-      "hora": "Sun, 13 Sep 2026 22:41:57 -0000",
-      "tema": "entretenimento",
-      "resumo": "Rock in Rio 2026 chega ao fim neste domingo com apresentações de Twenty One Pilots, Halsey, Zara Larsson e Dennis, entre outros artistas, no último dia do festival."
+      "link": "https://g1.globo.com/noticia/2026/09/14/lideres-de-escocia-irlanda-do-norte-e-pais-de-gales-se-unem-para-reivindicar-independencia-do-reino-unido-o-tempo-de-westminster-acabou.ghtml",
+      "hora": "Mon, 14 Sep 2026 16:06:34 -0000",
+      "tema": "mundo",
+      "resumo": "Líderes de Escócia, Irlanda do Norte e País de Gales se uniram para exigir mudanças constitucionais do Reino Unido, afirmando que o tempo da atual configuração política chegou ao fim."
     },
     {
-      "titulo": "Orgulho LGBT+: Parada colore ruas do Acre e fala de cultura, turismo e diversidade",
+      "titulo": "Deputado é suspeito de venda de influência sobre ministros de tribunais; entenda o papel de cada investigado, segundo a PF",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/09/13/orgulho-lgbt-parada-colore-ruas-de-rio-branco.ghtml",
-      "hora": "Sun, 13 Sep 2026 22:36:59 -0000",
-      "tema": "cultura",
-      "resumo": "Rio Branco sedia a 20ª Parada do Orgulho LGBTQIAPN+ com desfile pelas ruas da capital acreana, abordando temas de cultura, turismo e diversidade, com show de Gaby Amarantos."
-    },
-    {
-      "titulo": "Manaus terá interrupção de energia nesta segunda-feira (14); veja locais e horários",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/09/13/manaus-tera-interrupcao-de-energia-nesta-segunda-feira-14-veja-locais-e-horarios.ghtml",
-      "hora": "Sun, 13 Sep 2026 22:21:12 -0000",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/14/deputado-e-suspeito-de-venda-de-influencia-sobre-ministros-de-tribunais-entenda-o-papel-de-cada-investigado.ghtml",
+      "hora": "Mon, 14 Sep 2026 16:02:58 -0000",
       "tema": "brasil",
-      "resumo": "Manaus terá interrupções programadas de energia em diferentes bairros na segunda-feira para manutenção e melhoria da rede elétrica."
-    },
-    {
-      "titulo": "DTV+: Globo ganha prêmio no IBC, um dos principais eventos globais de tecnologia e inovação",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/economia/midia-e-marketing/noticia/2026/09/13/dtv-globo-premio-ibc.ghtml",
-      "hora": "Sun, 13 Sep 2026 22:16:51 -0000",
-      "tema": "cultura",
-      "resumo": "A Globo recebe prêmio de inovação no IBC, principal evento global de tecnologia, pela implementação da plataforma DTV+ no Brasil na categoria Conteúdo em Todos os Lugares."
-    },
-    {
-      "titulo": "'Cinderela do Rock in Rio': mulher que perdeu sapato rosa-choque no festival resgata o calçado",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/13/cinderela-rock-in-rio-resgate-calcado.ghtml",
-      "hora": "Sun, 13 Sep 2026 22:13:54 -0000",
-      "tema": "entretenimento",
-      "resumo": "Visitante do Rock in Rio consegue recuperar seu sapato plataforma rosa-choque após dias buscando informações sobre o calçado perdido durante o festival."
-    },
-    {
-      "titulo": "Joelma muda letra de 'Príncipe Encantado', canta música para Jesus e bate cabelo com Vivi Batidão no Rock in Rio",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/13/joelma-muda-letra-de-principe-encantado-canta-musica-para-jesus-e-bate-cabelo-com-vivi-batidao-no-rock-in-rio.ghtml",
-      "hora": "Sun, 13 Sep 2026 22:10:25 -0000",
-      "tema": "entretenimento",
-      "resumo": "Joelma faz sua estreia no Rock in Rio aos 50 anos, apresentando sucessos de sua carreira de mais de três décadas no Palco Sunset no último dia do festival."
-    },
-    {
-      "titulo": "Caso Master: BRB afirma ter sido \"vítima de atos criminosos\" e que promoveu \"renovação total\" dos dirigentes",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/13/caso-master-brb-afirma-que-foi-vitima-de-atos-criminosos-e-que-promoveu-renovacao-total-dos-dirigentes.ghtml",
-      "hora": "Sun, 13 Sep 2026 22:09:40 -0000",
-      "tema": "brasil",
-      "resumo": "O Banco de Brasília se manifesta sobre a Operação Compliance Zero, afirmando ser vítima de atos criminosos e informando renovação total de seus dirigentes."
-    },
-    {
-      "titulo": "Moraes pede nova quebra de sigilo sobre Master antes de sessão desta terça; Fachin aciona PGR",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/13/moraes-pede-nova-quebra-de-sigilo-sobre-master-antes-de-sessao-desta-terca-fachin-aciona-pgr.ghtml",
-      "hora": "Sun, 13 Sep 2026 22:07:59 -0000",
-      "tema": "brasil",
-      "resumo": "Ministro Alexandre de Moraes solicita nova quebra de sigilo sobre o caso Master antes do julgamento marcado para terça-feira no Supremo Tribunal Federal."
-    },
-    {
-      "titulo": "Pai e filho juntam cachaça e café em bebida produzida no interior do Acre: ‘Genuinamente acreana’",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/09/13/pai-e-filho-juntam-cachaca-e-cafe-em-bebida-produzida-no-interior-do-acre-genuinamente-acreana.ghtml",
-      "hora": "Sun, 13 Sep 2026 22:02:00 -0000",
-      "tema": "brasil",
-      "resumo": "Pai e filho no Acre criam uma bebida que combina cachaça e café, produtos tradicionais da região, há nove anos no mercado."
-    },
-    {
-      "titulo": "Setlist da Halsey no Rock in Rio: veja como deve ser show da cantora no festival",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/13/setlist-da-halsey-no-rock-in-rio-veja-como-deve-ser-show-da-cantora-no-festival.ghtml",
-      "hora": "Sun, 13 Sep 2026 22:00:00 -0000",
-      "tema": "entretenimento",
-      "resumo": "Halsey se apresenta no Palco Mundo do Rock in Rio neste domingo, trazendo sucessos de diferentes fases de sua carreira em seu primeiro show no Brasil desde 2023."
-    },
-    {
-      "titulo": "Fatecs abrem inscrições para vestibular com 328 vagas em Santos e Praia Grande; veja cursos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/educacao/noticia/2026/09/13/fatecs-abrem-inscricoes-para-vestibular-com-328-vagas-em-santos-e-praia-grande-veja-cursos.ghtml",
-      "hora": "Sun, 13 Sep 2026 22:00:00 -0000",
-      "tema": "sp",
-      "resumo": "Fatecs abrem inscrições para o vestibular do primeiro semestre de 2027, oferecendo 328 vagas em unidades de Santos e Praia Grande com diversos cursos de tecnologia."
-    },
-    {
-      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao governo da Bahia neste domingo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/13/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-da-bahia-neste-domingo.ghtml",
-      "hora": "Sun, 13 Sep 2026 21:52:19 -0000",
-      "tema": "brasil",
-      "resumo": "Candidatos ao governo da Bahia em 2026 realizam atividades de campanha como caminhadas, carreatas e comícios em Salvador e interior do estado."
+      "resumo": "Segundo investigação da Polícia Federal, um deputado federal é apontado como figura central em esquema de venda de influência sobre ministros de tribunais superiores."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -109,7 +29,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival de bicicletas na Zona Sul de São Paulo reúne ciclistas profissionais e amadores para competição de manobras radicais e atividades para crianças no pavilhão do São Paulo Expo."
+      "resumo": "Festival de bicicletas na Zona Sul de São Paulo reúne ciclistas profissionais e amadores para competições de manobras e atividades para crianças."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -117,23 +37,23 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado pedala 20 km e passa 12 horas em fila em Bauru para concorrer a uma das 500 vagas de emprego oferecidas, evidenciando a demanda por oportunidades de trabalho."
+      "resumo": "Desempregado pedalou 20 km e enfrentou fila de 12 horas para concorrer a uma de 500 vagas de emprego oferecidas no interior paulista."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "sp",
-      "resumo": "Zé Ramalho apresenta sucessos de sua carreira e canções de Raul Seixas na 39ª edição da Festa Junina de Sorocaba, atraindo público apesar da temperatura baixa."
+      "tema": "cultura",
+      "resumo": "Zé Ramalho se apresentou na Festa Junina de Sorocaba, interpretando sucessos da própria carreira e canções de Raul Seixas."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
-      "tema": "brasil",
-      "resumo": "PRF apreende 927 quilos de maconha em carreta em Mato Grosso do Sul que seria entregue em São Paulo; motorista confessou o tráfico."
+      "tema": "sp",
+      "resumo": "Polícia Rodoviária Federal apreendeu 927 quilos de maconha em Mato Grosso do Sul que seriam entregues em São Paulo."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -141,7 +61,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina com entrada gratuita, oferecendo brincadeiras e atrações para cães e gatos com seus donos."
+      "resumo": "Jundiaí realiza terceira edição de festa junina temática para cães e gatos, com atividades e diversões para os animais de estimação."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -149,7 +69,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "O Maior Baile do Mundo, festival em São Paulo, espera reunir 35 mil pessoas com uma programação de 10 horas de shows, incluindo Anitta e diversos MCs."
+      "resumo": "Festival de música em São Paulo com Anitta e MCs espera reunir 35 mil pessoas para dez horas de apresentações."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -157,7 +77,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializa a militante sindical Vera Lúcia como candidata à Presidência da República nas eleições de 2026."
+      "resumo": "Partido Socialista dos Trabalhadores Unificado oficializa candidata à Presidência da República nas próximas eleições."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -165,7 +85,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A 15ª edição da Feiccad, feira sobre imóvel, construção e decoração, é realizada em Jundiaí com entrada gratuita mediante credenciamento."
+      "resumo": "Feira sobre construção civil, imóveis, arquitetura e decoração acontece em Jundiaí com entrada gratuita."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -173,7 +93,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos até 31 de julho, com provas realizadas na cidade."
+      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos da administração municipal, com prazo até 31 de julho e provas na própria cidade."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -181,7 +101,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a informações obtidas através de um boletim de ocorrência."
+      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, com ajuda de informações registradas em boletim de ocorrência."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -189,71 +109,71 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Motorista de 75 anos morre em acidente de trânsito em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
+      "resumo": "Pai do futuro bispo de Itapetininga morre em acidente de trânsito dias antes da ordenação do filho em Capela do Alto."
     },
     {
-      "titulo": "Filme de Bolsonaro: Dino retira sigilo de material da polícia de SP sobre financiamento do filme",
+      "titulo": "Por dentro da rede de influenciadores que ataca o voto feminino no Brasil",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c36l46yp0dgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 13 Sep 2026 14:23:42 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cy74n45p7dyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 14 Sep 2026 14:13:04 GMT",
       "tema": "brasil",
-      "resumo": "O ministro Dino retira sigilo de investigação policial sobre o financiamento do filme 'Dark Horse', que envolve deputado e produtora de cinema."
+      "resumo": "Investigação revela rede de influenciadores que questiona o direito ao voto feminino no Brasil; ministra do STF critica posições e reafirma proteção constitucional."
     },
     {
-      "titulo": "PF diz estar pronta para entregar registros do celular de Vorcaro: a disputa pelo aparelho do banqueiro no STF",
+      "titulo": "Crise no STF pode ter impacto decisivo na eleição brasileira, diz FT",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwyzldd1871o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 14 Sep 2026 10:10:04 GMT",
+      "tema": "brasil",
+      "resumo": "Crise no STF entre ministros é apontada por análise internacional como fator que pode impactar as eleições presidenciais brasileiras."
+    },
+    {
+      "titulo": "Quem é Cezinha de Madureira, deputado federal do PL alvo da Polícia Federal",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c98r633vr87go?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 14 Sep 2026 13:27:18 GMT",
+      "tema": "brasil",
+      "resumo": "Deputado federal do PL é alvo de operação da Polícia Federal que investiga suspeitas de exploração de prestígio, tráfico de influência e corrupção."
+    },
+    {
+      "titulo": "Líderes de Escócia, Irlanda do Norte e País de Gales se unem para reivindicar independência do Reino Unido: 'O tempo de Westminster acabou'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cjn5dl6klxvno?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 14 Sep 2026 15:44:27 GMT",
+      "tema": "mundo",
+      "resumo": "Líderes de Escócia, Irlanda do Norte e País de Gales se unem para reivindicar independência do Reino Unido e apontam necessidade de mudança constitucional."
+    },
+    {
+      "titulo": "Brigou no avião? Você poderá ficar até um ano proibido de voar; entenda nova regra da Anac que está em vigor",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czrjdp484mlo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 14 Sep 2026 15:18:09 GMT",
+      "tema": "brasil",
+      "resumo": "Regulação da Anac que entra em vigor proíbe passageiros que brigarem em aviões de voar por até um ano e estabelece multas de até R$ 17,5 mil."
+    },
+    {
+      "titulo": "Por que os médicos gostam tanto da série 'The Pitt'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm2dwzr339kko?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 14 Sep 2026 12:33:06 GMT",
+      "tema": "cultura",
+      "resumo": "Série médica 'The Pit' da HBO Max é elogiada por profissionais da área como o drama hospitalar mais realista já produzido."
+    },
+    {
+      "titulo": "Guia explica tudo o que os ministros do STF decidiram sobre o caso Master no fim de semana",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czdzg00rzp4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 14 Sep 2026 09:53:34 GMT",
+      "tema": "brasil",
+      "resumo": "Ministros do STF divulgaram intensamente despachos e ofícios durante fim de semana marcado por crise sem precedentes na Corte."
+    },
+    {
+      "titulo": "Zanin e Gilmar Mendes recebem acesso integral a conteúdo do celular de Daniel Vorcaro ",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c5yw9ezd93lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 13 Sep 2026 21:31:33 GMT",
+      "hora": "Mon, 14 Sep 2026 14:19:55 GMT",
       "tema": "brasil",
-      "resumo": "Polícia Federal comunica estar preparada para fornecer cópia de extração de dados do celular de banqueiro aos ministros do Supremo Tribunal Federal."
-    },
-    {
-      "titulo": "Os números milionários de 'Dark Horse' que Flávio Bolsonaro prometeu a Vorcaro: cachê de 'Oppenheimer', bilheteria da Zendaya",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm2rllgyjdvo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 12 Sep 2026 21:02:26 GMT",
-      "tema": "brasil",
-      "resumo": "Produtor afirma que ator de filme sobre Bolsonaro recebeu cachê equivalente ao de atores de grandes produções internacionais como 'Oppenheimer'."
-    },
-    {
-      "titulo": "O que novo presidente da Colômbia pretende com polêmicas imagens caminhando entre cadáveres",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c14d7400emlo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 13 Sep 2026 09:25:53 GMT",
-      "tema": "mundo",
-      "resumo": "Novo presidente da Colômbia utiliza imagens polêmicas em sua comunicação sobre segurança pública, gerando controvérsia sobre sua abordagem."
-    },
-    {
-      "titulo": "Os pais palestinos preocupados com ataques a escolas na Cisjordânia ocupada: 'O que fazer quando colonos atiram em seus filhos?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c93vdw4k742o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 13 Sep 2026 20:52:25 GMT",
-      "tema": "mundo",
-      "resumo": "Pais palestinos na Cisjordânia ocupada enfrentam preocupações com segurança de filhos em escolas devido a ataques de colonos israelenses."
-    },
-    {
-      "titulo": "Inteligência artificial está cada vez mais difícil de se controlar. Até quando os humanos vão se manter no comando?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c4gr2e95ypxo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 13 Sep 2026 18:48:02 GMT",
-      "tema": "mundo",
-      "resumo": "Especialistas expressam preocupação crescente sobre dificuldade de controlar sistemas de inteligência artificial que se envolvem em ataques cibernéticos."
-    },
-    {
-      "titulo": "Profissionais de IA estão 'genuinamente assustados' com futuro da humanidade, diz pesquisador que se demitiu da Anthropic",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c1mv342273vo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 13 Sep 2026 12:49:59 GMT",
-      "tema": "mundo",
-      "resumo": "Pesquisador que deixou empresa de IA relata que profissionais da área estão genuinamente preocupados com riscos futuros da tecnologia."
-    },
-    {
-      "titulo": "Como o ar mais limpo acelera o aquecimento global — e vem revelando um problema maior",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cly74p4dznpo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 13 Sep 2026 16:30:25 GMT",
-      "tema": "mundo",
-      "resumo": "Discussão científica revela relação entre melhoria da qualidade do ar e aceleração do aquecimento global, apontando fenômeno ambiental complexo."
+      "resumo": "Ministros Gilmar Mendes e Cristiano Zanin recebem acesso integral ao conteúdo do celular de banqueiro enviado pela Polícia Federal."
     },
     {
       "titulo": "Lula e Flávio Bolsonaro voltam a empatar no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
@@ -261,39 +181,47 @@
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 12 Sep 2026 15:06:17 GMT",
       "tema": "brasil",
-      "resumo": "Agregador de pesquisas eleitorais da BBC mostra cenário empatado entre Lula e Flávio Bolsonaro em simulação de segundo turno presidencial para 2026."
+      "resumo": "Agregador de pesquisas eleitorais aponta novo empate entre Lula e Flávio Bolsonaro em simulação para segundo turno presidencial de 2026."
     },
     {
-      "titulo": "Fachin decide ser relator de caso Moraes-Vorcaro, e retira também de Mendonça processos ligados ao Master e ao escândalo do INSS",
+      "titulo": "Como o Uruguai virou destino preferido de milhares de cubanos",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwyz5xkdvndo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 13 Sep 2026 01:09:08 GMT",
-      "tema": "brasil",
-      "resumo": "Ministro Fachin assume como relator de caso que envolve investigações sobre procurador e banqueiro, removendo também outras matérias de colega do tribunal."
+      "link": "https://www.bbc.com/portuguese/articles/crl6z468xw4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 13 Sep 2026 23:52:22 GMT",
+      "tema": "mundo",
+      "resumo": "Uruguai tornou-se destino de milhares de refugiados cubanos em crise, com presença desses migrantes já integrada à sociedade local, incluindo representação parlamentar."
     },
     {
-      "titulo": "Flávio Bolsonaro e 'Dark Horse': 7 perguntas para entender inquérito — e o que falta ser esclarecido",
+      "titulo": "Claudia Raia estrela reality sobre maternidade e defende o nome Enzo: 'Homem adequado aos novos tempos'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crr4jg9pveeo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 12 Sep 2026 16:11:04 GMT",
-      "tema": "brasil",
-      "resumo": "Resumo explicativo de sete questões principais sobre investigação que envolve Flávio Bolsonaro e produção de filme, com pontos ainda pendentes de esclarecimento."
+      "link": "https://www.bbc.com/portuguese/articles/cx2z033dw3xo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 14 Sep 2026 10:30:46 GMT",
+      "tema": "entretenimento",
+      "resumo": "Atriz Claudia Raia participa de reality show da Netflix sobre maternidade, debatendo temas relacionados à criação de filhos e nomes de bebês."
     },
     {
-      "titulo": "Mendonça libera sigilo de inquéritos sobre 'Dark Horse', que envolve Flávio Bolsonaro, e sobre Jaques Wagner, aliado de Lula; o que se sabe",
+      "titulo": "Como o ronco do seu parceiro pode prejudicar seu sono e sua saúde: 'Foi como uma ressaca'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cy9znz1p4q8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 12 Sep 2026 00:08:59 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cwyzwrzlp7po?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 14 Sep 2026 09:04:42 GMT",
       "tema": "brasil",
-      "resumo": "Ministro do STF levanta sigilo de inquéritos envolvendo Flávio Bolsonaro e filme 'Dark Horse', além de investigação sobre aliado de Lula, após decisão do presidente da corte."
+      "resumo": "Estudo aborda como ronco do parceiro afeta a qualidade do sono e a saúde do outro, com especialistas alertando para impacto no bem-estar e relacionamento."
     },
     {
-      "titulo": "PGR pediu para apurar se Flávio Bolsonaro atuou no Senado para beneficiar Vorcaro",
+      "titulo": "Filme de Bolsonaro: Dino retira sigilo de material da polícia de SP sobre financiamento de 'Dark Horse'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cpvelg8231ko?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 11 Sep 2026 20:39:48 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c36l46yp0dgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 13 Sep 2026 23:09:45 GMT",
       "tema": "brasil",
-      "resumo": "Procurador-geral pede apuração sobre possível atuação de Flávio Bolsonaro no Senado para beneficiar banqueiro, conforme investigação da Polícia Federal."
+      "resumo": "Ministro Dino retira sigilo de documentos de investigação sobre financiamento de filme envolvendo deputado federal e produtora de cinema."
+    },
+    {
+      "titulo": "Os pais palestinos preocupados com ataques a escolas na Cisjordânia ocupada: 'O que fazer quando colonos atiram em seus filhos?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c93vdw4k742o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 13 Sep 2026 20:52:25 GMT",
+      "tema": "mundo",
+      "resumo": "Pais palestinos na Cisjordânia ocupada enfrentam preocupação com ataques a escolas por colonos, com escolas reforçando medidas de segurança após mortes de alunos."
     }
   ]
 }
