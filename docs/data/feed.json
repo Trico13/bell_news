@@ -1,83 +1,91 @@
 {
-  "gerado_em": "2026-09-15T18:42:46.947Z",
+  "gerado_em": "2026-09-15T23:24:19.969Z",
   "modo": "ia",
   "clima": {
     "max": 21,
     "min": 11.9,
-    "chuva": 88
+    "chuva": 96
   },
   "noticias": [
     {
-      "titulo": "Campinas Inovation Week 2026 conecta autoridades, empresas e lideranças",
+      "titulo": "Guarujá abre 291 vagas em cursos e atividades esportivas; veja opções",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/acic/noticia/2026/09/15/campinas-inovation-week-2026-conecta-autoridades-empresas-e-liderancas.ghtml",
-      "hora": "Tue, 15 Sep 2026 18:28:13 -0000",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/15/guaruja-abre-291-vagas-em-cursos-e-atividades-esportivas-veja-opcoes.ghtml",
+      "hora": "Tue, 15 Sep 2026 23:14:22 -0000",
       "tema": "sp",
-      "resumo": "Campinas recebe a terceira edição do Campinas Innovation Week, evento que reúne autoridades, empresas e empreendedores para palestras, debates, rodadas de negócios e atividades voltadas a startups até sexta-feira."
+      "resumo": "A Prefeitura de Guarujá oferece 291 vagas em cursos de qualificação e atividades esportivas gratuitas no Centro de Atividades Educacionais e Comunitárias para a população local."
     },
     {
-      "titulo": "INMET emite alerta de 'tempestade' para 33 cidades do Norte, Centro e Noroeste de MG",
+      "titulo": "Candidato ao governo de SE, Valmir de Francisquinho diz que foi inocentado de processo e que vai baixar tarifa de ônibus para R$ 3",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/15/inmet-emite-alerta-de-tempestade-para-33-cidades-do-norte-centro-e-noroeste-de-mg.ghtml",
-      "hora": "Tue, 15 Sep 2026 18:25:53 -0000",
+      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/15/valmir-de-francisquinho-entrevista-se2.ghtml",
+      "hora": "Tue, 15 Sep 2026 23:11:42 -0000",
       "tema": "brasil",
-      "resumo": "O Instituto Nacional de Meteorologia emitiu alerta amarelo de tempestade para 33 cidades do Norte, Centro e Noroeste de Minas Gerais."
+      "resumo": "Candidato ao governo de Sergipe anuncia propostas para reduzir tarifa de ônibus e discute sua situação legal durante campanha eleitoral."
     },
     {
-      "titulo": "Crescimento econômico dispara aluguel no interior e leva trabalhadores a morar longe do emprego em MS",
+      "titulo": "Globo entrevista Paula Belmonte, candidata ao governo do DF",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/09/15/crescimento-economico-dispara-aluguel-no-interior-e-leva-trabalhadores-a-morar-longe-do-emprego-em-ms.ghtml",
-      "hora": "Tue, 15 Sep 2026 18:23:18 -0000",
+      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/entrevista-df1-paula.ghtml",
+      "hora": "Tue, 15 Sep 2026 23:10:12 -0000",
       "tema": "brasil",
-      "resumo": "O crescimento econômico em Mato Grosso do Sul atraiu trabalhadores e movimentou cidades do interior, mas também aumentou significativamente os preços de aluguel, forçando muitos profissionais a morar longe de seus locais de trabalho."
+      "resumo": "Paula Belmonte, candidata ao governo do Distrito Federal, participa de entrevista transmitida pela TV Globo como parte da cobertura das eleições de 2026."
     },
     {
-      "titulo": "Sarau do Povo da Noite promove noite gratuita de poesia falada na Pedreira, em Belém",
+      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao Governo do Piauí nesta terça (15)",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/09/15/sarau-do-povo-da-noite-promove-noite-gratuita-de-poesia-falada-no-bairro-da-pedreira-em-belem.ghtml",
-      "hora": "Tue, 15 Sep 2026 18:22:43 -0000",
-      "tema": "cultura",
-      "resumo": "Belém recebe mais uma edição do Sarau do Povo da Noite, evento de poesia falada gratuito e aberto ao público na Pedreira, com programação a partir das 19h."
-    },
-    {
-      "titulo": "Ministros do STF se portam de forma incompatível com a Corte, diz jurista",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/15/sessao-stf-jurista.ghtml",
-      "hora": "Tue, 15 Sep 2026 18:22:09 -0000",
+      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/15/dia-candidatos-ao-governo-terca-15.ghtml",
+      "hora": "Tue, 15 Sep 2026 23:10:05 -0000",
       "tema": "brasil",
-      "resumo": "Uma sessão do Supremo Tribunal Federal foi marcada por discussões entre ministros sobre um relatório da Polícia Federal envolvendo o ministro Alexandre de Moraes e o fundador do Banco Master."
+      "resumo": "Candidatos ao governo do Piauí concentram atividades de campanha em Teresina com sabatinas, caminhadas e encontros com lideranças locais."
     },
     {
-      "titulo": "Justiça condena Barra Mansa a tratar 100% do esgoto e pagar R$ 500 mil",
+      "titulo": "Gal Leite propõe reestatizar serviços de água e esgoto no Pará",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/15/justica-condena-barra-mansa-a-tratar-100percent-do-esgoto-e-pagar-r-500-mil.ghtml",
-      "hora": "Tue, 15 Sep 2026 18:21:05 -0000",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/15/gal-leite-propoe-reestatizar-servicos-de-agua-e-esgoto-no-para.ghtml",
+      "hora": "Tue, 15 Sep 2026 23:08:49 -0000",
       "tema": "brasil",
-      "resumo": "A Justiça Federal condenou o município de Barra Mansa a adotar medidas para ampliar e regularizar seu sistema de esgotamento sanitário, com multa de R$ 500 mil."
+      "resumo": "Candidata ao governo do Pará propõe reestatizar serviços de água e esgoto no estado e universalizar acesso a esses serviços básicos."
     },
     {
-      "titulo": "VÍDEO: ventania derruba tendas e faz equipes na área externa do STF correrem durante julgamento",
+      "titulo": "Eleições 2026: veja como foi o 31º dia de campanha dos candidatos ao governo do Amapá",
       "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/15/videos-ventania-derruba-tendas-e-faz-equipes-na-area-externa-do-stf-correrem-durante-julgamento.ghtml",
-      "hora": "Tue, 15 Sep 2026 18:17:06 -0000",
+      "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/15/eleicoes-2026-veja-como-foi-o-31o-dia-de-campanha-dos-candidatos-ao-governo-do-amapa.ghtml",
+      "hora": "Tue, 15 Sep 2026 23:04:43 -0000",
       "tema": "brasil",
-      "resumo": "Forte ventania e chuva em Brasília derrubaram tendas montadas na área externa do Supremo Tribunal Federal durante suas atividades."
+      "resumo": "Candidatos ao governo do Amapá cumprem o trigésimo primeiro dia oficial de campanha com atividades em Macapá como entrevistas, caminhadas e panfletagens."
     },
     {
-      "titulo": "Astro da NBA e 'parça' de Neymar, Jimmy Butler bate bola em clube de Santos",
+      "titulo": "Haddad defende fim de sigilos no caso Master: 'Ainda tem muita coisa que precisa vir à tona'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/15/astro-da-nba-e-parca-de-neymar-jimmy-butler-bate-bola-em-clube-de-santos.ghtml",
-      "hora": "Tue, 15 Sep 2026 18:15:53 -0000",
-      "tema": "entretenimento",
-      "resumo": "O jogador de basquete Jimmy Butler, astro da NBA, visitou Santos e jogou basquete no Tênis Clube da cidade durante sua passagem pela região."
-    },
-    {
-      "titulo": "Prefeitura de Campo Limpo Paulista decreta situação de emergência após fortes chuvas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/15/prefeitura-de-campo-limpo-paulista-decreta-situacao-de-emergencia-apos-fortes-chuvas.ghtml",
-      "hora": "Tue, 15 Sep 2026 18:15:48 -0000",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/15/haddad-defende-fim-de-sigilos-no-caso-master-ainda-tem-muita-coisa-que-precisa-vir-a-tona.ghtml",
+      "hora": "Tue, 15 Sep 2026 23:03:52 -0000",
       "tema": "sp",
-      "resumo": "A Prefeitura de Campo Limpo Paulista decretou situação de emergência em nível 2 após fortes chuvas que atingiram a cidade."
+      "resumo": "Fernando Haddad, candidato ao governo de São Paulo, defende a quebra de sigilo em investigação judicial durante atividade de campanha na Avenida Paulista."
+    },
+    {
+      "titulo": "Mateus Simões quer famílias fora de áreas de risco e resultados de exames na hora na Zona da Mata e Campo das Vertentes",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/zona-da-mata/eleicoes/2026/noticia/2026/09/15/mateus-simoes-quer-familias-fora-de-areas-de-risco-e-resultados-de-exames-na-hora-na-zona-da-mata-e-campo-das-vertentes.ghtml",
+      "hora": "Tue, 15 Sep 2026 23:01:28 -0000",
+      "tema": "brasil",
+      "resumo": "Candidato à reeleição ao governo de Minas Gerais apresenta propostas para reassentar famílias de áreas de risco e melhorar acesso a exames durante reunião com prefeitos."
+    },
+    {
+      "titulo": "Candidatos do DF participam de sabatinas e destacam propostas para o setor da construção civil",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/15/candidatos-do-df-participam-de-sabatinas-e-destacam-propostas-para-o-setor-da-construcao-civil.ghtml",
+      "hora": "Tue, 15 Sep 2026 22:59:47 -0000",
+      "tema": "brasil",
+      "resumo": "Candidatos ao governo do Distrito Federal participam de sabatinas com setores da construção civil e mercado imobiliário para apresentar propostas."
+    },
+    {
+      "titulo": "\nMogi das Cruzes inicia troca de ingressos para ‘Carmina Burana’",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/09/15/mogi-das-cruzes-inicia-troca-de-ingressos-para-carmina-burana.ghtml",
+      "hora": "Tue, 15 Sep 2026 22:55:37 -0000",
+      "tema": "sp",
+      "resumo": "Mogi das Cruzes inicia distribuição de ingressos para concerto 'Carmina Burana' da Orquestra Sinfônica Jovem como encerramento das comemorações de aniversário da cidade."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -85,7 +93,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "O evento Bike Brasil acontece na Zona Sul de São Paulo com competições de manobras radicais e atividades para crianças, reunindo ciclistas profissionais e amadores."
+      "resumo": "Festival de bicicletas acontece na Zona Sul de São Paulo com competições de manobras, atividades para crianças e apresentações de ciclistas profissionais e amadores."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -93,15 +101,23 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Um desempregado pedalou 20 km e aguardou 12 horas em fila em Bauru para concorrer a uma das 500 vagas de emprego oferecidas em seleção local."
+      "resumo": "Desempregado percorre 20 quilômetros de bicicleta e aguarda em fila por 12 horas em Bauru para concorrer a uma das 500 vagas de emprego oferecidas."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "cultura",
-      "resumo": "O cantor Zé Ramalho apresentou sucessos da carreira e interpretações de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
+      "tema": "sp",
+      "resumo": "O cantor Zé Ramalho apresenta seus sucessos e interpretações de músicas de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
+    },
+    {
+      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
+      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
+      "tema": "sp",
+      "resumo": "Polícia Rodoviária Federal apreende 927 quilos de maconha em carreta em Mato Grosso do Sul que seria entregue em São Paulo."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -109,7 +125,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí recebe a terceira edição da Festa Junina Canina com entrada gratuita, brincadeiras e atividades voltadas para cães e gatos."
+      "resumo": "A terceira edição da Festa Junina Canina acontece em Jundiaí com entrada gratuita, oferecendo brincadeiras e atividades para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -117,7 +133,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "O Maior Baile do Mundo, festival em São Paulo que reúne sucessos das listas de músicas mais ouvidas na internet brasileira, espera reunir 35 mil pessoas para 10 horas de shows."
+      "resumo": "Festival de música Maior Baile do Mundo reúne artistas como Anitta e MCs em São Paulo, esperando reunir 35 mil pessoas para 10 horas de shows."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -125,7 +141,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializa a candidata Vera Lúcia, militante sindical, para disputar a Presidência da República nas próximas eleições."
+      "resumo": "O PSTU oficializa a militante sindical Vera Lúcia como candidata à Presidência da República nas eleições de 2026."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -133,7 +149,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A 15ª edição da Feiccad, feira dedicada ao imóvel, construção, condomínios, arquitetura e decoração, acontece em Jundiaí com entrada gratuita até domingo."
+      "resumo": "A 15ª edição da Feira de Imóvel, Construção e Decoração (Feiccad) ocorre em Jundiaí com entrada gratuita e programação até domingo."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -141,7 +157,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã (SP) abriu inscrições para concurso público com 34 vagas em diferentes funções do Executivo, com prazo até 31 de julho."
+      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diferentes cargos do Executivo municipal."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -149,7 +165,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem que vivia em situação de rua em Campinas reencontra sua família após 37 anos, graças a um boletim de ocorrência que permitiu rastreá-lo."
+      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência que permitiu a identificação."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -157,14 +173,38 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Motorista de 75 anos morre em acidente de trânsito em Capela do Alto poucos dias antes de seu filho ser ordenado bispo em Itapetininga."
+      "resumo": "Um motorista de 75 anos morre em acidente viário em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
     },
     {
-      "titulo": "STF retoma sessão do caso Moraes-Vorcaro; acompanhe",
+      "titulo": "Dino pede vista, e STF adia análise do caso Moraes; veja como foi o julgamento",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss",
       "tema": "brasil",
-      "resumo": "O STF retomou sessão para analisar o futuro de Alexandre de Moraes após divulgação de conversas suspeitas entre o ministro e executivo de banco."
+      "resumo": "O STF adia julgamento sobre investigação do ministro Alexandre de Moraes após pedido de vista do ministro Dino; caso envolve conversas entre Moraes e empresário."
+    },
+    {
+      "titulo": "'Pode chorar': os bate-bocas entre ministros na sessão sobre caso Moraes-Vorcaro ",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm4gv32zgljeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 15 Sep 2026 22:57:07 GMT",
+      "tema": "brasil",
+      "resumo": "Sessão do STF sobre o caso Moraes foi marcada por trocas de críticas verbais entre ministros durante debates sobre investigação."
+    },
+    {
+      "titulo": "O que é pedido de vista nos julgamentos do STF?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqj9xr3y2j2mo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 15 Sep 2026 22:29:47 GMT",
+      "tema": "brasil",
+      "resumo": "Explicação sobre procedimentos e terminologia usados nos julgamentos do STF, como pedido de vista e outros termos jurídicos da Corte."
+    },
+    {
+      "titulo": "Moraes ataca Mendonça no STF: 'Quem tem medo da Polícia Federal?'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq9v9xm48zrro?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 15 Sep 2026 16:50:00 GMT",
+      "tema": "brasil",
+      "resumo": "Ministro Alexandre de Moraes questiona colega sobre a Polícia Federal e acusa adversário de estar a serviço de grupo político golpista durante sessão."
     },
     {
       "titulo": "Por que Kassio Nunes Marques se declarou impedido de analisar futuro de Moraes",
@@ -172,15 +212,23 @@
       "link": "https://www.bbc.com/portuguese/articles/cmx2zlpklk6yo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 15 Sep 2026 15:14:53 GMT",
       "tema": "brasil",
-      "resumo": "Ministro Kassio Nunes Marques se declarou impedido de participar do julgamento sobre Alexandre de Moraes por sua posição como presidente do TSE."
+      "resumo": "Ministro Kassio Nunes Marques se declara impedido de votar no julgamento sobre Moraes, invocando seu cargo como presidente do TSE."
     },
     {
-      "titulo": "'A divergência é legítima, o confronto pessoal não', diz Fachin ao abrir sessão que decide futuro de  Moraes",
+      "titulo": "'Vossa Excelência viu o vídeo do Porchat?', perguntou Flávio Dino ao ministro Edson Fachin",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmy4zqp0vjq1o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 15 Sep 2026 14:38:29 GMT",
+      "link": "https://www.bbc.co.uk/programmes/p0p9rd89?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 15 Sep 2026 16:23:05 GMT",
       "tema": "brasil",
-      "resumo": "Presidente do STF Edson Fachin abriu sessão que definirá futuro de Moraes, enfatizando que divergências políticas são legítimas mas confrontos pessoais não."
+      "resumo": "Durante sessão do STF, ministro faz citação inusitada ao comediante Fábio Porchat em diálogo com colega."
+    },
+    {
+      "titulo": "'Não aponte o dedo pra mim': o bate-boca entre Gilmar Mendes e André Mendonça",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.co.uk/programmes/p0p9rr5h?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 15 Sep 2026 17:35:14 GMT",
+      "tema": "brasil",
+      "resumo": "Ministros Gilmar Mendes e André Mendonça trocam críticas verbais durante sessão plenária do STF."
     },
     {
       "titulo": "Mendonça explica ao STF ordem para identificar pessoas em relatório da PF que cita Alexandre de Moraes",
@@ -188,87 +236,47 @@
       "link": "https://www.bbc.com/portuguese/articles/cx1l6znz98g8o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 15 Sep 2026 14:41:02 GMT",
       "tema": "brasil",
-      "resumo": "Ministro André Mendonça apresentou ao STF explicação sobre ordem para identificar pessoas em relatório da PF que menciona Alexandre de Moraes."
+      "resumo": "Ministro Mendonça apresenta esclarecimento ao STF sobre ordem de identificação de pessoas em relatório da Polícia Federal relacionado ao caso Moraes."
     },
     {
-      "titulo": "As alas do STF: saiba quais ministros estão de cada lado na atual crise",
+      "titulo": "Flávio Bolsonaro volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmd94exqy2kyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 15 Sep 2026 14:18:03 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 14 Sep 2026 18:30:54 GMT",
       "tema": "brasil",
-      "resumo": "Analistas apontam que o STF está dividido em duas alas sobre a crise entre Moraes e Mendonça, com alguns ministros mantendo posição independente."
-    },
-    {
-      "titulo": "A defesa de Alexandre de Moraes antes da sessão no STF que definirá seu futuro",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckr5074jnn90o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 15 Sep 2026 12:31:54 GMT",
-      "tema": "brasil",
-      "resumo": "Defesa de Alexandre de Moraes acusa André Mendonça de usar o inquérito como ferramenta de vingança política antes da sessão que definirá seu futuro."
-    },
-    {
-      "titulo": "Caso Moraes-Vorcaro: o que está em jogo no STF e quem fala primeiro na sessão ",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqdr7npp6v4xo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 14 Sep 2026 22:22:49 GMT",
-      "tema": "brasil",
-      "resumo": "STF deve decidir se abre investigação contra Alexandre de Moraes, em sessão que envolve questionamentos sobre procedimentos e direitos do ministro."
-    },
-    {
-      "titulo": "EUA confirmam ter colocado pela primeira vez armamentos no espaço",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm750xnveq4yo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 15 Sep 2026 09:40:59 GMT",
-      "tema": "mundo",
-      "resumo": "Secretário da Força Aérea dos EUA confirmou que o país colocou armamentos no espaço pela primeira vez, classificando a medida como necessária para defesa nacional."
-    },
-    {
-      "titulo": "Por que há o temor sobre IA acabar com a humanidade — e existe mesmo o risco?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c95y4jyp8j0yo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 15 Sep 2026 11:19:37 GMT",
-      "tema": "mundo",
-      "resumo": "Debate retoma questões sobre riscos de inteligência artificial representar ameaça existencial à humanidade, com análise dos principais pontos da preocupação."
-    },
-    {
-      "titulo": "As jaulas para imigrantes presos descobertas na 'Alcatraz dos Jacarés' na Flórida",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm750v513nl2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 15 Sep 2026 08:56:20 GMT",
-      "tema": "mundo",
-      "resumo": "Inspetores do DHS encontraram jaulas em centro de detenção de imigrantes na Flórida com inadequações graves em higiene, alimentação, atendimento médico e segurança."
-    },
-    {
-      "titulo": "Emmy 2026: confira a lista completa dos ganhadores do prêmio que consagrou a série O Segredo de Widow's Bay",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm74kx40vl08o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 15 Sep 2026 11:35:58 GMT",
-      "tema": "entretenimento",
-      "resumo": "Série 'O Segredo de Widow's Bay' conquistou 14 prêmios Emmy, incluindo melhor série de comédia, em sua primeira temporada."
-    },
-    {
-      "titulo": "Como o PCC aparece nas investigações sobre a produtora de Dark Horse, filme sobre a vida de Jair Bolsonaro",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq8r63m878y1o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 15 Sep 2026 08:00:44 GMT",
-      "tema": "brasil",
-      "resumo": "Investigações sobre feminicídio revelam possível ligação de facção criminosa com empresa ligada à produtora do filme 'Dark Horse' sobre Jair Bolsonaro."
-    },
-    {
-      "titulo": "Por que Cármen Lúcia e Fachin devem ser cruciais para o futuro de Alexandre de Moraes no STF",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c33krrv86r2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 14 Sep 2026 18:36:24 GMT",
-      "tema": "brasil",
-      "resumo": "Analistas apontam que ministros Cármen Lúcia e Fachin podem ser decisivos para o futuro de Moraes no STF, apesar de quadro mais complexo que simples divisão em alas."
+      "resumo": "Agregador de pesquisas da BBC atualiza estimativas de intenção de voto para disputa presidencial de 2026 entre Lula e Flávio Bolsonaro."
     },
     {
       "titulo": "'É um tapa na cara das mulheres': as fortes críticas de atletas de elite ao polêmico anúncio de Sydney Sweeney para casa de apostas",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/ck5ywq81qvqyo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 15 Sep 2026 18:05:03 GMT",
-      "tema": "entretenimento",
-      "resumo": "Atletas mulheres criticam fortemente anúncio de Sydney Sweeney para casa de apostas que a mostra nua, denunciando falta de respeito com mulheres no esporte."
+      "tema": "cultura",
+      "resumo": "Atletas e esportistas criticam duramente campanha publicitária de casa de apostas protagonizada por atriz americana."
+    },
+    {
+      "titulo": "Emmy 2026: confira a lista completa dos ganhadores do prêmio que consagrou a série O Segredo de Widow's Bay",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm74kx40vl08o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 15 Sep 2026 11:35:58 GMT",
+      "tema": "cultura",
+      "resumo": "Série 'O Segredo de Widow's Bay' vence 14 dos 19 prêmios Emmy para os quais estava indicada, incluindo melhor série de comédia."
+    },
+    {
+      "titulo": "Japão ultrapassa pela primeira vez 100 mil pessoas com 100 anos ou mais: o que há por trás dessa longevidade",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c8p30716yw9wo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 15 Sep 2026 21:10:10 GMT",
+      "tema": "mundo",
+      "resumo": "Japão atinge pela primeira vez mais de 100 mil cidadãos centenários, refletindo envelhecimento populacional e longevidade, com predominância de mulheres."
+    },
+    {
+      "titulo": "Governo Trump afirma ter lançado arma ao espaço: o que se sabe sobre o armamento",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cj62erkqy3yvo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 15 Sep 2026 20:55:59 GMT",
+      "tema": "mundo",
+      "resumo": "Estados Unidos anuncia desenvolvimento de armamento em órbita terrestre, indicando progresso em tecnologia militar espacial."
     }
   ]
 }
