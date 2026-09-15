@@ -1,123 +1,91 @@
 {
-  "gerado_em": "2026-09-14T23:41:34.089Z",
+  "gerado_em": "2026-09-15T14:38:40.593Z",
   "modo": "ia",
   "clima": {
-    "max": 17.2,
-    "min": 13.7,
-    "chuva": 100
+    "max": 20.7,
+    "min": 11.9,
+    "chuva": 88
   },
   "noticias": [
     {
-      "titulo": "Globo entrevista Celina Leão, candidata ao governo do DF",
+      "titulo": "EM BREVE: MG1 entrevista nesta terça-feira Alexandre Kalil, candidato ao governo de MG",
       "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/entrevista-df1-celina.ghtml",
-      "hora": "Mon, 14 Sep 2026 23:30:46 -0000",
+      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/ao-vivo/em-breve-mg1-entrevista-nesta-terca-feira-alexandre-kalil-candidato-ao-governo-de-mg.ghtml",
+      "hora": "Tue, 15 Sep 2026 14:31:08 -0000",
       "tema": "brasil",
-      "resumo": "A Globo entrevistará candidatos ao governo do Distrito Federal com mais de 5% nas pesquisas Datafolha, em sessões de 30 minutos transmitidas ao vivo."
+      "resumo": "Candidato ao governo de Minas Gerais será entrevistado pela TV Globo como parte de série com principais candidatos da disputa eleitoral."
     },
     {
-      "titulo": "Orleans Brandão propõe manter equilíbrio fiscal e ampliar geração de emprego e renda no MA",
+      "titulo": "Márcio Santos, apresentador da TV Integração, morre aos 55 anos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/14/orleans-brandao-propoe-manter-equilibrio-fiscal-e-ampliar-geracao-de-emprego-e-renda-no-ma.ghtml",
-      "hora": "Mon, 14 Sep 2026 23:30:33 -0000",
+      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/09/15/marcio-santos-apresentador-da-tv-integracao-morre-aos-55-anos.ghtml",
+      "hora": "Tue, 15 Sep 2026 14:29:21 -0000",
       "tema": "brasil",
-      "resumo": "Candidato ao governo do Maranhão apresenta propostas de equilíbrio fiscal e geração de emprego durante campanha eleitoral."
+      "resumo": "Jornalista e apresentador da TV Integração falece aos 55 anos após tratamento de câncer."
     },
     {
-      "titulo": "Naufrágio no rio Acará, em Barcarena, no PA, deixa dois mortos; buscas por desaparecidos continuam",
+      "titulo": "Validade processual e constrição pessoal: o que significam termos citados na sessão do STF sobre Moraes e Vorcaro",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/09/14/naufragio-de-barco-no-rio-acara-em-barcarena-no-pa-deixa-dois-mortos-buscas-por-desaparecidos-continuam.ghtml",
-      "hora": "Mon, 14 Sep 2026 23:23:09 -0000",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/15/glossario-termos-juridicos-sessao-stf.ghtml",
+      "hora": "Tue, 15 Sep 2026 14:28:02 -0000",
       "tema": "brasil",
-      "resumo": "Um naufrágio no rio Acará, em Barcarena no Pará, resultou em duas mortes e deixou outras duas pessoas desaparecidas durante travessia entre comunidades."
+      "resumo": "Supremo Tribunal Federal analisa a conduta do ministro Alexandre de Moraes em sessão extraordinária; discussão inclui conceitos processuais sobre validade e medidas de constrição."
     },
     {
-      "titulo": "\nCasa antiga é destruída por incêndio em Campos, no RJ",
+      "titulo": "O prato com ovo e carne de sol que alimenta trabalhadores no Pantanal de Mato Grosso do Sul",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/09/14/casa-antiga-e-destruida-por-incendio-em-campos-no-rj.ghtml",
-      "hora": "Mon, 14 Sep 2026 23:21:58 -0000",
-      "tema": "brasil",
-      "resumo": "Uma casa antiga foi destruída por incêndio em Campos dos Goytacazes, no interior do Rio de Janeiro, e o imóvel foi interditado pelos bombeiros."
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/15/o-prato-com-ovo-e-carne-de-sol-que-alimenta-trabalhadores-no-pantanal-de-mato-grosso-do-sul.ghtml",
+      "hora": "Tue, 15 Sep 2026 14:27:36 -0000",
+      "tema": "cultura",
+      "resumo": "Tradição pantaneira no Mato Grosso do Sul: o 'quebra-torto', refeição matinal à base de ovo e carne de sol que alimenta trabalhadores rurais antes do amanhecer."
     },
     {
-      "titulo": "Lancha bate em navio atracado no Porto de Santos",
+      "titulo": "Kassio Nunes Marques se declara impedido em julgamento sobre Moraes",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2026/09/14/lancha-bate-em-navio-atracado-no-porto-de-santos.ghtml",
-      "hora": "Mon, 14 Sep 2026 23:20:34 -0000",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/15/kassio-nunes-marques-se-declara-impedido-em-julgamento-sobre-moraes.ghtml",
+      "hora": "Tue, 15 Sep 2026 14:27:09 -0000",
+      "tema": "brasil",
+      "resumo": "Ministro do STF se declara impedido de votar em julgamento que examina a conduta de colega ministro após revelação de mensagens."
+    },
+    {
+      "titulo": "TRE-PB manda humorista Gustavo Mendes apagar de redes sociais vídeo em que ironiza emendas de senador Veneziano ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/15/tre-pb-manda-humorista-gustavo-mendes-apagar-emendas-de-senador-veneziano.ghtml",
+      "hora": "Tue, 15 Sep 2026 14:25:45 -0000",
+      "tema": "brasil",
+      "resumo": "Tribunal Regional Eleitoral determina remoção de vídeo humorístico que satirizava emendas de senador."
+    },
+    {
+      "titulo": "Empatia e boa comunicação transformam a relação entre médico e paciente",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pr/parana/especial-publicitario/centro-universitario-integrado/noticia/2026/09/15/empatia-e-boa-comunicacao-transformam-a-relacao-entre-medico-e-paciente.ghtml",
+      "hora": "Tue, 15 Sep 2026 14:25:29 -0000",
+      "tema": "brasil",
+      "resumo": "Estudo destaca a importância da empatia e comunicação clara entre médicos e pacientes para melhorar adesão ao tratamento e qualidade do atendimento."
+    },
+    {
+      "titulo": "MP abre inquérito para apurar fraudes e avaliar possível anulação de provas do concurso da Polícia Penal do RN",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/15/mp-abre-inquerito-para-apurar-fraudes-e-avaliar-possivel-anulacao-de-provas-do-concurso-da-policia-penal-do-rn.ghtml",
+      "hora": "Tue, 15 Sep 2026 14:25:11 -0000",
+      "tema": "brasil",
+      "resumo": "Ministério Público do Rio Grande do Norte abre inquérito para investigar possíveis fraudes em concurso público de segurança penitenciária."
+    },
+    {
+      "titulo": "O dinheiro ficou mais caro. Como crescer sem comprometer todo o capital",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/especial-publicitario/ana-costa-consorcios/noticia/2026/09/15/o-dinheiro-ficou-mais-caro-como-crescer-sem-comprometer-todo-o-capital.ghtml",
+      "hora": "Tue, 15 Sep 2026 14:24:21 -0000",
+      "tema": "brasil",
+      "resumo": "Análise sobre impacto das altas taxas de juros no Brasil e estratégias para crescimento sem comprometer capital em cenário de crédito caro."
+    },
+    {
+      "titulo": "Concursos e processos seletivos têm vagas com salários de até R$ 6 mil no Oeste Paulista",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/09/15/concursos-e-processos-seletivos-tem-vagas-com-salarios-de-ate-r-6-mil-no-oeste-paulista.ghtml",
+      "hora": "Tue, 15 Sep 2026 14:23:00 -0000",
       "tema": "sp",
-      "resumo": "Uma lancha colidiu com um navio atracado no Porto de Santos, perfurando seu casco e afundando parcialmente, sem feridos."
-    },
-    {
-      "titulo": "Após prisões de secretários por fraude na licitação do lixo, Câmara de Bauru abre Comissão Processante que pode cassar prefeita Suéllen Rosim",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/09/14/camara-de-bauru-abre-comissao-processante-que-pode-cassar-prefeita.ghtml",
-      "hora": "Mon, 14 Sep 2026 23:19:12 -0000",
-      "tema": "sp",
-      "resumo": "Após prisões de secretários por fraude em licitação de coleta de lixo, a Câmara de Bauru abriu Comissão Processante que pode cassar a prefeita Suéllen Rosim."
-    },
-    {
-      "titulo": "Rey Vaqueiro diz que equipe segue em acompanhamento médico e anuncia retomada de shows no sábado (19)",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/14/rey-vaqueiro-diz-que-equipe-segue-em-acompanhamento-medico-e-anuncia-retomada-de-shows-no-sabado-19.ghtml",
-      "hora": "Mon, 14 Sep 2026 23:17:01 -0000",
-      "tema": "entretenimento",
-      "resumo": "Após acidente aéreo no Rio Grande do Norte, o cantor Rey Vaqueiro e sua equipe recebem acompanhamento médico e retomam shows no fim de semana."
-    },
-    {
-      "titulo": "Cunhado de Vorcaro, ex do banqueiro e 'Sicário' enviaram quase R$ 20 milhões à Igreja Batista da Lagoinha, aponta Coaf",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/14/cunhado-de-vorcaro-ex-do-banqueiro-e-sicario-enviaram-quase-r-20-milhoes-a-igreja-batista-da-lagoinha-aponta-coaf.ghtml",
-      "hora": "Mon, 14 Sep 2026 23:15:20 -0000",
-      "tema": "brasil",
-      "resumo": "Órgão de fiscalização aponta que cunhado de banqueiro transferiu quase R$ 20 milhões para Igreja Batista durante investigação relacionada a operações suspeitas."
-    },
-    {
-      "titulo": "Candidato ao governo de SE, Ricardo Marques diz que pretende reduzir filas de hospitais e criar teto para arrecadação tributária",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/14/ricardo-marques-entrevista-se2.ghtml",
-      "hora": "Mon, 14 Sep 2026 23:14:36 -0000",
-      "tema": "brasil",
-      "resumo": "Candidato ao governo de Sergipe apresenta propostas para reduzir filas hospitalares e criar limite na arrecadação tributária estadual."
-    },
-    {
-      "titulo": "Candidatos do DF cumprem agenda na rodoviária e fazem promessas para mobilidade urbana",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/14/candidatos-do-df-cumprem-agenda-na-rodoviaria-do-plano-e-defendem-propostas-para-mobilidade.ghtml",
-      "hora": "Mon, 14 Sep 2026 23:14:04 -0000",
-      "tema": "brasil",
-      "resumo": "Candidatos ao governo do Distrito Federal apresentam propostas sobre mobilidade urbana durante agenda na região central de Brasília."
-    },
-    {
-      "titulo": "Dono de sucata e mais 4 são presos durante operação que recuperou mais de meia tonelada de cobre em Cuiabá",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/14/dono-de-sucata-e-mais-4-sao-presos-durante-operacao-que-recuperou-mais-de-meia-tonelada-de-cobre-em-cuiaba.ghtml",
-      "hora": "Mon, 14 Sep 2026 23:12:16 -0000",
-      "tema": "brasil",
-      "resumo": "Polícias Civil e Militar recuperaram mais de 500 quilos de cobre roubado de uma empresa em Cuiabá e prenderam o dono da sucata e quatro suspeitos."
-    },
-    {
-      "titulo": "Daniel Vilela fala sobre subsídio à tarifa de ônibus para o Entorno do DF",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/14/daniel-vilela-fala-sobre-subsidio-a-tarifa-de-onibus-para-o-entorno-do-df.ghtml",
-      "hora": "Mon, 14 Sep 2026 23:11:44 -0000",
-      "tema": "brasil",
-      "resumo": "Candidato ao governo de Goiás propõe subsidiar a tarifa de transporte público no Entorno do Distrito Federal como medida de campanha."
-    },
-    {
-      "titulo": "Renan Filho faz carreata em Arapiraca e JHC participa de sabatina em Maceió nesta segunda (14)",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/09/14/renan-filho-faz-carreata-em-arapiraca-e-jhc-participa-de-sabatina-em-maceio-nesta-segunda-14.ghtml",
-      "hora": "Mon, 14 Sep 2026 23:11:16 -0000",
-      "tema": "brasil",
-      "resumo": "Candidatos ao governo de Alagoas cumprem agendas de campanha com carreata e sabatina em diferentes cidades do estado."
-    },
-    {
-      "titulo": "Imigrantes detidos na 'Alcatraz dos Jacarés' do ICE, na Flórida, ficavam em celas do tamanho de uma cabine telefônica",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/14/detidos-em-alcatraz-dos-jacares-ficavam-em-celas-do-tamanho-de-uma-cabine-telefonica.ghtml",
-      "hora": "Mon, 14 Sep 2026 23:10:26 -0000",
-      "tema": "mundo",
-      "resumo": "Investigação revela que imigrantes detidos em centro de detenção do ICE na Flórida foram alojados em celas minúsculas, do tamanho de cabines telefônicas."
+      "resumo": "Oeste Paulista oferece vagas em concursos públicos e processos seletivos com salários de até R$ 6 mil para diferentes níveis de escolaridade."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -125,7 +93,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival Bike Brasil na Zona Sul de São Paulo reúne ciclistas profissionais e amadores com competições de manobras e atividades para crianças."
+      "resumo": "Festival de bicicletas na Zona Sul de São Paulo reúne ciclistas para competição de manobras e atividades familares neste domingo."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -133,23 +101,15 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado de Agudos percorreu 20 quilômetros de bicicleta até Bauru e ficou 12 horas na fila para concorrer a uma das 500 vagas de emprego oferecidas."
+      "resumo": "Desempregado percorre 20 km de bicicleta e aguarda 12 horas em fila para concorrer a uma de 500 vagas de emprego em Bauru."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "cultura",
-      "resumo": "Cantor Zé Ramalho apresentou sucessos da carreira e tributo a Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
-    },
-    {
-      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
-      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "Polícia Rodoviária Federal apreendeu 927 quilos de maconha em carreta que se dirigia a São Paulo e prendeu o motorista."
+      "resumo": "Cantor Zé Ramalho apresenta sucessos de sua carreira e homenageia Raul Seixas em apresentação na Festa Junina de Sorocaba."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -157,7 +117,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza 3ª edição da Festa Junina Canina com entrada gratuita, brincadeiras e atividades para cães e gatos."
+      "resumo": "Jundiaí realiza terceira edição da Festa Junina Canina com entrada gratuita, atividades e entretenimento para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -165,7 +125,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "Festival Maior Baile do Mundo em São Paulo reúne artistas de grande repercussão na internet e espera receber 35 mil pessoas para 10 horas de shows."
+      "resumo": "Festival de música em São Paulo com Anitta e MCs espera reunir 35 mil pessoas para 10 horas de apresentações neste domingo."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -173,7 +133,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "PSTU oficializa Vera Lúcia, militante sindical, como candidata à Presidência da República nas eleições de 2026."
+      "resumo": "Partido Socialista dos Trabalhadores Unificado oficializa candidatura de Vera Lúcia à Presidência da República."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -181,7 +141,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí recebe 15ª edição da Feira de Imóvel, Construção e Decoração com entrada gratuita e atividades até domingo."
+      "resumo": "Jundiaí recebe 15ª edição de feira sobre imóvel, construção e decoração com entrada gratuita até domingo."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -189,7 +149,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversas funções do Executivo até 31 de julho, com provas aplicadas na própria cidade."
+      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diversos cargos do Executivo municipal e formação de cadastro de reserva."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -197,7 +157,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra a família após 37 anos separados graças a um boletim de ocorrência registrado durante uma abordagem policial."
+      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos, graças a informações que constavam em um boletim de ocorrência."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -208,12 +168,67 @@
       "resumo": "Motorista de 75 anos morre em acidente de trânsito em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
     },
     {
+      "titulo": "STF começa a julgar caso Moraes-Vorcaro; Kássio Nunes e Toffoli não vão participar",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss",
+      "tema": "brasil",
+      "resumo": "O STF inicia julgamento sobre a crise envolvendo o ministro Alexandre de Moraes e conversas suspeitas com um banqueiro, com possível abertura de investigação sobre sua conduta."
+    },
+    {
+      "titulo": "As alas do STF: saiba quais ministros estão de cada lado na atual crise",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmd94exqy2kyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 15 Sep 2026 14:18:03 GMT",
+      "tema": "brasil",
+      "resumo": "Análise mostra que o Supremo está dividido em duas alas, com exceção dos ministros Edson Fachin e Cármen Lúcia que se mantêm em posição independente."
+    },
+    {
+      "titulo": "A defesa de Alexandre de Moraes antes da sessão no STF que definirá seu futuro",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ckr5074jnn90o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 15 Sep 2026 12:31:54 GMT",
+      "tema": "brasil",
+      "resumo": "Alexandre de Moraes apresenta defesa ao STF acusando o ministro André Mendonça de usar inquérito com motivações políticas e eleitorais."
+    },
+    {
       "titulo": "Caso Moraes-Vorcaro: o que está em jogo no STF e quem fala primeiro na sessão ",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cqdr7npp6v4xo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 14 Sep 2026 22:22:49 GMT",
       "tema": "brasil",
-      "resumo": "O STF se prepara para decidir sobre possível abertura de investigação contra o ministro Alexandre de Moraes em sessão com detalhes ainda em definição."
+      "resumo": "Ministros do STF devem decidir sobre possível abertura de investigação contra Alexandre de Moraes, com detalhes sobre procedimento ainda em discussão nos bastidores."
+    },
+    {
+      "titulo": "EUA confirmam ter colocado pela primeira vez armamentos no espaço",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm750xnveq4yo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 15 Sep 2026 09:40:59 GMT",
+      "tema": "mundo",
+      "resumo": "Os Estados Unidos confirmam pela primeira vez ter colocado armamentos no espaço, segundo afirmação do Secretário da Força Aérea, justificando-se por questões de defesa."
+    },
+    {
+      "titulo": "Por que há o temor sobre IA acabar com a humanidade — e existe mesmo o risco?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c95y4jyp8j0yo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 15 Sep 2026 11:19:37 GMT",
+      "tema": "mundo",
+      "resumo": "Debate sobre os riscos existenciais da inteligência artificial volta ao centro das discussões sobre segurança e futuro da tecnologia."
+    },
+    {
+      "titulo": "Emmy 2026: confira a lista completa dos ganhadores do prêmio que consagrou a série O Segredo de Widow's Bay",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm74kx40vl08o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 15 Sep 2026 11:35:58 GMT",
+      "tema": "cultura",
+      "resumo": "A série 'O Segredo de Widow's Bay' vence 14 dos 19 prêmios Emmy aos quais estava indicada, incluindo melhor série de comédia."
+    },
+    {
+      "titulo": "As jaulas para imigrantes presos descobertas na 'Alcatraz dos Jacarés' na Flórida",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm750v513nl2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 15 Sep 2026 08:56:20 GMT",
+      "tema": "mundo",
+      "resumo": "Inspeção revelada em centro de detenção de imigrantes na Flórida aponta violações graves em higiene, atendimento médico, alimentação e segurança das instalações."
     },
     {
       "titulo": "Por que Cármen Lúcia e Fachin devem ser cruciais para o futuro de Alexandre de Moraes no STF",
@@ -221,31 +236,23 @@
       "link": "https://www.bbc.com/portuguese/articles/c33krrv86r2o?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 14 Sep 2026 18:36:24 GMT",
       "tema": "brasil",
-      "resumo": "Análise indica que os posicionamentos dos ministros Cármen Lúcia e Fachin serão determinantes para o desfecho do caso de Alexandre de Moraes no STF."
+      "resumo": "Análise mostra que os ministros Cármen Lúcia e Fachin podem ser decisivos para o desfecho do caso de Alexandre de Moraes, apesar da percepção comum de divisão entre 'alas'."
     },
     {
-      "titulo": "Por que cofundador da Anthropic defende um 'botão de desligamento' obrigatório para IA ",
+      "titulo": "As atletas contra-atacam a anúncio de Sydney Sweeney: 'Esta é a aparência das mulheres no esporte'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5y4zx9l98k9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 14 Sep 2026 21:50:19 GMT",
-      "tema": "mundo",
-      "resumo": "Cofundador da Anthropic defende a implementação obrigatória de um 'botão de desligamento' para sistemas de inteligência artificial como medida de segurança."
+      "link": "https://www.bbc.com/portuguese/articles/ck5ywq81qvqyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 15 Sep 2026 09:20:53 GMT",
+      "tema": "cultura",
+      "resumo": "Atletas de elite de diversos países criticam campanha de casa de apostas que estrela a atriz Sydney Sweeney, defendendo a representatividade real do corpo feminino no esporte."
     },
     {
-      "titulo": "Hyrox se desculpa por permitir continuação de corrida após incontinência fecal de atleta",
+      "titulo": "Como o PCC aparece nas investigações sobre a produtora de Dark Horse, filme sobre a vida de Jair Bolsonaro",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmz7zn8z7g7go?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 14 Sep 2026 20:47:24 GMT",
-      "tema": "mundo",
-      "resumo": "Organizadores do Hyrox pedem desculpas por permitir continuação de competição após incidente envolvendo uma atleta, gerando discussão sobre higiene e inclusão no evento."
-    },
-    {
-      "titulo": "Os anticorpos que atravessam a placenta: como vacina da mãe protege o bebê antes mesmo do parto",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cpq05983yv5o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 14 Sep 2026 18:35:32 GMT",
-      "tema": "mundo",
-      "resumo": "Estudo explica como anticorpos de vacinas administradas durante a gravidez atravessam a placenta e protegem bebês antes do parto."
+      "link": "https://www.bbc.com/portuguese/articles/cq8r63m878y1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 15 Sep 2026 08:00:44 GMT",
+      "tema": "brasil",
+      "resumo": "Investigações da Polícia Civil e Ministério Público de São Paulo apontam possível ligação entre o PCC e um empresário vinculado à dona da produtora do filme sobre Bolsonaro, em investigação sobre feminicídio."
     },
     {
       "titulo": "Elas foram melhores amigas por décadas, até que um exame de DNA revelou que são irmãs",
@@ -253,55 +260,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cx62mll11z2go?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 14 Sep 2026 17:42:17 GMT",
       "tema": "mundo",
-      "resumo": "Duas mulheres que foram melhores amigas por décadas descobrem através de teste de DNA que são irmãs biológicas, ambas adotadas na Índia e criadas na Holanda."
-    },
-    {
-      "titulo": "Flávio Bolsonaro volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 14 Sep 2026 18:30:54 GMT",
-      "tema": "brasil",
-      "resumo": "Agregador de pesquisas eleitorais da BBC indica Flávio Bolsonaro à frente de Lula em cenário de segundo turno para a eleição presidencial de 2026."
-    },
-    {
-      "titulo": "Por dentro da rede de influenciadores que ataca o voto feminino no Brasil",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cy74n45p7dyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 14 Sep 2026 14:13:04 GMT",
-      "tema": "brasil",
-      "resumo": "Investigação mapeia rede de influenciadores que questionam o direito ao voto das mulheres no Brasil, com a ministra Cármen Lúcia criticando as posições e reafirmando proteção constitucional."
-    },
-    {
-      "titulo": "5 coisas que você precisa saber sobre o documentário de 4 horas sobre Elon Musk",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6lyqzejw7g7o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 14 Sep 2026 16:13:52 GMT",
-      "tema": "cultura",
-      "resumo": "Documentário de 4 horas sobre Elon Musk teve estreia no Festival de Cinema de Veneza com abordagem provocativa da vida do empresário."
-    },
-    {
-      "titulo": "Guia explica tudo o que os ministros do STF decidiram sobre o caso Master no fim de semana",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czdzg00rzp4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 14 Sep 2026 18:46:55 GMT",
-      "tema": "brasil",
-      "resumo": "Ministros do STF emitiram diversos despachos e ofícios durante o fim de semana em meio à crise institucional da Corte relacionada ao caso Master."
-    },
-    {
-      "titulo": "Quem é Cezinha de Madureira, deputado federal do PL alvo da Polícia Federal",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c98r633vr87go?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 14 Sep 2026 13:27:18 GMT",
-      "tema": "brasil",
-      "resumo": "Operação da Polícia Federal apura suspeitas de crimes como exploração de prestígio, tráfico de influência e lavagem de dinheiro envolvendo o deputado federal Cezinha de Madureira."
-    },
-    {
-      "titulo": "Eleição 2026: o que os candidatos à Presidência propõem para a saúde?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cje8vdz8324o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 14 Sep 2026 19:15:14 GMT",
-      "tema": "brasil",
-      "resumo": "BBC News Brasil mapeou as principais propostas e posicionamentos dos candidatos à Presidência em 2026 para a área de saúde pública."
+      "resumo": "Duas mulheres que foram melhores amigas por décadas na Holanda descobrem através de teste de DNA que são irmãs biológicas, ambas adotadas quando bebês na Índia."
     }
   ]
 }
