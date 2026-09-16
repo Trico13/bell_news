@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-16T14:35:44.162Z",
+  "gerado_em": "2026-09-16T18:39:09.142Z",
   "modo": "ia",
   "clima": {
     "max": 19.4,
@@ -8,68 +8,92 @@
   },
   "noticias": [
     {
-      "titulo": "Carro invade drogaria na Zona Oeste de Manaus; VÍDEO",
+      "titulo": "Operação prende suspeito e apreende 82 eletrônicos avaliados em R$ 170 mil no Alecrim, em Natal",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/16/carro-invade-drogaria-na-zona-oeste-de-manaus-video.ghtml",
-      "hora": "Wed, 16 Sep 2026 14:27:56 -0000",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/16/segunda-fase-operacao-ultima-chamada-em-natal.ghtml",
+      "hora": "Wed, 16 Sep 2026 18:25:31 -0000",
       "tema": "brasil",
-      "resumo": "Um veículo invadiu uma drogaria na Zona Oeste de Manaus, atingindo balcões e causando danos ao estabelecimento durante a noite de terça-feira."
+      "resumo": "A Polícia Federal prendeu um suspeito de receptação e apreendeu 82 eletrônicos avaliados em aproximadamente R$ 170 mil em Natal, durante segunda fase de operação."
     },
     {
-      "titulo": "VÍDEO: possível ossada humana é encontrada em área de obras em MT",
+      "titulo": "Candidatos ao governo da Paraíba são entrevistados no JPB1",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/16/video-possivel-ossada-humana-e-encontrada-em-area-de-obras-em-mt.ghtml",
-      "hora": "Wed, 16 Sep 2026 14:27:00 -0000",
+      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/ao-vivo/jpb1-entrevista-candidatos-ao-governo-da-paraiba.ghtml",
+      "hora": "Wed, 16 Sep 2026 18:21:58 -0000",
       "tema": "brasil",
-      "resumo": "Uma possível ossada humana foi encontrada em uma área de obras no bairro Ipase, em Várzea Grande (MT); a identificação da pessoa segue em investigação."
+      "resumo": "Candidatos ao governo da Paraíba são entrevistados em série de sabatinas transmitidas por emissoras locais e plataformas digitais entre os dias 14 e 16 de outubro."
     },
     {
-      "titulo": "O que são DCK e 2-FDCK, drogas detectadas pela 1ª vez em amostras de saliva em festas de SP",
+      "titulo": "Marconi Perillo (PSDB), candidato ao governo, foi entrevistado ao vivo no Jornal Anhanguera 1ª Edição; reveja",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/16/o-que-sao-dck-e-2-fdck-drogas-detectadas-pela-1a-vez-em-amostras-de-saliva-em-festas-de-sp.ghtml",
-      "hora": "Wed, 16 Sep 2026 14:26:35 -0000",
-      "tema": "sp",
-      "resumo": "Duas substâncias psicoativas (DCK e 2-FDCK) foram identificadas pela primeira vez em amostras de saliva de frequentadores de festas em São Paulo, gerando monitoramento de novas drogas no estado."
-    },
-    {
-      "titulo": "Sabor de Casa: aprenda a fazer applebol, sobremesa típica holandesa",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/receitas/noticia/2026/09/16/sabor-de-casa-aprenda-a-fazer-applebol-sobremesa-tipica-holandesa.ghtml",
-      "hora": "Wed, 16 Sep 2026 14:26:23 -0000",
-      "tema": "cultura",
-      "resumo": "Um empresário compartilha a receita tradicional do applebol, sobremesa típica holandesa à base de maçã, em programa de culinária."
-    },
-    {
-      "titulo": "JBS e Viva unem operações e criam gigante com capacidade para processar mais de 20 milhões de couros por ano",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/09/16/jbs-e-viva-unem-operacoes-e-criam-gigante-com-capacidade-para-processar-mais-de-20-milhoes-de-couros-por-ano.ghtml",
-      "hora": "Wed, 16 Sep 2026 14:26:15 -0000",
+      "link": "https://g1.globo.com/go/goias/eleicoes/2026/ao-vivo/entrevistas-candidatos-goias-governo.ghtml",
+      "hora": "Wed, 16 Sep 2026 18:20:49 -0000",
       "tema": "brasil",
-      "resumo": "A JBS e a Viva Holding se unem para criar a JBS Viva, aumentando a capacidade de processamento de couros no país para mais de 20 milhões por ano."
+      "resumo": "Marconi Perillo (PSDB) é entrevistado em sabatina de candidatos ao governo de Goiás, continuando série de entrevistas com postulantes ao cargo."
     },
     {
-      "titulo": "IFPA abre vagas gratuitas para curso técnico em Canaã dos Carajás; veja como se inscrever",
+      "titulo": "Iguatu reúne empreendedores e gestores públicos em iniciativa voltada à inovação",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/09/16/ifpa-abre-vagas-gratuitas-para-curso-tecnico-em-canaa-dos-carajas-veja-como-se-inscrever.ghtml",
-      "hora": "Wed, 16 Sep 2026 14:25:17 -0000",
+      "link": "https://g1.globo.com/ce/ceara/especial-publicitario/sebrae-ceara/inovacao-e-negocios/noticia/2026/09/16/iguatu-reune-empreendedores-e-gestores-publicos-em-iniciativa-voltada-a-inovacao.ghtml",
+      "hora": "Wed, 16 Sep 2026 18:19:24 -0000",
       "tema": "brasil",
-      "resumo": "O Instituto Federal do Pará abre 40 vagas gratuitas para curso técnico em Controle Ambiental destinado a estudantes que concluíram o ensino médio."
+      "resumo": "Município de Iguatu recebe evento de inovação e empreendedorismo promovido pelo Sebrae, reunindo mais de 240 participantes para discutir tecnologia e negócios."
     },
     {
-      "titulo": "Trânsito em ponte danificada por temporal é liberado após obras emergenciais em Tatuí",
+      "titulo": "Detran leiloa mais de 600 veículos em Palmas com lances a partir de R$ 30; veja como participar",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/09/16/transito-em-ponte-danificada-por-temporal-e-liberado-apos-obras-emergenciais-em-tatui.ghtml",
-      "hora": "Wed, 16 Sep 2026 14:24:43 -0000",
-      "tema": "sp",
-      "resumo": "Após obras emergenciais, o trânsito foi liberado na ponte que dá acesso à Rua Benedito Faustino da Rosa, em Tatuí, que havia sido danificada por temporal."
-    },
-    {
-      "titulo": "Piauí pode registrar 42 °C entre quinta e sexta-feira; veja previsão",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/09/16/piaui-previsao.ghtml",
-      "hora": "Wed, 16 Sep 2026 14:19:51 -0000",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/09/16/detran-leiloa-mais-de-600-veiculos-em-palmas-com-lances-a-partir-de-r-30-veja-como-participar.ghtml",
+      "hora": "Wed, 16 Sep 2026 18:17:13 -0000",
       "tema": "brasil",
-      "resumo": "O Piauí pode registrar temperaturas de até 42°C entre quinta e sexta-feira, de acordo com previsão do Instituto Nacional de Meteorologia."
+      "resumo": "Detran de Tocantins leiloa 660 veículos em Palmas com lances iniciais a partir de R$ 30, incluindo carros e sucatas."
+    },
+    {
+      "titulo": "Operação cumpre 19 mandados contra facção que ameaçava policiais em Roraima",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/09/16/operacao-cumpre-19-mandados-contra-faccao-que-ameacava-policiais-em-roraima.ghtml",
+      "hora": "Wed, 16 Sep 2026 18:16:14 -0000",
+      "tema": "brasil",
+      "resumo": "Forças de segurança em Roraima realizam operação contra organizações criminosas, cumprindo 19 mandados contra facção que ameaçava policiais em Boa Vista e Caracaraí."
+    },
+    {
+      "titulo": "Festival Gastronômico de Araripina começa nesta sexta-feira (18); veja como participar",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/09/16/festival-gastronomico-de-araripina-comeca-nesta-sexta-feira-18-veja-como-participar.ghtml",
+      "hora": "Wed, 16 Sep 2026 18:14:24 -0000",
+      "tema": "brasil",
+      "resumo": "Araripina (PE) realiza 5ª edição do Festival Gastronômico nos dias 18 e 19 de outubro para fortalecer comércios locais de alimentação."
+    },
+    {
+      "titulo": "Sapucaia recebe Buchecha, Dudu Nobre e Adoração e Vida na FIGPOR 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/16/sapucaia-recebe-buchecha-dudu-nobre-e-adoracao-e-vida-na-figpor-2026.ghtml",
+      "hora": "Wed, 16 Sep 2026 18:10:09 -0000",
+      "tema": "entretenimento",
+      "resumo": "Sapucaia (RJ) recebe festival de inverno com shows de Buchecha, Dudu Nobre e grupo Adoração e Vida entre 18 e 20 de setembro."
+    },
+    {
+      "titulo": "Grupo percorre mais de 180 km para doar sangue para jovem que sofreu acidente de moto no AC: ‘Ato de amor’",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/09/16/grupo-percorre-mais-de-180-km-para-doar-sangue-para-jovem-que-sofreu-acidente-de-moto-no-ac-ato-de-amor.ghtml",
+      "hora": "Wed, 16 Sep 2026 18:08:10 -0000",
+      "tema": "brasil",
+      "resumo": "Grupo de 14 pessoas percorre mais de 180 quilômetros para doar sangue a jovem internada em UTI após acidente de moto no Acre."
+    },
+    {
+      "titulo": "Roberto Rocha defende redução da estrutura do governo, critica ICMS e propõe foco em infraestrutura no MA",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/16/roberto-rocha-defende-reducao-da-estrutura-do-governo-critica-icms-e-propoe-foco-em-infraestrutura-no-ma.ghtml",
+      "hora": "Wed, 16 Sep 2026 18:08:01 -0000",
+      "tema": "brasil",
+      "resumo": "Candidato ao governo do Maranhão apresenta propostas de redução da estrutura governamental e foco em infraestrutura em entrevista."
+    },
+    {
+      "titulo": "Ao PITV 1, Lúcia Santos promete reestruturar o sistema hospitalar ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/16/lucia-santos-entrevista-pitv1.ghtml",
+      "hora": "Wed, 16 Sep 2026 18:05:59 -0000",
+      "tema": "brasil",
+      "resumo": "Candidata ao governo do Piauí apresenta plano de reestruturação da rede hospitalar estadual para ampliar atendimento especializado no interior."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -77,7 +101,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "O evento Bike Brasil acontece neste domingo na Zona Sul de São Paulo, reunindo ciclistas profissionais e amadores em competições de manobras e atividades para crianças."
+      "resumo": "Festival de ciclismo ocorre na Zona Sul de São Paulo reunindo profissionais e amadores para competições de manobras e atividades para crianças."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -85,7 +109,7 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Um desempregado de Agudos pedalou 20 km até Bauru e aguardou 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas no interior."
+      "resumo": "Desempregado percorre 20 quilômetros de bicicleta e enfrenta fila de 12 horas em Bauru para concorrer a uma de 500 vagas de emprego."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -93,7 +117,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "cultura",
-      "resumo": "O cantor Zé Ramalho apresentou sucessos de sua carreira e duas canções de Raul Seixas durante a 39ª edição da Festa Junina de Sorocaba."
+      "resumo": "Cantor Zé Ramalho apresenta sucessos e músicas de Raul Seixas na 39ª Festa Junina de Sorocaba (SP)."
+    },
+    {
+      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
+      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
+      "tema": "brasil",
+      "resumo": "Polícia Rodoviária Federal apreende 927 quilos de maconha em carreta em Mato Grosso do Sul que seria entregue em São Paulo."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -101,15 +133,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina com entrada gratuita, oferecendo brincadeiras e atividades para cães e gatos neste sábado."
+      "resumo": "Jundiaí realiza 3ª edição da Festa Junina Canina com entrada gratuita, brincadeiras e atividades para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
-      "tema": "sp",
-      "resumo": "O Maior Baile do Mundo, festival com Anitta e diversos MCs, acontece neste domingo em São Paulo e espera reunir 35 mil pessoas em 10 horas de shows."
+      "tema": "entretenimento",
+      "resumo": "Festival Maior Baile do Mundo ocorre em São Paulo reunindo Anitta e MCs em 10 horas de shows para aproximadamente 35 mil pessoas."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -117,7 +149,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializou a candidatura de Vera Lúcia, militante sindical, para a Presidência da República nas próximas eleições."
+      "resumo": "PSTU oficializa Vera Lúcia, militante sindical, como candidata à Presidência da República nas eleições."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -125,7 +157,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A 15ª edição da Feiccad (Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração) ocorre até domingo em Jundiaí com entrada gratuita mediante credenciamento."
+      "resumo": "15ª edição da Feira da Construção Civil e Imóveis (Feiccad) acontece em Jundiaí com entrada gratuita até domingo."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -133,7 +165,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos do Executivo até 31 de julho."
+      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diferentes cargos do Executivo, com provas a serem realizadas na cidade."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -141,15 +173,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra a família após 37 anos de separação, graças a um boletim de ocorrência que possibilitou o rastreamento."
-    },
-    {
-      "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
-      "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
-      "tema": "sp",
-      "resumo": "Pai de monsenhor que seria ordenado bispo morre em acidente de trânsito em Capela do Alto dias antes da cerimônia do filho."
+      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência que possibilitou o encontro."
     },
     {
       "titulo": "Há 'vencedor' na disputa de alas do STF?",
@@ -157,7 +181,15 @@
       "link": "https://www.bbc.com/portuguese/articles/ckyvz5nel578o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 16 Sep 2026 13:44:39 GMT",
       "tema": "brasil",
-      "resumo": "Especialistas avaliam que o STF foi o maior perdedor em sessão plenária sobre questões internas envolvendo ministros da Corte."
+      "resumo": "Analistas avaliam que o STF foi o maior prejudicado pela sessão em que se discutiu o caso de Alexandre de Moraes, apesar da estratégia de seus aliados ter conseguido adiar a análise."
+    },
+    {
+      "titulo": "Flávio Dino no STF: qual foi seu papel no julgamento de Moraes e por que pediu vista",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c94gml8k74yeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 16 Sep 2026 07:50:33 GMT",
+      "tema": "brasil",
+      "resumo": "O ministro Flávio Dino pediu mais tempo para analisar questão de ordem no julgamento sobre Alexandre de Moraes, após discussão entre outros ministros."
     },
     {
       "titulo": "STF não decide sobre Alexandre de Moraes e crise se prolonga",
@@ -165,7 +197,39 @@
       "link": "https://www.bbc.com/portuguese/articles/cm0re47gwy21o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 16 Sep 2026 02:46:05 GMT",
       "tema": "brasil",
-      "resumo": "Ministro Flávio Dino pede vista e paralisa julgamento sobre Alexandre de Moraes no STF, mantendo a crise institucional em aberto."
+      "resumo": "O STF adia novamente a decisão sobre Alexandre de Moraes após Flávio Dino pedir vista, deixando incerta a data para análise de acusações contra outro ministro."
+    },
+    {
+      "titulo": "Moraes e Mendonça deveriam ser impedidos de votar? Juristas respondem perguntas de leitores da BBC sobre sessão histórica do STF",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwkgvk44l5jeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 15 Sep 2026 23:51:26 GMT",
+      "tema": "brasil",
+      "resumo": "Juristas respondem perguntas de leitores sobre questões legais envolvidas no recente julgamento do STF relacionado a Alexandre de Moraes e Daniel Vorcaro."
+    },
+    {
+      "titulo": "Por que Trump aposta na IA apesar dos crescentes alertas sobre seus riscos",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck24jg2edg0ro?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 16 Sep 2026 16:23:09 GMT",
+      "tema": "mundo",
+      "resumo": "Trump colocou a inteligência artificial no centro do debate político americano, apesar dos crescentes alertas sobre riscos da tecnologia."
+    },
+    {
+      "titulo": "Por que os anos 1980 foram tão coloridos? A explicação por trás da 'trend' de fotos de IA que viralizou",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cp80jlp2e11o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 12 Sep 2026 14:06:28 GMT",
+      "tema": "cultura",
+      "resumo": "Análise explora por que a década de 1980 apresentava estética tão colorida, relacionando o fenômeno a movimentos artísticos que respondiam a crises políticas e sociais globais."
+    },
+    {
+      "titulo": "Mbappé, Vini e Konaté escondem mensagem de apoio a Ceuta antes de jogo do Real Madrid",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cr74kwyzpyyko?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 16 Sep 2026 17:07:54 GMT",
+      "tema": "mundo",
+      "resumo": "Jogadores do Real Madrid ocultaram mensagens de apoio a Ceuta antes de partida, em contexto da crise migratória que afetou a região."
     },
     {
       "titulo": "Os bairros de SP e do Rio na lista de 'mais legais' do mundo de revista britânica",
@@ -173,47 +237,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cqe8xew20erzo?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 16 Sep 2026 11:07:29 GMT",
       "tema": "sp",
-      "resumo": "Revista britânica Time Out inclui bairros de São Paulo e Rio de Janeiro em sua lista dos lugares mais interessantes do mundo."
-    },
-    {
-      "titulo": "'Consequências imprevisíveis' para eleição: como imprensa internacional noticiou sessão tumultuada do STF",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq1mv77n38zro?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 16 Sep 2026 08:43:54 GMT",
-      "tema": "brasil",
-      "resumo": "Imprensa internacional repercute sessão tensa do STF como evento com possíveis consequências para a eleição presidencial brasileira."
-    },
-    {
-      "titulo": "O mundo está certo em temer IA, mas precisa confiar nas empresas, diz chefe da OpenAI",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6rer22xx3lro?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 16 Sep 2026 12:42:49 GMT",
-      "tema": "mundo",
-      "resumo": "CEO da OpenAI argumenta que há incentivos para limitar avanços da inteligência artificial, apesar do crescimento dos temores sobre seus riscos."
-    },
-    {
-      "titulo": "O empresário aliado-chave de Maduro que se declarou culpado de lavagem de dinheiro e entregará R$ 1 bi aos EUA",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c615800v9dz9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 16 Sep 2026 10:47:42 GMT",
-      "tema": "mundo",
-      "resumo": "Empresário aliado de Nicolás Maduro se declara culpado de lavagem de dinheiro em tribunal americano e concordará em transferir mais de um bilhão de reais aos EUA."
-    },
-    {
-      "titulo": "'Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqx2zggpvlgdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 16 Sep 2026 10:18:30 GMT",
-      "tema": "mundo",
-      "resumo": "Mulher britânica faz ação judicial contra hospital por ter sofrido quimioterapia desnecessária por 11 anos, integrada a grupo de mais de 40 vítimas."
-    },
-    {
-      "titulo": "'Recebi US$ 5 mil para me mudar para área dos EUA de que nunca tinha ouvido falar'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq07lxn411lgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 16 Sep 2026 10:19:21 GMT",
-      "tema": "mundo",
-      "resumo": "Programas americanos oferecem incentivos financeiros para pessoas se mudarem de grandes cidades em busca de vida mais barata e tranquila."
+      "resumo": "Revista britânica Time Out incluiu bairros de São Paulo e Rio de Janeiro em sua lista dos 'bairros mais legais' do mundo."
     },
     {
       "titulo": "Lula e Flávio Bolsonaro aparecem empatados no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
@@ -221,15 +245,15 @@
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 16 Sep 2026 08:39:12 GMT",
       "tema": "brasil",
-      "resumo": "Agregador de pesquisas da BBC News Brasil indica empate entre Lula e Flávio Bolsonaro em simulação de segundo turno para eleição presidencial de 2026."
+      "resumo": "De acordo com o agregador de pesquisas da BBC, Lula e Flávio Bolsonaro aparecem tecnicamente empatados em simulação de segundo turno para a eleição presidencial de 2026."
     },
     {
-      "titulo": "Como foi o papel de cada ministro em sessão tensa e inédita no STF",
+      "titulo": "STF: como votou cada ministro no julgamento de Alexandre de Moraes e como ficou o placar",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c9rk3r6lylmpo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 16 Sep 2026 09:04:51 GMT",
+      "hora": "Wed, 16 Sep 2026 15:17:08 GMT",
       "tema": "brasil",
-      "resumo": "Análise de como cada ministro do STF se posicionou em sessão tensa que discutiu investigações contra Alexandre de Moraes."
+      "resumo": "Confira como cada ministro votou no julgamento sobre Alexandre de Moraes e o resultado da votação na sessão plenária do STF."
     },
     {
       "titulo": "O que é pedido de vista e o que acontece agora no caso Alexandre de Moraes?",
@@ -237,22 +261,22 @@
       "link": "https://www.bbc.com/portuguese/articles/cqj9xr3y2j2mo?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 16 Sep 2026 00:05:06 GMT",
       "tema": "brasil",
-      "resumo": "Explora o significado de 'pedido de vista' e outros termos usados no STF, contextualizando o adiamento do julgamento sobre Alexandre de Moraes."
+      "resumo": "Explica o significado de 'pedido de vista' e outros termos técnicos usados no STF, em contexto do caso que envolve Alexandre de Moraes e Daniel Vorcaro."
     },
     {
-      "titulo": "Como Flávio Dino 'sequestrou o debate' em sessão do Supremo que acabou sem decisão ",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c94gml8k74yeo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 16 Sep 2026 07:50:33 GMT",
-      "tema": "brasil",
-      "resumo": "Ministro Flávio Dino adiou decisão do STF sobre Moraes ao pedir mais tempo para análise, causando paralisia em sessão plenária."
-    },
-    {
-      "titulo": "Dino pede vista, e STF adia análise do caso Moraes; veja como foi o julgamento",
+      "titulo": "STF adia julgamento do caso Moraes; veja como foi a sessão e o resultado da votação",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss",
       "tema": "brasil",
-      "resumo": "Pedido de vista de Dino no STF pode adiar por até 90 dias a análise do caso envolvendo Alexandre de Moraes, enquanto permanece incerteza sobre próximas etapas."
+      "resumo": "STF adia julgamento do caso Moraes com Flávio Dino pedindo adiamento que pode durar até 90 dias; incerteza sobre se acusações contra outro ministro serão debatidas em data marcada."
+    },
+    {
+      "titulo": "'Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqx2zggpvlgdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 16 Sep 2026 10:18:30 GMT",
+      "tema": "mundo",
+      "resumo": "Mulher britânica é uma entre mais de 40 pessoas que processam hospital após ter recebido quimioterapia por 11 anos para tratar um câncer que não possuía."
     }
   ]
 }
