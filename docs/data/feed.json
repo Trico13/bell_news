@@ -1,75 +1,67 @@
 {
-  "gerado_em": "2026-09-16T23:32:53.448Z",
+  "gerado_em": "2026-09-17T14:41:35.877Z",
   "modo": "ia",
   "clima": {
-    "max": 19.8,
+    "max": 18.3,
     "min": 12.7,
-    "chuva": 47
+    "chuva": 4
   },
   "noticias": [
     {
-      "titulo": "Prédio feito pela mesma construtora de obra que desabou e deixou 6 mortos em SP fica ao lado de creche e preocupa pais",
+      "titulo": "Da fronteira para as redes sociais: PF investiga venda irregular de eletrônicos em Campo Grande",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/16/predio-feito-pela-mesma-construtora-de-obra-que-desabou-e-deixou-6-mortos-em-sp-fica-ao-lado-de-creche-e-preocupa-pais.ghtml",
-      "hora": "Wed, 16 Sep 2026 23:31:00 -0000",
-      "tema": "sp",
-      "resumo": "A Prefeitura de SP investiga uma obra da mesma construtora responsável por desabamento que matou seis pessoas na Penha; a construção embargada fica ao lado de uma creche e preocupa pais e moradores."
-    },
-    {
-      "titulo": "Presidente Lula, candidato à reeleição pelo PT, cumpre agenda em Brasília",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/09/16/presidente-lula-candidato-a-reeleicao-pelo-pt-cumpre-agenda-em-brasilia.ghtml",
-      "hora": "Wed, 16 Sep 2026 23:29:27 -0000",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/17/da-fronteira-para-as-redes-sociais-pf-investiga-venda-irregular-de-eletronicos-em-campo-grande.ghtml",
+      "hora": "Thu, 17 Sep 2026 14:26:00 -0000",
       "tema": "brasil",
-      "resumo": "O presidente Lula, candidato à reeleição pelo PT, manifestou-se sobre a crise no Supremo Tribunal Federal durante agenda em Brasília."
+      "resumo": "A Polícia Federal investigou a entrada e venda irregular de produtos eletrônicos trazidos do Paraguai, cumprindo mandado de busca em Campo Grande durante operação contra contrabando."
     },
     {
-      "titulo": "Eleições 2026: veja como justificar ausência e evitar pendências com a Justiça Eleitoral do Amapá",
+      "titulo": "Pesquisadora encontra 16 cápsulas de tubarão-lixa em Fernando de Noronha",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/09/16/eleicoes-2026-veja-como-justificar-ausencia-e-evitar-pendencias-com-a-justica-eleitoral-do-amapa.ghtml",
-      "hora": "Wed, 16 Sep 2026 23:27:15 -0000",
+      "link": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/09/17/pesquisadora-encontra-16-capsulas-de-tubarao-lixa-em-fernando-de-noronha.ghtml",
+      "hora": "Thu, 17 Sep 2026 14:23:38 -0000",
+      "tema": "cultura",
+      "resumo": "Pesquisadora da Universidade Federal Rural de Pernambuco encontrou 16 cápsulas de tubarão-lixa em Fernando de Noronha, estruturas reprodutivas conhecidas popularmente como bolsas de sereia."
+    },
+    {
+      "titulo": "Com acordo parado no STF, DF busca bancos árabes atrás de empréstimo para o BRB",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/17/com-acordo-parado-no-stf-df-busca-bancos-arabes-atras-de-emprestimo-para-o-brb.ghtml",
+      "hora": "Thu, 17 Sep 2026 14:20:22 -0000",
       "tema": "brasil",
-      "resumo": "Eleitores do Amapá com voto obrigatório que não comparecerão às eleições de 2026 devem justificar ausência à Justiça Eleitoral antes ou durante o período de votação."
+      "resumo": "A governadora do Distrito Federal afirmou que busca negociar empréstimo com bancos árabes para o Banco de Brasília, em contexto de acordo parado no Supremo Tribunal Federal."
     },
     {
-      "titulo": "Trio é preso suspeito de cortar e furtar madeira em propriedade rural de Adamantina",
+      "titulo": "Ciclo da água fica mais imprevisível, e El Niño deve agravar cenário, alerta ONU",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/09/16/trio-e-preso-suspeito-de-cortar-e-furtar-madeira-em-propriedade-rural-de-adamantina.ghtml",
-      "hora": "Wed, 16 Sep 2026 23:24:56 -0000",
-      "tema": "sp",
-      "resumo": "Três homens foram presos em Adamantina suspeitos de furtar e cortar madeira de uma propriedade rural."
+      "link": "https://g1.globo.com/meio-ambiente/noticia/2026/09/17/ciclo-da-agua-fica-mais-imprevisivel-e-el-nino-deve-agravar-cenario-alerta-onu.ghtml",
+      "hora": "Thu, 17 Sep 2026 14:19:31 -0000",
+      "tema": "mundo",
+      "resumo": "A Organização das Nações Unidas alertou que o ciclo da água está se tornando mais imprevisível, com o fenômeno El Niño tendendo a agravar essa tendência no longo prazo."
     },
     {
-      "titulo": "Candidatos ao Governo de MT cumprem agendas nesta quarta-feira (16)",
+      "titulo": "Receita Federal investiga cinco lojas suspeitas de vender celulares irregulares em Alagoas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/09/16/candidatos-ao-governo-de-mt-cumprem-agendas-nesta-quarta-feira-16.ghtml",
-      "hora": "Wed, 16 Sep 2026 23:23:00 -0000",
+      "link": "https://g1.globo.com/al/alagoas/noticia/2026/09/17/receita-federal-investiga-cinco-lojas-suspeitas-de-vender-celulares-irregulares-em-alagoas.ghtml",
+      "hora": "Thu, 17 Sep 2026 14:19:04 -0000",
       "tema": "brasil",
-      "resumo": "Candidatos ao Governo de Mato Grosso cumpriram agendas de campanha em diferentes locais para as eleições de 2026."
+      "resumo": "A Receita Federal participou de operação nacional para investigar estabelecimentos suspeitos de vender celulares irregulares em Alagoas, ligados a atividades criminosas."
     },
     {
-      "titulo": "Diante da crise no Supremo, juristas avaliam como fica o julgamento de André Mendonça, marcado para 23 de setembro",
+      "titulo": "Geraldo Carvalho defende desmilitarização da polícia e criação de força unificada de segurança no Piauí",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/09/16/diante-da-crise-no-supremo-juristas-avaliam-como-fica-o-julgamento-de-andre-mendonca-marcado-para-23-de-setembro.ghtml",
-      "hora": "Wed, 16 Sep 2026 23:20:58 -0000",
+      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/17/geraldo-carvalho-policia.ghtml",
+      "hora": "Thu, 17 Sep 2026 14:17:29 -0000",
       "tema": "brasil",
-      "resumo": "Diante da crise no Supremo Tribunal Federal, juristas avaliam se o julgamento do ministro André Mendonça, previsto para 23 de setembro, será mantido."
+      "resumo": "Candidato ao governo do Piauí defendeu a desmilitarização da Polícia Militar e a criação de uma força unificada de segurança pública no estado."
     },
     {
-      "titulo": "Cachorro é resgatado após cair de penhasco de 15 metros em Marília",
+      "titulo": "Governo nega influência eleitoral na decisão de reajustar Bolsa Família; aumento dos valores não estava previsto no Orçamento de 2027",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/09/16/cachorro-e-resgatado-apos-cair-de-penhasco-em-marilia.ghtml",
-      "hora": "Wed, 16 Sep 2026 23:15:59 -0000",
-      "tema": "sp",
-      "resumo": "O Corpo de Bombeiros resgatou um cachorro que havia caído de um penhasco com aproximadamente 15 metros de altura em Marília."
-    },
-    {
-      "titulo": "Teresópolis recebe reunião da ANTT sobre concessão da EcoRioMinas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/09/16/teresopolis-recebe-reuniao-da-antt-sobre-concessao-da-ecoriominas.ghtml",
-      "hora": "Wed, 16 Sep 2026 23:12:47 -0000",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/17/mesmo-sem-reajuste-previsto-no-orcamento-de-2027-governo-nega-influencia-eleitoral-em-reajuste-do-bolsa-familia.ghtml",
+      "hora": "Thu, 17 Sep 2026 14:15:51 -0000",
       "tema": "brasil",
-      "resumo": "A Agência Nacional de Transportes Terrestres realizará reunião pública em Teresópolis no dia 29 de setembro sobre a concessão da EcoRioMinas."
+      "resumo": "O governo anunciou reajuste na Bolsa Família que beneficiará 19,3 milhões de famílias, e a equipe econômica negou que a decisão tenha motivação eleitoral."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -77,7 +69,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "O festival Bike Brasil ocorre neste domingo na Zona Sul de SP com competição de manobras radicais e atividades para crianças."
+      "resumo": "O evento Bike Brasil reunirá ciclistas profissionais e amadores na Zona Sul de São Paulo com competições de manobras radicais e atividades para crianças."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -85,7 +77,7 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Um desempregado pedalou 20 km e aguardou 12 horas em fila em Bauru para concorrer a uma das 500 vagas de emprego oferecidas."
+      "resumo": "Desempregado pedalou 20 quilômetros e enfrentou fila de 12 horas em Bauru para concorrer a uma das 500 vagas de emprego oferecidas."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -93,7 +85,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "cultura",
-      "resumo": "O cantor Zé Ramalho apresentou sucessos de sua carreira e interpretou composições de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
+      "resumo": "O cantor Zé Ramalho apresentou sucessos de sua carreira e interpretou canções de Raul Seixas durante a Festa Junina de Sorocaba."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
@@ -101,7 +93,7 @@
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "A Polícia Rodoviária Federal apreendeu 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo; motorista confessou tráfico."
+      "resumo": "A Polícia Rodoviária Federal apreendeu 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -109,7 +101,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí recebe a 3ª edição da Festa Junina Canina neste sábado com entrada gratuita, brincadeiras e atividades para cães e gatos."
+      "resumo": "Jundiaí recebeu a terceira edição da Festa Junina Canina com entrada gratuita, incluindo brincadeiras e atividades para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -117,7 +109,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "O Maior Baile do Mundo, festival em SP com Anitta e MCs, espera reunir 35 mil pessoas para 10 horas de shows no domingo."
+      "resumo": "Festival musical com atrações como Anitta e MCs espera receber 35 mil pessoas em São Paulo para 10 horas de apresentações."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -125,7 +117,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializou a militante sindical Vera Lúcia como candidata à Presidência da República para as eleições de 2026."
+      "resumo": "O Partido Socialista dos Trabalhadores Unificado oficializou a candidatura de Vera Lúcia à Presidência da República nas eleições."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -133,7 +125,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A 15ª edição da Feiccad ocorre em Jundiaí até domingo com entrada gratuita, reunindo negócios da construção civil, imóveis e decoração."
+      "resumo": "A 15ª edição da Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração ocorre em Jundiaí com entrada gratuita mediante credenciamento."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -141,7 +133,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público que oferece 34 vagas em diversos cargos do Executivo municipal, com provas a serem realizadas na cidade."
+      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos do Executivo, com prazo até 31 de julho e provas na própria cidade."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -149,7 +141,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra a família após 37 anos de separação, resultado de uma série de circunstâncias que incluíram uma ocorrência policial."
+      "resumo": "Homem que vivia em situação de rua em Campinas reencontra sua família após 37 anos de separação, tendo saído para buscar trabalho no Paraguai e permanecido desaparecido."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -157,15 +149,55 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Motorista de 75 anos morre em acidente de trânsito dias antes de seu filho, monsenhor, ser ordenado bispo em Itapetininga."
+      "resumo": "Motorista de 75 anos morre em acidente de trânsito em Capela do Alto dias antes de seu filho ser ordenado bispo em Itapetininga."
     },
     {
-      "titulo": "Por que julgamento do caso Moraes no STF pode ser retomado só em 2027",
+      "titulo": "Lula x Flávio Bolsonaro: 5 fatores que podem definir eventual segundo turno",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crp3kz07y1yqo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 16 Sep 2026 18:47:18 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cm2mxy1pz4zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 17 Sep 2026 07:33:11 GMT",
       "tema": "brasil",
-      "resumo": "Julgamento de caso no STF envolvendo o ministro Alexandre de Moraes pode ser retomado apenas em 2027, após pedido de prazo do ministro Flávio Dino."
+      "resumo": "Cientistas políticos apontam cinco fatores que podem influenciar um potencial segundo turno presidencial entre Lula e Flávio Bolsonaro, cuja disputa segue indefinida nas pesquisas."
+    },
+    {
+      "titulo": "Lula anuncia reajuste de 15% no Bolsa Família, às vésperas da eleição",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c62kw8qqy0d8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 17 Sep 2026 13:59:15 GMT",
+      "tema": "brasil",
+      "resumo": "Governo anuncia aumento de 15% no Bolsa Família, descrevendo a medida como reajuste inflacionário após anos de congelamento do benefício."
+    },
+    {
+      "titulo": "Canadá na União Europeia? O plano de tornar país associado ao bloco",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cr5ye46q6jxzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 17 Sep 2026 10:54:57 GMT",
+      "tema": "mundo",
+      "resumo": "Canadá considera uma proposta de se tornar associado à União Europeia, gerando reação de Trump que ameaçou cortes comerciais em resposta."
+    },
+    {
+      "titulo": "Por que o Brasil sempre abre a Assembleia Geral da ONU",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cw0kl1x7pg54o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 17 Sep 2026 12:40:03 GMT",
+      "tema": "mundo",
+      "resumo": "Brasil mantém tradição de abrir a Assembleia Geral da ONU, prática sustentada mais por costume diplomático que por regras formais."
+    },
+    {
+      "titulo": "O livro que acusa o rei Charles de palavras 'insensíveis' após morte de Diana e que causa crise no palácio de Buckingham",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm5ye481xj5xo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 17 Sep 2026 10:02:45 GMT",
+      "tema": "entretenimento",
+      "resumo": "Novo livro acusa o rei Charles de pronunciar palavras insensíveis após a morte de Diana, gerando crise no Palácio de Buckingham durante dias de eventos com a família real."
+    },
+    {
+      "titulo": "'Descobri que tinha uma doença rara depois de um match no Tinder'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c74knqd18lwo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 17 Sep 2026 08:00:10 GMT",
+      "tema": "brasil",
+      "resumo": "Mulher que sofria com dores crônicas há quase 30 anos recebe diagnóstico de doença rara após conhecer estudante de Medicina em app de encontros."
     },
     {
       "titulo": "Como redes sociais reagiram à 'sessão de guerra' no STF - e o que isso pode sinalizar para a eleição",
@@ -173,55 +205,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cwdr7e7xe5ljo?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 16 Sep 2026 22:21:45 GMT",
       "tema": "brasil",
-      "resumo": "Reações nas redes sociais mostram visão negativa sobre ministros do STF após sessão de julgamento, com tendência de afastamento do eleitor de centro em relação às eleições."
+      "resumo": "Monitoramento de redes sociais mostra reação predominantemente negativa à sessão do STF, sinalizando afastamento de eleitores de centro em relação às eleições."
     },
     {
-      "titulo": "Os argumentos do governo Trump para acusar Brasil de 'falhar' no combate ao Comando Vermelho e PCC",
+      "titulo": "Brigou no avião? Você poderá ficar até um ano proibido de voar; entenda nova regra da Anac que está em vigor",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crz9zv8yv840o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 16 Sep 2026 20:43:33 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/czrjdp484mlo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 17 Sep 2026 06:57:15 GMT",
       "tema": "brasil",
-      "resumo": "Governo Trump acusa Brasil de falhar no combate ao Comando Vermelho e PCC em documento enviado ao Congresso americano."
-    },
-    {
-      "titulo": "Como a fama de bom moço da música contribuiu para a maior crise da carreira de Ed Sheeran",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c80461krq3q9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 16 Sep 2026 20:04:48 GMT",
-      "tema": "cultura",
-      "resumo": "Ed Sheeran enfrenta crise em sua carreira e turnê de 2026 após enfrentar críticas relacionadas a seu posicionamento sobre temas políticos e sociais."
-    },
-    {
-      "titulo": "Por que Trump aposta na IA apesar dos crescentes alertas sobre seus riscos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck24jg2edg0ro?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 16 Sep 2026 16:23:09 GMT",
-      "tema": "mundo",
-      "resumo": "Presidente Trump coloca inteligência artificial no centro do debate político americano, apesar dos crescentes alertas sobre riscos da tecnologia."
-    },
-    {
-      "titulo": "Por que os anos 1980 foram tão coloridos? A explicação por trás da 'trend' de fotos de IA que viralizou",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cp80jlp2e11o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 12 Sep 2026 14:06:28 GMT",
-      "tema": "cultura",
-      "resumo": "Análise explora por que a década de 1980 foi marcada pela explosão de cores na moda e cultura, como resposta artística às crises sociais e políticas da época."
-    },
-    {
-      "titulo": "Mbappé, Vini e Konaté escondem mensagem de apoio a Ceuta antes de jogo do Real Madrid",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr74kwyzpyyko?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 16 Sep 2026 17:07:54 GMT",
-      "tema": "mundo",
-      "resumo": "Jogadores do Real Madrid escondem mensagens de apoio a Ceuta antes de partida, em contexto da crise migratória que afetou a região."
-    },
-    {
-      "titulo": "Os bairros de SP e do Rio na lista de 'mais legais' do mundo de revista britânica",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqe8xew20erzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 16 Sep 2026 11:07:29 GMT",
-      "tema": "sp",
-      "resumo": "Bairros de São Paulo e Rio de Janeiro figuram na lista de 'mais legais' do mundo divulgada pela revista britânica Time Out."
+      "resumo": "Regra da Anac em vigor desde segunda-feira permite proibição de até um ano de voos para passageiros que brigarem em aeronaves, com multas de até R$ 17,5 mil para conflitos."
     },
     {
       "titulo": "Lula e Flávio Bolsonaro aparecem empatados no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
@@ -229,46 +221,47 @@
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 16 Sep 2026 08:39:12 GMT",
       "tema": "brasil",
-      "resumo": "Agregador de pesquisas da BBC News Brasil mostra Lula e Flávio Bolsonaro empatados em simulação de segundo turno para eleição presidencial de 2026."
+      "resumo": "Agregador de pesquisas eleitorais da BBC mostra Lula e Flávio Bolsonaro empatados em simulação de segundo turno presidencial de 2026."
     },
     {
-      "titulo": "STF: como votou cada ministro no julgamento de Alexandre de Moraes e como ficou o placar",
+      "titulo": "Como a fama de bom moço da música contribuiu para a maior crise da carreira de Ed Sheeran",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c9rk3r6lylmpo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 16 Sep 2026 15:17:08 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c80461krq3q9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 16 Sep 2026 20:04:48 GMT",
+      "tema": "cultura",
+      "resumo": "Reputação de Ed Sheeran como figura não-controversa entra em crise após seu posicionamento político gerar críticas e impactar sua turnê prevista para 2026."
+    },
+    {
+      "titulo": "Por que você tem tanto sono às 3 da tarde? O que diz a ciência",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq62kwp05x3xo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 17 Sep 2026 08:56:36 GMT",
       "tema": "brasil",
-      "resumo": "Julgamento no STF sobre caso de Alexandre de Moraes é marcado por discursos pedindo união e desentendimentos entre ministros, com votações individuais registradas."
+      "resumo": "Pesquisa científica explora os motivos biológicos por trás da fadiga que muitas pessoas sentem no meio da tarde, além de orientações para aumentar o estado de alerta."
     },
     {
-      "titulo": "O que é pedido de vista e o que acontece agora no caso Alexandre de Moraes?",
+      "titulo": "Por que julgamento do caso Moraes no STF pode ser retomado só em 2027",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqj9xr3y2j2mo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 16 Sep 2026 00:05:06 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/crp3kz07y1yqo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 16 Sep 2026 18:47:18 GMT",
       "tema": "brasil",
-      "resumo": "Explica-se o significado de 'pedido de vista' e outros termos usados no STF, em contexto do caso que envolve o ministro Alexandre de Moraes e o Banco Master."
+      "resumo": "Julgamento do caso Moraes no STF pode ser retomado apenas em 2027, após Flávio Dino ter solicitado prazo até dezembro para análise, com pouca expectativa de antecipação."
     },
     {
-      "titulo": "'É um tapa na cara das mulheres': as fortes críticas de atletas de elite ao polêmico anúncio de Sydney Sweeney para casa de apostas",
+      "titulo": "Há 'vencedor' na disputa de alas do STF?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck5ywq81qvqyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 15 Sep 2026 18:05:03 GMT",
-      "tema": "entretenimento",
-      "resumo": "Anúncio de Sydney Sweeney para casa de apostas gera críticas de atletas de elite, que questionam a publicidade e sua representação."
-    },
-    {
-      "titulo": "STF adia julgamento do caso Moraes; veja como foi a sessão e o resultado da votação",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/cm8xkdyqkkj4t?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.com/portuguese/articles/ckyvz5nel578o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 16 Sep 2026 13:44:39 GMT",
       "tema": "brasil",
-      "resumo": "STF adia julgamento do caso Moraes com pedido de vista do ministro Flávio Dino, que pode paralisar análise por até 90 dias segundo as regras da Corte."
+      "resumo": "Especialistas avaliam que embora a estratégia de ministros aliados a Moraes tenha logrado adiar o caso, o STF é o grande prejudicado pela dinâmica da sessão."
     },
     {
-      "titulo": "'Fiz quimioterapia por 11 anos para tratar um câncer que eu não tinha'",
+      "titulo": "Os argumentos de Trump para acusar Brasil de 'falhar' no combate ao Comando Vermelho e PCC — e a resposta dada pelo governo brasileiro",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqx2zggpvlgdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 16 Sep 2026 10:18:30 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/crz9zv8yv840o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 17 Sep 2026 02:30:33 GMT",
       "tema": "mundo",
-      "resumo": "Mulher britânica integra grupo de mais de 40 pessoas que processam hospital por ter recebido tratamento de quimioterapia prolongado ou desnecessário para câncer que não tinha."
+      "resumo": "Trump acusa Brasil de falhar no combate ao Comando Vermelho e PCC em documento enviado ao Congresso, enquanto elogia o governo interino da Venezuela."
     }
   ]
 }
