@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-17T18:49:22.138Z",
+  "gerado_em": "2026-09-17T23:22:19.065Z",
   "modo": "ia",
   "clima": {
     "max": 18.6,
@@ -8,92 +8,92 @@
   },
   "noticias": [
     {
-      "titulo": "Mailza Assis diz que se considera 'votada' como vice, defende chapa feminina e promete combater corrupção",
+      "titulo": "MPF cobra bloqueio de ramal no Acre após denúncia de passagem de motos e quadriciclos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/09/17/mailza-assis-diz-que-se-considera-votada-como-vice-defende-chapa-feminina-e-promete-combater-corrupcao.ghtml",
-      "hora": "Thu, 17 Sep 2026 18:42:42 -0000",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/09/17/mpf-cobra-bloqueio-de-ramal-no-acre-apos-denuncia-de-passagem-de-motos-e-quadriciclos.ghtml",
+      "hora": "Thu, 17 Sep 2026 23:12:44 -0000",
       "tema": "brasil",
-      "resumo": "Candidata do PP ao governo do Acre, Mailza Assis foi sabatinada pela imprensa e abordou temas como saúde, educação e infraestrutura estadual."
+      "resumo": "O Ministério Público Federal exige o bloqueio de um ramal na Terra Indígena Jaminawa do Igarapé Preto, no Acre, após denúncia de circulação irregular de motos e quadriciclos na região."
     },
     {
-      "titulo": "Justiça Federal confirma demarcação de terra indígena Potiguara de Monte-Mor, na Paraíba",
+      "titulo": "Professor Túlio Lopes defende mais investimentos para a saúde pública",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/09/17/justica-federal-confirma-demarcacao-de-terra-indigena-potiguara-de-monte-mor-na-paraiba.ghtml",
-      "hora": "Thu, 17 Sep 2026 18:40:00 -0000",
+      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/17/professor-tulio-lopes-investimentos-saude-publica.ghtml",
+      "hora": "Thu, 17 Sep 2026 23:12:17 -0000",
       "tema": "brasil",
-      "resumo": "Justiça Federal mantém por unanimidade a demarcação da Terra Indígena Potiguara de Monte-Mor, localizada na Paraíba, confirmando direitos territoriais indígenas."
+      "resumo": "Candidato do PCB ao governo de Minas Gerais defende aumento de investimentos na saúde pública durante campanha em Belo Horizonte."
     },
     {
-      "titulo": "Artista maranhense Lucas Maciel apresenta novo EP inspirado no reggae e na cultura musical de São Luís",
+      "titulo": "Gabriel propõe mudanças para facilitar desenvolvimento do comércio",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/cultura/noticia/2026/09/17/artista-maranhense-lucas-maciel-apresenta-novo-ep-inspirado-no-reggae-e-na-cultura-musical-de-sao-luis.ghtml",
-      "hora": "Thu, 17 Sep 2026 18:38:57 -0000",
+      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/17/gabriel-revisao-para-facilitar-comercio.ghtml",
+      "hora": "Thu, 17 Sep 2026 23:12:06 -0000",
+      "tema": "brasil",
+      "resumo": "Candidato do MDB ao governo de Minas Gerais apresenta propostas para facilitar o desenvolvimento do comércio durante agenda de campanha."
+    },
+    {
+      "titulo": "Patrus visita farmacêutica e participa de caminhada no Norte de Minas",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/17/patrus-visita-agenda-quinta-feira-17-setembro.ghtml",
+      "hora": "Thu, 17 Sep 2026 23:11:48 -0000",
+      "tema": "brasil",
+      "resumo": "Candidato do PT ao governo de Minas Gerais cumpre agenda de campanha no Norte do estado com visitas a indústrias e comunidades."
+    },
+    {
+      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao Governo do Piauí nesta quinta (17)",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/17/dia-candidatos-governo-quinta-17.ghtml",
+      "hora": "Thu, 17 Sep 2026 23:09:29 -0000",
+      "tema": "brasil",
+      "resumo": "Candidatos ao governo do Piauí realizam atividades de campanha em diferentes municípios do estado."
+    },
+    {
+      "titulo": "Eleições 2026: veja como foi o 33º dia de campanha dos candidatos ao governo do Amapá",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/17/eleicoes-2026-veja-como-foi-o-33o-dia-de-campanha-dos-candidatos-ao-governo-do-amapa.ghtml",
+      "hora": "Thu, 17 Sep 2026 23:04:45 -0000",
+      "tema": "brasil",
+      "resumo": "Candidatos ao governo do Amapá cumprem 33º dia de campanha oficial com reuniões, entrevistas e panfletagens."
+    },
+    {
+      "titulo": "Dr. Furlan concede entrevistas e participa de reuniões em Macapá",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/17/dr-furlan-concede-entrevistas-e-participa-de-reunioes-em-macapa.ghtml",
+      "hora": "Thu, 17 Sep 2026 23:01:18 -0000",
+      "tema": "brasil",
+      "resumo": "Candidato do PSD ao governo do Amapá realiza quatro agendas de campanha em Macapá."
+    },
+    {
+      "titulo": "Ludmilla investe no EP folião 'Fervo da Lud' assim que lançar álbum ao vivo com a gravação do show 'Fragmentos'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/09/17/ludmilla-investe-no-ep-foliao-fervo-da-lud-assim-que-lancar-album-ao-vivo-com-a-gravacao-do-show-fragmentos.ghtml",
+      "hora": "Thu, 17 Sep 2026 23:01:10 -0000",
       "tema": "cultura",
-      "resumo": "Cantor maranhense Lucas Maciel lança novo EP intitulado 'Lágrimas', que explora influências do reggae e da música tradicional de São Luís."
+      "resumo": "Ludmilla lançará novo EP carnavalesco em outubro e lançará também álbum audiovisual com registro do show 'Fragmentos' realizado no Rio de Janeiro."
     },
     {
-      "titulo": "Paes propõe atuação conjunta da PM e de forças municipais contra roubos e furtos",
+      "titulo": "Clécio Luís participa de caminhada e plenária em Santana",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/17/paes-propoe-atuacao-conjunta-da-pm-e-de-forcas-municipais-contra-roubos-e-furtos.ghtml",
-      "hora": "Thu, 17 Sep 2026 18:35:38 -0000",
+      "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/17/clecio-luis-participa-de-caminhada-e-plenaria-em-santana.ghtml",
+      "hora": "Thu, 17 Sep 2026 23:00:49 -0000",
       "tema": "brasil",
-      "resumo": "Candidato ao governo do Rio, Eduardo Paes propõe ação conjunta entre Polícia Militar e forças municipais para combater roubos e furtos nas áreas afetadas."
+      "resumo": "Candidato à reeleição ao governo do Amapá participa de caminhada e reuniões em Macapá e Santana."
     },
     {
-      "titulo": "Márcio Jambo promete reduzir inquéritos acumulados e ampliar saúde no interior",
+      "titulo": "Presente que dura: por que panela de ferro entrou na lista",
       "fonte": "G1",
-      "link": "https://g1.globo.com/al/alagoas/noticia/2026/09/17/marcio-jambo-promete-reduzir-inqueritos-acumulados-e-ampliar-saude-no-interior.ghtml",
-      "hora": "Thu, 17 Sep 2026 18:32:39 -0000",
-      "tema": "brasil",
-      "resumo": "Candidato ao governo de Alagoas, Márcio Jambo, promete reduzir acúmulo de inquéritos nas delegacias e ampliar atendimento de saúde no interior do estado."
-    },
-    {
-      "titulo": "Prefeitura entrega kit com 30 chromebooks e headsets a escolas municipais",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pr/parana/especial-publicitario/municipio-de-araucaria/araucaria-noticias/noticia/2026/09/17/prefeitura-entrega-kit-com-30-chromebooks-e-headsets-a-escolas-municipais.ghtml",
-      "hora": "Thu, 17 Sep 2026 18:32:26 -0000",
-      "tema": "brasil",
-      "resumo": "Prefeitura de Araucária (PR) entrega chromebooks e headsets para escolas municipais como parte de iniciativa para melhorar a infraestrutura tecnológica educacional."
-    },
-    {
-      "titulo": "Lady Gaga e Michael Polansky são pais de uma menina, diz site",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/noticia/2026/09/17/lady-gaga-e-michael-polansky-sao-pais-de-uma-menina-diz-site.ghtml",
-      "hora": "Thu, 17 Sep 2026 18:31:46 -0000",
+      "link": "https://g1.globo.com/mg/centro-oeste/especial-publicitario/panela-de-ferro-fundido-casa-cozinha-decoracao/noticia/2026/09/17/presente-que-dura-por-que-panela-de-ferro-entrou-na-lista.ghtml",
+      "hora": "Thu, 17 Sep 2026 23:00:00 -0000",
       "tema": "entretenimento",
-      "resumo": "Lady Gaga e o empresário Michael Polansky são pais de uma menina chamada Rose Bean Polansky, nascida em junho."
+      "resumo": "Panelas de ferro fundido ganham destaque em listas de casamento por sua durabilidade e valor prático como presente duradouro."
     },
     {
-      "titulo": "Elefante Sandro faz parada para lanche de frutas e capim em Campo Grande a caminho de santuário",
+      "titulo": "Operação 'Bomba Lacrada' mira 20 postos sem autorização da ANP na Baixada Santista",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/17/elefante-sandro-faz-parada-para-lanche-de-frutas-e-capim-em-campo-grande-a-caminho-de-santuario.ghtml",
-      "hora": "Thu, 17 Sep 2026 18:31:31 -0000",
-      "tema": "brasil",
-      "resumo": "Elefante Sandro, de 54 anos, segue viagem de um zoológico para o Santuário de Elefantes Brasil em Mato Grosso, com parada em Campo Grande."
-    },
-    {
-      "titulo": "Debate do g1 com candidatos do CE ao Senado: veja quem participa, horário, regras e como assistir",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/17/debate-do-g1-com-candidatos-do-ce-ao-senado-veja-quem-participa-horario-regras-e-como-assistir.ghtml",
-      "hora": "Thu, 17 Sep 2026 18:29:30 -0000",
-      "tema": "brasil",
-      "resumo": "G1 promove debate com candidatos ao Senado pelo Ceará, previsto para segunda-feira com transmissão ao vivo pela imprensa local."
-    },
-    {
-      "titulo": "Virginia Fonseca e Vini Jr. mostram alianças após um ano de namoro: 'Veio aí, grupo'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/noticia/2026/09/17/virginia-fonseca-e-vini-jr-mostram-aliancas-apos-um-ano-de-namoro-veio-ai-grupo.ghtml",
-      "hora": "Thu, 17 Sep 2026 18:27:04 -0000",
-      "tema": "entretenimento",
-      "resumo": "Virginia Fonseca e Vini Jr. mostram alianças após um ano de namoro, sugerindo possível noivado para os seguidores."
-    },
-    {
-      "titulo": "JAC1 entrevista candidatos ao governo do estado; confira",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/ao-vivo/jornal-do-acre-1-edicao-entrevista-candidatos-ao-governo-do-estado.ghtml",
-      "hora": "Thu, 17 Sep 2026 18:25:43 -0000",
-      "tema": "brasil",
-      "resumo": "JAC1 e g1 entrevistaram candidatos ao governo do Acre entre os dias 14 a 17 de setembro para apresentar planos e propostas."
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/17/operacao-bomba-lacrada-mira-20-postos-sem-autorizacao-da-anp-na-baixada-santista.ghtml",
+      "hora": "Thu, 17 Sep 2026 23:00:00 -0000",
+      "tema": "sp",
+      "resumo": "A Secretaria da Fazenda de São Paulo realiza operação para inspecionar 20 postos de combustível sem autorização da ANP na Baixada Santista."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -101,7 +101,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival de bikes acontece na Zona Sul de São Paulo com competições de manobras, atividades para crianças e ciclistas profissionais e amadores."
+      "resumo": "Festival de bikes acontece no domingo na Zona Sul de São Paulo com competições de manobras e atividades para crianças."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -109,23 +109,15 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado pedalou 20 km e aguardou 12 horas para concorrer a uma das 500 vagas de emprego oferecidas em Bauru, demonstrando demanda significativa."
+      "resumo": "Desempregado pedalou 20 km e aguardou 12 horas em fila para concorrer a uma de 500 vagas de emprego oferecidas em Bauru."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "cultura",
-      "resumo": "Zé Ramalho apresenta sucessos e homenageia Raul Seixas na 39ª Festa Junina de Sorocaba em show que atraiu público apesar do frio."
-    },
-    {
-      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
-      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
-      "tema": "brasil",
-      "resumo": "PRF apreende 927 quilos de maconha em Mato Grosso do Sul que seria enviado para São Paulo; motorista confessou envolvimento no tráfico."
+      "tema": "sp",
+      "resumo": "Cantor Zé Ramalho apresenta sucessos de sua carreira e homenageia Raul Seixas na 39ª Festa Junina de Sorocaba."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -133,7 +125,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza 3ª edição da Festa Junina Canina com entrada gratuita, atrações para cães e gatos, e atividades de diversão para os animais."
+      "resumo": "Jundiaí recebe terceira edição da Festa Junina Canina com entrada gratuita, atividades lúdicas e atrações para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -141,7 +133,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "Festival Maior Baile do Mundo acontece em São Paulo reunindo atrações de múltiplos gêneros, esperando cerca de 35 mil pessoas para dez horas de shows."
+      "resumo": "Festival de música Maior Baile do Mundo acontece em São Paulo com presença de Anitta e outros MCs, esperando reunir 35 mil pessoas."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -149,7 +141,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "PSTU oficializa Vera Lúcia, militante sindical, como candidata à Presidência da República nas eleições nacionais."
+      "resumo": "PSTU oficializa Vera Lúcia, militante sindical, como candidata à Presidência da República nas eleições de 2026."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -157,7 +149,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "15ª edição da Feiccad (Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração) ocorre em Jundiaí com entrada gratuita até domingo."
+      "resumo": "Feira de imóvel, construção e decoração segue até domingo em Jundiaí com entrada gratuita e credenciamento online."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -165,7 +157,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos da administração municipal até 31 de julho."
+      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos do executivo municipal, com prazo até 31 de julho."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -173,15 +165,15 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra a família após 37 anos de separação, graças a um boletim de ocorrência que permitiu o reencontro."
+      "resumo": "Homem que vivia em situação de rua em Campinas reencontra a família após 37 anos de separação, resultado de uma situação ocorrida durante processo de denúncia à polícia."
     },
     {
-      "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
-      "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
-      "tema": "sp",
-      "resumo": "Motorista de 75 anos, pai de monsenhor que seria ordenado bispo, morre em acidente de trânsito em Capela do Alto dias antes da cerimônia religiosa."
+      "titulo": "A nova ofensiva de Eduardo Bolsonaro em Washington por sanções contra autoridades brasileiras",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwdr72zgnvmvo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 17 Sep 2026 21:26:09 GMT",
+      "tema": "brasil",
+      "resumo": "Ex-deputado Eduardo Bolsonaro realiza encontros em Washington com autoridades americanas dias antes da eleição presidencial brasileira."
     },
     {
       "titulo": "Por que Fachin decidiu adiar julgamento sobre atuação de Mendonça no caso Master",
@@ -189,7 +181,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cwkgxl3745keo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 17 Sep 2026 17:01:17 GMT",
       "tema": "brasil",
-      "resumo": "O presidente do STF adia julgamento sobre atuação de Mendonça no caso Master em função de uma questão de ordem que ainda está sob análise."
+      "resumo": "O presidente do STF adia julgamento sobre a atuação da ministra Mendonça em caso relacionado ao Banco Master, pendente de análise."
     },
     {
       "titulo": "A guerra entre Gilmar Mendes e André Mendonça sobre a quebra de sigilo de documentos ligados ao Banco Master",
@@ -197,15 +189,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cwkgxl7703kyo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 17 Sep 2026 16:54:35 GMT",
       "tema": "brasil",
-      "resumo": "Ministros Gilmar Mendes e André Mendonça protagonizam desentendimento sobre quebra de sigilo de documentos ligados ao Banco Master."
+      "resumo": "Ministros Gilmar Mendes e André Mendonça divergem sobre quebra de sigilo de documentos relacionados ao Banco Master no STF."
     },
     {
-      "titulo": "Lula x Flávio Bolsonaro: pesquisas mostram 5 grupos de eleitores que podem definir eventual 2º turno",
+      "titulo": "Lula x Flávio Bolsonaro: os 5 grupos de eleitores que podem definir a eleição, segundo pesquisas",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm2mxy1pz4zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 17 Sep 2026 16:53:47 GMT",
+      "hora": "Thu, 17 Sep 2026 20:35:01 GMT",
       "tema": "brasil",
-      "resumo": "Pesquisas identificam cinco grupos de eleitores que podem ser decisivos em eventual segundo turno da eleição presidencial, ainda sem favorito claro próximo ao primeiro turno."
+      "resumo": "Análise de pesquisas eleitorais aponta cinco grupos de eleitores que podem definir o resultado da eleição presidencial a duas semanas do primeiro turno."
     },
     {
       "titulo": "Lula anuncia reajuste de 15% no Bolsa Família, às vésperas da eleição",
@@ -213,7 +205,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c62kw8qqy0d8o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 17 Sep 2026 15:16:37 GMT",
       "tema": "brasil",
-      "resumo": "Governo anuncia reajuste de 15% no Bolsa Família, descrito como atualização inflacionária após anos de congelamento do benefício."
+      "resumo": "Governo anuncia reajuste de 15% no Bolsa Família, descrito como atualização pela inflação após anos de congelamento do benefício."
+    },
+    {
+      "titulo": "Quem é Robert Kraft, o bilionário no centro da polêmica sobre turnê de Ed Sheeran",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cx1l678jdzz0o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 17 Sep 2026 20:43:44 GMT",
+      "tema": "mundo",
+      "resumo": "Polêmica sobre turnê de Ed Sheeran envolve bilionário americano proprietário de infraestrutura onde o artista planeja se apresentar."
     },
     {
       "titulo": "As imagens da destruição em bases militares americanas após ataques do Irã",
@@ -221,7 +221,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cw05rv7qj174o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 17 Sep 2026 16:54:02 GMT",
       "tema": "mundo",
-      "resumo": "Imagens mostram destruição em bases militares americanas após ataques do Irã, incluindo danos a aeronaves e estruturas."
+      "resumo": "Imagens divulgadas mostram danos em bases militares americanas após ataques do Irã, incluindo destruição de edifícios e aeronaves."
     },
     {
       "titulo": "Canadá na União Europeia? O plano de tornar país associado ao bloco",
@@ -229,31 +229,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cr5ye46q6jxzo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 17 Sep 2026 10:54:57 GMT",
       "tema": "mundo",
-      "resumo": "Canadá considera plano para se tornar país associado à União Europeia, proposta que gerou resposta ameaçadora de Trump sobre restrições comerciais."
+      "resumo": "Canadá discute possibilidade de se tornar país associado à União Europeia, gerando reação do presidente dos EUA."
     },
     {
-      "titulo": "Por que vilarejo britânico votou para se separar do Reino Unido",
+      "titulo": "O alerta de chefe da Microsoft sobre a IA: 'Tratar a IA como humana é um erro'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm1j4e73gew4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 17 Sep 2026 18:20:27 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/crwyz939e6g9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 17 Sep 2026 21:11:33 GMT",
       "tema": "mundo",
-      "resumo": "Vilarejo britânico realiza votação sobre propostas para abrigar cerca de 1.256 homens que solicitaram asilo na região."
-    },
-    {
-      "titulo": "'Descobri que tinha uma doença rara depois de um match no Tinder'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c74knqd18lwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 17 Sep 2026 08:00:10 GMT",
-      "tema": "cultura",
-      "resumo": "Mulher descobre diagnóstico de doença rara após conversa com estudante de Medicina conhecida em aplicativo de relacionamento, após quase 30 anos buscando respostas."
-    },
-    {
-      "titulo": "Lula e Flávio Bolsonaro aparecem empatados no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 17 Sep 2026 16:50:14 GMT",
-      "tema": "brasil",
-      "resumo": "Agregador de pesquisas da BBC aponta empate técnico entre Lula e Flávio Bolsonaro em simulação de segundo turno presidencial para 2026."
+      "resumo": "Executivo da Microsoft alerta contra tratar sistemas de IA como entidades conscientes, citando comparações com a abordagem de rivais do setor."
     },
     {
       "titulo": "Como a fama de bom moço da música contribuiu para a maior crise da carreira de Ed Sheeran",
@@ -261,15 +245,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c80461krq3q9o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 16 Sep 2026 20:04:48 GMT",
       "tema": "cultura",
-      "resumo": "Ed Sheeran enfrenta crise em sua turnê de 2026 após envolvimento em controvérsias políticas, contrariando sua imagem consolidada de artista desengajado."
+      "resumo": "Crise na turnê de Ed Sheeran em 2026 está relacionada a posicionamentos políticos do artista que destoam de sua imagem pública."
     },
     {
-      "titulo": "Por que você tem tanto sono às 3 da tarde? O que diz a ciência",
+      "titulo": "Por que sentimos sono depois do almoço (e por que beber café não é a melhor maneira de despertar)?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cq62kwp05x3xo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 17 Sep 2026 08:56:36 GMT",
+      "hora": "Thu, 17 Sep 2026 19:21:53 GMT",
       "tema": "cultura",
-      "resumo": "Pesquisas científicas explicam as causas biológicas da fadiga da tarde, oferecendo estratégias para aumentar a disposição nesse período do dia."
+      "resumo": "Explicação dos fatores biológicos que causam sonolência após o almoço e orientações alternativas ao consumo de café para manter a energia."
     },
     {
       "titulo": "Por que julgamento do caso Moraes no STF pode ser retomado só em 2027",
@@ -277,15 +261,7 @@
       "link": "https://www.bbc.com/portuguese/articles/crp3kz07y1yqo?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 16 Sep 2026 18:47:18 GMT",
       "tema": "brasil",
-      "resumo": "Julgamento sobre ministro Moraes no STF pode ser retomado apenas em 2027, já que Flávio Dino pediu prazo até dezembro para análise do caso."
-    },
-    {
-      "titulo": "Há 'vencedor' na disputa de alas do STF?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckyvz5nel578o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 16 Sep 2026 13:44:39 GMT",
-      "tema": "brasil",
-      "resumo": "Especialistas apontam que, embora ministros aliados a Moraes tenham conseguido adiar análise do caso, o STF emerge como maior perdedor da sessão."
+      "resumo": "Julgamento de caso envolvendo ministro Moraes no STF pode ser retomado apenas em 2027, com prazo para análise vencendo em dezembro."
     },
     {
       "titulo": "Os argumentos de Trump para acusar Brasil de 'falhar' no combate ao Comando Vermelho e PCC — e a resposta dada pelo governo brasileiro",
@@ -293,7 +269,7 @@
       "link": "https://www.bbc.com/portuguese/articles/crz9zv8yv840o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 17 Sep 2026 02:30:33 GMT",
       "tema": "brasil",
-      "resumo": "Trump acusa Brasil de falhar no combate ao Comando Vermelho e PCC em relatório enviado ao Congresso americano, enquanto elogia ações de governo venezuelano contra narcotráfico."
+      "resumo": "Trump critica atuação do Brasil no combate a facções criminosas em documento enviado ao Congresso americano, enquanto elogia ações na Venezuela."
     }
   ]
 }
