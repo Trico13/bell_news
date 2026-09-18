@@ -1,91 +1,59 @@
 {
-  "gerado_em": "2026-09-18T18:04:55.901Z",
+  "gerado_em": "2026-09-18T23:01:16.075Z",
   "modo": "ia",
   "clima": {
-    "max": 22.1,
+    "max": 22.9,
     "min": 13.7,
     "chuva": 14
   },
   "noticias": [
     {
-      "titulo": "Candidato ao Governo do RN, Robério Paulino promete 50 mil moradias e defende combate à sonegação; veja entrevista",
+      "titulo": "Selic: o que essa taxa tem a ver com o seu dinheiro?",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/09/18/candidato-ao-governo-do-rn-roberio-paulino-promete-50-mil-moradias-e-defende-combate-a-sonegacao-veja-entrevista.ghtml",
-      "hora": "Fri, 18 Sep 2026 17:43:59 -0000",
+      "link": "https://g1.globo.com/especial-publicitario/nubank/noticia/2026/09/18/selic-o-que-essa-taxa-tem-a-ver-com-o-seu-dinheiro.ghtml",
+      "hora": "Fri, 18 Sep 2026 22:53:48 -0000",
       "tema": "brasil",
-      "resumo": "Candidato ao governo do Rio Grande do Norte apresenta propostas de construção de 50 mil moradias e combate à sonegação fiscal durante entrevista."
+      "resumo": "A taxa Selic, taxa básica de juros da economia brasileira, influencia decisões financeiras cotidianas como planejamento de viagens e investimentos pessoais."
     },
     {
-      "titulo": "Eduardo Braide destaca atuação no Hospital da Criança, propõe reduzir ICMS e extinguir secretarias no MA",
+      "titulo": "Datafolha: 43% estão otimistas com o Brasil e 37%, pessimistas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/18/eduardo-braide-destaca-atuacao-no-hospital-da-crianca-propoe-reduzir-icms-e-extinguir-secretarias-no-ma.ghtml",
-      "hora": "Fri, 18 Sep 2026 17:42:37 -0000",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/18/datafolha-sentimentos-brasileiro-otimismo-pessimismo.ghtml",
+      "hora": "Fri, 18 Sep 2026 22:50:38 -0000",
       "tema": "brasil",
-      "resumo": "Candidato ao governo do Maranhão defende redução de ICMS e extinção de secretarias, além de destaca ações no Hospital da Criança."
+      "resumo": "Pesquisa Datafolha revela que 43% dos brasileiros estão otimistas com o país e 37% pessimistas, em contexto de discussões sobre escândalos bancários e crise institucional."
     },
     {
-      "titulo": "Atraso no tratamento de câncer de mama afeta 50,7% dos casos em Campinas: 'Vou morrer antes', desabafa paciente",
+      "titulo": "Dois caminhões pegam fogo após colisão na BR-155 e motoristas ficam feridos no Pará",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/18/atraso-tratamento-cancer-mama-afeta-casos-campinas-morrer-antes-paciente.ghtml",
-      "hora": "Fri, 18 Sep 2026 17:39:21 -0000",
-      "tema": "sp",
-      "resumo": "Sistema público de saúde em Campinas não cumpre prazo legal para iniciar tratamento de câncer de mama em mais da metade dos casos, ampliando fila de pacientes."
-    },
-    {
-      "titulo": "Polícia investiga possível vazamento de informações de operação que mirou integrantes do PCC e Milton Leite em SP ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/18/policia-investiga-possivel-vazamento-de-informacoes-de-operacao-que-mirou-integrantes-do-pcc-e-milton-leite-em-sp.ghtml",
-      "hora": "Fri, 18 Sep 2026 17:35:22 -0000",
-      "tema": "sp",
-      "resumo": "Polícia Civil e Ministério Público investigam suspeitas de vazamento de informações sobre operação contra integrantes do PCC e políticos em São Paulo."
-    },
-    {
-      "titulo": "Ex-PM do trisal volta a ser inocentado por morte de adolescente de 13 anos no Acre",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/09/18/ex-pm-do-trisal-volta-a-ser-inocentado-por-morte-de-adolescente-de-13-anos-no-acre.ghtml",
-      "hora": "Fri, 18 Sep 2026 17:32:47 -0000",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/09/18/dois-caminhoes-pegam-fogo-apos-colisao-na-br-155-e-motoristas-ficam-feridos-no-para.ghtml",
+      "hora": "Fri, 18 Sep 2026 22:49:47 -0000",
       "tema": "brasil",
-      "resumo": "Tribunal de Justiça do Acre mantém absolvição de ex-PM pela morte de adolescente em Rio Branco, ratificando decisão anterior."
+      "resumo": "Dois caminhões colidiram e pegaram fogo na BR-155 no Pará após atingir um poste, deixando os motoristas feridos."
     },
     {
-      "titulo": "Wellington Dias defende reajuste do Bolsa Família e diz que aumento foi possível após folga no orçamento",
+      "titulo": "ACM Neto destaca propostas para combater violência na Bahia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/09/18/reajuste-bolsa-familia-orcamento.ghtml",
-      "hora": "Fri, 18 Sep 2026 17:32:01 -0000",
+      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/18/agenda-de-campanha-acm-neto.ghtml",
+      "hora": "Fri, 18 Sep 2026 22:48:55 -0000",
       "tema": "brasil",
-      "resumo": "Ministro da Assistência Social defende reajuste do Bolsa Família e atribui a medida a ajustes no orçamento federal."
+      "resumo": "Candidato a governador da Bahia apresenta propostas para combater a violência no estado."
     },
     {
-      "titulo": "Alckmin anuncia R$ 6,8 milhões para cidades atingidas por enchentes em SP",
+      "titulo": "Rafael Duda defende fim das privatizações e propõe estatizar agronegócio",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/18/alckmin-anuncia-r-68-milhoes-para-cidades-atingidas-por-enchentes-em-sp.ghtml",
-      "hora": "Fri, 18 Sep 2026 17:31:06 -0000",
-      "tema": "sp",
-      "resumo": "Vice-presidente anuncia repasse de R$ 6,8 milhões para municípios de São Paulo afetados por enchentes causadas por chuvas intensas."
-    },
-    {
-      "titulo": "Polícia apreende drogas, armas e mais de R$ 40 mil em operação contra tráfico e homicídios em Taiobeiras",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/18/policia-apreende-drogas-armas-e-mais-de-r-40-mil-em-operacao-contra-trafico-e-homicidios-em-taiobeiras.ghtml",
-      "hora": "Fri, 18 Sep 2026 17:30:01 -0000",
+      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/18/rafael-duda-defende-fim-das-privatizacoes-e-propoe-estatizar-agronegocio.ghtml",
+      "hora": "Fri, 18 Sep 2026 22:48:31 -0000",
       "tema": "brasil",
-      "resumo": "Operação da Polícia Militar no norte de Minas Gerais resulta em sete prisões e apreensão de drogas, armas e dinheiro em ação contra homicídios e tráfico."
+      "resumo": "Candidato do PSTU ao governo de Minas Gerais defende o fim das privatizações e propõe a estatização do agronegócio."
     },
     {
-      "titulo": "Funcionário terceirizado é flagrado ao tentar entrar em presídio com drogas na Bahia",
+      "titulo": "Candidatos do DF se reúnem com servidores públicos e prometem valorização de carreiras",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/18/homem-preso-com-droga.ghtml",
-      "hora": "Fri, 18 Sep 2026 17:29:59 -0000",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/18/candidatos-do-df-se-reunem-com-servidores-publicos-e-prometem-valorizacao-de-carreiras.ghtml",
+      "hora": "Fri, 18 Sep 2026 22:46:06 -0000",
       "tema": "brasil",
-      "resumo": "Funcionário terceirizado é preso ao tentar entrar em presídio de Salvador com drogas, gerando investigação sobre segurança carcerária."
-    },
-    {
-      "titulo": "Caminhão carregado com tijolos tomba e interdita rodovia em Tatuí; dois ficaram feridos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/09/18/caminhao-carregado-com-tijolos-tomba-e-interdita-rodovia-em-tatui-dois-ficaram-feridos.ghtml",
-      "hora": "Fri, 18 Sep 2026 17:25:55 -0000",
-      "tema": "sp",
-      "resumo": "Caminhão carregado de tijolos tomba na Rodovia Castello Branco em Tatuí, interdita pista e deixa dois feridos."
+      "resumo": "Candidatos ao governo do Distrito Federal se reúnem com servidores públicos e discutem propostas de valorização de carreiras e reajustes salariais."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -93,7 +61,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival de bicicletas na Zona Sul de São Paulo reúne competições de manobras e atividades para crianças e público geral."
+      "resumo": "Festival de bicicletas acontece na Zona Sul de São Paulo com competições de manobras e atividades para crianças."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -101,7 +69,7 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado percorre 20 km de bicicleta para se candidatar a uma das 500 vagas de emprego disponíveis em processo de seleção em Bauru."
+      "resumo": "Desempregado percorre 20 km de bicicleta e aguarda 12 horas em fila para concorrer a uma vaga de emprego em Bauru."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -109,7 +77,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "cultura",
-      "resumo": "Cantor Zé Ramalho apresenta sucessos e tributa Raul Seixas na 39ª Festa Junina de Sorocaba."
+      "resumo": "Zé Ramalho apresenta sucessos da carreira e homenageia Raul Seixas durante show na Festa Junina de Sorocaba."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
@@ -117,7 +85,7 @@
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "Polícia Rodoviária Federal apreende 927 quilos de maconha em carreta em Mato Grosso do Sul destinada a São Paulo."
+      "resumo": "PRF apreende 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo, e motorista confessa o tráfico."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -125,15 +93,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí recebe 3ª edição da Festa Junina Canina com entrada gratuita, brincadeiras e atividades para animais de estimação."
+      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina com entrada gratuita e atividades para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
-      "tema": "cultura",
-      "resumo": "Festival de música em São Paulo reúne Anitta e MCs em evento que espera atrair 35 mil pessoas para 10 horas de shows."
+      "tema": "entretenimento",
+      "resumo": "Festival musical no domingo em São Paulo reúne artistas como Anitta e MCs, esperando reunir 35 mil pessoas em 10 horas de apresentações."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -141,7 +109,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "Partido Socialista dos Trabalhadores Unificado oficializa militante sindical Vera Lúcia como candidata à Presidência da República."
+      "resumo": "PSTU oficializa a candidatura de Vera Lúcia, militante sindical, para a Presidência da República."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -149,15 +117,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí sedia 15ª edição de feira sobre construção civil, imóveis, arquitetura e decoração com entrada gratuita até domingo."
-    },
-    {
-      "titulo": "Caso Vitória: trio acusado de envolvimento no crime é transferido para Tremembé",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2018/07/20/caso-vitoria-trio-acusado-de-envolvimento-no-crime-e-transferido-para-tremembe.ghtml",
-      "hora": "Fri, 20 Jul 2018 18:44:51 -0000",
-      "tema": "sp",
-      "resumo": "Três acusados pela morte da menina Vitória Gabrielly são transferidos para presídios em Tremembé após meses em custódia."
+      "resumo": "Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração ocorre em Jundiaí até domingo com entrada gratuita."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -165,7 +125,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diferentes cargos do executivo, com prazo até 31 de julho."
+      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público até 31 de julho, com 34 vagas em diversos cargos do Executivo municipal."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -173,7 +133,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência registrado durante um roubo."
+      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência que possibilitou o encontro."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -181,7 +141,15 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Motorista de 75 anos morre em acidente de trânsito dias antes de seu filho ser ordenado bispo em Itapetininga."
+      "resumo": "Motorista de 75 anos morre em acidente de trânsito dias antes do filho ser ordenado bispo em Itapetininga."
+    },
+    {
+      "titulo": "EUA e Dinamarca fecham acordo sobre a segurança da Groenlândia",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqy7z1dvv3gpo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 18 Sep 2026 22:45:57 GMT",
+      "tema": "mundo",
+      "resumo": "Estados Unidos e Dinamarca selam acordo sobre segurança da Groenlândia, com declarações do governo americano sobre controle permanente da região."
     },
     {
       "titulo": "'Nunca descartaria' possível interferência de Trump nas eleições brasileiras, diz autor do perfil de Moraes na New Yorker",
@@ -189,7 +157,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c6wyzg2xxzgno?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 18 Sep 2026 17:29:18 GMT",
       "tema": "brasil",
-      "resumo": "Jornalista comenta possível interferência dos EUA nas eleições brasileiras e situação do ministro Alexandre de Moraes em análise da New Yorker."
+      "resumo": "Jornalista comenta possíveis interesses da administração Trump sobre a América do Sul e situação de Alexandre de Moraes no contexto pré-eleitoral brasileiro."
     },
     {
       "titulo": "Lula está usando reajuste do Bolsa Família como arma eleitoral?",
@@ -197,7 +165,7 @@
       "link": "https://www.bbc.com/portuguese/articles/ck4gle0xwlg3o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 18 Sep 2026 08:12:33 GMT",
       "tema": "brasil",
-      "resumo": "Governo classifica aumento de 15% no Bolsa Família como reajuste inflacionário, enquanto cientistas políticos apontam possível impacto eleitoral da medida."
+      "resumo": "Reajuste de 15% do Bolsa Família é debatido: governo aponta compensação de inflação passada, enquanto analistas discutem possível impacto eleitoral da medida."
     },
     {
       "titulo": "Por que SP já tem setembro mais chuvoso em mais de 80 anos — e chuva deve voltar neste fim de semana",
@@ -205,7 +173,31 @@
       "link": "https://www.bbc.com/portuguese/articles/c6n9wzr8wen2o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 18 Sep 2026 09:50:29 GMT",
       "tema": "sp",
-      "resumo": "São Paulo registra setembro mais chuvoso em mais de 80 anos, com combinação de frentes frias e El Niño aumentando risco de alagamentos e deslizamentos."
+      "resumo": "São Paulo registra setembro mais chuvoso em mais de 80 anos, com especialistas atribuindo o fenômeno a frentes frias, umidade e El Niño em curso."
+    },
+    {
+      "titulo": "Por que a Flórida é o Estado que mais executa condenados à morte nos EUA",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c620lgllj0llo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 18 Sep 2026 19:58:54 GMT",
+      "tema": "mundo",
+      "resumo": "Flórida lidera execuções de condenados à morte nos EUA durante governo de Ron DeSantis, com aumento após anos de declínio."
+    },
+    {
+      "titulo": "Chefes de empresas de tecnologia pedem desaceleração da IA — mas o que a China pensa?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqgmrly2e9zgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 18 Sep 2026 21:58:00 GMT",
+      "tema": "mundo",
+      "resumo": "Líderes de empresas de tecnologia alertam para a necessidade de desaceleração no desenvolvimento de IA, enquanto rivalidade entre China e EUA complica coordenação internacional."
+    },
+    {
+      "titulo": "Por que uma nova onda de soldados norte-coreanos pode lutar na guerra da Rússia contra a Ucrânia",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cjx2zgw2g0zko?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 18 Sep 2026 19:16:53 GMT",
+      "tema": "mundo",
+      "resumo": "Coreia do Norte mantém envio de soldados para a guerra na Ucrânia conforme beneficia sua colaboração com a Rússia."
     },
     {
       "titulo": "Quem foi Anne Frank e 9 curiosidades sobre o diário mais famoso do mundo, que agora é objeto de polêmica no Brasil",
@@ -213,7 +205,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cw1mvjv9k51zo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 18 Sep 2026 11:39:15 GMT",
       "tema": "cultura",
-      "resumo": "Comentário de influenciadora sobre o Diário de Anne Frank na Bienal do Livro de São Paulo gera polêmica e repúdio de instituições culturais."
+      "resumo": "Comentário polêmico sobre o Diário de Anne Frank durante a Bienal do Livro de São Paulo gera repúdio de instituições de defesa da memória do Holocausto."
     },
     {
       "titulo": "Flávio Bolsonaro volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
@@ -221,39 +213,7 @@
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 18 Sep 2026 13:39:55 GMT",
       "tema": "brasil",
-      "resumo": "Agregador de pesquisas eleitorais da BBC mostra movimento nas intenções de voto para possível segundo turno de 2026."
-    },
-    {
-      "titulo": "Por que Putin se importa com as eleições legislativas — mesmo com resultado previsível",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cx05rvqznzjjo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 18 Sep 2026 13:00:07 GMT",
-      "tema": "mundo",
-      "resumo": "Eleições legislativas na Rússia representam momento importante para o Kremlin apesar do resultado já previsível."
-    },
-    {
-      "titulo": "Família acusa polícia de levar à morte suspeito de empurrar mulher na frente de ônibus em 2017 em Londres",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckzdz8mrj2ezo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 18 Sep 2026 11:08:27 GMT",
-      "tema": "mundo",
-      "resumo": "Família questiona investigação da polícia britânica sobre morte de homem acusado de empurrar mulher para frente de ônibus em Londres em 2017."
-    },
-    {
-      "titulo": "Por que Fachin decidiu adiar julgamento sobre atuação de Mendonça no caso Master",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwkgxl3745keo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 17 Sep 2026 17:01:17 GMT",
-      "tema": "brasil",
-      "resumo": "Presidente do STF adia julgamento sobre atuação de ministro Mendonça no caso Master devido a questão de ordem ainda pendente."
-    },
-    {
-      "titulo": "Lula anuncia reajuste de 15% no Bolsa Família, às vésperas da eleição",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c62kw8qqy0d8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 18 Sep 2026 03:09:53 GMT",
-      "tema": "brasil",
-      "resumo": "Governo anuncia reajuste de 15% no Bolsa Família, descrito como compensação pela inflação acumulada em anos anteriores."
+      "resumo": "Agregador de pesquisas eleitorais da BBC aponta Flávio Bolsonaro à frente de Lula em estimativas para o segundo turno da eleição presidencial de 2026."
     },
     {
       "titulo": "Lula x Flávio Bolsonaro: os 5 grupos de eleitores que podem definir a eleição, segundo pesquisas",
@@ -261,15 +221,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cm2mxy1pz4zo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 17 Sep 2026 20:35:01 GMT",
       "tema": "brasil",
-      "resumo": "Análise identifica cinco grupos de eleitores cujas preferências podem ser decisivas para o resultado das eleições presidenciais de 2026."
+      "resumo": "Análise identifica cinco grupos de eleitores que podem definir a eleição presidencial de 2026 entre Lula e Flávio Bolsonaro, em cenário ainda sem favorito claro."
     },
     {
-      "titulo": "A guerra entre Gilmar Mendes e André Mendonça sobre a quebra de sigilo de documentos ligados ao Banco Master",
+      "titulo": "Por que Putin se importa com as eleições legislativas — mesmo com resultado previsível",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwkgxl7703kyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 17 Sep 2026 16:54:35 GMT",
-      "tema": "brasil",
-      "resumo": "Ministros do STF divergem sobre quebra de sigilo de documentos relacionados ao Banco Master, com comparações a vazamentos da Lava Jato."
+      "link": "https://www.bbc.com/portuguese/articles/cx05rvqznzjjo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 18 Sep 2026 13:00:07 GMT",
+      "tema": "mundo",
+      "resumo": "Eleições legislativas na Rússia permanecem importante para o Kremlin apesar de resultado previsível."
     },
     {
       "titulo": "Canadá na União Europeia? O plano de tornar país associado ao bloco",
@@ -277,15 +237,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cr5ye46q6jxzo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 17 Sep 2026 10:54:57 GMT",
       "tema": "mundo",
-      "resumo": "Canadá estuda possibilidade de se tornar país associado à União Europeia, gerando reação crítica de Trump."
+      "resumo": "Canadá estuda possibilidade de se tornar país associado à União Europeia, proposta que gera tensão com a administração Trump."
     },
     {
       "titulo": "O alerta de chefe da Microsoft sobre a IA: 'Tratar a IA como humana é um erro'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/crwyz939e6g9o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 17 Sep 2026 21:11:33 GMT",
-      "tema": "cultura",
-      "resumo": "Executivo da Microsoft alerta sobre riscos de tratar inteligência artificial como se fosse consciente, criticando abordagem de empresa concorrente."
+      "tema": "mundo",
+      "resumo": "Executivo da Microsoft alertar sobre riscos de tratar inteligência artificial como humana, criticando abordagem da empresa rival Anthropic com seu modelo Claude."
     },
     {
       "titulo": "Como a fama de bom moço da música contribuiu para a maior crise da carreira de Ed Sheeran",
@@ -293,7 +253,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c80461krq3q9o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 16 Sep 2026 20:04:48 GMT",
       "tema": "entretenimento",
-      "resumo": "Ed Sheeran enfrenta críticas por seu posicionamento evitando política e controvérsias, gerando impacto em sua turnê prevista para 2026."
+      "resumo": "Imagem de Ed Sheeran como artista apolítico enfrentou desafios ao se envolver em discussões políticas, impactando sua turnê de 2026."
     }
   ]
 }
