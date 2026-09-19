@@ -1,75 +1,67 @@
 {
-  "gerado_em": "2026-09-19T17:47:04.858Z",
+  "gerado_em": "2026-09-19T22:40:09.331Z",
   "modo": "ia",
   "clima": {
-    "max": 26.1,
+    "max": 26.5,
     "min": 15.5,
     "chuva": 70
   },
   "noticias": [
     {
-      "titulo": "MG1 entrevista Mateus Simões, candidato ao governo de Minas Gerais; ASSISTA",
+      "titulo": "Auxílio financeiro a blocos de carnaval de BH: veja como inscrever grupo e conheça critérios de seleção",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/ao-vivo/entrevista-mg1-mateus-simoes.ghtml",
-      "hora": "Sat, 19 Sep 2026 17:22:18 -0000",
-      "tema": "brasil",
-      "resumo": "Mateus Simões, candidato do PSD ao governo de Minas Gerais, é entrevistado em série de sabatinas de candidatos ao cargo realizada pela TV local."
-    },
-    {
-      "titulo": "Itapetininga realiza campanha para identificar casos de tuberculose; veja locais",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/09/19/itapetininga-realiza-campanha-para-identificar-casos-de-tuberculose-veja-locais.ghtml",
-      "hora": "Sat, 19 Sep 2026 17:21:43 -0000",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/19/auxilio-financeiro-a-blocos-de-carnaval-de-bh-veja-como-inscrever-grupo-e-conheca-criterios-de-selecao.ghtml",
+      "hora": "Sat, 19 Sep 2026 22:32:13 -0000",
       "tema": "sp",
-      "resumo": "Prefeitura de Itapetininga realiza campanha até 30 de setembro para identificar casos de tuberculose e oferece exame de escarro à população."
+      "resumo": "Prefeitura de Belo Horizonte abre inscrições para auxílio financeiro aos blocos de carnaval de 2026, com investimento total de R$ 3,7 milhões e prazo de inscrição até 30 de setembro."
     },
     {
-      "titulo": "Du Pereira promete mudanças na saúde e aponta infraestrutura e educação como áreas defasadas no TO",
+      "titulo": "Homem é preso com cocaína escondida sob escada de casa no litoral de SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/09/19/du-pereira-promete-mudancas-na-saude-e-aponta-infraestrutura-e-educacao-como-areas-defasadas-no-to.ghtml",
-      "hora": "Sat, 19 Sep 2026 17:20:47 -0000",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/19/homem-e-preso-com-cocaina-escondida-sob-escada-de-casa-no-litoral-de-sp.ghtml",
+      "hora": "Sat, 19 Sep 2026 22:26:16 -0000",
+      "tema": "sp",
+      "resumo": "Homem é preso em flagrante por tráfico de drogas em Praia Grande após polícia apreender 4,8 kg de cocaína escondidos sob escada de residência."
+    },
+    {
+      "titulo": "VÍDEO: elefante Sandro começa nova rotina após chegada a santuário em MT",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/19/video-elefante-sandro-comeca-nova-rotina-apos-chegada-a-santuario-em-mt.ghtml",
+      "hora": "Sat, 19 Sep 2026 22:26:09 -0000",
+      "tema": "mundo",
+      "resumo": "Elefante Sandro, de 54 anos, chega ao Santuário de Elefantes Brasil em Chapada dos Guimarães e inicia exploração de sua nova área no dia seguinte de sua chegada."
+    },
+    {
+      "titulo": "Ventania derruba árvores e postes e afeta distribuição de energia em Prudente",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/09/19/ventania-derruba-arvores-e-postes-e-afeta-abastecimento-de-energia-em-prudente.ghtml",
+      "hora": "Sat, 19 Sep 2026 22:24:09 -0000",
+      "tema": "sp",
+      "resumo": "Forte ventania em Presidente Prudente derruba árvores e postes, afetando a distribuição de energia na cidade."
+    },
+    {
+      "titulo": "Candidatos ao Governo de MT cumprem agendas neste sábado (19)",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/09/19/candidatos-ao-governo-de-mt-cumprem-agendas-neste-sabado-19.ghtml",
+      "hora": "Sat, 19 Sep 2026 22:21:40 -0000",
       "tema": "brasil",
-      "resumo": "Candidato ao governo do Tocantins Du Pereira promete ampliar atendimento hospitalar e aponta defasagens em infraestrutura e educação."
+      "resumo": "Candidatos ao Governo de Mato Grosso cumprem agendas de campanha, com seis candidatos registrados no TSE para as eleições de 2026."
     },
     {
-      "titulo": "Lula faz campanha em SC, estado onde Bolsonaro teve 69% dos votos em 2022, e prega fim das bets",
+      "titulo": "Batidas em postes crescem até 171% na região de Campinas; saiba quem paga o reparo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/19/lula-faz-campanha-em-sc-estado-onde-bolsonaro-teve-69percent-dos-votos-em-2022-e-prega-fim-das-bets.ghtml",
-      "hora": "Sat, 19 Sep 2026 17:16:31 -0000",
-      "tema": "brasil",
-      "resumo": "O presidente Lula participa de campanha em Santa Catarina e critica as apostas esportivas durante discurso."
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/19/batidas-em-postes-crescem-ate-171percent-na-regiao-de-campinas-saiba-quem-paga-o-reparo.ghtml",
+      "hora": "Sat, 19 Sep 2026 22:19:21 -0000",
+      "tema": "sp",
+      "resumo": "Número de acidentes de trânsito com batidas em postes cresceu até 171% na região de Campinas no primeiro semestre de 2024 em relação ao mesmo período do ano anterior."
     },
     {
-      "titulo": "Mateus Simões participa de entrevista no MG1; veja ÍNTEGRA e tema por tema",
+      "titulo": "Fresno, Melody, Filipe Ret, Dennis e mais: veja atrações da 2ª noite de shows nacionais do Mormaço 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/19/mateus-simoes-participa-de-entrevista-no-mg1-veja-integra-e-tema-por-tema.ghtml",
-      "hora": "Sat, 19 Sep 2026 17:13:25 -0000",
-      "tema": "brasil",
-      "resumo": "Mateus Simões é entrevistado no telejornal local respondendo a perguntas sobre temas relevantes para o governo de Minas Gerais."
-    },
-    {
-      "titulo": "Câmara de Rio Branco abre concurso para procurador com salário de quase R$ 20 mil; Veja edital",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/09/19/camara-de-rio-branco-abre-concurso-para-procurador-com-salario-de-quase-r-20-mil-veja-edital.ghtml",
-      "hora": "Sat, 19 Sep 2026 17:10:26 -0000",
-      "tema": "brasil",
-      "resumo": "Câmara Municipal de Rio Branco abre concurso público para procurador com salário inicial de R$ 19.404,00 e inscrições até 15 de outubro."
-    },
-    {
-      "titulo": "PF prende homem com 'droga do amor' no Aeroporto do Galeão",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/19/pf-prende-homem-com-droga-do-amor-no-aeroporto-do-galeao.ghtml",
-      "hora": "Sat, 19 Sep 2026 17:02:53 -0000",
-      "tema": "brasil",
-      "resumo": "Polícia Federal prende italiano em flagrante no Aeroporto do Galeão com 52 frascos de medicamentos vasodilatadores."
-    },
-    {
-      "titulo": "União de Maricá escolhe samba-enredo para o Carnaval 2027",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2027/noticia/2026/09/19/uniao-de-marica-escolhe-samba-enredo-para-o-carnaval-2027.ghtml",
-      "hora": "Sat, 19 Sep 2026 17:02:27 -0000",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/09/19/fresno-melody-filipe-ret-dennis-e-mais-veja-atracoes-da-2a-noite-de-shows-nacionais-do-mormaco-2026.ghtml",
+      "hora": "Sat, 19 Sep 2026 22:06:55 -0000",
       "tema": "cultura",
-      "resumo": "União de Maricá escolhe samba-enredo para o Carnaval 2027, com composição de diversos artistas conhecidos."
+      "resumo": "Festival Mormaço 2026 em Boa Vista apresenta segunda noite de shows com atrações nacionais como Fresno, Melody, Filipe Ret, Dennis e Cat Dealers."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -77,7 +69,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival Bike Brasil acontece neste domingo na Zona Sul de SP e reúne ciclistas profissionais e amadores em competições e atividades."
+      "resumo": "Festival Bike Brasil acontece neste domingo na Zona Sul de São Paulo, reunindo ciclistas profissionais e amadores para competições e atividades diversas."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -85,7 +77,7 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Desempregado de Agudos pedala 20 km e passa 12 horas em fila para concorrer a uma de 500 vagas de emprego oferecidas em Bauru."
+      "resumo": "Desempregado percorre 20 km de bicicleta e passa 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -93,7 +85,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "cultura",
-      "resumo": "Zé Ramalho apresenta sucessos de sua carreira e canções de Raul Seixas na 39ª Festa Junina de Sorocaba."
+      "resumo": "Zé Ramalho apresenta sucessos da carreira e canções de Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
@@ -101,7 +93,7 @@
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "PRF apreende 927 quilos de maconha em carreta em Mato Grosso do Sul que seria entregue em São Paulo."
+      "resumo": "Polícia Rodoviária Federal apreende 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -109,15 +101,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina neste sábado com entrada gratuita e atividades para animais de estimação."
+      "resumo": "Jundiaí realiza terceira edição da Festa Junina Canina com entrada gratuita, oferecendo brincadeiras e atividades para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
-      "tema": "entretenimento",
-      "resumo": "O Maior Baile do Mundo acontece neste domingo em São Paulo com Anitta e diversos MCs, esperando 35 mil pessoas em 10 horas de shows."
+      "tema": "cultura",
+      "resumo": "Maior Baile do Mundo ocorre em São Paulo com Anitta e diversos MCs, esperando reunir 35 mil pessoas para 10 horas de shows."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -125,7 +117,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "PSTU oficializa Vera Lúcia, militante sindical, como candidata à Presidência da República nas próximas eleições."
+      "resumo": "PSTU oficializa Vera Lúcia como candidata à Presidência da República nas eleições de 2026."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -133,7 +125,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A 15ª edição da Feiccad, feira sobre imóvel, construção e decoração, acontece em Jundiaí até domingo com entrada gratuita."
+      "resumo": "15ª edição da Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração acontece em Jundiaí até domingo com entrada gratuita."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -141,7 +133,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diferentes funções do Executivo, com prazo até 31 de julho e provas aplicadas na cidade."
+      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos do Executivo, com prazo até 31 de julho e provas na cidade."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -149,7 +141,7 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência que ajudou na localização."
+      "resumo": "Homem em situação de rua em Campinas reencontra família após 37 anos de separação, quando saiu para buscar emprego no Paraguai."
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
@@ -157,7 +149,7 @@
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
       "tema": "sp",
-      "resumo": "Pai de monsenhor que seria ordenado bispo morre em acidente de trânsito entre carro e caminhão em Capela do Alto, dias antes da ordenação do filho."
+      "resumo": "Pai do monsenhor que será ordenado bispo em Itapetininga morre em acidente de trânsito dias antes da cerimônia de ordenação do filho."
     },
     {
       "titulo": "Rússia está travando uma 'guerra híbrida' contra a Europa?",
@@ -165,7 +157,31 @@
       "link": "https://www.bbc.com/portuguese/articles/ckg8207gn9xo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 19 Sep 2026 17:24:47 GMT",
       "tema": "mundo",
-      "resumo": "Especialistas apontam que o governo russo estaria conduzindo uma 'guerra híbrida' contra a Europa, combinando métodos militares e não militares para exercer pressão sem escalação bélica aberta."
+      "resumo": "Especialistas apontam que a Rússia pode estar conduzindo uma 'guerra híbrida' contra a Europa, combinando métodos militares e não militares para exercer pressão sem conflito aberto."
+    },
+    {
+      "titulo": "Por que as mortes por overdose de fentanil caíram vertiginosamente nos EUA",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c4gmej0rkp5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 19 Sep 2026 20:24:32 GMT",
+      "tema": "mundo",
+      "resumo": "As mortes por overdose de fentanil nos EUA caíram significativamente, embora as causas dessa redução ainda não sejam totalmente conhecidas."
+    },
+    {
+      "titulo": "A mãe que viralizou ao correr descalça (e vencer) uma corrida para poder comprar o material escolar da filha",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c674e71k09yjo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 19 Sep 2026 16:15:34 GMT",
+      "tema": "mundo",
+      "resumo": "Mulher de 47 anos venceu uma corrida descalça para arrecadar recursos e comprar material escolar para a filha, gerando debate sobre situação econômica e educacional."
+    },
+    {
+      "titulo": "Por que a cafeína deixa algumas pessoas em alerta e outras não sentem nada?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq770eymn34no?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 19 Sep 2026 18:18:07 GMT",
+      "tema": "cultura",
+      "resumo": "Estudo científico explica por que a cafeína afeta pessoas de forma diferente, apontando como hábitos de consumo, estilo de vida e fatores genéticos influenciam a resposta individual."
     },
     {
       "titulo": "De 'guardião' da Constituição de 1988 ao centro da política: como o STF ficou tão poderoso ",
@@ -173,15 +189,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cgl7ndlzgwko?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 19 Sep 2026 09:18:39 GMT",
       "tema": "brasil",
-      "resumo": "O STF evoluiu de guardião da Constituição para instituição central na política brasileira, consolidando esse papel principalmente através do perfil dos ministros indicados ao longo dos anos."
-    },
-    {
-      "titulo": "A mãe que viralizou ao correr descalça (e vencer) uma corrida para poder comprar o material escolar da filha",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c674e71k09yjo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 19 Sep 2026 16:15:34 GMT",
-      "tema": "brasil",
-      "resumo": "Mulher de 47 anos viralizou ao correr descalça e vencer uma corrida para conseguir dinheiro e comprar material escolar da filha, gerando debate sobre situação econômica e educacional do país."
+      "resumo": "Análise sobre como o STF evoluiu de 'guardião' da Constituição de 1988 para um papel mais central na política brasileira, consolidado pelo perfil dos ministros indicados."
     },
     {
       "titulo": "O 'verdadeiro Indiana Jones' que achou uma antiga cidade perdida dos incas: 'Não podíamos acreditar no que estávamos vendo'",
@@ -189,7 +197,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c6grvljqp11jo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 19 Sep 2026 13:06:23 GMT",
       "tema": "cultura",
-      "resumo": "Arqueólogo americano Gene Savoy reivindicou a descoberta em 1964 do que seria a última capital inca perdida, encerando séculos de mistério sobre a localização da cidade."
+      "resumo": "Pesquisador americano reivindicou ter descoberto em 1964 a última capital inca, após séculos de buscas e lendas sobre a cidade perdida."
     },
     {
       "titulo": "Santa ou pecadora? 10 obras que mostram por que Maria Madalena é uma das personagens mais polêmicas da Bíblia",
@@ -197,15 +205,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cwkgv2gllnv0o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 19 Sep 2026 13:08:33 GMT",
       "tema": "cultura",
-      "resumo": "Análise de obras de arte que retratam Maria Madalena, conhecida como 'apóstola dos apóstolas', revela como a percepção dessa figura bíblica polêmica evoluiu ao longo dos séculos na representação artística."
-    },
-    {
-      "titulo": "Mymba Kuéra: como foi o monumental resgate de mais de 30 mil animais durante a construção de Itaipu, entre o Brasil e o Paraguai",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6dx0j009xpwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 19 Sep 2026 11:35:53 GMT",
-      "tema": "brasil",
-      "resumo": "Durante a construção da Hidrelétrica de Itaipu, um dos maiores resgates de fauna da América Latina resgatou mais de 30 mil animais, uma operação histórica liderada por engenheiro agrônomo paraguaio."
+      "resumo": "Análise de obras de arte que retratam Maria Madalena, personagem polêmica da tradição cristã conhecida como 'apóstola dos apóstolos', revelando como diferentes épocas a interpretaram."
     },
     {
       "titulo": "EUA e Dinamarca fecham acordo sobre a segurança da Groenlândia",
@@ -213,15 +213,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cqy7z1dvv3gpo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 19 Sep 2026 00:59:29 GMT",
       "tema": "mundo",
-      "resumo": "EUA e Dinamarca fecham acordo sobre a segurança da Groenlândia, com Trump afirmando ganho de 'controle permanente' e primeira-ministra dinamarquesa indicando necessidade de aprovação parlamentar."
-    },
-    {
-      "titulo": "'Nunca descartaria' possível interferência de Trump nas eleições brasileiras, diz autor do perfil de Moraes na New Yorker",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6wyzg2xxzgno?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 18 Sep 2026 17:29:18 GMT",
-      "tema": "brasil",
-      "resumo": "Jornalista que escreveu perfil de Alexandre de Moraes na New Yorker discute em entrevista possível interferência de Trump nas eleições brasileiras e os interesses americanos na América do Sul."
+      "resumo": "EUA e Dinamarca assinaram acordo sobre segurança da Groenlândia, com Trump afirmando ganho de 'controle permanente' sobre a região, sujeito a aprovação parlamentar dinamarquesa."
     },
     {
       "titulo": "Lula está usando reajuste do Bolsa Família como arma eleitoral?",
@@ -229,7 +221,15 @@
       "link": "https://www.bbc.com/portuguese/articles/ck4gle0xwlg3o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 19 Sep 2026 09:27:59 GMT",
       "tema": "brasil",
-      "resumo": "Governo justifica reajuste de 15% no Bolsa Família como adequação inflacionária após anos de congelamento, enquanto cientista político aponta possível impacto eleitoral da medida."
+      "resumo": "Governo justifica aumento de 15% do Bolsa Família como reajuste inflacionário, enquanto cientista político aponta possível impacto eleitoral da medida antes de 2026."
+    },
+    {
+      "titulo": "'Nunca descartaria' possível interferência de Trump nas eleições brasileiras, diz autor do perfil de Moraes na New Yorker",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6wyzg2xxzgno?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 18 Sep 2026 17:29:18 GMT",
+      "tema": "brasil",
+      "resumo": "Jornalista comenta possíveis interferências dos EUA em eleições brasileiras e contexto político envolvendo Alexandre de Moraes na proximidade das eleições."
     },
     {
       "titulo": "Por que SP já tem setembro mais chuvoso em mais de 80 anos — e chuva deve voltar neste fim de semana",
@@ -237,7 +237,15 @@
       "link": "https://www.bbc.com/portuguese/articles/c6n9wzr8wen2o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 18 Sep 2026 09:50:29 GMT",
       "tema": "sp",
-      "resumo": "São Paulo registra setembro mais chuvoso em mais de 80 anos devido à combinação de frentes frias, umidade e El Niño, com previsão de chuvas no fim de semana e riscos contínuos de deslizamentos."
+      "resumo": "São Paulo registra seu setembro mais chuvoso em mais de 80 anos devido a combinação de frentes frias, umidade e El Niño, com previsão de chuvas continuadas e risco de deslizamentos."
+    },
+    {
+      "titulo": "Mymba Kuéra: como foi o monumental resgate de mais de 30 mil animais durante a construção de Itaipu, entre o Brasil e o Paraguai",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6dx0j009xpwo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 19 Sep 2026 11:35:53 GMT",
+      "tema": "brasil",
+      "resumo": "Engenheiro agrônomo relata resgate monumental de mais de 30 mil animais durante construção de Itaipu, um dos maiores da história da América Latina."
     },
     {
       "titulo": "Por que a Flórida é o Estado que mais executa condenados à morte nos EUA",
@@ -245,23 +253,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c620lgllj0llo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 18 Sep 2026 19:58:54 GMT",
       "tema": "mundo",
-      "resumo": "A Flórida lidera os EUA em execuções de condenados à morte nos últimos anos, com aumento durante o mandato do governador Ron DeSantis."
-    },
-    {
-      "titulo": "Chefes de empresas de tecnologia pedem desaceleração da IA — mas o que a China pensa?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqgmrly2e9zgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 18 Sep 2026 21:58:00 GMT",
-      "tema": "mundo",
-      "resumo": "Líderes de empresas de tecnologia pedem desaceleração do desenvolvimento de inteligência artificial, enquanto rivalidade China-EUA complica respostas regulatórias aos riscos da IA."
-    },
-    {
-      "titulo": "Por que uma nova onda de soldados norte-coreanos pode lutar na guerra da Rússia contra a Ucrânia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjx2zgw2g0zko?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 18 Sep 2026 19:16:53 GMT",
-      "tema": "mundo",
-      "resumo": "Coreia do Norte mantém envio de soldados para lutar na guerra da Rússia contra a Ucrânia, continuando a colaboração enquanto trouxer benefícios estratégicos ao país."
+      "resumo": "Flórida lidera execuções de condenados à morte nos EUA durante mandato do governador Ron DeSantis, invertendo tendência de redução da pena capital."
     }
   ]
 }
