@@ -1,67 +1,75 @@
 {
-  "gerado_em": "2026-09-20T13:57:04.063Z",
+  "gerado_em": "2026-09-20T17:57:20.511Z",
   "modo": "ia",
   "clima": {
     "max": 24.6,
     "min": 17.5,
-    "chuva": 97
+    "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Condenado por estupro de vulnerável é preso trabalhando como açougueiro no litoral de SP ",
+      "titulo": "Aplicação ilegal de agrotóxico com drones em área de quase 900 hectares é investigada no Acre",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/20/condenado-por-estupro-de-vulneravel-e-preso-trabalhando-como-acougueiro-no-litoral-de-sp.ghtml",
-      "hora": "Sun, 20 Sep 2026 13:43:20 -0000",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/09/20/como-o-mp-detectou-aplicacao-ilegal-de-agrotoxico-em-area-de-quase-900-hectares-no-acre.ghtml",
+      "hora": "Sun, 20 Sep 2026 17:39:38 -0000",
+      "tema": "brasil",
+      "resumo": "O Ministério Público do Acre investiga a aplicação ilegal de agrotóxicos por drones em quase 900 hectares, que pode ter causado degradação de mata nativa na região."
+    },
+    {
+      "titulo": "Tartaruga-cabeçuda é encontrada morta em praia de SP; VÍDEO",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/20/tartaruga-cabecuda-e-encontrada-morta-em-praia-de-sp-video.ghtml",
+      "hora": "Sun, 20 Sep 2026 17:38:14 -0000",
       "tema": "sp",
-      "resumo": "Um homem condenado por estupro de vulnerável foi localizado e preso trabalhando como açougueiro em um hipermercado em Guarujá, no litoral de São Paulo, onde estava foragido da Justiça."
+      "resumo": "Uma tartaruga-cabeçuda foi encontrada morta na praia do Guarujá, em avançado estado de decomposição, conforme relatório do Instituto Gremar."
     },
     {
-      "titulo": "Itália prepara proibição de burcas e niqabs em escolas e limite de estrangeiros por turma",
+      "titulo": "Emprega Prudente oferece mais de 200 vagas de emprego em Presidente Prudente; veja lista",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/20/italia-prepara-proibicao-de-veus-islamicos-em-escolas-e-limite-para-estrangeiros-por-turma.ghtml",
-      "hora": "Sun, 20 Sep 2026 13:28:42 -0000",
-      "tema": "mundo",
-      "resumo": "A Itália está preparando medidas para proibir o uso de burcas e niqabs nas escolas e limitar o número de estudantes estrangeiros por turma, anunciou a primeira-ministra Giorgia Meloni."
-    },
-    {
-      "titulo": "Estudantes da UFPB desenvolvem protótipo de carro e conquistam destaque em competição nacional ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/09/20/estudantes-da-ufpb-desenvolvem-prototipo-de-carro-e-conquistam-destaque-em-competicao-nacional.ghtml",
-      "hora": "Sun, 20 Sep 2026 13:28:28 -0000",
-      "tema": "brasil",
-      "resumo": "Estudantes de engenharia da Universidade Federal da Paraíba desenvolvem protótipos automotivos e se destacam em competições nacionais através do projeto Fórmula UFPB."
-    },
-    {
-      "titulo": "A forma correta de recuperar o sono perdido",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/saude/noticia/2026/09/20/a-forma-correta-de-recuperar-o-sono-perdido.ghtml",
-      "hora": "Sun, 20 Sep 2026 13:26:54 -0000",
-      "tema": "brasil",
-      "resumo": "Artigo baseado em pesquisa explica os métodos mais eficazes para recuperar o sono perdido durante a semana."
-    },
-    {
-      "titulo": "Conheça marca de cosméticos de RO que utiliza ativos da Amazônia em produtos para cabelos com curvatura",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ro/rondonia/noticia/2026/09/20/conheca-marca-de-cosmeticos-de-ro-que-utiliza-ativos-da-amazonia-em-produtos-para-cabelos-com-curvatura.ghtml",
-      "hora": "Sun, 20 Sep 2026 13:21:52 -0000",
-      "tema": "brasil",
-      "resumo": "Uma marca de cosméticos de Rondônia utiliza ativos da Amazônia para desenvolver produtos específicos para cabelos ondulados, cacheados e crespos."
-    },
-    {
-      "titulo": "Rajadas de vento de até 50 km/h provocam estragos e deixam desalojados na região de Presidente Prudente",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/09/20/rajadas-de-vento-de-ate-50-kmh-provocam-estragos-e-deixam-desalojados-na-regiao-de-presidente-prudente.ghtml",
-      "hora": "Sun, 20 Sep 2026 13:19:14 -0000",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/09/20/emprega-prudente-oferece-mais-de-200-vagas-de-emprego-em-presidente-prudente-veja-lista.ghtml",
+      "hora": "Sun, 20 Sep 2026 17:33:53 -0000",
       "tema": "sp",
-      "resumo": "Rajadas de vento de até 50 km/h provocaram estragos em Presidente Prudente, derrubando árvores e postes, deixando desabrigados e afetando a distribuição de energia."
+      "resumo": "Presidente Prudente oferece 255 vagas de emprego por meio do programa Emprega Prudente, com oportunidades em diversas áreas, especialmente no comércio."
     },
     {
-      "titulo": "Ônibus de turismo tomba durante excursão para clube e deixa sete feridos em Uberaba",
+      "titulo": "Incêndio destrói 38 casas em aldeia indígena na Ilha do Bananal",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/20/onibus-de-turismo-tomba-durante-excursao-para-clube-e-deixa-sete-feridos-em-uberaba.ghtml",
-      "hora": "Sun, 20 Sep 2026 13:13:22 -0000",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/09/20/incendio-destroi-38-casas-em-aldeia-indigena-na-ilha-do-bananal.ghtml",
+      "hora": "Sun, 20 Sep 2026 17:29:51 -0000",
       "tema": "brasil",
-      "resumo": "Um ônibus de turismo tombou na zona rural de Uberaba com 51 pessoas a bordo, deixando sete feridos."
+      "resumo": "Um incêndio de grandes proporções destruiu 38 casas na Aldeia Canoanã, na Ilha do Bananal, após curto circuito na fiação elétrica."
+    },
+    {
+      "titulo": "Fortes chuvas causam alagamentos e quedas de árvores no interior de SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/09/20/fortes-chuvas-causam-alagamentos-e-quedas-de-arvores-no-interior-de-sp.ghtml",
+      "hora": "Sun, 20 Sep 2026 17:14:33 -0000",
+      "tema": "sp",
+      "resumo": "Chuvas fortes no centro-oeste paulista causaram alagamentos e quedas de árvores em municípios como Bauru, sem registro de feridos."
+    },
+    {
+      "titulo": "Vídeo mostra Moraes desembarcando de jatinho de empresa de Vorcaro; avião foi apontado pela PF como pagamento ao escritório da esposa do ministro",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/20/video-mostra-moraes-desembarcando-de-jatinho-de-empresa-de-vorcaro-aviao-foi-apontado-pela-pf-como-pagamento-ao-escritorio-da-esposa-do-ministro.ghtml",
+      "hora": "Sun, 20 Sep 2026 17:05:32 -0000",
+      "tema": "brasil",
+      "resumo": "O ministro Alexandre de Moraes do STF voou em avião de empresa associada a Daniel Vorcaro, do Banco Master, em viagem ao Rio de Janeiro."
+    },
+    {
+      "titulo": "Mega-Sena 3060: quatro apostas de SC ficam a um número de faturar R$ 26,7 milhões",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/20/mega-sena-3060-quatro-apostas-sc-ficam-a-um-numero-faturar-r-267-milhoes.ghtml",
+      "hora": "Sun, 20 Sep 2026 16:54:15 -0000",
+      "tema": "brasil",
+      "resumo": "Quatro apostas de Santa Catarina acertaram cinco números do concurso 3060 da Mega-Sena, ficando a um algarismo de ganhar o prêmio de R$ 26,7 milhões."
+    },
+    {
+      "titulo": "Pabllo Vittar vai passar mal hoje às 17h? Cantora entra na brincadeira e diz que está 'sentindo algo'; entenda o meme",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/20/pabllo-vittar-vai-passar-mal-hoje-as-17h-cantora-entra-na-brincadeira-e-diz-que-esta-sentindo-algo-entenda-o-meme.ghtml",
+      "hora": "Sun, 20 Sep 2026 16:47:20 -0000",
+      "tema": "entretenimento",
+      "resumo": "A cantora Pabllo Vittar brinca com fãs sobre um meme tradicional que marca setembro 20 às 17h, interagindo humoristicamente com a brincadeira viral."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -69,7 +77,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival Bike Brasil acontece neste domingo na Zona Sul de São Paulo com competições de manobras radicais e atividades para o público em geral."
+      "resumo": "São Paulo realiza o festival Bike Brasil na Zona Sul, reunindo ciclistas profissionais e amadores em competições de manobras e atividades para crianças."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -77,15 +85,15 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Um desempregado percorreu 20 km de bicicleta e aguardou 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
+      "resumo": "Um desempregado pedalou 20 km e enfrentou fila de 12 horas em Bauru para concorrer a uma das 500 vagas de emprego oferecidas na região."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
-      "tema": "sp",
-      "resumo": "O cantor Zé Ramalho apresentou sucessos de sua carreira e homenageou Raul Seixas na 39ª Festa Junina de Sorocaba."
+      "tema": "cultura",
+      "resumo": "Zé Ramalho apresentou sucessos da carreira e homenageou Raul Seixas na 39ª edição da Festa Junina de Sorocaba."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
@@ -93,7 +101,7 @@
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "A Polícia Rodoviária Federal apreendeu 927 quilos de maconha em uma carreta em Mato Grosso do Sul que seria entregue em São Paulo."
+      "resumo": "A Polícia Rodoviária Federal apreendeu 927 quilos de maconha em Mato Grosso do Sul que seria transportada para São Paulo em carreta."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -101,7 +109,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina com entrada gratuita, oferecendo brincadeiras e atividades para cães e gatos."
+      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina, evento gratuito com atividades lúdicas e atrações para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
@@ -109,7 +117,7 @@
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
       "tema": "sp",
-      "resumo": "O Maior Baile do Mundo, festival de música com Anitta e diversos MCs, espera reunir 35 mil pessoas em São Paulo com 10 horas de apresentações."
+      "resumo": "O Maior Baile do Mundo, festival com Anitta e MCs, acontece em São Paulo com expectativa de 35 mil pessoas e 10 horas de apresentações."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -117,7 +125,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializa a militante sindical Vera Lúcia como candidata à Presidência da República nas próximas eleições."
+      "resumo": "O PSTU oficializa a candidatura da militante sindical Vera Lúcia à Presidência da República nas próximas eleições."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -125,15 +133,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A 15ª edição da Feiccad, feira dedicada a imóvel, construção, condomínios, arquitetura e decoração, acontece em Jundiaí com entrada gratuita."
-    },
-    {
-      "titulo": "Caso Vitória: trio acusado de envolvimento no crime é transferido para Tremembé",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2018/07/20/caso-vitoria-trio-acusado-de-envolvimento-no-crime-e-transferido-para-tremembe.ghtml",
-      "hora": "Fri, 20 Jul 2018 18:44:51 -0000",
-      "tema": "sp",
-      "resumo": "Os três acusados pela morte da menina Vitória Gabrielly foram transferidos para presídios em Tremembé, onde permanecem presos desde junho."
+      "resumo": "A 15ª edição da Feira do Imóvel, Construção, Condomínios, Arquitetura e Decoração acontece em Jundiaí com entrada gratuita."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -141,7 +141,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos até 31 de julho, com provas a serem realizadas na própria cidade."
+      "resumo": "A prefeitura de Tabapuã abre inscrições para concurso público com 34 vagas em diversos cargos do Executivo municipal até 31 de julho."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -149,7 +149,23 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, facilitado por um boletim de ocorrência policial."
+      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência que permitiu rastreá-lo."
+    },
+    {
+      "titulo": "Chefe de facção que atua dentro e fora dos presídios brasileiros é transferido da PF em Foz do Iguaçu",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2018/07/20/chefe-de-faccao-que-atua-dentro-e-fora-dos-presidios-brasileiros-e-transferido-da-pf-em-foz-do-iguacu.ghtml",
+      "hora": "Fri, 20 Jul 2018 10:55:41 -0000",
+      "tema": "brasil",
+      "resumo": "Chefe do PCC é transferido da Polícia Federal em Foz do Iguaçu para a Penitenciária Federal de Catanduvas."
+    },
+    {
+      "titulo": "Por que grandes petroleiras americanas não integram acordo que dá controle de reservas da Venezuela aos EUA de Trump",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm89jqkqnzd5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 20 Sep 2026 17:26:33 GMT",
+      "tema": "mundo",
+      "resumo": "Grandes petroleiras americanas não integram acordo sobre reservas de petróleo da Venezuela sob controle dos EUA, que trabalha com empresa menor."
     },
     {
       "titulo": "'Não tenho notícias dele há quase cinco anos': as mães que procuram seus filhos no sistema prisional do regime de exceção de Bukele em El Salvador",
@@ -157,7 +173,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cjly49n167n0o?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 20 Sep 2026 08:13:08 GMT",
       "tema": "mundo",
-      "resumo": "Mães de desaparecidos no sistema prisional salvadorenho formaram grupo de apoio para denunciar falta de informações sobre familiares detidos no regime de exceção do país."
+      "resumo": "Mães procuram por filhos desaparecidos no sistema prisional de El Salvador sob o regime de exceção do presidente Bukele e formaram grupo de apoio."
+    },
+    {
+      "titulo": "Ucrânia lança cerca de 450 drones contra Moscou no maior ataque à capital russa, diz prefeito",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cr4gv45gyepeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 20 Sep 2026 14:44:13 GMT",
+      "tema": "mundo",
+      "resumo": "Ucrânia lança cerca de 450 drones contra Moscou em um dos maiores ataques à capital russa, segundo autoridades locais."
     },
     {
       "titulo": "Eles se uniram para denunciar abusos em uma escola — e depois se casaram",
@@ -165,23 +189,23 @@
       "link": "https://www.bbc.com/portuguese/articles/cqy7z172r4zyo?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 20 Sep 2026 11:34:31 GMT",
       "tema": "mundo",
-      "resumo": "Dois alunos que se uniram para reunir provas contra abusos de um diretor de escola na Indonésia depois se casaram."
+      "resumo": "Dois ex-alunos se casaram após anos reunindo provas de abusos cometidos por um diretor de escola na Indonésia."
     },
     {
-      "titulo": "Ed Sheeran admite ter cometido 'erros' no primeiro show desde a polêmica com rapper Macklemore",
+      "titulo": "Ed Sheeran admite ter cometido 'erros' após polêmica pela exclusão de rapper pró-Palestina de sua turnê nos EUA",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c6gqdp2jwx9yo?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 20 Sep 2026 13:05:58 GMT",
       "tema": "entretenimento",
-      "resumo": "Ed Sheeran comenta sobre seus erros em retorno aos palcos, abordando questões internacionais após polêmica envolvendo rapper que se apresentava em sua turnê."
+      "resumo": "Ed Sheeran admite ter cometido 'erros' após remover rapper pró-Palestina de sua turnê nos EUA."
     },
     {
       "titulo": "A forma correta de recuperar o sono perdido",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cw3d70yj1x93o?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 20 Sep 2026 12:15:35 GMT",
-      "tema": "mundo",
-      "resumo": "Estudo aponta que duas horas adicionais de sono no dia seguinte podem compensar danos de uma noite maldormida, mas recomenda cautela na recuperação do sono."
+      "tema": "cultura",
+      "resumo": "Estudo indica que duas horas a mais de sono no dia seguinte podem reverter danos de uma noite mal dormida, mas repouso extra deve ser bem planejado."
     },
     {
       "titulo": "A guerra pode se espalhar pela Europa. Você está psicologicamente preparado?",
@@ -189,7 +213,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c8ly4gy36yr0o?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 20 Sep 2026 10:10:31 GMT",
       "tema": "mundo",
-      "resumo": "Governo e forças armadas britânicas avaliam aumento do risco de conflito na Europa, enquanto população pode não estar preparada psicologicamente para tal cenário."
+      "resumo": "Autoridades do Reino Unido alertam para aumento do risco de conflito na Europa, mas população pode não estar psicologicamente preparada."
     },
     {
       "titulo": "Rússia está travando uma 'guerra híbrida' contra a Europa?",
@@ -197,15 +221,7 @@
       "link": "https://www.bbc.com/portuguese/articles/ckg8207gn9xo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 19 Sep 2026 17:24:47 GMT",
       "tema": "mundo",
-      "resumo": "Especialistas apontam que a Rússia estaria conduzindo uma 'guerra híbrida' contra a Europa através de ataques que combinam métodos militares e não militares sem declarar conflito aberto."
-    },
-    {
-      "titulo": "Trump intensifica disputa com a imprensa ao barrar jornalistas da Casa Branca",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm2dw881e21xo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 19 Sep 2026 22:44:48 GMT",
-      "tema": "mundo",
-      "resumo": "Trump intensifica confronto com imprensa da Casa Branca ao barrar jornalistas do espaço, elevando tensão após semana de reveses políticos."
+      "resumo": "Especialistas apontam que Rússia estaria travando 'guerra híbrida' contra a Europa, combinando métodos militares e não militares sem desencadear confronto aberto."
     },
     {
       "titulo": "Por que as mortes por overdose de fentanil caíram vertiginosamente nos EUA",
@@ -213,7 +229,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c4gmej0rkp5o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 19 Sep 2026 20:24:32 GMT",
       "tema": "mundo",
-      "resumo": "Mortes por overdose de fentanil nos EUA sofreram queda significativa, porém causas exatas dessa redução ainda permanecem incertas."
+      "resumo": "Mortes por overdose de fentanil nos EUA caíram significativamente, mas as causas exatas da redução ainda não são totalmente compreendidas."
     },
     {
       "titulo": "A mãe que viralizou ao correr descalça (e vencer) uma corrida para poder comprar o material escolar da filha",
@@ -221,7 +237,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c674e71k09yjo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 19 Sep 2026 16:15:34 GMT",
       "tema": "mundo",
-      "resumo": "Mulher de 47 anos que correu descalça e venceu competição para comprar material escolar da filha viralizou e intensificou críticas à situação econômica e educacional do país."
+      "resumo": "Mãe de 47 anos corre descalça e vence corrida para comprar material escolar da filha, atitude que intensificou debates sobre situação econômica e educacional do país."
     },
     {
       "titulo": "Como um casamento real na Alemanha deu origem à maior festa da cerveja do mundo (e como ela chegou à América Latina)",
@@ -229,15 +245,23 @@
       "link": "https://www.bbc.com/portuguese/articles/cr89j531dq7no?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 20 Sep 2026 00:40:05 GMT",
       "tema": "cultura",
-      "resumo": "A Oktoberfest nasceu de um casamento real alemão no século XIX como ferramenta de identidade nacional e se expandiu globalmente, chegando também à América Latina."
+      "resumo": "Oktoberfest nasceu de um casamento real na Alemanha e se tornou a maior festa de cerveja do mundo, expandindo-se pela América Latina."
+    },
+    {
+      "titulo": "Trump intensifica disputa com a imprensa ao barrar jornalistas da Casa Branca",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm2dw881e21xo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 19 Sep 2026 22:44:48 GMT",
+      "tema": "mundo",
+      "resumo": "Trump intensifica hostilidade com a imprensa ao barrar jornalistas da Casa Branca, elevando a um novo patamar a disputa com mídia."
     },
     {
       "titulo": "Por que a cafeína deixa algumas pessoas em alerta e outras não sentem nada?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cq770eymn34no?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 19 Sep 2026 18:18:07 GMT",
-      "tema": "mundo",
-      "resumo": "Cientistas explicam que os efeitos da cafeína variam entre pessoas dependendo de hábitos de consumo, estilo de vida e fatores genéticos."
+      "tema": "cultura",
+      "resumo": "Cientistas explicam que a sensibilidade à cafeína varia conforme hábitos de consumo, estilo de vida e fatores genéticos individuais."
     },
     {
       "titulo": "O 'verdadeiro Indiana Jones' que achou uma antiga cidade perdida dos incas: 'Não podíamos acreditar no que estávamos vendo'",
@@ -245,15 +269,7 @@
       "link": "https://www.bbc.com/portuguese/articles/c6grvljqp11jo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 19 Sep 2026 13:06:23 GMT",
       "tema": "cultura",
-      "resumo": "Arqueólogo americano reivindicou ter descoberto em 1964 a última capital inca após séculos de lendas, confirmando existência de cidade perdida dos incas."
-    },
-    {
-      "titulo": "Santa ou pecadora? 10 obras que mostram por que Maria Madalena é uma das personagens mais polêmicas da Bíblia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwkgv2gllnv0o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 19 Sep 2026 13:08:33 GMT",
-      "tema": "cultura",
-      "resumo": "Análise de obras de arte revela complexidade histórica de Maria Madalena, personagem envolvida em mistérios que atravessou séculos como figura central na tradição cristã."
+      "resumo": "Pesquisador americano Gene Savoy reivindicou ter encontrado em 1964 a última capital inca, após séculos de especulação sobre cidade perdida."
     }
   ]
 }
