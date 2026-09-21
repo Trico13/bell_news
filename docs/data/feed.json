@@ -1,59 +1,91 @@
 {
-  "gerado_em": "2026-09-21T16:12:36.441Z",
+  "gerado_em": "2026-09-21T23:49:44.380Z",
   "modo": "ia",
   "clima": {
-    "max": 28.6,
+    "max": 28.5,
     "min": 18.3,
     "chuva": 71
   },
   "noticias": [
     {
-      "titulo": "BR-101 entre Natal e Parnamirim registra 8 mortes em 2026 e é o trecho mais crítico no RN, diz PRF",
+      "titulo": "Ronaldo Mansur defende investimento em agricultura familiar na Bahia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/21/br-101-natal-parnamirim-mortes-2026-trecho-prf.ghtml",
-      "hora": "Mon, 21 Sep 2026 15:58:10 -0000",
+      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/21/agenda-de-campanha-de-ronaldo-mansur.ghtml",
+      "hora": "Mon, 21 Sep 2026 23:28:43 -0000",
       "tema": "brasil",
-      "resumo": "Um trecho da BR-101 entre Natal e Parnamirim registrou oito mortes em 2026 e é considerado pela Polícia Rodoviária Federal o ponto mais crítico para acidentes em rodovias federais do Rio Grande do Norte."
+      "resumo": "Candidato ao governo da Bahia defende aumento de investimentos em agricultura familiar como parte de sua plataforma de campanha."
     },
     {
-      "titulo": "Borracharia da Barra fornecia mão de obras e ferramentas para esquema de roubo de pneus de caminhões de carga, diz polícia",
+      "titulo": "Cadastramento de ambulantes para festas populares em Salvador começa na terça-feira; saiba mais",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/21/investigacao-esquema-de-roubo.ghtml",
-      "hora": "Mon, 21 Sep 2026 15:58:08 -0000",
-      "tema": "brasil",
-      "resumo": "A Polícia Civil investiga uma quadrilha especializada em roubo de cargas que contava com apoio de uma borracharia na Barra da Tijuca, que fornecia mão de obra e ferramentas para os crimes."
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/21/cadastramento-de-ambulantes-para-festas-em-salvador.ghtml",
+      "hora": "Mon, 21 Sep 2026 23:25:20 -0000",
+      "tema": "sp",
+      "resumo": "Prefeitura de Salvador abre cadastramento para ambulantes atuarem nas festas populares da cidade a partir de terça-feira."
     },
     {
-      "titulo": "Paramount fecha acordo com 12 estados dos EUA que abre caminho para fusão de US$ 110 bilhões com a Warner",
+      "titulo": "AGU pede ao STF a perda de cargo e a suspensão dos pagamentos a Marco Buzzi após acusações de assédio e importunação sexual",
       "fonte": "G1",
-      "link": "https://g1.globo.com/economia/noticia/2026/09/21/paramount-eua-warner.ghtml",
-      "hora": "Mon, 21 Sep 2026 15:57:54 -0000",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/21/agu-pede-ao-stf-a-perda-de-cargo-e-a-suspensao-dos-pagamentos-a-marco-buzzi-apos-acusacoes-de-assedio-e-importunacao-sexual.ghtml",
+      "hora": "Mon, 21 Sep 2026 23:22:51 -0000",
+      "tema": "brasil",
+      "resumo": "Advocacia-Geral da União solicita ao Supremo Tribunal Federal a perda de cargo e suspensão de pagamentos do ministro Marco Buzzi, do STJ, após acusações de assédio e importunação sexual."
+    },
+    {
+      "titulo": "Hana Ghassan propõe dar transparência para a fila da saúde no Pará",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/21/hana-ghassan-propoe-dar-transparencia-para-a-fila-da-saude-no-para.ghtml",
+      "hora": "Mon, 21 Sep 2026 23:18:30 -0000",
+      "tema": "brasil",
+      "resumo": "Candidata ao governo do Pará propõe lei para dar transparência total às filas de atendimento da saúde estadual."
+    },
+    {
+      "titulo": "Hospital de Peruíbe abre UTI e Clínica Médica com leitos para crianças",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/mais-saude/noticia/2026/09/21/hospital-de-peruibe-abre-uti-e-clinica-medica-com-leitos-para-criancas.ghtml",
+      "hora": "Mon, 21 Sep 2026 23:18:21 -0000",
+      "tema": "sp",
+      "resumo": "Hospital Municipal de Peruíbe inaugura UTI Pediátrica e serviço de Clínica Médica Pediátrica, totalizando 16 novos leitos para crianças."
+    },
+    {
+      "titulo": "Quatro presos na Operação Cavalo de Troia em Bauru são transferidos para presídios em SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/09/21/quatro-presos-na-operacao-cavalo-de-troia-em-bauru-sao-transferidos-para-presidios-em-sp.ghtml",
+      "hora": "Mon, 21 Sep 2026 23:17:05 -0000",
+      "tema": "sp",
+      "resumo": "Quatro investigados presos na Operação Cavalo de Troia em Bauru são transferidos para penitenciárias do estado de São Paulo."
+    },
+    {
+      "titulo": "Defesa Civil envia 'alerta severo' de ventos fortes para a madrugada desta terça no Rio",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/21/defesa-civil-envia-alerta-de-ventos-fortes-para-a-madrugada-desta-terca-no-rio.ghtml",
+      "hora": "Mon, 21 Sep 2026 23:16:59 -0000",
       "tema": "mundo",
-      "resumo": "A Paramount chegou a um acordo com 12 estados americanos que permite o prosseguimento da fusão entre a empresa e a Warner Bros., avaliada em 110 bilhões de dólares."
+      "resumo": "Defesa Civil do Rio de Janeiro emite alerta severo para ventos fortes, chuva e raios previstos para a madrugada de terça-feira."
     },
     {
-      "titulo": "g1 promove debate entre candidatos ao Senado no Ceará",
+      "titulo": "Vídeo mostra abordagem da PM a homem em Areado; família relata ferimentos e polícia diz que houve resistência",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/ao-vivo/debate-entre-candidatos-ao-senado-no-ceara.ghtml",
-      "hora": "Mon, 21 Sep 2026 15:57:34 -0000",
+      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/21/video-mostra-abordagem-da-pm-a-homem-em-areado-familia-relata-ferimentos-e-policia-diz-que-houve-resistencia.ghtml",
+      "hora": "Mon, 21 Sep 2026 23:14:17 -0000",
       "tema": "brasil",
-      "resumo": "O G1 promove debate entre candidatos ao Senado pelo Ceará com participação confirmada de Cid Gomes e Luizianne Lins, enquanto outros convites foram recusados."
+      "resumo": "Vídeo de abordagem da Polícia Militar em Areado (MG) circula nas redes sociais com relatos conflitantes entre família e polícia sobre ferimentos e resistência."
     },
     {
-      "titulo": "Trump publica nova enquete para redefinir nome da inteligência artificial ",
+      "titulo": "Mulher localiza ladrão e recupera moto dela furtada dentro de casa em Franca, SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/21/trump-publica-nova-enquete-para-redefinir-nome-da-inteligencia-artificial.ghtml",
-      "hora": "Mon, 21 Sep 2026 15:56:41 -0000",
-      "tema": "mundo",
-      "resumo": "O presidente americano Donald Trump publicou uma enquete para que o público defina um novo nome para um projeto de inteligência artificial."
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/21/mulher-localiza-ladrao-e-recupera-moto-dela-furtada-dentro-de-casa-em-franca-sp.ghtml",
+      "hora": "Mon, 21 Sep 2026 23:12:02 -0000",
+      "tema": "sp",
+      "resumo": "Mulher em Franca (SP) conseguiu localizar e recuperar sua motocicleta que havia sido roubada de sua casa, com ajuda de denúncias anônimas."
     },
     {
-      "titulo": "Prefeitura do Rio desapropria casarão que desabou e feriu mãe e criança no Cosme Velho",
+      "titulo": "Rodrigo Manga afirma que irmão, prefeito de Votorantim, morreu após sofrer infarto: 'Ninguém esperava'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/21/prefeitura-do-rio-desapropria-casarao-que-desabou-e-feriu-mae-e-crianca-no-cosme-velho.ghtml",
-      "hora": "Mon, 21 Sep 2026 15:54:05 -0000",
-      "tema": "brasil",
-      "resumo": "A Prefeitura do Rio desapropriou um casarão que desabou no Cosme Velho e causou ferimentos a duas pessoas, com decreto publicado no Diário Oficial."
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/21/rodrigo-manga-afirma-que-irmao-prefeito-de-votorantim-morreu-apos-sofrer-infarto.ghtml",
+      "hora": "Mon, 21 Sep 2026 23:10:37 -0000",
+      "tema": "sp",
+      "resumo": "Prefeito de Votorantim (SP) morre na madrugada de segunda-feira; segundo seu irmão, infarto foi a causa do falecimento."
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -61,7 +93,7 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "O evento Bike Brasil, realizado na Zona Sul de São Paulo, reúne ciclistas profissionais e amadores para competições de manobras radicais e atividades para crianças."
+      "resumo": "Festival Bike Brasil reúne ciclistas profissionais e amadores na Zona Sul de São Paulo com competições de manobras e atividades para crianças."
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
@@ -69,15 +101,7 @@
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
       "tema": "sp",
-      "resumo": "Um desempregado pedalou 20 quilômetros e aguardou 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru, interior de São Paulo."
-    },
-    {
-      "titulo": "'Não foi uma fatalidade', diz viúva de homem morto em acidente no Beach Park",
-      "fonte": "G1 São Paulo",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2018/07/23/nao-foi-uma-fatalidade-diz-viuva-de-homem-morto-em-acidente-no-beach-park.ghtml",
-      "hora": "Mon, 23 Jul 2018 00:24:35 -0000",
-      "tema": "brasil",
-      "resumo": "A viúva de um radialista que morreu ao cair em um brinquedo do Beach Park nega que a morte tenha sido uma fatalidade e aponta responsabilidade do estabelecimento."
+      "resumo": "Desempregado percorre 20 km de bicicleta e aguarda 12 horas em fila para concorrer a uma das 500 vagas de emprego oferecidas em Bauru."
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -85,7 +109,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "cultura",
-      "resumo": "O cantor Zé Ramalho apresentou sucessos de sua carreira e homenageou Raul Seixas durante apresentação na Festa Junina de Sorocaba."
+      "resumo": "Cantor Zé Ramalho apresenta sucessos de sua carreira e homenageia Raul Seixas na 39ª Festa Junina de Sorocaba (SP)."
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
@@ -93,7 +117,7 @@
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "A Polícia Rodoviária Federal apreendeu 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo, e o motorista confessou o tráfico."
+      "resumo": "Polícia Rodoviária Federal apreende 927 quilos de maconha em carreta em Mato Grosso do Sul que seria entregue em São Paulo."
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
@@ -101,15 +125,15 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
       "tema": "sp",
-      "resumo": "A terceira edição da Festa Junina Canina de Jundiaí ocorre neste sábado com entrada gratuita, oferecendo atividades lúdicas para cães e gatos."
+      "resumo": "Jundiaí realiza a 3ª edição da Festa Junina Canina com entrada gratuita, brincadeiras e atividades para cães e gatos."
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
-      "tema": "cultura",
-      "resumo": "O Maior Baile do Mundo, festival em São Paulo com apresentações de Anitta e MCs, espera atrair 35 mil pessoas para dez horas de apresentações musicais."
+      "tema": "entretenimento",
+      "resumo": "Festival de música Maior Baile do Mundo acontece em São Paulo neste domingo com 35 mil pessoas esperadas e apresentações de Anitta e outros artistas."
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
@@ -117,7 +141,7 @@
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
       "tema": "brasil",
-      "resumo": "O PSTU oficializou a candidatura da militante sindical Vera Lúcia à Presidência da República nas próximas eleições."
+      "resumo": "PSTU oficializa a candidatura da militante sindical Vera Lúcia à Presidência da República nas próximas eleições."
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
@@ -125,7 +149,7 @@
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
       "tema": "sp",
-      "resumo": "A 15ª edição da Feiccad, feira dedicada à construção civil e decoração, ocorre até domingo em Jundiaí com entrada gratuita mediante credenciamento."
+      "resumo": "15ª edição da Feira do Imóvel, Construção e Decoração (Feiccad) em Jundiaí apresenta expositores do setor e entrada gratuita até domingo."
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
@@ -133,7 +157,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
       "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abriu inscrições para concurso público com 34 vagas em diversos cargos do Executivo, com prazo até 31 de julho e provas na própria cidade."
+      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diferentes cargos da administração municipal."
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
@@ -141,7 +165,15 @@
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
       "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra a família após 37 anos de separação, graças a um boletim de ocorrência que permitiu localização e contato."
+      "resumo": "Homem em situação de rua em Campinas reencontra a família após 37 anos, graças a informações registradas em boletim de ocorrência."
+    },
+    {
+      "titulo": "'A próxima coisa que veremos é ação militar direta dos EUA em diferentes países', diz jornalista americano especializado em América Latina",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6rm9lpjz8m2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 21 Sep 2026 19:16:24 GMT",
+      "tema": "mundo",
+      "resumo": "Jornalista americano especializado em América Latina comenta sobre a possível influência da administração Trump na região e o contexto de lideranças autoritárias."
     },
     {
       "titulo": "Nem impeachment de ministros vai resolver crise do Supremo, avalia professor autor de livro sobre o STF",
@@ -149,7 +181,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cm0qx3k49dqvo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 21 Sep 2026 13:04:41 GMT",
       "tema": "brasil",
-      "resumo": "Professor e autor de livro sobre o Supremo Tribunal Federal avalia que a crise institucional não se resolve apenas com impeachment, mas exige que a corte reconquiste credibilidade pública."
+      "resumo": "Professor e autor de livro sobre o STF avalia que a crise institucional na corte decorre da dificuldade em convencer a população de que seus ministros atuam de forma imparcial."
+    },
+    {
+      "titulo": "O luto da professora que perdeu mais de 200 alunos no duplo terremoto na Venezuela: 'Eram como meus filhos'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck3re23jvxezo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 21 Sep 2026 21:28:10 GMT",
+      "tema": "mundo",
+      "resumo": "Professora na Venezuela relata o impacto emocional de perder mais de 200 alunos nos terremotos que atingiram o norte do país em junho."
     },
     {
       "titulo": "9 pontos da entrevista com irmão da princesa Diana —  e o que eles revelam sobre a monarquia britânica",
@@ -157,7 +197,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cq5y4ejdyxlmo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 21 Sep 2026 13:36:51 GMT",
       "tema": "entretenimento",
-      "resumo": "O conde Spencer, irmão da princesa Diana, concede entrevista à BBC sobre revelações em novo livro que aborda a vida da princesa e insights sobre a monarquia britânica."
+      "resumo": "Conde Spencer, irmão da princesa Diana, participa de entrevista sobre revelações em seu novo livro que trata da monarquia britânica."
     },
     {
       "titulo": "A nova e implacável tática russa contra moradores da capital da Ucrânia",
@@ -165,23 +205,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cwp80p5pn8lyo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 21 Sep 2026 10:54:14 GMT",
       "tema": "mundo",
-      "resumo": "Moradores de Kiev enfrentam ataques russos cada vez mais frequentes e intensos, aumentando a apreensão na capital ucraniana."
+      "resumo": "Ataques russos contra Kiev aumentam em frequência e intensidade, deixando moradores da capital ucraniana sob pressão constante."
     },
     {
       "titulo": "Do voto feminino à habitação popular: quem foi Carmen Portinho, pioneira do feminismo no Brasil",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/ckg3ydpz23ro?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 21 Sep 2026 08:04:40 GMT",
-      "tema": "cultura",
-      "resumo": "Carmen Portinho foi uma das pioneiras da luta pelo voto feminino no Brasil e primeira mulher brasileira a obter o título de urbanista, deixando legado significativo para o feminismo e o planejamento urbano nacional."
-    },
-    {
-      "titulo": "Você sente culpa ao avisar no trabalho que está doente? Talvez seja por isso...",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6x2z4lex5ywo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 21 Sep 2026 07:33:41 GMT",
-      "tema": "mundo",
-      "resumo": "Pesquisa mostra que até metade das pessoas no Reino Unido trabalha mesmo estando doentes, fenômeno complexo com múltiplas causas psicológicas e sociais segundo especialistas."
+      "tema": "brasil",
+      "resumo": "Perfil histórico de Carmen Portinho, pioneira do feminismo e primeira mulher brasileira a obter título de urbanista, que também atuou na luta pelo voto feminino."
     },
     {
       "titulo": "Por que grandes petroleiras americanas não integram acordo que dá controle de reservas da Venezuela aos EUA de Trump",
@@ -189,23 +221,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cm89jqkqnzd5o?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 20 Sep 2026 17:26:33 GMT",
       "tema": "mundo",
-      "resumo": "Acordo petrolífero entre EUA e Venezuela envolve empresa pouco conhecida em vez de gigantes tradicionais como ExxonMobil, levantando questões sobre estrutura do negócio."
-    },
-    {
-      "titulo": "Chanceler alemão diz que permanecerá no cargo após 'desastre' nas eleições e crescente pressão",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cv4g50pnnx23o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 20 Sep 2026 19:05:05 GMT",
-      "tema": "mundo",
-      "resumo": "Chanceler alemão Friedrich Merz permanecerá no cargo apesar de perdas significativas do partido CDU em eleições estaduais recentes em Berlim e Mecklemburgo-Pomerânia Ocidental."
-    },
-    {
-      "titulo": "'Não tenho notícias dele há quase cinco anos': as mães que procuram seus filhos no sistema prisional do regime de exceção de Bukele em El Salvador",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjly49n167n0o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 20 Sep 2026 08:13:08 GMT",
-      "tema": "mundo",
-      "resumo": "Mães procuram filhos desaparecidos no sistema prisional de El Salvador sob regime de exceção, formando grupo de apoio chamado Mães pela Liberdade para investigar o paradeiro de detidos."
+      "resumo": "Análise sobre por que grandes petroleiras americanas não participam do acordo de controle de reservas petroleiras da Venezuela firmado com o governo dos EUA."
     },
     {
       "titulo": "A remota ilha onde hackers se preparam para nos defender de uma guerra invisível",
@@ -213,7 +229,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cke87p208rg9o?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 21 Sep 2026 00:39:06 GMT",
       "tema": "mundo",
-      "resumo": "Especialistas em cibersegurança trabalham em ilha remota no Ártico para testar vulnerabilidades e preparar defesas contra possíveis ataques hacker em infraestruturas críticas globais."
+      "resumo": "Especialistas em segurança cibernética trabalham em ilha remota do Ártico para estudar vulnerabilidades e preparar defesas contra possíveis ataques digitais."
     },
     {
       "titulo": "Ucrânia lança cerca de 450 drones contra Moscou no maior ataque à capital russa, diz prefeito",
@@ -221,7 +237,15 @@
       "link": "https://www.bbc.com/portuguese/articles/cr4gv45gyepeo?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 20 Sep 2026 20:32:25 GMT",
       "tema": "mundo",
-      "resumo": "Ucrânia lançou cerca de 450 drones contra Moscou em um dos maiores ataques à capital russa, com relato de duas mortes segundo o prefeito da cidade."
+      "resumo": "Ucrânia realiza seu maior ataque à capital russa com cerca de 450 drones; autoridades russas afirmam ter interceptado os dispositivos durante o ataque noturno."
+    },
+    {
+      "titulo": "'Não tenho notícias dele há quase cinco anos': as mães que procuram seus filhos no sistema prisional do regime de exceção de Bukele em El Salvador",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cjly49n167n0o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 20 Sep 2026 08:13:08 GMT",
+      "tema": "mundo",
+      "resumo": "Mães procuram familiares desaparecidos no sistema prisional de El Salvador durante regime de exceção, formando grupos de apoio mútuo."
     },
     {
       "titulo": "Os cientistas que salvam filhotes de araras de seus pais assassinos",
@@ -229,23 +253,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cj750eqx6kz2o?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 20 Sep 2026 19:39:32 GMT",
       "tema": "cultura",
-      "resumo": "Cientistas trabalham na preservação da araracanga através de programa que protege filhotes de comportamentos destrutivos dos pais, buscando aumentar sobrevivência da espécie em seu habitat natural."
-    },
-    {
-      "titulo": "A guerra pode se espalhar pela Europa. Você está psicologicamente preparado?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c8ly4gy36yr0o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 20 Sep 2026 20:12:48 GMT",
-      "tema": "mundo",
-      "resumo": "Governo e forças armadas britânicas alertam sobre aumento do risco de conflito na Europa, mas população pode não estar psicologicamente preparada para cenário de guerra."
-    },
-    {
-      "titulo": "O aventureiro britânico que partiu do Chile e há 28 anos percorre o mundo a pé",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6vgyz14p0x8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 20 Sep 2026 23:13:19 GMT",
-      "tema": "mundo",
-      "resumo": "Aventureiro britânico Karl Bushby completa 28 anos de viagem a pé pelo mundo, com retorno à casa se aproximando após jornada que começou no Chile."
+      "resumo": "Cientistas trabalham em programas de conservação da araracanga na América Latina, intervindo para salvar filhotes e garantir a sobrevivência da espécie."
     }
   ]
 }
