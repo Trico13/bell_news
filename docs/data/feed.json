@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-22T18:30:12.972Z",
-  "modo": "ia",
+  "gerado_em": "2026-09-22T23:29:22.066Z",
+  "modo": "palavras-chave",
   "clima": {
     "max": 23,
     "min": 17.1,
@@ -8,92 +8,124 @@
   },
   "noticias": [
     {
-      "titulo": "Em dupla com Renner, Rick fez nome no universo sertanejo nos anos 1990 ao pôr leveza no romantismo do gênero",
+      "titulo": "Orleans Brandão cumpre agenda em Vila Nova dos Martírios e apresenta propostas para a juventude",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/09/22/em-dupla-com-renner-rick-fez-nome-no-universo-sertanejo-nos-anos-1990-ao-por-leveza-no-romantismo-do-genero.ghtml",
-      "hora": "Tue, 22 Sep 2026 18:21:58 -0000",
-      "tema": "cultura",
-      "resumo": "O cantor Rick, da dupla Rick & Renner que marcou o sertanejo dos anos 1990, morreu aos 59 anos em um acidente de helicóptero em Santa Catarina."
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/09/22/orleans-brandao-cumpre-agenda-em-vila-nova-dos-martirios-e-apresenta-propostas-para-a-juventude.ghtml",
+      "hora": "Tue, 22 Sep 2026 23:25:55 -0000",
+      "tema": "brasil",
+      "resumo": null
     },
     {
-      "titulo": "Ator francês morre por eutanásia; veja onde morte assistida é permitida e por que Brasil proíbe ",
+      "titulo": "Suspeito de envolvimento na morte de guarda civil de Salvador é preso na Bahia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/saude/noticia/2026/09/22/ator-frances-morre-por-eutanasia-veja-onde-morte-assistida-e-permitida-e-por-que-brasil-proibe.ghtml",
-      "hora": "Tue, 22 Sep 2026 18:20:45 -0000",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/22/suspeito-de-envolvimento-na-morte-de-guarda-civil-e-preso-na-bahia.ghtml",
+      "hora": "Tue, 22 Sep 2026 23:25:33 -0000",
       "tema": "mundo",
-      "resumo": "A morte do ator francês Arnaud Denis por eutanásia na Bélgica reacende o debate sobre morte assistida, permitida em alguns países europeus mas proibida no Brasil."
+      "resumo": null
     },
     {
-      "titulo": "Vídeo mostra parte do trajeto de dentista antes de desaparecer no interior de SP; veja",
+      "titulo": "Projeto estuda efeitos das altas temperaturas e busca soluções para reduzir impactos em Teresina",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/22/video-mostra-parte-do-trajeto-de-dentista-antes-de-desaparecer-no-interior-de-sp-veja.ghtml",
-      "hora": "Tue, 22 Sep 2026 18:18:08 -0000",
-      "tema": "sp",
-      "resumo": "Câmeras de segurança registram parte do trajeto de um dentista de Itu que desapareceu no interior de São Paulo após entregar uma prótese."
-    },
-    {
-      "titulo": " Empresário de Rick e Renner no início da carreira da dupla lamenta morte de cantor: ‘Privilégio de compartilhar sonhos’",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/09/22/ex-empresario-rick-e-renner-de-botucatu.ghtml",
-      "hora": "Tue, 22 Sep 2026 18:15:36 -0000",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/09/22/projeto-efeitos-altas-temperaturas.ghtml",
+      "hora": "Tue, 22 Sep 2026 23:23:28 -0000",
       "tema": "cultura",
-      "resumo": "O empresário que gerenciou a carreira inicial de Rick & Renner lamenta a morte do cantor, destacando a importância de terem compartilhado sonhos na década de 1990."
+      "resumo": null
     },
     {
-      "titulo": "Zezé resgata foto antiga com Rick após a morte do cantor: ‘Sem palavras para expressar o que estou sentido’",
+      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao Governo do Piauí nesta terça (22)",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/09/22/zeze-di-camargo-lamenta-morte-de-rick-em-queda-de-helicoptero.ghtml",
-      "hora": "Tue, 22 Sep 2026 18:15:10 -0000",
+      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-terca-22.ghtml",
+      "hora": "Tue, 22 Sep 2026 23:23:17 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Cafeicultor estima perda de 20% da produção após chuva de granizo no interior de SP: 'Está de assustar'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/09/22/cafeicultor-estima-perda-de-20percent-da-producao-apos-chuva-de-granizo-no-interior-de-sp-esta-de-assustar.ghtml",
+      "hora": "Tue, 22 Sep 2026 23:19:29 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Arena de rodeio em feira agropecuária recebe nome de vice-prefeito que morreu no interior do Acre",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/09/22/arena-de-rodeio-em-feira-agropecuaria-recebe-nome-de-vice-prefeito-que-morreu-no-acre.ghtml",
+      "hora": "Tue, 22 Sep 2026 23:19:24 -0000",
       "tema": "entretenimento",
-      "resumo": "O cantor Zezé Di Camargo lamentou a morte de Rick em acidente de helicóptero e resgatou uma foto antiga com o colega de profissão."
+      "resumo": null
     },
     {
-      "titulo": "Professor Jurity propõe adutora para levar água a 51 municípios do Piauí",
+      "titulo": "André Luis visita Fiema e apresenta propostas para ampliar oportunidades de emprego para jovens no Maranhão",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/22/professor-jurity-agenda-terca-22.ghtml",
-      "hora": "Tue, 22 Sep 2026 18:14:25 -0000",
-      "tema": "brasil",
-      "resumo": "Candidato ao Governo do Piauí apresenta proposta de construir uma adutora para levar água a 51 municípios do estado."
+      "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/22/andre-luis-visita-fiema-e-apresenta-propostas-para-ampliar-oportunidades-de-emprego-para-jovens-no-maranhao.ghtml",
+      "hora": "Tue, 22 Sep 2026 23:18:17 -0000",
+      "tema": "mundo",
+      "resumo": null
     },
     {
-      "titulo": "Ufersa abre concurso com 25 vagas para professores; veja áreas e como se inscrever",
+      "titulo": "Mongaguá doa terreno ao Minha Casa, Minha Vida e prevê até 60% das unidades para servidores",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/22/ufersa-concurso-professores.ghtml",
-      "hora": "Tue, 22 Sep 2026 18:14:17 -0000",
-      "tema": "brasil",
-      "resumo": "A Universidade Federal Rural do Semi-Árido abre concurso público com 25 vagas para professor em seus campi no interior do Nordeste."
-    },
-    {
-      "titulo": "Volta Redonda anuncia concurso público com vagas para nível superior ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/22/volta-redonda-anuncia-concurso-publico-com-vagas-para-nivel-superior.ghtml",
-      "hora": "Tue, 22 Sep 2026 18:13:54 -0000",
-      "tema": "brasil",
-      "resumo": "A prefeitura de Volta Redonda anuncia concurso público com 400 vagas para nível superior em diferentes áreas da administração municipal."
-    },
-    {
-      "titulo": "Em carta a ministros do STF, Henrique Vorcaro diz que não pode ser arrastado para caso Master por ser pai de banqueiro",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/22/em-carta-a-ministros-do-stf-henrique-vorcaro-diz-que-nao-pode-ser-arrastado-para-caso-master-por-ser-pai-de-banqueiro.ghtml",
-      "hora": "Tue, 22 Sep 2026 18:13:38 -0000",
-      "tema": "brasil",
-      "resumo": "Empresário preso em operação de combate a fraudes envia carta aos ministros do STF argumentando que não deve ser responsabilizado por ações de seu filho."
-    },
-    {
-      "titulo": "Rick e Renner se conheceram e começaram carreira em Brasília; conheça a história do encontro",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/22/rick-e-renner-se-conheceram-e-comecaram-carreira-em-brasilia-conheca-a-historia-do-encontro.ghtml",
-      "hora": "Tue, 22 Sep 2026 18:13:09 -0000",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/22/mongagua-doa-terreno-ao-minha-casa-minha-vida-e-preve-ate-60percent-das-unidades-para-servidores.ghtml",
+      "hora": "Tue, 22 Sep 2026 23:15:01 -0000",
       "tema": "cultura",
-      "resumo": "A trajetória da dupla Rick & Renner é relembrada: os dois se conheceram e iniciaram carreira em Brasília, consolidando uma parceria de mais de 40 anos."
+      "resumo": null
     },
     {
-      "titulo": "PF cumpre mandados em Belém de Maria por suspeita de fraude em domicílio eleitoral ",
+      "titulo": "Corpos de Rick e outros 4 mortos em queda de helicóptero chegam ao IML; acompanhe a cobertura",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/09/22/pf-cumpre-mandados-em-belem-de-maria-por-suspeita-de-fraude-em-domicilio-eleitoral.ghtml",
-      "hora": "Tue, 22 Sep 2026 18:12:38 -0000",
+      "link": "https://g1.globo.com/sc/santa-catarina/ao-vivo/cantor-rick-helicoptero-buscas-serra-santa-catarina.ghtml",
+      "hora": "Tue, 22 Sep 2026 23:14:47 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Suspeitos de retirar jovem de policlínica em Feira de Santana para matá-lo são capturados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/09/22/suspeitos-de-matar-jovem-em-policlinica-sao-capturados.ghtml",
+      "hora": "Tue, 22 Sep 2026 23:14:47 -0000",
       "tema": "brasil",
-      "resumo": "A Polícia Federal cumpre mandados em Pernambuco para investigar suspeita de fraude em domicílio eleitoral e falsificação de comprovantes de residência."
+      "resumo": null
+    },
+    {
+      "titulo": "East Bay Ray, guitarrista e fundador do Dead Kennedys, é diagnosticado com Parkinson",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pop-arte/noticia/2026/09/22/east-bay-ray-guitarrista-e-fundador-do-dead-kennedys-e-diagnosticado-com-parkinson.ghtml",
+      "hora": "Tue, 22 Sep 2026 23:12:38 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Hóspede de pousada é preso por agressão e injúria contra mulher em Cabreúva",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/22/hospede-de-pousada-e-preso-por-agressao-e-injuria-contra-mulher-em-cabreuva.ghtml",
+      "hora": "Tue, 22 Sep 2026 23:12:33 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: Jornal do Acre 2ª Edição desta terça-feira, 22 de setembro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-terca-feira-22-de-setembro-de-2026.ghtml",
+      "hora": "Tue, 22 Sep 2026 23:10:12 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Filhotes de onça-parda resgatados ao se perderem da mãe são transferidos de zoobotânico no interior de SP ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/22/filhotes-de-onca-parda-resgatados-ao-se-perderem-da-mae-sao-transferidos-de-zoobotanico-no-interior-de-sp.ghtml",
+      "hora": "Tue, 22 Sep 2026 23:09:50 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleições 2026: Wilder Morais promete criação de ‘tabela SUS’ para diminuir filas de espera na saúde",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/22/eleicoes-2026-wilder-morais-promete-criacao-de-tabela-sus-para-diminuir-filas-de-espera-na-saude.ghtml",
+      "hora": "Tue, 22 Sep 2026 23:08:22 -0000",
+      "tema": "mundo",
+      "resumo": null
     },
     {
       "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
@@ -101,15 +133,23 @@
       "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
       "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
       "tema": "sp",
-      "resumo": "Festival de bicicletas na Zona Sul de São Paulo reúne ciclistas profissionais e amadores para competições de manobras e atividades recreativas."
+      "resumo": null
     },
     {
       "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
       "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
-      "tema": "sp",
-      "resumo": "Um desempregado percorreu 20 quilômetros de bicicleta para participar de seleção com 500 vagas de emprego no interior de São Paulo, enfrentando fila de 12 horas."
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "'Não foi uma fatalidade', diz viúva de homem morto em acidente no Beach Park",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2018/07/23/nao-foi-uma-fatalidade-diz-viuva-de-homem-morto-em-acidente-no-beach-park.ghtml",
+      "hora": "Mon, 23 Jul 2018 00:24:35 -0000",
+      "tema": "cultura",
+      "resumo": null
     },
     {
       "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
@@ -117,7 +157,7 @@
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
       "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
       "tema": "cultura",
-      "resumo": "O cantor Zé Ramalho apresenta sucessos de sua carreira e homenageia Raul Seixas na Festa Junina de Sorocaba."
+      "resumo": null
     },
     {
       "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
@@ -125,78 +165,127 @@
       "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
       "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
       "tema": "sp",
-      "resumo": "A Polícia Rodoviária Federal apreende 927 quilos de maconha em Mato Grosso do Sul que seria entregue em São Paulo; motorista confessou o tráfico."
+      "resumo": null
     },
     {
       "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
       "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
-      "tema": "sp",
-      "resumo": "Jundiaí realiza a terceira edição da Festa Junina Canina com entrada gratuita, brincadeiras e atrações para cães e gatos."
+      "tema": "mundo",
+      "resumo": null
     },
     {
       "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
       "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
-      "tema": "sp",
-      "resumo": "Festival de música eletrônica espera reunir 35 mil pessoas em São Paulo com 10 horas de shows, incluindo apresentação de Anitta e MCs."
+      "tema": "cultura",
+      "resumo": null
     },
     {
       "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
       "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
-      "tema": "brasil",
-      "resumo": "O PSTU oficializa a militante sindical Vera Lúcia como candidata à Presidência da República nas próximas eleições."
+      "tema": "sp",
+      "resumo": null
     },
     {
       "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
       "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
-      "tema": "sp",
-      "resumo": "Feira do setor imobiliário e da construção civil acontece em Jundiaí com programação até o final de semana e entrada gratuita."
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Caso Vitória: trio acusado de envolvimento no crime é transferido para Tremembé",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2018/07/20/caso-vitoria-trio-acusado-de-envolvimento-no-crime-e-transferido-para-tremembe.ghtml",
+      "hora": "Fri, 20 Jul 2018 18:44:51 -0000",
+      "tema": "mundo",
+      "resumo": null
     },
     {
       "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
       "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
-      "tema": "sp",
-      "resumo": "A prefeitura de Tabapuã abre inscrições até 31 de julho para concurso público com 34 vagas em diversos cargos do Executivo municipal."
+      "tema": "mundo",
+      "resumo": null
     },
     {
       "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
       "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
-      "tema": "sp",
-      "resumo": "Homem em situação de rua em Campinas reencontra sua família após 37 anos de separação, graças a um boletim de ocorrência que facilitou o reencontro."
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Chefe de facção que atua dentro e fora dos presídios brasileiros é transferido da PF em Foz do Iguaçu",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2018/07/20/chefe-de-faccao-que-atua-dentro-e-fora-dos-presidios-brasileiros-e-transferido-da-pf-em-foz-do-iguacu.ghtml",
+      "hora": "Fri, 20 Jul 2018 10:55:41 -0000",
+      "tema": "checagem",
+      "resumo": null
     },
     {
       "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
       "fonte": "G1 São Paulo",
       "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
       "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
-      "tema": "sp",
-      "resumo": "Pai de monsenhor que seria ordenado bispo morre em acidente de trânsito dias antes da cerimônia em Itapetininga."
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Beach Park diz que checa peso e altura dos visitantes nos brinquedos; testemunha nega",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2018/07/19/beach-park-diz-que-checa-peso-e-altura-dos-visitantes-nos-brinquedos-testemunha-nega.ghtml",
+      "hora": "Thu, 19 Jul 2018 21:48:36 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Discurso de Trump na ONU amplia foco sobre América Latina às vésperas das eleições brasileiras",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cj3v4y3vw3w2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 22 Sep 2026 22:29:59 GMT",
+      "tema": "brasil",
+      "resumo": null
     },
     {
       "titulo": "Como Rick, da dupla Rick & Renner, ajudou a renovar a sertanejo",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c574eyxvzjzlo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 22 Sep 2026 16:09:08 GMT",
-      "tema": "entretenimento",
-      "resumo": "Rick, da dupla Rick & Renner, participou de movimento nos anos 1990 que trouxe uma abordagem mais leve e sensual à música sertaneja."
+      "hora": "Tue, 22 Sep 2026 22:14:07 GMT",
+      "tema": "mundo",
+      "resumo": null
     },
     {
-      "titulo": "Como foram discursos de Lula e Trump na Assembleia Geral da ONU",
+      "titulo": "Morre cantor sertanejo Rick em acidente de helicóptero que matou outras 4 pessoas; o que se sabe",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/cq2e0yxwwpvzt?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.com/portuguese/articles/cqpvepex8n43o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 22 Sep 2026 16:50:45 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Como é feito o controle de voo dos helicópteros — e por que alguns 'somem do radar' mesmo sem acidentes",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmvgydnl9j18o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 22 Sep 2026 20:56:49 GMT",
       "tema": "mundo",
-      "resumo": "Lula e Trump discursaram na Assembleia Geral da ONU, sem encontro bilateral agendado entre os dois."
+      "resumo": null
+    },
+    {
+      "titulo": "Hayden Panettiere: o que autópsia revela sobre causa da morte da atriz",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6n07vrxz25do?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 22 Sep 2026 21:43:43 GMT",
+      "tema": "mundo",
+      "resumo": null
     },
     {
       "titulo": "Na ONU, Lula critica ação dos EUA na região: 'Brasil não cabe no quintal de ninguém'",
@@ -204,15 +293,62 @@
       "link": "https://www.bbc.com/portuguese/articles/c5wyze0jej7vo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 22 Sep 2026 17:35:21 GMT",
       "tema": "brasil",
-      "resumo": "Lula discursa na ONU criticando pressões dos EUA sobre o Brasil no combate ao crime organizado, afirmando que o país não terceirizará sua segurança."
+      "resumo": null
     },
     {
       "titulo": "Trump ameaça usar poder militar dos EUA para garantir 'interesses' na América Latina",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cq3d7ykxgj3no?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 22 Sep 2026 16:15:43 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "'Nunca tinha visto modelos apontarem uma área tão grande de risco': temporal que já deixou vítimas no RS agora ameaça Estado com enchentes",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cw5y4ej510zko?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 22 Sep 2026 13:38:29 GMT",
       "tema": "mundo",
-      "resumo": "Trump discursa na ONU ameaçando usar poder militar dos EUA para garantir interesses na América Latina."
+      "resumo": null
+    },
+    {
+      "titulo": "Flávio Bolsonaro mantém liderança sobre Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 22 Sep 2026 16:38:58 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Clique aqui",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 22 Sep 2026 16:38:58 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "'A próxima coisa que veremos é ação militar direta dos EUA em diferentes países', diz jornalista americano especializado em América Latina",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6rm9lpjz8m2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 21 Sep 2026 19:16:24 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Como foram discursos de Lula e Trump na Assembleia Geral da ONU",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.co.uk/portuguese/live/cq2e0yxwwpvzt?at_medium=RSS&at_campaign=rss",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Eles viram a mãe ser assassinada e foram baleados pelo próprio pai — como irmãos lutaram anos por Justiça",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwly7e47gezro?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 22 Sep 2026 21:56:02 GMT",
+      "tema": "cultura",
+      "resumo": null
     },
     {
       "titulo": "Mendonça se manifesta sobre acusações de Moraes: 'Denunciação caluniosa e abuso de autoridade'",
@@ -220,15 +356,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cw1l6yv2lmzpo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 22 Sep 2026 13:53:52 GMT",
       "tema": "brasil",
-      "resumo": "Ministra Mendonça se manifesta contra acusações de Moraes, pedindo arquivamento da representação e proibição de relatórios da PF sobre ministros do STF."
-    },
-    {
-      "titulo": "'Nunca tinha visto modelos apontarem uma área tão grande de risco': temporal que já deixou vítimas no RS agora ameaça Estado com enchentes",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw5y4ej510zko?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 22 Sep 2026 13:38:29 GMT",
-      "tema": "brasil",
-      "resumo": "Temporal no Rio Grande do Sul ameaça o estado com enchentes, com alerta vermelho para 699 municípios do Sul e confirmação de vítimas."
+      "resumo": null
     },
     {
       "titulo": "Campanha de Jaques Wagner vai à Justiça e derruba site que exibia mensagens de Daniel Vorcaro",
@@ -236,47 +364,7 @@
       "link": "https://www.bbc.com/portuguese/articles/cr3wj2jljej0o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 22 Sep 2026 12:56:25 GMT",
       "tema": "brasil",
-      "resumo": "Campanha de Jaques Wagner obtém decisão judicial para derrubar site que exibia mensagens atribuídas a figuras públicas."
-    },
-    {
-      "titulo": "'A próxima coisa que veremos é ação militar direta dos EUA em diferentes países', diz jornalista americano especializado em América Latina",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6rm9lpjz8m2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 21 Sep 2026 19:16:24 GMT",
-      "tema": "mundo",
-      "resumo": "Jornalista americano especializado em América Latina comenta sobre possível ação militar direta dos EUA na região sob influência de Trump."
-    },
-    {
-      "titulo": "Por que os Estados da antiga Alemanha comunista passaram a ser o bastião da extrema direita no país",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqm27je7wyk0o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 22 Sep 2026 16:58:00 GMT",
-      "tema": "mundo",
-      "resumo": "Estados do leste alemão tornaram-se bastião da extrema direita devido a fatores como imigração, queda econômica e legado da reunificação."
-    },
-    {
-      "titulo": "'Eu não quero morrer, quero parar de sentir dor': os anos sem diagnóstico que levaram jovem a pedir a eutanásia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c4gv30ly4rzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 22 Sep 2026 09:32:26 GMT",
-      "tema": "mundo",
-      "resumo": "Jovem na Colômbia pede eutanásia após uma década de diagnósticos errados e endometriose em estágio grave sem alívio da dor."
-    },
-    {
-      "titulo": "Primavera começa nesta terça: o que esperar da estação com o El Niño no Brasil",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6rr48988ggzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 22 Sep 2026 10:54:00 GMT",
-      "tema": "brasil",
-      "resumo": "Primavera começa com previsões de mais eventos extremos no Sul e seca mais intensa no Centro-Norte, influenciadas pelo El Niño."
-    },
-    {
-      "titulo": "A propaganda da Converse que foi retirada por ser 'profundamente perturbadora' e acusada de racista",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm4glyz668gyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 22 Sep 2026 09:51:58 GMT",
-      "tema": "cultura",
-      "resumo": "Converse retira propaganda acusada de racista após usuários apontarem similaridade com símbolos da Ku Klux Klan."
+      "resumo": null
     }
   ]
 }
