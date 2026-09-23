@@ -1,122 +1,122 @@
 {
-  "gerado_em": "2026-09-23T14:40:57.904Z",
+  "gerado_em": "2026-09-23T18:50:35.143Z",
   "modo": "palavras-chave",
   "clima": {
     "max": 17.4,
     "min": 12.9,
-    "chuva": 98
+    "chuva": 97
   },
   "noticias": [
     {
-      "titulo": "Calculadora da Charão ajuda a proteger lucro e margem na Reforma Tributária",
+      "titulo": "Justiça suspende eleição da Mesa Diretora da Câmara de São Luís para o biênio 2027-2028",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/especial-publicitario/charao-tributario/noticia/2026/09/23/calculadora-da-charao-ajuda-a-proteger-lucro-e-margem-na-reforma-tributaria.ghtml",
-      "hora": "Wed, 23 Sep 2026 14:28:37 -0000",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/09/23/justica-suspende-eleicao-da-mesa-diretora-da-camara-de-sao-luis-para-o-bienio-2027-2028.ghtml",
+      "hora": "Wed, 23 Sep 2026 18:39:28 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Na ONU, presidente do Irã acusa EUA e Israel de terrorismo e diz que paz no Oriente Médio é impossível sem justiça para Palestina; SIGA",
+      "titulo": "Santarém decreta emergência social por aumento de indígenas venezuelanos da etnia Warao",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
-      "hora": "Wed, 23 Sep 2026 14:28:32 -0000",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/23/santarem-decreta-emergencia-social-por-aumento-de-indigenas-venezuelanos-da-etnia-warao.ghtml",
+      "hora": "Wed, 23 Sep 2026 18:37:21 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Morte do cantor Rick: localização enviada por piloto a sobrinho ajudou a guiar local de destroços de helicóptero com 5 mortos ",
+      "titulo": "Urano Contabilidade orienta empresários sobre holdings e reforma tributária",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/23/localizacao-enviada-piloto-a-sobrinho-guiou-local-de-destrocos-queda-helicoptero.ghtml",
-      "hora": "Wed, 23 Sep 2026 14:27:17 -0000",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/especial-publicitario/urano-contabilidade/noticia/2026/09/23/urano-contabilidade-orienta-empresarios-sobre-holdings-e-reforma-tributaria.ghtml",
+      "hora": "Wed, 23 Sep 2026 18:36:06 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem invade casa da ex quando ela se preparava para ir à igreja e a mantém em cárcere privado em MG",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/23/homem-invade-casa-da-ex-quando-ela-se-preparava-para-ir-a-igreja-e-a-mantem-em-carcere-privado-em-mg.ghtml",
+      "hora": "Wed, 23 Sep 2026 18:35:28 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Filme sobre Chorão ganha título oficial e cartaz com José Loreto; confira",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/23/filme-sobre-chorao-ganha-titulo-oficial-e-cartaz-com-jose-loreto-confira.ghtml",
+      "hora": "Wed, 23 Sep 2026 18:34:02 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Suspeito que usava mochila de entregador para assaltar morre em troca de tiros com a polícia no AP ",
+      "titulo": "Acidente entre moto e carreta deixa uma pessoa morta na BR-020, no Piauí",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/09/23/suspeito-que-usava-mochila-de-entregador-para-assaltar-morre-em-troca-de-tiros-com-a-policia-no-ap.ghtml",
-      "hora": "Wed, 23 Sep 2026 14:26:44 -0000",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/09/23/acidente-br-020.ghtml",
+      "hora": "Wed, 23 Sep 2026 18:30:09 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Hospital Universitário abre processo seletivo com mais de 200 vagas temporárias",
+      "titulo": "Adolescente morre após ser esfaqueado durante discussão em Juiz de Fora",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/23/hospital-universitario-abre-processo-seletivo-com-mais-de-200-vagas-temporarias.ghtml",
-      "hora": "Wed, 23 Sep 2026 14:26:15 -0000",
+      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/09/23/adolescente-morre-apos-ser-esfaqueado-durante-discussao-em-juiz-de-fora.ghtml",
+      "hora": "Wed, 23 Sep 2026 18:28:12 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Criança de 8 anos liga para a Polícia Militar e salva mãe e irmãos de violência doméstica",
+      "titulo": "Evento em Altamira, no PA, capacita agentes para facilitar crédito rural na Amazônia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/23/crianca-de-8-anos-liga-para-a-policia-militar-e-salva-mae-e-irmaos-de-violencia-domestica.ghtml",
-      "hora": "Wed, 23 Sep 2026 14:23:18 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Medicina no UNI-CET: inscrições para o vestibular de 2027 já estão abertas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/especial-publicitario/unicet/noticia/2026/09/23/medicina-no-uni-cet-inscricoes-para-o-vestibular-de-2027-ja-estao-abertas.ghtml",
-      "hora": "Wed, 23 Sep 2026 14:22:07 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Morar bem é viver melhor: escolha o imóvel certo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/especial-publicitario/construtora-arco-iris-mar/noticia/2026/09/23/morar-bem-e-viver-melhor-escolha-o-imovel-certo.ghtml",
-      "hora": "Wed, 23 Sep 2026 14:21:24 -0000",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/09/23/evento-em-altamira-no-pa-capacita-agentes-para-facilitar-credito-rural-na-amazonia.ghtml",
+      "hora": "Wed, 23 Sep 2026 18:27:22 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Operação descobre quase dez quilos de drogas em carro na BR-101, em Rio Bonito",
+      "titulo": "Zelensky diz que Rússia quer expandir a guerra; ACOMPANHE a Assembleia Geral",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/09/23/operacao-descobre-quase-dez-quilos-de-drogas-em-carro-na-br-101-em-rio-bonito.ghtml",
-      "hora": "Wed, 23 Sep 2026 14:21:09 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "As ambições da China com IA em meio às conversas de Trump com Xi",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/23/as-ambicoes-da-china-com-ia-em-meio-as-conversas-de-trump-com-xi.ghtml",
-      "hora": "Wed, 23 Sep 2026 14:21:06 -0000",
+      "link": "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
+      "hora": "Wed, 23 Sep 2026 18:25:25 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "VÍDEO: mulher é resgatada em estado grave após cair em bueiro de rodovia em Indaiatuba",
+      "titulo": "Fumaça: rede de saúde do AM registra 132 atendimentos por problemas respiratórios em quase 3 meses",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/23/video-mulher-e-resgatada-em-estado-grave-apos-cair-em-bueiro-de-rodovia-em-indaiatuba.ghtml",
-      "hora": "Wed, 23 Sep 2026 14:20:35 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Flávio Bolsonaro espera sair na frente no primeiro turno para atrair apoio do Centrão",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/23/flavio-bolsonaro-espera-sair-na-frente-no-primeiro-turno-para-atrair-apoio-do-centrao.ghtml",
-      "hora": "Wed, 23 Sep 2026 14:20:24 -0000",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/23/fumaca-rede-de-saude-do-am-registra-132-atendimentos-por-problemas-respiratorios-em-quase-3-meses.ghtml",
+      "hora": "Wed, 23 Sep 2026 18:25:06 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "IFMA divulga edital com 640 vagas para cursos técnicos gratuitos na modalidade EJA",
+      "titulo": "Detonautas em Toritama, exposição de carros antigos e shows em Caruaru animam agenda cultural no interior de PE",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/09/23/ifma-divulga-edital-com-640-vagas-para-cursos-tecnicos-gratuitos-na-modalidade-eja.ghtml",
-      "hora": "Wed, 23 Sep 2026 14:17:19 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/09/23/detonautas-em-toritama-exposicao-de-carros-antigos-e-shows-em-caruaru-animam-agenda-cultural-no-interior-de-pe.ghtml",
+      "hora": "Wed, 23 Sep 2026 18:23:03 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Sabor de Casa: aprenda a fazer peperkoek, o bolo de especiarias holandês",
+      "titulo": "VÍDEO: 'Homem incrível': soldado da PM pede namorada em casamento durante formatura em Santarém",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/receitas/noticia/2026/09/23/sabor-de-casa-aprenda-a-fazer-peperkoek-o-bolo-de-especiarias-holandes.ghtml",
-      "hora": "Wed, 23 Sep 2026 14:16:31 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/23/video-homem-incrivel-soldado-da-pm-pede-namorada-em-casamento-durante-formatura-em-santarem.ghtml",
+      "hora": "Wed, 23 Sep 2026 18:22:55 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Chuva forte vai continuar no Sudeste nesta quinta e alcançar parte do Centro-Oeste",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/meio-ambiente/noticia/2026/09/23/chuva-previsao-quarta-quinta.ghtml",
+      "hora": "Wed, 23 Sep 2026 18:21:16 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "STF conclui julgamento e  decide igualar licença maternidade de mães biológica e adotivas ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/23/stf-conclui-julgamento-e-decide-igualar-licenca-maternidade-de-maes-biologica-e-adotivas.ghtml",
+      "hora": "Wed, 23 Sep 2026 18:20:31 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -272,27 +272,19 @@
       "resumo": null
     },
     {
-      "titulo": "'Drogômetro': novo aparelho que será usado nas blitzes da Lei Seca vai pegar motorista que toma remédio?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/clyr1vkr4r8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 23 Sep 2026 10:00:22 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Liderados por Trump, 14 países da região se comprometem a combater facções e cartéis; documento cita PCC e CV",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cj3v4y3vw3w2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 23 Sep 2026 00:37:54 GMT",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
       "titulo": "Como Rick, da dupla Rick & Renner, ajudou a renovar o sertanejo",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c574eyxvzjzlo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 22 Sep 2026 22:14:07 GMT",
       "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleição 2026: quais são as propostas dos candidatos a presidente?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm2gryker9mo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 23 Sep 2026 17:37:47 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -320,6 +312,22 @@
       "resumo": null
     },
     {
+      "titulo": "'Drogômetro': novo aparelho que será usado nas blitzes da Lei Seca vai pegar motorista que toma remédio?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/clyr1vkr4r8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 23 Sep 2026 10:00:22 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Liderados por Trump, 14 países da região se comprometem a combater facções e cartéis; documento cita PCC e CV",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cj3v4y3vw3w2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 23 Sep 2026 00:37:54 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
       "titulo": "'Nunca tinha visto modelos apontarem uma área tão grande de risco': temporal que já deixou vítimas no RS agora ameaça Estado com enchentes",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cw5y4ej510zko?at_medium=RSS&at_campaign=rss",
@@ -333,22 +341,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cmvgydnl9j18o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 22 Sep 2026 20:56:49 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Hayden Panettiere: o que autópsia revela sobre causa da morte da atriz",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6n07vrxz25do?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 22 Sep 2026 21:43:43 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Na ONU, Lula critica ação dos EUA na região: 'Brasil não cabe no quintal de ninguém'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5wyze0jej7vo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 22 Sep 2026 17:35:21 GMT",
-      "tema": "brasil",
       "resumo": null
     }
   ]
