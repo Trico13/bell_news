@@ -1,122 +1,122 @@
 {
-  "gerado_em": "2026-09-23T18:50:35.143Z",
+  "gerado_em": "2026-09-23T23:25:37.918Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 17.4,
-    "min": 12.9,
+    "max": 16.1,
+    "min": 13,
     "chuva": 97
   },
   "noticias": [
     {
-      "titulo": "Justiça suspende eleição da Mesa Diretora da Câmara de São Luís para o biênio 2027-2028",
+      "titulo": "Delcy Rodríguez, presidente interina da Venezuela, faz seu primeiro discurso na Assembleia Geral da ONU ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/09/23/justica-suspende-eleicao-da-mesa-diretora-da-camara-de-sao-luis-para-o-bienio-2027-2028.ghtml",
-      "hora": "Wed, 23 Sep 2026 18:39:28 -0000",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/23/delcy-rodriguez-presidente-interina-da-venezuela-faz-seu-primeiro-discurso-na-assembleia-geral-da-onu.ghtml",
+      "hora": "Wed, 23 Sep 2026 23:11:35 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Santarém decreta emergência social por aumento de indígenas venezuelanos da etnia Warao",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/23/santarem-decreta-emergencia-social-por-aumento-de-indigenas-venezuelanos-da-etnia-warao.ghtml",
-      "hora": "Wed, 23 Sep 2026 18:37:21 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Urano Contabilidade orienta empresários sobre holdings e reforma tributária",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/especial-publicitario/urano-contabilidade/noticia/2026/09/23/urano-contabilidade-orienta-empresarios-sobre-holdings-e-reforma-tributaria.ghtml",
-      "hora": "Wed, 23 Sep 2026 18:36:06 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem invade casa da ex quando ela se preparava para ir à igreja e a mantém em cárcere privado em MG",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/23/homem-invade-casa-da-ex-quando-ela-se-preparava-para-ir-a-igreja-e-a-mantem-em-carcere-privado-em-mg.ghtml",
-      "hora": "Wed, 23 Sep 2026 18:35:28 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Filme sobre Chorão ganha título oficial e cartaz com José Loreto; confira",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/23/filme-sobre-chorao-ganha-titulo-oficial-e-cartaz-com-jose-loreto-confira.ghtml",
-      "hora": "Wed, 23 Sep 2026 18:34:02 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Acidente entre moto e carreta deixa uma pessoa morta na BR-020, no Piauí",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/09/23/acidente-br-020.ghtml",
-      "hora": "Wed, 23 Sep 2026 18:30:09 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Adolescente morre após ser esfaqueado durante discussão em Juiz de Fora",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/09/23/adolescente-morre-apos-ser-esfaqueado-durante-discussao-em-juiz-de-fora.ghtml",
-      "hora": "Wed, 23 Sep 2026 18:28:12 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Evento em Altamira, no PA, capacita agentes para facilitar crédito rural na Amazônia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/09/23/evento-em-altamira-no-pa-capacita-agentes-para-facilitar-credito-rural-na-amazonia.ghtml",
-      "hora": "Wed, 23 Sep 2026 18:27:22 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Zelensky diz que Rússia quer expandir a guerra; ACOMPANHE a Assembleia Geral",
+      "titulo": "AO VIVO: presidente interina da Venezuela discursa agora na ONU",
       "fonte": "G1",
       "link": "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
-      "hora": "Wed, 23 Sep 2026 18:25:25 -0000",
+      "hora": "Wed, 23 Sep 2026 23:11:31 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Fumaça: rede de saúde do AM registra 132 atendimentos por problemas respiratórios em quase 3 meses",
+      "titulo": "Caminhão é atingido por trem ao tentar cruzar linha férrea em MT; vídeo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/23/fumaca-rede-de-saude-do-am-registra-132-atendimentos-por-problemas-respiratorios-em-quase-3-meses.ghtml",
-      "hora": "Wed, 23 Sep 2026 18:25:06 -0000",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/23/caminhao-e-atingido-por-trem-ao-tentar-cruzar-linha-ferrea-em-mt-video.ghtml",
+      "hora": "Wed, 23 Sep 2026 23:09:51 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Detonautas em Toritama, exposição de carros antigos e shows em Caruaru animam agenda cultural no interior de PE",
+      "titulo": "Círio 2026: veja programação completa da festa de Nossa Senhora de Nazaré no Amapá",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/09/23/detonautas-em-toritama-exposicao-de-carros-antigos-e-shows-em-caruaru-animam-agenda-cultural-no-interior-de-pe.ghtml",
-      "hora": "Wed, 23 Sep 2026 18:23:03 -0000",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/09/23/cirio-2026-veja-programacao-completa-da-festa-de-nossa-senhora-de-nazare-no-amapa.ghtml",
+      "hora": "Wed, 23 Sep 2026 23:09:22 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "VÍDEO: 'Homem incrível': soldado da PM pede namorada em casamento durante formatura em Santarém",
+      "titulo": "Eleições 2026: veja como foi o 39º dia de campanha dos candidatos ao governo do Amapá",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/23/video-homem-incrivel-soldado-da-pm-pede-namorada-em-casamento-durante-formatura-em-santarem.ghtml",
-      "hora": "Wed, 23 Sep 2026 18:22:55 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Chuva forte vai continuar no Sudeste nesta quinta e alcançar parte do Centro-Oeste",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/meio-ambiente/noticia/2026/09/23/chuva-previsao-quarta-quinta.ghtml",
-      "hora": "Wed, 23 Sep 2026 18:21:16 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "STF conclui julgamento e  decide igualar licença maternidade de mães biológica e adotivas ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/23/stf-conclui-julgamento-e-decide-igualar-licenca-maternidade-de-maes-biologica-e-adotivas.ghtml",
-      "hora": "Wed, 23 Sep 2026 18:20:31 -0000",
+      "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/23/eleicoes-2026-veja-como-foi-o-39o-dia-de-campanha-dos-candidatos-ao-governo-do-amapa.ghtml",
+      "hora": "Wed, 23 Sep 2026 23:04:55 -0000",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "TRE-DF veta vídeo eleitoral de Bia Kicis com 'aparição desproporcional' de Michelle Bolsonaro",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/23/tre-df-veta-video-eleitoral-de-bia-kicis-com-aparicao-desproporcional-de-michelle-bolsonaro.ghtml",
+      "hora": "Wed, 23 Sep 2026 23:04:53 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Lula reage, mas empate mineiro mantém eleição aberta; leia análise de Felipe Nunes",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/23/lula-flavio-bolsonaro-empate-mineiro-sudeste-analise-de-felipe-nunes.ghtml",
+      "hora": "Wed, 23 Sep 2026 23:03:03 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Carro sem motorista atravessa rua e cai no rio em Petrópolis; vídeo mostra reação de pedestres",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/09/23/carro-sem-motorista-atravessa-rua-e-cai-no-rio-em-petropolis-video-mostra-reacao-de-pedestres.ghtml",
+      "hora": "Wed, 23 Sep 2026 23:02:52 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem é preso suspeito de manter dependentes químicos em cárcere em clínica clandestina ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/23/homem-e-preso-suspeito-de-manter-dependentes-quimicos-em-carcere-em-clinica-clandestina.ghtml",
+      "hora": "Wed, 23 Sep 2026 22:59:00 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "PM é acionada após apoiadores de partidos adversários entrarem em confronto em rua de BH",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/23/pm-e-acionada-em-bh-apos-apoiadores-de-partidos-adversarios-entrarem-em-confronto-em-rua-de-bh.ghtml",
+      "hora": "Wed, 23 Sep 2026 22:57:58 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: EPTV 2 Sul de Minas de quarta-feira, 23 de setembro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/09/23/videos-eptv-2-sul-de-minas-de-quarta-feira-23-de-setembro-de-2026.ghtml",
+      "hora": "Wed, 23 Sep 2026 22:57:44 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleições 2026: Marconi Perillo promete criar lei para proteger advogados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/23/eleicoes-2026-marconi-perillo-promete-criar-lei-para-proteger-advogados.ghtml",
+      "hora": "Wed, 23 Sep 2026 22:55:37 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Idoso de 70 anos é preso após sair com drogas de MG para entregar em Cabo Frio, no RJ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/09/23/idoso-de-70-anos-e-preso-apos-sair-com-drogas-de-mg-para-entregar-em-cabo-frio-no-rj.ghtml",
+      "hora": "Wed, 23 Sep 2026 22:50:51 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultados das Loterias Caixa",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "hora": "Wed, 23 Sep 2026 22:49:23 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -240,11 +240,27 @@
       "resumo": null
     },
     {
-      "titulo": "Por que os candidatos a presidente querem construir mais data centers no Brasil",
+      "titulo": "Por que governo Lula vê 'cavalo de Troia' em ação coordenada dos EUA e mais 14 países contra facções como PCC e CV",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr4vx3krnnqo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 23 Sep 2026 08:22:22 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c5wyzm727w89o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 23 Sep 2026 22:46:47 GMT",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Do caipira ao agronejo: como a música sertaneja se tornou a mais ouvida do Brasil contemporâneo",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cr158y1v1e2go?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 23 Sep 2026 19:20:10 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Xi Jinping nos EUA: o 'príncipe' que perdeu tudo antes de se tornar o líder mais poderoso da China",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cw783y2rp5x7o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 23 Sep 2026 21:40:43 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -272,14 +288,6 @@
       "resumo": null
     },
     {
-      "titulo": "Como Rick, da dupla Rick & Renner, ajudou a renovar o sertanejo",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c574eyxvzjzlo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 22 Sep 2026 22:14:07 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
       "titulo": "Eleição 2026: quais são as propostas dos candidatos a presidente?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm2gryker9mo?at_medium=RSS&at_campaign=rss",
@@ -300,6 +308,14 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 22 Sep 2026 16:38:58 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que os candidatos a presidente querem construir mais data centers no Brasil",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cr4vx3krnnqo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 23 Sep 2026 08:22:22 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -332,14 +348,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cw5y4ej510zko?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 22 Sep 2026 13:38:29 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Como é feito o controle de voo dos helicópteros — e por que alguns 'somem do radar' mesmo sem acidentes",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmvgydnl9j18o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 22 Sep 2026 20:56:49 GMT",
       "tema": "mundo",
       "resumo": null
     }
