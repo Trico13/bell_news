@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-24T14:37:43.407Z",
+  "gerado_em": "2026-09-24T18:49:37.808Z",
   "modo": "palavras-chave",
   "clima": {
     "max": 21.1,
@@ -8,123 +8,115 @@
   },
   "noticias": [
     {
-      "titulo": "AO VIVO: Assista ao GR1",
+      "titulo": "Avião de pequeno porto faz pouso forçado, na Grande João Pessoa",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/ao-vivo/ao-vivo-assista-ao-gr1.ghtml",
-      "hora": "Thu, 24 Sep 2026 14:28:11 -0000",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/09/24/aviao-de-pequeno-porto-faz-pouso-forcado-na-grande-joao-pessoa.ghtml",
+      "hora": "Thu, 24 Sep 2026 18:40:49 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Polícia investiga morte de homem que estava desaparecido em Patos",
+      "titulo": "Mulher é espancada pelo marido após filha adolescente ganhar buquê de flores em Cariacica: 'Achei que ia me matar'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/09/24/policia-investiga-morte-de-homem-que-estava-desaparecido-em-patos.ghtml",
-      "hora": "Thu, 24 Sep 2026 14:28:00 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEO: Caixão cai de carro funerário da Prefeitura em São Miguel Paulista",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/24/video-caixao-cai-de-carro-funerario-da-prefeitura-em-sao-miguel-paulista.ghtml",
-      "hora": "Thu, 24 Sep 2026 14:27:46 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem é encontrado morto em riacho na zona rural de Ouro Preto do Oeste, RO",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ro/rondonia/noticia/2026/09/24/homem-e-encontrado-morto-em-riacho-na-zona-rural-de-ouro-preto-do-oeste-ro-policia-ivestiga-o-caso.ghtml",
-      "hora": "Thu, 24 Sep 2026 14:27:06 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "g1 promove debate entre candidatos ao Senado pelo Piauí",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/ao-vivo/g1-debate-candidatos-senado-piaui.ghtml",
-      "hora": "Thu, 24 Sep 2026 14:26:57 -0000",
+      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/24/mulher-e-espancada-pelo-marido-apos-filha-adolescente-ganhar-buque-de-flores-em-cariacica-achei-que-ia-me-matar.ghtml",
+      "hora": "Thu, 24 Sep 2026 18:40:21 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Homem confessa que cortou garganta de empresário em Rio das Ostras e leva polícia a esconderijo de faca usada no crime",
+      "titulo": "Homem é preso e confessa assassinato e ocultação do corpo do ex da companheira na Bahia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/09/24/homem-confessa-que-cortou-garganta-de-empresario-em-rio-das-ostras-e-leva-policia-a-esconderijo-de-faca-usada-no-crime.ghtml",
-      "hora": "Thu, 24 Sep 2026 14:24:55 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Crea-SP diz que engenheiro que vistoriou prédio que caiu 7 meses antes da tragédia que matou seis tinha 'obrigação ética' de avisar a Defesa Civil ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/24/crea-sp-diz-que-engenheiro-que-vistoriou-predio-que-caiu-7-meses-antes-da-tragedia-que-matou-seis-tinha-obrigacao-etica-de-avisar-a-defesa-civil.ghtml",
-      "hora": "Thu, 24 Sep 2026 14:24:17 -0000",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/24/homem-e-preso-na-bahia.ghtml",
+      "hora": "Thu, 24 Sep 2026 18:39:24 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Trabalhadora grávida é condenada por apresentar atestados falsos e entrar na Justiça após demissão em MT",
+      "titulo": "Arena de drones promove inclusão e tecnologia em Nova Friburgo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/24/trabalhadora-gravida-e-condenada-por-apresentar-atestados-falsos-e-entrar-na-justica-apos-demissao-em-mt.ghtml",
-      "hora": "Thu, 24 Sep 2026 14:23:52 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "SIGA: presidente da Autoridade Palestina discursa agora na ONU",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
-      "hora": "Thu, 24 Sep 2026 14:23:42 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem em situação de rua é morto a tiros por ocupantes de caminhonete em Porto Velho",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ro/rondonia/noticia/2026/09/24/homem-e-morto-a-tiros-em-porto-velho.ghtml",
-      "hora": "Thu, 24 Sep 2026 14:22:53 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Motociclista segue internado em estado grave após colisão com carro em João Pessoa ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/09/24/motociclista-segue-internado-em-estado-grave-apos-colisao-com-carro-em-joao-pessoa.ghtml",
-      "hora": "Thu, 24 Sep 2026 14:22:40 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Padaria é flagrada com ligação irregular de energia durante operação policial em Taubaté",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/24/padaria-e-flagrada-com-ligacao-irregular-de-energia-durante-operacao-policial-em-taubate.ghtml",
-      "hora": "Thu, 24 Sep 2026 14:22:15 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Morre homem atingido por fio de alta tensão rompido durante temporal no RS",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/24/morre-homem-atingido-por-fio-de-alta-tensao-rompido-rs.ghtml",
-      "hora": "Thu, 24 Sep 2026 14:21:55 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Google testa chips de IA no espaço em lançamento de satélite",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/24/google-testa-chips-de-ia-no-espaco.ghtml",
-      "hora": "Thu, 24 Sep 2026 14:21:29 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEO: Imagens de drone mostram trem carregado com grãos que descarrilhou em Limeira",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/24/video-imagens-de-drone-mostram-trem-carregado-com-graos-que-descarrilhou-em-limeira.ghtml",
-      "hora": "Thu, 24 Sep 2026 14:21:19 -0000",
+      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/09/24/arena-de-drones-promove-inclusao-e-tecnologia-em-nova-friburgo.ghtml",
+      "hora": "Thu, 24 Sep 2026 18:38:02 -0000",
       "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Lobo-marinho descansa na Praia das Dunas, em Cabo Frio",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/09/24/lobo-marinho-descansa-na-praia-das-dunas-em-cabo-frio.ghtml",
+      "hora": "Thu, 24 Sep 2026 18:37:19 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Aperam abre vagas de estágio para estudantes de 30 cursos em Timóteo e Capelinha",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/09/24/aperam-abre-vagas-de-estagio-para-estudantes-de-30-cursos-em-timoteo-e-capelinha.ghtml",
+      "hora": "Thu, 24 Sep 2026 18:36:26 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Adolescentes suspeitos de matar jovem com golpes de faca e tesoura em festa se entregam à polícia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/24/adolescentes-suspeitos-de-matar-jovem-com-golpes-de-faca-e-tesoura-em-festa-se-entregam-a-policia.ghtml",
+      "hora": "Thu, 24 Sep 2026 18:35:26 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Após julgamento, candidatura de Arruda aparece como 'indeferida' no site do TSE",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/24/apos-julgamento-candidatura-de-arruda-aparece-como-indeferida-no-site-do-tse.ghtml",
+      "hora": "Thu, 24 Sep 2026 18:34:12 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Bahia terá 34 mil profissionais de segurança mobilizados nas eleições, diz SSP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/24/operacao-eleicoes-2026-ssp-ba.ghtml",
+      "hora": "Thu, 24 Sep 2026 18:32:49 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Suspeito de vender drogas para médicos e empresários na Bahia registrou carros no nome da avó para lavar dinheiro",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/24/suspeito-de-vender-drogas-para-medicos-e-empresarios-na-bahia-registrou-carros-no-nome-da-avo-para-lavar-dinheiro.ghtml",
+      "hora": "Thu, 24 Sep 2026 18:30:00 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Igreja da Penitência, no Convento de Santo Antônio, volta a abrir aos sábados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/guia/guia-rj/noticia/2026/09/24/igreja-da-penitencia-no-convento-de-santo-antonio-volta-a-abrir-aos-sabados.ghtml",
+      "hora": "Thu, 24 Sep 2026 18:29:54 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Com Lula, Paes promete Linha 3 do metrô em São Gonçalo e critica combate ao crime na cidade e no Estado",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/24/com-lula-paes-promete-linha-3-do-metro-em-sao-goncalo-e-critica-combate-ao-crime-na-cidade-e-no-estado.ghtml",
+      "hora": "Thu, 24 Sep 2026 18:28:23 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Prefeito de Caçapava, Yan Lopes (Podemos), não comparece para depor à comissão processante",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/24/prefeito-de-cacapava-yan-lopes-podemos-nao-comparece-para-depor-a-comissao-processante.ghtml",
+      "hora": "Thu, 24 Sep 2026 18:27:42 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Diretora da São Leopoldo Mandic é eleita para o Conselho da ORPHEUS",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/sao-leopoldo-mandic/noticia/2026/09/24/diretora-da-sao-leopoldo-mandic-e-eleita-para-o-conselho-da-orpheus.ghtml",
+      "hora": "Thu, 24 Sep 2026 18:25:17 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -248,6 +240,38 @@
       "resumo": null
     },
     {
+      "titulo": "Voto envergonhado de bolsonaristas é mito ou verdade? Especialista da Universidade de Michigan explica",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck9qr20pwjlwo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 24 Sep 2026 16:29:26 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Marisa Orth faz filme erótico, relembra Playboy e diz que Brasil está 'careta': 'Caretice traz hipocrisia e mata'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cw14dy6nzkpzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 24 Sep 2026 17:51:32 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Lula endurece discurso sobre bets; Flávio critica regulamentação atual, mas defende aposta esportiva",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c64g7d8m9m8vo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 24 Sep 2026 17:58:11 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Escândalo de Moraes com Vorcaro 'energizou' a direita brasileira perto da eleição e 'eclipsou' caso Dark Horse, diz NYT ",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6wyzm3yp9yxo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 24 Sep 2026 16:12:58 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "Votos nulos, brancos e abstenções devem ser recorde este ano, aposta autor de livro sobre eleições no Brasil: 'Tem algo diferente desta vez'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cr5y5v4yyy3yo?at_medium=RSS&at_campaign=rss",
@@ -256,10 +280,10 @@
       "resumo": null
     },
     {
-      "titulo": "Flávio Bolsonaro e Lula voltam a empatar no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
+      "titulo": "Pesquisa para presidente: Lula e Flávio voltam a empatar no 2º turno, mas distância aperta no 1º, indica Agregador da BBC",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 24 Sep 2026 09:49:49 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmwyze3r990vo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 24 Sep 2026 16:25:29 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -276,38 +300,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cw5y43gxd885o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 24 Sep 2026 10:29:54 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Agente da OpenAI se 'infiltrou' em site do governo australiano, diz primeiro-ministro: 'Inaceitável'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw4gm6rn4ge6o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 24 Sep 2026 01:14:38 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "'Por que decidi gastar dinheiro em vez de deixá-lo de herança para meus filhos'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cke87m970d44o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 24 Sep 2026 08:42:09 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que governo Lula vê 'cavalo de Troia' em ação coordenada dos EUA e mais 14 países contra facções como PCC e CV",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5wyzm727w89o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 23 Sep 2026 22:46:47 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Xi Jinping nos EUA: o 'príncipe' que perdeu tudo antes de se tornar o líder mais poderoso da China",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw783y2rp5x7o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 23 Sep 2026 21:40:43 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -336,27 +328,27 @@
       "resumo": null
     },
     {
+      "titulo": "Agente da OpenAI se 'infiltrou' em site do governo australiano, diz primeiro-ministro: 'Inaceitável'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cw4gm6rn4ge6o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 24 Sep 2026 01:14:38 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que governo Lula vê 'cavalo de Troia' em ação coordenada dos EUA e mais 14 países contra facções como PCC e CV",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c5wyzm727w89o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 23 Sep 2026 22:46:47 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "Por que os candidatos a presidente querem construir mais data centers no Brasil",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cr4vx3krnnqo?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 23 Sep 2026 08:22:22 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Morre cantor sertanejo Rick em acidente de helicóptero que matou outras 4 pessoas; o que se sabe",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqpvepex8n43o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 22 Sep 2026 16:50:45 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "'Drogômetro': novo aparelho que será usado nas blitzes da Lei Seca vai pegar motorista que toma remédio?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/clyr1vkr4r8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 23 Sep 2026 10:00:22 GMT",
-      "tema": "mundo",
       "resumo": null
     }
   ]
