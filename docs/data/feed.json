@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-24T18:49:37.808Z",
+  "gerado_em": "2026-09-24T23:45:44.476Z",
   "modo": "palavras-chave",
   "clima": {
     "max": 21.1,
@@ -8,115 +8,107 @@
   },
   "noticias": [
     {
-      "titulo": "Avião de pequeno porto faz pouso forçado, na Grande João Pessoa",
+      "titulo": "Ivan Moraes promete pagar piso salarial e realizar concursos públicos para profissionais da saúde",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/09/24/aviao-de-pequeno-porto-faz-pouso-forcado-na-grande-joao-pessoa.ghtml",
-      "hora": "Thu, 24 Sep 2026 18:40:49 -0000",
+      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/24/ivan-moraes-promete-pagar-piso-salarial-e-realizar-concursos-publicos-para-profissionais-da-saude.ghtml",
+      "hora": "Thu, 24 Sep 2026 23:30:12 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Mulher é espancada pelo marido após filha adolescente ganhar buquê de flores em Cariacica: 'Achei que ia me matar'",
+      "titulo": "Eleições 2026: Wilder Morais promete priorizar a saúde e diz que prazo máximo para cirurgias será de 15 dias",
       "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/24/mulher-e-espancada-pelo-marido-apos-filha-adolescente-ganhar-buque-de-flores-em-cariacica-achei-que-ia-me-matar.ghtml",
-      "hora": "Thu, 24 Sep 2026 18:40:21 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem é preso e confessa assassinato e ocultação do corpo do ex da companheira na Bahia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/24/homem-e-preso-na-bahia.ghtml",
-      "hora": "Thu, 24 Sep 2026 18:39:24 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Arena de drones promove inclusão e tecnologia em Nova Friburgo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/09/24/arena-de-drones-promove-inclusao-e-tecnologia-em-nova-friburgo.ghtml",
-      "hora": "Thu, 24 Sep 2026 18:38:02 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Lobo-marinho descansa na Praia das Dunas, em Cabo Frio",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/09/24/lobo-marinho-descansa-na-praia-das-dunas-em-cabo-frio.ghtml",
-      "hora": "Thu, 24 Sep 2026 18:37:19 -0000",
+      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-wilder-morais-promete-priorizar-a-saude-e-diz-que-prazo-maximo-para-cirurgias-sera-de-15-dias.ghtml",
+      "hora": "Thu, 24 Sep 2026 23:29:08 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Aperam abre vagas de estágio para estudantes de 30 cursos em Timóteo e Capelinha",
+      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao governo do Pará nesta quinta-feira, 24",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/09/24/aperam-abre-vagas-de-estagio-para-estudantes-de-30-cursos-em-timoteo-e-capelinha.ghtml",
-      "hora": "Thu, 24 Sep 2026 18:36:26 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Adolescentes suspeitos de matar jovem com golpes de faca e tesoura em festa se entregam à polícia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/24/adolescentes-suspeitos-de-matar-jovem-com-golpes-de-faca-e-tesoura-em-festa-se-entregam-a-policia.ghtml",
-      "hora": "Thu, 24 Sep 2026 18:35:26 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Após julgamento, candidatura de Arruda aparece como 'indeferida' no site do TSE",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/24/apos-julgamento-candidatura-de-arruda-aparece-como-indeferida-no-site-do-tse.ghtml",
-      "hora": "Thu, 24 Sep 2026 18:34:12 -0000",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-para-nesta-quinta-feira-24.ghtml",
+      "hora": "Thu, 24 Sep 2026 23:26:47 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Bahia terá 34 mil profissionais de segurança mobilizados nas eleições, diz SSP",
+      "titulo": "Assista ao debate da NSC TV com os candidatos ao Senado por SC",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/24/operacao-eleicoes-2026-ssp-ba.ghtml",
-      "hora": "Thu, 24 Sep 2026 18:32:49 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Suspeito de vender drogas para médicos e empresários na Bahia registrou carros no nome da avó para lavar dinheiro",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/24/suspeito-de-vender-drogas-para-medicos-e-empresarios-na-bahia-registrou-carros-no-nome-da-avo-para-lavar-dinheiro.ghtml",
-      "hora": "Thu, 24 Sep 2026 18:30:00 -0000",
+      "link": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/ao-vivo/debate-candidatos-senado-santa-catarina.ghtml",
+      "hora": "Thu, 24 Sep 2026 23:20:28 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Igreja da Penitência, no Convento de Santo Antônio, volta a abrir aos sábados",
+      "titulo": "Com palestras de Iberê Tenório e Bruno Fratus, TEDx Uniso reúne esportes, ciência e comportamento em noite de conexões",
       "fonte": "G1",
-      "link": "https://g1.globo.com/guia/guia-rj/noticia/2026/09/24/igreja-da-penitencia-no-convento-de-santo-antonio-volta-a-abrir-aos-sabados.ghtml",
-      "hora": "Thu, 24 Sep 2026 18:29:54 -0000",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/com-palestras-de-ibere-tenorio-e-bruno-fratus-tedx-uniso-reune-esportes-ciencia-e-comportamento-em-noite-de-conexoes.ghtml",
+      "hora": "Thu, 24 Sep 2026 23:18:06 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Com Lula, Paes promete Linha 3 do metrô em São Gonçalo e critica combate ao crime na cidade e no Estado",
+      "titulo": "Raquel Lyra promete investimentos para atrair empregos e empresas de tecnologia a Pernambuco",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/24/com-lula-paes-promete-linha-3-do-metro-em-sao-goncalo-e-critica-combate-ao-crime-na-cidade-e-no-estado.ghtml",
-      "hora": "Thu, 24 Sep 2026 18:28:23 -0000",
+      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/24/raquel-lyra-promete-investimentos-para-atrair-empregos-e-empresas-de-tecnologia-a-pernambuco.ghtml",
+      "hora": "Thu, 24 Sep 2026 23:17:41 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "PG Tech reúne tecnologia, palestras e atividades em Praia Grande; veja programação",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/24/pg-tech-reune-tecnologia-palestras-e-atividades-em-praia-grande-veja-programacao.ghtml",
+      "hora": "Thu, 24 Sep 2026 23:16:39 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao Governo do Maranhão nesta quinta-feira (24)",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-maranhao-nesta-quinta-feira-24.ghtml",
+      "hora": "Thu, 24 Sep 2026 23:15:48 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Quaest para o Senado em RO: Máximo, 18%; Cristina, 16%; Mariana, 11%; Sheid, 8% ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-rondonia-senado-24-de-setembro.ghtml",
+      "hora": "Thu, 24 Sep 2026 23:13:04 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEO: pescador encontra onça-pintada durante pescaria em MT",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/24/video-pescador-encontra-onca-pintada-durante-pescaria-em-mt.ghtml",
+      "hora": "Thu, 24 Sep 2026 23:12:21 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Justiça mantém prisão de vereador Jorge Canella após audiência de custódia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/24/justica-mantem-prisao-de-vereador-jorge-canella-apos-audiencia-de-custodia.ghtml",
+      "hora": "Thu, 24 Sep 2026 23:11:27 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Prefeito de Caçapava, Yan Lopes (Podemos), não comparece para depor à comissão processante",
+      "titulo": "Assista ao JAP2 desta quinta-feira (24)",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/24/prefeito-de-cacapava-yan-lopes-podemos-nao-comparece-para-depor-a-comissao-processante.ghtml",
-      "hora": "Thu, 24 Sep 2026 18:27:42 -0000",
-      "tema": "cultura",
+      "link": "https://g1.globo.com/ap/ao-vivo/assista-ao-bom-dia-amapa-desta-segunda-21.ghtml",
+      "hora": "Thu, 24 Sep 2026 23:08:16 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Diretora da São Leopoldo Mandic é eleita para o Conselho da ORPHEUS",
+      "titulo": "Lei contra assédio em Fortaleza: saiba novas obrigações de academias para proteger vítimas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/sao-leopoldo-mandic/noticia/2026/09/24/diretora-da-sao-leopoldo-mandic-e-eleita-para-o-conselho-da-orpheus.ghtml",
-      "hora": "Thu, 24 Sep 2026 18:25:17 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/09/24/lei-contra-assedio-em-fortaleza-saiba-novas-obrigacoes-de-academias-para-proteger-vitimas.ghtml",
+      "hora": "Thu, 24 Sep 2026 23:03:04 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -240,10 +232,26 @@
       "resumo": null
     },
     {
-      "titulo": "Voto envergonhado de bolsonaristas é mito ou verdade? Especialista da Universidade de Michigan explica",
+      "titulo": "Voto envergonhado de bolsonaristas é mito ou verdade? Especialista em pesquisas da Universidade de Michigan explica",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/ck9qr20pwjlwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 24 Sep 2026 16:29:26 GMT",
+      "hora": "Thu, 24 Sep 2026 18:54:05 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Viagens internacionais e jatinho de Vorcaro: os vínculos de Flávio Bolsonaro com Willer Tomaz, alvo da PF no escândalo do INSS",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c3lyr54g8yero?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 24 Sep 2026 19:00:49 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'Eu não sabia que meu namorado me estuprava enquanto eu dormia'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmrl674rkeyeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 24 Sep 2026 23:34:41 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -272,14 +280,6 @@
       "resumo": null
     },
     {
-      "titulo": "Votos nulos, brancos e abstenções devem ser recorde este ano, aposta autor de livro sobre eleições no Brasil: 'Tem algo diferente desta vez'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr5y5v4yyy3yo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 24 Sep 2026 08:12:04 GMT",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
       "titulo": "Pesquisa para presidente: Lula e Flávio voltam a empatar no 2º turno, mas distância aperta no 1º, indica Agregador da BBC",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmwyze3r990vo?at_medium=RSS&at_campaign=rss",
@@ -292,14 +292,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmn07ng582neo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 24 Sep 2026 13:01:09 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "China tenta colocar um fim à guerra do Irã — mas não como Trump quer",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw5y43gxd885o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 24 Sep 2026 10:29:54 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -328,26 +320,26 @@
       "resumo": null
     },
     {
+      "titulo": "Brasil 'dá as costas ao futuro' em eleição com candidatos 'desoladores', diz The Economist",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6n8mne9j73no?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 24 Sep 2026 20:57:21 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Votos nulos, brancos e abstenções devem ser recorde este ano, aposta autor de livro sobre eleições no Brasil: 'Tem algo diferente desta vez'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cr5y5v4yyy3yo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 24 Sep 2026 08:12:04 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
       "titulo": "Agente da OpenAI se 'infiltrou' em site do governo australiano, diz primeiro-ministro: 'Inaceitável'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cw4gm6rn4ge6o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 24 Sep 2026 01:14:38 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que governo Lula vê 'cavalo de Troia' em ação coordenada dos EUA e mais 14 países contra facções como PCC e CV",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5wyzm727w89o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 23 Sep 2026 22:46:47 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que os candidatos a presidente querem construir mais data centers no Brasil",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr4vx3krnnqo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 23 Sep 2026 08:22:22 GMT",
       "tema": "brasil",
       "resumo": null
     }
