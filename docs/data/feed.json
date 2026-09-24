@@ -1,122 +1,130 @@
 {
-  "gerado_em": "2026-09-23T23:25:37.918Z",
+  "gerado_em": "2026-09-24T14:37:43.407Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 16.1,
-    "min": 13,
-    "chuva": 97
+    "max": 21.1,
+    "min": 12.8,
+    "chuva": 0
   },
   "noticias": [
     {
-      "titulo": "Delcy Rodríguez, presidente interina da Venezuela, faz seu primeiro discurso na Assembleia Geral da ONU ",
+      "titulo": "AO VIVO: Assista ao GR1",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/23/delcy-rodriguez-presidente-interina-da-venezuela-faz-seu-primeiro-discurso-na-assembleia-geral-da-onu.ghtml",
-      "hora": "Wed, 23 Sep 2026 23:11:35 -0000",
+      "link": "https://g1.globo.com/pe/petrolina-regiao/ao-vivo/ao-vivo-assista-ao-gr1.ghtml",
+      "hora": "Thu, 24 Sep 2026 14:28:11 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Polícia investiga morte de homem que estava desaparecido em Patos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/09/24/policia-investiga-morte-de-homem-que-estava-desaparecido-em-patos.ghtml",
+      "hora": "Thu, 24 Sep 2026 14:28:00 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEO: Caixão cai de carro funerário da Prefeitura em São Miguel Paulista",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/24/video-caixao-cai-de-carro-funerario-da-prefeitura-em-sao-miguel-paulista.ghtml",
+      "hora": "Thu, 24 Sep 2026 14:27:46 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem é encontrado morto em riacho na zona rural de Ouro Preto do Oeste, RO",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ro/rondonia/noticia/2026/09/24/homem-e-encontrado-morto-em-riacho-na-zona-rural-de-ouro-preto-do-oeste-ro-policia-ivestiga-o-caso.ghtml",
+      "hora": "Thu, 24 Sep 2026 14:27:06 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "g1 promove debate entre candidatos ao Senado pelo Piauí",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/ao-vivo/g1-debate-candidatos-senado-piaui.ghtml",
+      "hora": "Thu, 24 Sep 2026 14:26:57 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "AO VIVO: presidente interina da Venezuela discursa agora na ONU",
+      "titulo": "Homem confessa que cortou garganta de empresário em Rio das Ostras e leva polícia a esconderijo de faca usada no crime",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/09/24/homem-confessa-que-cortou-garganta-de-empresario-em-rio-das-ostras-e-leva-policia-a-esconderijo-de-faca-usada-no-crime.ghtml",
+      "hora": "Thu, 24 Sep 2026 14:24:55 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Crea-SP diz que engenheiro que vistoriou prédio que caiu 7 meses antes da tragédia que matou seis tinha 'obrigação ética' de avisar a Defesa Civil ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/24/crea-sp-diz-que-engenheiro-que-vistoriou-predio-que-caiu-7-meses-antes-da-tragedia-que-matou-seis-tinha-obrigacao-etica-de-avisar-a-defesa-civil.ghtml",
+      "hora": "Thu, 24 Sep 2026 14:24:17 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Trabalhadora grávida é condenada por apresentar atestados falsos e entrar na Justiça após demissão em MT",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/24/trabalhadora-gravida-e-condenada-por-apresentar-atestados-falsos-e-entrar-na-justica-apos-demissao-em-mt.ghtml",
+      "hora": "Thu, 24 Sep 2026 14:23:52 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "SIGA: presidente da Autoridade Palestina discursa agora na ONU",
       "fonte": "G1",
       "link": "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
-      "hora": "Wed, 23 Sep 2026 23:11:31 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Caminhão é atingido por trem ao tentar cruzar linha férrea em MT; vídeo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/23/caminhao-e-atingido-por-trem-ao-tentar-cruzar-linha-ferrea-em-mt-video.ghtml",
-      "hora": "Wed, 23 Sep 2026 23:09:51 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Círio 2026: veja programação completa da festa de Nossa Senhora de Nazaré no Amapá",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/09/23/cirio-2026-veja-programacao-completa-da-festa-de-nossa-senhora-de-nazare-no-amapa.ghtml",
-      "hora": "Wed, 23 Sep 2026 23:09:22 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Eleições 2026: veja como foi o 39º dia de campanha dos candidatos ao governo do Amapá",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/09/23/eleicoes-2026-veja-como-foi-o-39o-dia-de-campanha-dos-candidatos-ao-governo-do-amapa.ghtml",
-      "hora": "Wed, 23 Sep 2026 23:04:55 -0000",
+      "hora": "Thu, 24 Sep 2026 14:23:42 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "TRE-DF veta vídeo eleitoral de Bia Kicis com 'aparição desproporcional' de Michelle Bolsonaro",
+      "titulo": "Homem em situação de rua é morto a tiros por ocupantes de caminhonete em Porto Velho",
       "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/23/tre-df-veta-video-eleitoral-de-bia-kicis-com-aparicao-desproporcional-de-michelle-bolsonaro.ghtml",
-      "hora": "Wed, 23 Sep 2026 23:04:53 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Lula reage, mas empate mineiro mantém eleição aberta; leia análise de Felipe Nunes",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/23/lula-flavio-bolsonaro-empate-mineiro-sudeste-analise-de-felipe-nunes.ghtml",
-      "hora": "Wed, 23 Sep 2026 23:03:03 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Carro sem motorista atravessa rua e cai no rio em Petrópolis; vídeo mostra reação de pedestres",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/09/23/carro-sem-motorista-atravessa-rua-e-cai-no-rio-em-petropolis-video-mostra-reacao-de-pedestres.ghtml",
-      "hora": "Wed, 23 Sep 2026 23:02:52 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem é preso suspeito de manter dependentes químicos em cárcere em clínica clandestina ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/23/homem-e-preso-suspeito-de-manter-dependentes-quimicos-em-carcere-em-clinica-clandestina.ghtml",
-      "hora": "Wed, 23 Sep 2026 22:59:00 -0000",
+      "link": "https://g1.globo.com/ro/rondonia/noticia/2026/09/24/homem-e-morto-a-tiros-em-porto-velho.ghtml",
+      "hora": "Thu, 24 Sep 2026 14:22:53 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "PM é acionada após apoiadores de partidos adversários entrarem em confronto em rua de BH",
+      "titulo": "Motociclista segue internado em estado grave após colisão com carro em João Pessoa ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/23/pm-e-acionada-em-bh-apos-apoiadores-de-partidos-adversarios-entrarem-em-confronto-em-rua-de-bh.ghtml",
-      "hora": "Wed, 23 Sep 2026 22:57:58 -0000",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/09/24/motociclista-segue-internado-em-estado-grave-apos-colisao-com-carro-em-joao-pessoa.ghtml",
+      "hora": "Thu, 24 Sep 2026 14:22:40 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: EPTV 2 Sul de Minas de quarta-feira, 23 de setembro de 2026",
+      "titulo": "Padaria é flagrada com ligação irregular de energia durante operação policial em Taubaté",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/09/23/videos-eptv-2-sul-de-minas-de-quarta-feira-23-de-setembro-de-2026.ghtml",
-      "hora": "Wed, 23 Sep 2026 22:57:44 -0000",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/24/padaria-e-flagrada-com-ligacao-irregular-de-energia-durante-operacao-policial-em-taubate.ghtml",
+      "hora": "Thu, 24 Sep 2026 14:22:15 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Eleições 2026: Marconi Perillo promete criar lei para proteger advogados",
+      "titulo": "Morre homem atingido por fio de alta tensão rompido durante temporal no RS",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/23/eleicoes-2026-marconi-perillo-promete-criar-lei-para-proteger-advogados.ghtml",
-      "hora": "Wed, 23 Sep 2026 22:55:37 -0000",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/24/morre-homem-atingido-por-fio-de-alta-tensao-rompido-rs.ghtml",
+      "hora": "Thu, 24 Sep 2026 14:21:55 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Google testa chips de IA no espaço em lançamento de satélite",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/09/24/google-testa-chips-de-ia-no-espaco.ghtml",
+      "hora": "Thu, 24 Sep 2026 14:21:29 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEO: Imagens de drone mostram trem carregado com grãos que descarrilhou em Limeira",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/09/24/video-imagens-de-drone-mostram-trem-carregado-com-graos-que-descarrilhou-em-limeira.ghtml",
+      "hora": "Thu, 24 Sep 2026 14:21:19 -0000",
       "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Idoso de 70 anos é preso após sair com drogas de MG para entregar em Cabo Frio, no RJ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/09/23/idoso-de-70-anos-e-preso-apos-sair-com-drogas-de-mg-para-entregar-em-cabo-frio-no-rj.ghtml",
-      "hora": "Wed, 23 Sep 2026 22:50:51 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-      "hora": "Wed, 23 Sep 2026 22:49:23 -0000",
-      "tema": "mundo",
       "resumo": null
     },
     {
@@ -240,6 +248,54 @@
       "resumo": null
     },
     {
+      "titulo": "Votos nulos, brancos e abstenções devem ser recorde este ano, aposta autor de livro sobre eleições no Brasil: 'Tem algo diferente desta vez'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cr5y5v4yyy3yo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 24 Sep 2026 08:12:04 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Flávio Bolsonaro e Lula voltam a empatar no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 24 Sep 2026 09:49:49 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O dramático despejo da idosa de 87 anos que expõe a gravidade da crise de moradia na Espanha",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmn07ng582neo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 24 Sep 2026 13:01:09 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "China tenta colocar um fim à guerra do Irã — mas não como Trump quer",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cw5y43gxd885o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 24 Sep 2026 10:29:54 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Agente da OpenAI se 'infiltrou' em site do governo australiano, diz primeiro-ministro: 'Inaceitável'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cw4gm6rn4ge6o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 24 Sep 2026 01:14:38 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "'Por que decidi gastar dinheiro em vez de deixá-lo de herança para meus filhos'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cke87m970d44o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 24 Sep 2026 08:42:09 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Por que governo Lula vê 'cavalo de Troia' em ação coordenada dos EUA e mais 14 países contra facções como PCC e CV",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c5wyzm727w89o?at_medium=RSS&at_campaign=rss",
@@ -248,42 +304,10 @@
       "resumo": null
     },
     {
-      "titulo": "Do caipira ao agronejo: como a música sertaneja se tornou a mais ouvida do Brasil contemporâneo",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr158y1v1e2go?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 23 Sep 2026 19:20:10 GMT",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
       "titulo": "Xi Jinping nos EUA: o 'príncipe' que perdeu tudo antes de se tornar o líder mais poderoso da China",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cw783y2rp5x7o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 23 Sep 2026 21:40:43 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "As ambições da China com IA em meio às conversas de Trump com Xi",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6d79wpnwgrdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 23 Sep 2026 14:08:57 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que é tão relevante o encontro entre Trump e presidente da Venezuela a 15 km de onde Maduro está preso",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqm2mrpndjpjo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 23 Sep 2026 13:06:35 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "O furacão que colocou litoral do México em alerta em meio ao 'super El Niño'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cxr50j178lv6o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 23 Sep 2026 11:11:10 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -296,19 +320,19 @@
       "resumo": null
     },
     {
-      "titulo": "Flávio Bolsonaro mantém liderança sobre Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
+      "titulo": "Clique aqui",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 22 Sep 2026 16:38:58 GMT",
+      "hora": "Thu, 24 Sep 2026 09:49:49 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Clique aqui",
+      "titulo": "Do caipira ao agronejo: como a música sertaneja se tornou a mais ouvida do Brasil contemporâneo",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 22 Sep 2026 16:38:58 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cr158y1v1e2go?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 23 Sep 2026 19:20:10 GMT",
+      "tema": "cultura",
       "resumo": null
     },
     {
@@ -332,22 +356,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/clyr1vkr4r8o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 23 Sep 2026 10:00:22 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Liderados por Trump, 14 países da região se comprometem a combater facções e cartéis; documento cita PCC e CV",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cj3v4y3vw3w2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 23 Sep 2026 00:37:54 GMT",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "'Nunca tinha visto modelos apontarem uma área tão grande de risco': temporal que já deixou vítimas no RS agora ameaça Estado com enchentes",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw5y4ej510zko?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 22 Sep 2026 13:38:29 GMT",
       "tema": "mundo",
       "resumo": null
     }
