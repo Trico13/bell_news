@@ -1,113 +1,121 @@
 {
-  "gerado_em": "2026-09-24T23:45:44.476Z",
+  "gerado_em": "2026-09-25T14:59:42.840Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 21.1,
-    "min": 12.8,
-    "chuva": 0
+    "max": 26.2,
+    "min": 15.5,
+    "chuva": 82
   },
   "noticias": [
     {
-      "titulo": "Ivan Moraes promete pagar piso salarial e realizar concursos públicos para profissionais da saúde",
+      "titulo": "Rússia prende cientista político por tráfico de drogas após posts com análises das eleições",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/24/ivan-moraes-promete-pagar-piso-salarial-e-realizar-concursos-publicos-para-profissionais-da-saude.ghtml",
-      "hora": "Thu, 24 Sep 2026 23:30:12 -0000",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/25/russia-prende-cientista-politico-por-trafico-de-drogas-apos-posts-com-analises-das-eleicoes.ghtml",
+      "hora": "Fri, 25 Sep 2026 14:56:16 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Eleições 2026: Wilder Morais promete priorizar a saúde e diz que prazo máximo para cirurgias será de 15 dias",
+      "titulo": "Prefis 2026: contribuintes de Maceió têm até 30 de setembro para negociar débitos fiscais com desconto",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-wilder-morais-promete-priorizar-a-saude-e-diz-que-prazo-maximo-para-cirurgias-sera-de-15-dias.ghtml",
-      "hora": "Thu, 24 Sep 2026 23:29:08 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/al/alagoas/noticia/2026/09/25/prefis-2026-contribuintes-de-maceio-tem-ate-30-de-setembro-para-negociar-dividas-fiscais-com-desconto.ghtml",
+      "hora": "Fri, 25 Sep 2026 14:54:11 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao governo do Pará nesta quinta-feira, 24",
+      "titulo": "Trump recebe Xi Jinping na Casa Branca para cerimônia do chá; SIGA",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-para-nesta-quinta-feira-24.ghtml",
-      "hora": "Thu, 24 Sep 2026 23:26:47 -0000",
+      "link": "https://g1.globo.com/mundo/ao-vivo/trump-e-xi-jinping-se-reunem-nos-eua.ghtml",
+      "hora": "Fri, 25 Sep 2026 14:53:13 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Assista ao debate da NSC TV com os candidatos ao Senado por SC",
+      "titulo": "Prefeita assina decreto para passe livre no transporte coletivo no dia das eleições na Grande Aracaju",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/ao-vivo/debate-candidatos-senado-santa-catarina.ghtml",
-      "hora": "Thu, 24 Sep 2026 23:20:28 -0000",
+      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/25/passe-livre-eleicoes-grande-aracaju.ghtml",
+      "hora": "Fri, 25 Sep 2026 14:52:51 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Com palestras de Iberê Tenório e Bruno Fratus, TEDx Uniso reúne esportes, ciência e comportamento em noite de conexões",
+      "titulo": "Mais de 36 mil famílias do AP devem atualizar dados para manter desconto na conta de luz",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/24/com-palestras-de-ibere-tenorio-e-bruno-fratus-tedx-uniso-reune-esportes-ciencia-e-comportamento-em-noite-de-conexoes.ghtml",
-      "hora": "Thu, 24 Sep 2026 23:18:06 -0000",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/09/25/mais-de-36-mil-familias-do-ap-devem-atualizar-dados-para-manter-desconto-na-conta-de-luz.ghtml",
+      "hora": "Fri, 25 Sep 2026 14:50:04 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Raquel Lyra promete investimentos para atrair empregos e empresas de tecnologia a Pernambuco",
+      "titulo": "Assista ao Bahia Meio Dia da TV Subaé",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/24/raquel-lyra-promete-investimentos-para-atrair-empregos-e-empresas-de-tecnologia-a-pernambuco.ghtml",
-      "hora": "Thu, 24 Sep 2026 23:17:41 -0000",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+      "hora": "Fri, 25 Sep 2026 14:49:42 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "PG Tech reúne tecnologia, palestras e atividades em Praia Grande; veja programação",
+      "titulo": "VÍDEOS: Jornal do Acre 2ª Edição desta quinta-feira, 24 de setembro de 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/24/pg-tech-reune-tecnologia-palestras-e-atividades-em-praia-grande-veja-programacao.ghtml",
-      "hora": "Thu, 24 Sep 2026 23:16:39 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao Governo do Maranhão nesta quinta-feira (24)",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/24/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-maranhao-nesta-quinta-feira-24.ghtml",
-      "hora": "Thu, 24 Sep 2026 23:15:48 -0000",
+      "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quinta-feira-24-de-setembro-de-2026.ghtml",
+      "hora": "Fri, 25 Sep 2026 14:48:52 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Quaest para o Senado em RO: Máximo, 18%; Cristina, 16%; Mariana, 11%; Sheid, 8% ",
+      "titulo": "AGU e Gilmar Mendes fecham cerco contra 'indústria de precatórios' usada pelo Master",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-rondonia-senado-24-de-setembro.ghtml",
-      "hora": "Thu, 24 Sep 2026 23:13:04 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEO: pescador encontra onça-pintada durante pescaria em MT",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/24/video-pescador-encontra-onca-pintada-durante-pescaria-em-mt.ghtml",
-      "hora": "Thu, 24 Sep 2026 23:12:21 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Justiça mantém prisão de vereador Jorge Canella após audiência de custódia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/24/justica-mantem-prisao-de-vereador-jorge-canella-apos-audiencia-de-custodia.ghtml",
-      "hora": "Thu, 24 Sep 2026 23:11:27 -0000",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/25/agu-e-gilmar-mendes-fecham-cerco-contra-industria-de-precatorios-usada-pelo-master.ghtml",
+      "hora": "Fri, 25 Sep 2026 14:48:34 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Assista ao JAP2 desta quinta-feira (24)",
+      "titulo": "Assista ao Bahia Meio Dia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+      "hora": "Fri, 25 Sep 2026 14:47:49 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Trump e Xi fazem encontro final de visita do chinês a Washington ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/25/trump-e-xi-fazem-encontro-final-de-visita-do-chines-a-washington.ghtml",
+      "hora": "Fri, 25 Sep 2026 14:47:38 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Nova espécie de pinguim ficou 'escondida' por mais de 100 anos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/25/nova-especie-de-pinguim-ficou-escondida-por-mais-de-100-anos.ghtml",
+      "hora": "Fri, 25 Sep 2026 14:47:30 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Dupla invade casa e mata morador a tiros dentro de banheiro em Jaciara (MT)",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/25/dupla-invade-casa-e-mata-morador-a-tiros-dentro-de-banheiro-em-jaciara-mt.ghtml",
+      "hora": "Fri, 25 Sep 2026 14:46:16 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Assista ao JAP1 desta sexta-feira (25)",
       "fonte": "G1",
       "link": "https://g1.globo.com/ap/ao-vivo/assista-ao-bom-dia-amapa-desta-segunda-21.ghtml",
-      "hora": "Thu, 24 Sep 2026 23:08:16 -0000",
+      "hora": "Fri, 25 Sep 2026 14:46:09 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Lei contra assédio em Fortaleza: saiba novas obrigações de academias para proteger vítimas",
+      "titulo": "IA emite alerta ao identificar foragido e homem condenado a 22 anos é preso enquanto viajava para o litoral do Paraná",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/09/24/lei-contra-assedio-em-fortaleza-saiba-novas-obrigacoes-de-academias-para-proteger-vitimas.ghtml",
-      "hora": "Thu, 24 Sep 2026 23:03:04 -0000",
+      "link": "https://g1.globo.com/pr/parana/noticia/2026/09/25/ia-emite-alerta-ao-identificar-foragido-e-homem-condenado-a-22-anos-e-preso-enquanto-viajava-para-o-litoral-do-parana.ghtml",
+      "hora": "Fri, 25 Sep 2026 14:45:45 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -232,10 +240,42 @@
       "resumo": null
     },
     {
-      "titulo": "Voto envergonhado de bolsonaristas é mito ou verdade? Especialista em pesquisas da Universidade de Michigan explica",
+      "titulo": "IA vai decidir sua vez na fila do SUS? Propostas de candidatos da esquerda à direita não são simples de implementar",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck9qr20pwjlwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 24 Sep 2026 18:54:05 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/clyjqy47weyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 25 Sep 2026 08:21:59 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O que esperar da primeira onda de calor na primavera do El Niño no Brasil?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ckeq8e30r8qgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 25 Sep 2026 13:02:06 GMT",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Trump estendeu tapete vermelho para Xi — mas líder chinês não conseguiu tudo o que queria",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crx2zv3ln7d0o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 25 Sep 2026 10:36:07 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Os 70 anos da 1ª parceria entre Tom Jobim e Vinicius de Moraes que mudou a MPB e rendeu até Oscar",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm5y5eqdgg84o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 25 Sep 2026 09:25:47 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Como opera a empresa por trás de despejo de idosa de 87 anos na Espanha",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm780g096v6do?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 25 Sep 2026 11:26:11 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -248,22 +288,6 @@
       "resumo": null
     },
     {
-      "titulo": "'Eu não sabia que meu namorado me estuprava enquanto eu dormia'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmrl674rkeyeo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 24 Sep 2026 23:34:41 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Marisa Orth faz filme erótico, relembra Playboy e diz que Brasil está 'careta': 'Caretice traz hipocrisia e mata'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw14dy6nzkpzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 24 Sep 2026 17:51:32 GMT",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
       "titulo": "Lula endurece discurso sobre bets; Flávio critica regulamentação atual, mas defende aposta esportiva",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c64g7d8m9m8vo?at_medium=RSS&at_campaign=rss",
@@ -272,10 +296,10 @@
       "resumo": null
     },
     {
-      "titulo": "Escândalo de Moraes com Vorcaro 'energizou' a direita brasileira perto da eleição e 'eclipsou' caso Dark Horse, diz NYT ",
+      "titulo": "O que Lula e Flávio Bolsonaro já disseram sobre bets",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6wyzm3yp9yxo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 24 Sep 2026 16:12:58 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cjdx57p941kyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 25 Sep 2026 08:42:50 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -288,22 +312,6 @@
       "resumo": null
     },
     {
-      "titulo": "O dramático despejo da idosa de 87 anos que expõe a gravidade da crise de moradia na Espanha",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmn07ng582neo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 24 Sep 2026 13:01:09 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Eleição 2026: quais são as propostas dos candidatos a presidente?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm2gryker9mo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 23 Sep 2026 17:37:47 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
       "titulo": "Clique aqui",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
@@ -312,11 +320,19 @@
       "resumo": null
     },
     {
-      "titulo": "Do caipira ao agronejo: como a música sertaneja se tornou a mais ouvida do Brasil contemporâneo",
+      "titulo": "Voto envergonhado de bolsonaristas é mito ou verdade? Especialista em pesquisas da Universidade de Michigan explica",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr158y1v1e2go?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 23 Sep 2026 19:20:10 GMT",
-      "tema": "cultura",
+      "link": "https://www.bbc.com/portuguese/articles/ck9qr20pwjlwo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 24 Sep 2026 18:54:05 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "O que diz carta de parlamentares dos EUA que acusam governo Trump de interferência nas eleições brasileiras",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c9x2zm3gpv74o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 25 Sep 2026 01:13:11 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -328,18 +344,18 @@
       "resumo": null
     },
     {
-      "titulo": "Votos nulos, brancos e abstenções devem ser recorde este ano, aposta autor de livro sobre eleições no Brasil: 'Tem algo diferente desta vez'",
+      "titulo": "Marisa Orth faz filme erótico, relembra Playboy e diz que Brasil está 'careta': 'Caretice traz hipocrisia e mata'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr5y5v4yyy3yo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 24 Sep 2026 08:12:04 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cw14dy6nzkpzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 24 Sep 2026 17:51:32 GMT",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Agente da OpenAI se 'infiltrou' em site do governo australiano, diz primeiro-ministro: 'Inaceitável'",
+      "titulo": "Eleição 2026: quais são as propostas dos candidatos a presidente?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw4gm6rn4ge6o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 24 Sep 2026 01:14:38 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cm2gryker9mo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 23 Sep 2026 17:37:47 GMT",
       "tema": "brasil",
       "resumo": null
     }
