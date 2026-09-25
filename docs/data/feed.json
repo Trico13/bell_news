@@ -1,122 +1,130 @@
 {
-  "gerado_em": "2026-09-25T14:59:42.840Z",
+  "gerado_em": "2026-09-25T19:12:26.992Z",
   "modo": "palavras-chave",
   "clima": {
     "max": 26.2,
     "min": 15.5,
-    "chuva": 82
+    "chuva": 89
   },
   "noticias": [
     {
-      "titulo": "Rússia prende cientista político por tráfico de drogas após posts com análises das eleições",
+      "titulo": "ASSISTA: Conselho do MPF forma maioria não afastar Gonet do caso Master",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/25/russia-prende-cientista-politico-por-trafico-de-drogas-apos-posts-com-analises-das-eleicoes.ghtml",
-      "hora": "Fri, 25 Sep 2026 14:56:16 -0000",
+      "link": "https://g1.globo.com/politica/ao-vivo/conselho-do-mpf-gonet-caso-master.ghtml",
+      "hora": "Fri, 25 Sep 2026 19:06:54 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Prefis 2026: contribuintes de Maceió têm até 30 de setembro para negociar débitos fiscais com desconto",
+      "titulo": "Confira lista de parques e áreas verdes para curtir a primavera em Salvador",
       "fonte": "G1",
-      "link": "https://g1.globo.com/al/alagoas/noticia/2026/09/25/prefis-2026-contribuintes-de-maceio-tem-ate-30-de-setembro-para-negociar-dividas-fiscais-com-desconto.ghtml",
-      "hora": "Fri, 25 Sep 2026 14:54:11 -0000",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/25/confira-lista-de-parques-e-areas-verdes-para-curtir-em-salvador.ghtml",
+      "hora": "Fri, 25 Sep 2026 19:06:08 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Trump recebe Xi Jinping na Casa Branca para cerimônia do chá; SIGA",
+      "titulo": "Rochas se desprendem de pedreira e deixam 500 alunos sem aulas há quase um mês em MG",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/ao-vivo/trump-e-xi-jinping-se-reunem-nos-eua.ghtml",
-      "hora": "Fri, 25 Sep 2026 14:53:13 -0000",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/25/rochas-se-desprendem-de-pedreira-e-deixam-500-alunos-sem-aulas-ha-quase-um-mes-em-mg.ghtml",
+      "hora": "Fri, 25 Sep 2026 19:04:47 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Assista à série 'Governadores nas Ruas'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/minas-gerais/videos-bom-dia-minas/playlist/assista-a-serie-governadores-nas-ruas.ghtml",
+      "hora": "Fri, 25 Sep 2026 19:00:33 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEO: Rinoceronte ameaçado de extinção é flagrado atacando carro com turistas",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/25/video-rinoceronte-ameacado-de-extincao-e-flagrado-atacando-carro-com-turistas.ghtml",
+      "hora": "Fri, 25 Sep 2026 19:00:24 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Paes promete extinguir Loterj e proibir bets no estado do Rio",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/09/25/paes-promete-extinguir-loterj-e-proibir-bets-no-estado-do-rio.ghtml",
+      "hora": "Fri, 25 Sep 2026 18:58:37 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Prefeita assina decreto para passe livre no transporte coletivo no dia das eleições na Grande Aracaju",
+      "titulo": "Delegado, advogado e suspeito de promover lutas entre presos: quem é candidato a deputado federal preso pela PF por comprar votos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/25/passe-livre-eleicoes-grande-aracaju.ghtml",
-      "hora": "Fri, 25 Sep 2026 14:52:51 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Mais de 36 mil famílias do AP devem atualizar dados para manter desconto na conta de luz",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/09/25/mais-de-36-mil-familias-do-ap-devem-atualizar-dados-para-manter-desconto-na-conta-de-luz.ghtml",
-      "hora": "Fri, 25 Sep 2026 14:50:04 -0000",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/09/25/delegado-advogado-e-suspeito-de-promover-lutas-entre-presos-quem-e-candidato-a-deputado-federal-preso-pela-pf-por-comprar-votos.ghtml",
+      "hora": "Fri, 25 Sep 2026 18:56:34 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Assista ao Bahia Meio Dia da TV Subaé",
+      "titulo": "VÍDEOS: Jornal do Almoço Florianópolis de sexta-feira, 25 de setembro de 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-      "hora": "Fri, 25 Sep 2026 14:49:42 -0000",
+      "link": "https://g1.globo.com/sc/santa-catarina/edicao/2026/09/25/videos-jornal-do-almoco-florianopolis-de-sexta-feira-25-de-setembro-de-2026.ghtml",
+      "hora": "Fri, 25 Sep 2026 18:55:01 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: Jornal do Acre 2ª Edição desta quinta-feira, 24 de setembro de 2026",
+      "titulo": "Homem morre e duas pessoas ficam feridas após acidente entre carros na Rio-Santos, em Angra dos Reis",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quinta-feira-24-de-setembro-de-2026.ghtml",
-      "hora": "Fri, 25 Sep 2026 14:48:52 -0000",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/25/homem-morre-e-duas-pessoas-ficam-feridas-apos-acidente-entre-carros-na-rio-santos-em-angra-dos-reis.ghtml",
+      "hora": "Fri, 25 Sep 2026 18:54:55 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "AGU e Gilmar Mendes fecham cerco contra 'indústria de precatórios' usada pelo Master",
+      "titulo": "Motociclista fica gravemente ferido após bater em caminhão e ser projetado contra carro em rodovia de Sorocaba",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/25/agu-e-gilmar-mendes-fecham-cerco-contra-industria-de-precatorios-usada-pelo-master.ghtml",
-      "hora": "Fri, 25 Sep 2026 14:48:34 -0000",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/25/motociclista-fica-gravemente-ferido-apos-bater-em-caminhao-e-ser-projetado-contra-carro-em-rodovia-de-sorocaba.ghtml",
+      "hora": "Fri, 25 Sep 2026 18:53:56 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Assista ao Bahia Meio Dia",
+      "titulo": "Ar-condicionado derrete após incêndio em hospital de MT",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
-      "hora": "Fri, 25 Sep 2026 14:47:49 -0000",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/25/ar-condicionado-derrete-apos-incendio-em-hospital-de-mt.ghtml",
+      "hora": "Fri, 25 Sep 2026 18:53:54 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Trump e Xi fazem encontro final de visita do chinês a Washington ",
+      "titulo": "Elefante Sandro recebe dieta especial para recuperar peso em Santuário de MT",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/25/trump-e-xi-fazem-encontro-final-de-visita-do-chines-a-washington.ghtml",
-      "hora": "Fri, 25 Sep 2026 14:47:38 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Nova espécie de pinguim ficou 'escondida' por mais de 100 anos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/25/nova-especie-de-pinguim-ficou-escondida-por-mais-de-100-anos.ghtml",
-      "hora": "Fri, 25 Sep 2026 14:47:30 -0000",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/25/elefante-sandro-recebe-dieta-especial-para-recuperar-peso-em-santuario-de-mt.ghtml",
+      "hora": "Fri, 25 Sep 2026 18:53:17 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Dupla invade casa e mata morador a tiros dentro de banheiro em Jaciara (MT)",
+      "titulo": "Câmara de Marechal Floriano cassa mandato do prefeito Lidiney Gobbi após denúncias de fraudes em licitações",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/25/dupla-invade-casa-e-mata-morador-a-tiros-dentro-de-banheiro-em-jaciara-mt.ghtml",
-      "hora": "Fri, 25 Sep 2026 14:46:16 -0000",
+      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/25/camara-de-marechal-floriano-cassa-mandato-do-prefeito-lidiney-gobbi-apos-denuncias-de-fraudes-em-licitacoes.ghtml",
+      "hora": "Fri, 25 Sep 2026 18:53:17 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "PRF recupera carro furtado em 2022 na BR-156, no Amapá",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/09/25/prf-recupera-carro-furtado-em-2022-na-br-156-no-amapa.ghtml",
+      "hora": "Fri, 25 Sep 2026 18:53:15 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Assista ao JAP1 desta sexta-feira (25)",
+      "titulo": "Programa Mulheres Mil abre 386 vagas gratuitas em cursos de qualificação no Maranhão",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ap/ao-vivo/assista-ao-bom-dia-amapa-desta-segunda-21.ghtml",
-      "hora": "Fri, 25 Sep 2026 14:46:09 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "IA emite alerta ao identificar foragido e homem condenado a 22 anos é preso enquanto viajava para o litoral do Paraná",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pr/parana/noticia/2026/09/25/ia-emite-alerta-ao-identificar-foragido-e-homem-condenado-a-22-anos-e-preso-enquanto-viajava-para-o-litoral-do-parana.ghtml",
-      "hora": "Fri, 25 Sep 2026 14:45:45 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/09/25/programa-mulheres-mil-abre-386-vagas-gratuitas-em-cursos-de-qualificacao-no-maranhao.ghtml",
+      "hora": "Fri, 25 Sep 2026 18:52:45 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
@@ -240,6 +248,54 @@
       "resumo": null
     },
     {
+      "titulo": "Proibição das bets: os pontos que o governo Lula ainda fecha na última hora",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqj644enyr9do?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 25 Sep 2026 17:29:19 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Bets cogitam ir à Justiça e cobrar até dano moral de Lula: 'Setor não vai acabar amanhã'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmwyzzx3z5dyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 25 Sep 2026 18:59:42 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Lula proibir bets é 'desespero por votos' e pode ter impacto em eleição apertada, afirma professor da USP",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck4gjjdvwjg8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 25 Sep 2026 18:10:10 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Bets no Brasil: o papel dos governos Temer, Bolsonaro e Lula no mercado de apostas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck790g72qev5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 25 Sep 2026 16:51:05 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que polêmica sobre Nossa Senhora Aparecida entrou na disputa entre Flávio Bolsonaro e Lula pela Presidência",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck30540nv5m6o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 25 Sep 2026 16:02:53 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Flávio Bolsonaro volta a parecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 25 Sep 2026 15:06:21 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "IA vai decidir sua vez na fila do SUS? Propostas de candidatos da esquerda à direita não são simples de implementar",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/clyjqy47weyo?at_medium=RSS&at_campaign=rss",
@@ -251,7 +307,7 @@
       "titulo": "O que esperar da primeira onda de calor na primavera do El Niño no Brasil?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/ckeq8e30r8qgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 25 Sep 2026 13:02:06 GMT",
+      "hora": "Fri, 25 Sep 2026 17:17:15 GMT",
       "tema": "sp",
       "resumo": null
     },
@@ -264,59 +320,19 @@
       "resumo": null
     },
     {
+      "titulo": "Clique aqui",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 25 Sep 2026 15:06:21 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "Os 70 anos da 1ª parceria entre Tom Jobim e Vinicius de Moraes que mudou a MPB e rendeu até Oscar",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm5y5eqdgg84o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 25 Sep 2026 09:25:47 GMT",
       "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Como opera a empresa por trás de despejo de idosa de 87 anos na Espanha",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm780g096v6do?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 25 Sep 2026 11:26:11 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Viagens internacionais e jatinho de Vorcaro: os vínculos de Flávio Bolsonaro com Willer Tomaz, alvo da PF no escândalo do INSS",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3lyr54g8yero?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 24 Sep 2026 19:00:49 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Lula endurece discurso sobre bets; Flávio critica regulamentação atual, mas defende aposta esportiva",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c64g7d8m9m8vo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 24 Sep 2026 17:58:11 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "O que Lula e Flávio Bolsonaro já disseram sobre bets",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjdx57p941kyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 25 Sep 2026 08:42:50 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Pesquisa para presidente: Lula e Flávio voltam a empatar no 2º turno, mas distância aperta no 1º, indica Agregador da BBC",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmwyze3r990vo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 24 Sep 2026 16:25:29 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Clique aqui",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 24 Sep 2026 09:49:49 GMT",
-      "tema": "brasil",
       "resumo": null
     },
     {
@@ -349,14 +365,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cw14dy6nzkpzo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 24 Sep 2026 17:51:32 GMT",
       "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Eleição 2026: quais são as propostas dos candidatos a presidente?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm2gryker9mo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 23 Sep 2026 17:37:47 GMT",
-      "tema": "brasil",
       "resumo": null
     }
   ]
