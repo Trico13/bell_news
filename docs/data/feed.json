@@ -1,114 +1,122 @@
 {
-  "gerado_em": "2026-09-25T23:49:16.977Z",
+  "gerado_em": "2026-09-26T14:06:22.056Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 26.2,
-    "min": 15.5,
-    "chuva": 89
+    "max": 31.1,
+    "min": 16.4,
+    "chuva": 0
   },
   "noticias": [
     {
-      "titulo": "Rede Amazônica faz debate com candidatos ao Senado pelo Acre nesta sexta (25)",
+      "titulo": "Irmão de Rick relembra declaração de fã sobre hit da dupla em telefonema: ‘A música me salvou’",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/ao-vivo/debate-candidatos-senado-acre.ghtml",
-      "hora": "Fri, 25 Sep 2026 23:39:20 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao Governo do Piauí nesta sexta (25)",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/25/eleicoes-2026-sexta-25.ghtml",
-      "hora": "Fri, 25 Sep 2026 23:38:02 -0000",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/09/26/irmao-de-rick-relembra-declaracao-de-fa-sobre-hit-da-dupla-em-telefonema-a-musica-me-salvou.ghtml",
+      "hora": "Sat, 26 Sep 2026 13:48:24 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Sem receber, barqueiros param transporte escolar e deixam alunos sem aulas em comunidades do AM ",
+      "titulo": "Cidades de Sergipe chegaram a 40 °C em 2026; veja ranking das maiores temperaturas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/25/sem-receber-barqueiros-param-transporte-escolar-e-deixam-alunos-sem-aulas-em-comunidades-do-am.ghtml",
-      "hora": "Fri, 25 Sep 2026 23:36:09 -0000",
+      "link": "https://g1.globo.com/se/sergipe/noticia/2026/09/26/cidades-de-sergipe-chegaram-a-40-c-em-2026-veja-ranking-das-maiores-temperaturas.ghtml",
+      "hora": "Sat, 26 Sep 2026 13:47:02 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Dra. Lúcia Santos propõe concursos para cartórios e outros setores do serviço público no PI",
+      "titulo": "7ª parcela do IPTU de Maceió vence na quarta-feira; veja como emitir a guia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/25/dra-lucia-santos-agenda.ghtml",
-      "hora": "Fri, 25 Sep 2026 23:34:18 -0000",
+      "link": "https://g1.globo.com/al/alagoas/noticia/2026/09/26/7a-parcela-do-iptu-de-maceio-vence-na-quarta-feira-veja-como-emitir-a-guia.ghtml",
+      "hora": "Sat, 26 Sep 2026 13:44:46 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Operação da PRF na Dutra apreende carro furtado com placa clonada",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/26/operacao-da-prf-na-dutra-apreende-carro-furtado-com-placa-clonada.ghtml",
+      "hora": "Sat, 26 Sep 2026 13:44:33 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Confira propostas dos candidatos ao governo para o combate à violência; VÍDEO",
+      "titulo": "Homem é preso com quse 200 kg de maconha em fundo falso de carro na SP-425 em Martinópolis",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/25/confira-propostas-dos-candidatos-ao-governo-para-o-combate-a-violencia-video.ghtml",
-      "hora": "Fri, 25 Sep 2026 23:33:31 -0000",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/09/26/homem-e-preso-com-quse-200-kg-de-maconha-em-fundo-falso-de-carro-na-sp-425-em-martinopolis.ghtml",
+      "hora": "Sat, 26 Sep 2026 13:43:27 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Comícios, encontro com trabalhadores de limpeza e gravações: veja como foi o dia dos candidatos ao governo da PB",
+      "titulo": "Soldado da PM morto em acidente de ônibus com 8 vítimas fatais e 12 feridos na BA estava fardado e pegava carona",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/25/veja-como-foi-agenda-candidatos-governo-pb-25-setembro.ghtml",
-      "hora": "Fri, 25 Sep 2026 23:30:39 -0000",
-      "tema": "entretenimento",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/26/pm-morto-em-acidente-de-onibus-na-bahia-estava-fardado-e-pegava-carona.ghtml",
+      "hora": "Sat, 26 Sep 2026 13:43:22 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Veja o que fizeram os candidatos ao governo do AM nesta sexta-feira (25)",
+      "titulo": "Família denuncia agressões de policiais militares contra adolescentes durante abordagem em MG",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/25/veja-o-que-fizeram-os-candidatos-ao-governo-do-am-nesta-sexta-feira-25.ghtml",
-      "hora": "Fri, 25 Sep 2026 23:30:00 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Braide defende ampliar Patrulha Maria da Penha e criar ações para idosos e pessoas com deficiência",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/25/braide-defende-ampliar-patrulha-maria-da-penha-e-criar-acoes-para-idosos-e-pessoas-com-deficiencia.ghtml",
-      "hora": "Fri, 25 Sep 2026 23:29:10 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Hana Ghassan propõe ampliar uso de câmeras e drones na segurança pública do Pará",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/25/hana-ghassan-propoe-ampliar-uso-de-cameras-e-drones-na-seguranca-publica-do-para.ghtml",
-      "hora": "Fri, 25 Sep 2026 23:23:52 -0000",
+      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/26/familia-denuncia-agressoes-de-policiais-militares-contra-adolescentes-durante-abordagem-em-mg.ghtml",
+      "hora": "Sat, 26 Sep 2026 13:41:35 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Eleições 2026: Ricardo Marques fala sobre 'Protege Mulher' e melhorias para policiais",
+      "titulo": "Idoso morre queimado em incêndio em área de garimpo no interior do Amapá",
       "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/25/eleicoes-2026-ricardo-marques-fala-sobre-protege-mulher-e-melhorias-para-policiais.ghtml",
-      "hora": "Fri, 25 Sep 2026 23:16:12 -0000",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/09/26/idoso-morre-queimado-em-incendio-em-area-de-garimpo-no-interior-do-amapa.ghtml",
+      "hora": "Sat, 26 Sep 2026 13:41:00 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Bebê carbonizado: mãe e companheiro são presos e vão responder por infanticídio; polícia do DF procura terceiro envolvido",
+      "titulo": "Motociclista morre após bater em dois carros em avenida de Guaratinguetá",
       "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/25/bebe-carbonizado-mae-e-companheiro-sao-presos-e-vao-responder-por-infanticidio-policia-do-df-procura-terceiro-envolvido.ghtml",
-      "hora": "Fri, 25 Sep 2026 23:15:15 -0000",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/26/motociclista-morre-apos-bater-em-dois-carros-em-avenida-de-guaratingueta.ghtml",
+      "hora": "Sat, 26 Sep 2026 13:38:13 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Santos terá ruas interditadas e desvios de ônibus neste sábado; veja o que muda",
+      "titulo": "Barragem que apresentou risco de rompimento atinge nível de segurança na Serra Gaúcha; moradores seguem fora de casa",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/25/santos-tera-ruas-interditadas-e-desvios-de-onibus-neste-sabado-veja-o-que-muda.ghtml",
-      "hora": "Fri, 25 Sep 2026 23:12:50 -0000",
-      "tema": "sp",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/26/barragem-sao-luiz-nivel-seguranca.ghtml",
+      "hora": "Sat, 26 Sep 2026 13:37:49 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Mulher confunde pedal de freio com acelerador e capota caminhonete em Santa Isabel",
+      "titulo": "Polícia prende investigado por dupla tentativa de latrocínio em Belém",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/09/25/mulher-confunde-pedal-de-freio-com-acelerador-e-capota-caminhonete-em-santa-isabel.ghtml",
-      "hora": "Fri, 25 Sep 2026 23:10:10 -0000",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/09/26/policia-prende-investigado-por-dupla-tentativa-de-latrocinio-em-belem.ghtml",
+      "hora": "Sat, 26 Sep 2026 13:37:30 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Motorista morre em grave acidente após carro sair da pista e cair em barranco no interior de SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/09/26/motorista-morre-em-grave-acidente-apos-carro-sair-da-pista-e-cair-em-barranco-no-interior-de-sp.ghtml",
+      "hora": "Sat, 26 Sep 2026 13:37:17 -0000",
       "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Entregadores se mobilizam em frente a condomínio após pedido cancelado em Maceió; VÍDEO",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/al/alagoas/noticia/2026/09/26/entregadores-se-mobilizam-em-frente-a-condominio-apos-pedido-cancelado-em-maceio-video.ghtml",
+      "hora": "Sat, 26 Sep 2026 13:35:25 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Dois homens são presos suspeitos de dopar e roubar turista colombiano no Rio; vítima teve prejuízo de 1,2 mil dólares",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/26/presos-suspeitos-de-dopar-e-roubar-turista-colombiano-no-rio.ghtml",
+      "hora": "Sat, 26 Sep 2026 13:29:42 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -232,6 +240,46 @@
       "resumo": null
     },
     {
+      "titulo": "'Soberania' no altar: falas de bispos católicos viralizam e viram ativo da campanha de Lula na reta final",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cv62kkr916x2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 26 Sep 2026 10:00:07 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Apostas como 'vilãs' e golpe no futebol: como a imprensa internacional noticiou a proibição das bets por Lula",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cx3055j486dvo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 26 Sep 2026 13:41:48 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Como a hermética comunidade amish combate o surto de sarampo mais mortal da história recente dos EUA",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c64g7d7w2xx4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 26 Sep 2026 13:21:15 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que polêmica sobre Nossa Senhora Aparecida entrou na disputa entre Flávio Bolsonaro e Lula pela Presidência",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck30540nv5m6o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 25 Sep 2026 22:52:22 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O acordo de paz para reabrir o estreito de Hormuz em 7 dias proposto pelo Irã",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm1588pz8dx7o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 26 Sep 2026 10:49:41 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Lula anuncia proibição das bets no Brasil: entenda a medida e até quando apostadores poderão sacar dinheiro",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmx2zzw00r84o?at_medium=RSS&at_campaign=rss",
@@ -256,30 +304,6 @@
       "resumo": null
     },
     {
-      "titulo": "Lula proibir bets é 'desespero por votos' e pode ter impacto em eleição apertada, afirma professor da USP",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck4gjjdvwjg8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 25 Sep 2026 21:48:22 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Bets no Brasil: o papel dos governos Temer, Bolsonaro e Lula no mercado de apostas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck790g72qev5o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 25 Sep 2026 16:51:05 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que polêmica sobre Nossa Senhora Aparecida entrou na disputa entre Flávio Bolsonaro e Lula pela Presidência",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck30540nv5m6o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 25 Sep 2026 22:52:22 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
       "titulo": "Flávio Bolsonaro volta a parecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
@@ -288,10 +312,34 @@
       "resumo": null
     },
     {
-      "titulo": "IA vai decidir sua vez na fila do SUS? Propostas de candidatos da esquerda à direita não são simples de implementar",
+      "titulo": "Clique aqui",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/clyjqy47weyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 25 Sep 2026 08:21:59 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 25 Sep 2026 15:06:21 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Lula proibir bets é 'desespero por votos' e pode ter impacto em eleição apertada, afirma professor da USP",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck4gjjdvwjg8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 25 Sep 2026 21:48:22 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Como vai funcionar a proibição das bets e qual seu impacto na eleição",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqde009w65y8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 26 Sep 2026 02:45:39 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Bets no Brasil: o papel dos governos Temer, Bolsonaro e Lula no mercado de apostas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck790g72qev5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 26 Sep 2026 00:45:58 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -304,50 +352,10 @@
       "resumo": null
     },
     {
-      "titulo": "Clique aqui",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 25 Sep 2026 15:06:21 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
       "titulo": "Os 70 anos da 1ª parceria entre Tom Jobim e Vinicius de Moraes que mudou a MPB e rendeu até Oscar",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm5y5eqdgg84o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 25 Sep 2026 09:25:47 GMT",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Voto envergonhado de bolsonaristas é mito ou verdade? Especialista em pesquisas da Universidade de Michigan explica",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck9qr20pwjlwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 24 Sep 2026 18:54:05 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "O que diz carta de parlamentares dos EUA que acusam governo Trump de interferência nas eleições brasileiras",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c9x2zm3gpv74o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 25 Sep 2026 01:13:11 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Brasil 'dá as costas ao futuro' em eleição com candidatos 'desoladores', diz The Economist",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6n8mne9j73no?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 24 Sep 2026 20:57:21 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Marisa Orth faz filme erótico, relembra Playboy e diz que Brasil está 'careta': 'Caretice traz hipocrisia e mata'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw14dy6nzkpzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 24 Sep 2026 17:51:32 GMT",
       "tema": "cultura",
       "resumo": null
     }
