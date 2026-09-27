@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-27T18:57:32.552Z",
+  "gerado_em": "2026-09-27T23:38:59.945Z",
   "modo": "palavras-chave",
   "clima": {
     "max": 30,
@@ -8,114 +8,114 @@
   },
   "noticias": [
     {
-      "titulo": "Motorista de aplicativo cai com carro em igarapé de Manaus; VÍDEO",
+      "titulo": "Fogo atinge estrutura antes de show do Luan Santana em Goiânia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/27/motorista-de-aplicativo-cai-com-carro-em-igarape-de-manaus-video.ghtml",
-      "hora": "Sun, 27 Sep 2026 18:47:38 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Estudante morre afogado em rio no extremo sul da Bahia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/27/estudante-morre-afogado-na-bahia.ghtml",
-      "hora": "Sun, 27 Sep 2026 18:46:40 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Pista de acesso em praia de Estância é interditada após erosão provocada por maré alta ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/09/27/pista-de-acesso-em-praia-de-estancia-e-interditada-apos-erosao-provocada-por-mare-alta.ghtml",
-      "hora": "Sun, 27 Sep 2026 18:44:32 -0000",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/09/27/fogo-atinge-estrutura-antes-de-show-do-luan-santana-em-goiania.ghtml",
+      "hora": "Sun, 27 Sep 2026 23:20:16 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Homem é morto com mais de 20 tiros na Grande João Pessoa",
+      "titulo": "Em entrevista, o presidente Lula diz que Congresso 'contribuiu' para governabilidade",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/09/27/homem-e-morto-com-mais-de-20-tiros-na-grande-joao-pessoa.ghtml",
-      "hora": "Sun, 27 Sep 2026 18:42:56 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Irmãos de bois-bumbás rivais se apresentam juntos pela primeira vez em mais de 10 anos em RO",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ro/rondonia/noticia/2026/09/27/irmaos-de-bois-bumbas-rivais-se-apresentam-juntos-pela-primeira-vez-em-mais-de-10-anos-em-ro.ghtml",
-      "hora": "Sun, 27 Sep 2026 18:41:51 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Moradores fazem fila para retirar lona após temporal de granizo; Defesa Civil alerta: 'Não subam nos telhados'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/27/temporal-granizo-defesa-civil-rs.ghtml",
-      "hora": "Sun, 27 Sep 2026 18:40:36 -0000",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/27/em-entrevista-o-presidente-lula-fala.ghtml",
+      "hora": "Sun, 27 Sep 2026 23:17:13 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Atleta de handebol de 15 anos morre após ser atingida por gangorra em sítio de amiga em SC ",
+      "titulo": "Curta-metragem de universitárias de Santos é selecionado para festival na Colômbia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/27/atleta-de-handebol-de-15-anos-morre-em-sitio-de-amiga-em-sc.ghtml",
-      "hora": "Sun, 27 Sep 2026 18:40:14 -0000",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/27/curta-metragem-de-universitarias-de-santos-e-selecionado-para-festival-na-colombia.ghtml",
+      "hora": "Sun, 27 Sep 2026 23:15:00 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "\nHomem é preso suspeito de agredir companheira com chicote durante crise de ciúmes em Itatiba",
+      "titulo": "Homem morre e outro fica ferido após carro cair de ponte em Borda da Mata, MG",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/27/homem-e-preso-suspeito-de-agredir-companheira-com-chicote-durante-crise-de-ciumes-em-itatiba.ghtml",
-      "hora": "Sun, 27 Sep 2026 18:39:58 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Há quase 30 dias sem beber, Leonardo ‘entra’ em freezer e brinca: ‘Sentir o cheiro’",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/09/27/ha-quase-30-dias-sem-beber-leonardo-entra-em-freezer-e-brinca-sentir-o-cheiro.ghtml",
-      "hora": "Sun, 27 Sep 2026 18:35:50 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Estudantes criam luva tecnológica que traduz Libras para facilitar comunicação com surdos em MG",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/27/estudantes-criam-luva-tecnologica-que-traduz-libras-para-facilitar-comunicacao-com-surdos-em-mg.ghtml",
-      "hora": "Sun, 27 Sep 2026 18:34:53 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Criador de 74 paróquias e recebido por quatro papas: quem foi Dom Pedro Fedalto, arcebispo que morreu aos 100 anos em Curitiba",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pr/parana/noticia/2026/09/27/quem-era-dom-pedro-fedalto-curitiba.ghtml",
-      "hora": "Sun, 27 Sep 2026 18:30:18 -0000",
+      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/09/27/ocorrencias-de-transito.ghtml",
+      "hora": "Sun, 27 Sep 2026 22:46:57 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "‘É bem mais difícil’: campeão de taekwondo revela desafio ao virar ator e voltar a viver Tora Pleura",
+      "titulo": "Professor Filemon, escritor e especialista em língua portuguesa, morre aos 67 anos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/27/e-bem-mais-dificil-campeao-de-taekwondo-revela-desafio-ao-virar-ator-e-voltar-a-viver-tora-pleura.ghtml",
-      "hora": "Sun, 27 Sep 2026 18:30:00 -0000",
-      "tema": "entretenimento",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/09/27/professor-filemon-escritor-e-especialista-em-lingua-portuguesa-morre-aos-67-anos.ghtml",
+      "hora": "Sun, 27 Sep 2026 22:46:12 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Integrantes de torcida organizada que estavam foragidos são presos em estádio em jogo entre Sport e Náutico",
+      "titulo": "Eleições 2026: Veja como foi o dia dos candidatos ao governo do Ceará no último domingo antes do 1º turno",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/09/27/integrantes-de-torcida-organizada-sao-presos-em-estadio-em-jogo-entre-sport-e-nautico.ghtml",
-      "hora": "Sun, 27 Sep 2026 18:29:44 -0000",
+      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/27/veja-como-foi-o-dia-dos-candidatos-ao-governo-do-ceara.ghtml",
+      "hora": "Sun, 27 Sep 2026 22:45:45 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Ministério pede ao Telegram bloqueio de 43 perfis que divulgam apostas e cassinos virtuais ilegais",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/27/ministerio-pede-ao-telegram-bloqueio-de-43-perfis-que-divulgam-apostas-e-cassinos-virtuais-ilegais.ghtml",
+      "hora": "Sun, 27 Sep 2026 22:30:30 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "'Vida não é uma linha reta', diz acreano Ramon Dino após ficar no top 3 do Mr. Olympia 2026",
+      "titulo": "Briga em clube de striptease deixa três mortos e quatro feridos em Detroit, nos EUA",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/09/27/vida-nao-e-uma-linha-reta-diz-acreano-ramon-dino-apos-ficar-no-top-3-do-mr-olympia-2026.ghtml",
-      "hora": "Sun, 27 Sep 2026 18:29:33 -0000",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/27/briga-em-clube-de-striptease-deixa-tres-mortos-e-quatro-feridos-em-detroit-nos-eua.ghtml",
+      "hora": "Sun, 27 Sep 2026 22:30:22 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Campinas tem 324 moradores registrados como doadores de órgãos; saiba como formalizar intenção",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/27/campinas-tem-324-moradores-registrados-como-doadores-de-orgaos-saiba-como-formalizar-intencao.ghtml",
+      "hora": "Sun, 27 Sep 2026 22:26:40 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Jovem desaparece após salvar namorada de afogamento em praia do litoral do Piauí",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/09/27/jovem-desaparece-praia.ghtml",
+      "hora": "Sun, 27 Sep 2026 22:24:16 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem é preso suspeito de manter companheira em cárcere privado, agredi-la e cortar cabelo dela em Jaú",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/09/27/homem-e-preso-suspeito-de-manter-companheira-em-carcere-privado-agredi-la-e-cortar-cabelo-dela-em-jau.ghtml",
+      "hora": "Sun, 27 Sep 2026 22:18:27 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Motociclista morre em acidente após motorista avançar sinal de pare em MS",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/27/motociclista-morre-em-acidente-apos-motorista-avancar-sinal-de-pare-em-ms.ghtml",
+      "hora": "Sun, 27 Sep 2026 22:07:28 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Universidade Federal de Roraima promove sessão gratuita de cinema em alusão ao Setembro Amarelo",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/09/27/universidade-federal-de-roraima-promove-sessao-gratuita-de-cinema-em-alusao-ao-setembro-amarelo.ghtml",
+      "hora": "Sun, 27 Sep 2026 22:03:14 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Câmeras com inteligência artificial vão fiscalizar uso de celular e cinto na Washington Luís em Rio Preto",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/27/cameras-com-inteligencia-artificial-vao-fiscalizar-uso-de-celular-e-cinto-na-washington-luis-em-rio-preto.ghtml",
+      "hora": "Sun, 27 Sep 2026 21:58:50 -0000",
       "tema": "cultura",
       "resumo": null
     },
@@ -248,10 +248,42 @@
       "resumo": null
     },
     {
+      "titulo": "Flávio diz que irá ao debate na Globo, o último antes do 1º turno; Lula não está confirmado",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cpwl85rjdz8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 27 Sep 2026 22:27:06 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Polícia britânica prende cinco suspeitos de planejarem ato terrorista próximo a uma base aérea utilizada pelo exército dos EUA ",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmn0j6wyzn60o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 27 Sep 2026 19:02:05 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "'Descobri pelas redes sociais que ele estava morto': o duplo castigo aos condenados na Arábia Saudita, um dos países que mais aplicam a pena de morte",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cv8e3zlz3j0no?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 27 Sep 2026 18:24:40 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'Um dos grandes mistérios da ciência': o que a anestesia geral revela sobre o nosso cérebro",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cr0j3yxx5g42o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 27 Sep 2026 20:50:34 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que algumas pessoas acreditam que a IA é um Anticristo",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmn45d3ew841o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 27 Sep 2026 21:17:06 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -264,43 +296,11 @@
       "resumo": null
     },
     {
-      "titulo": "Por que reformas no STF podem ser perigosas?",
+      "titulo": "STF precisa mudar, mas reforma no calor da crise pode ser 'perigosa', dizem especialistas",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/ckrer307j5rgo?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 27 Sep 2026 09:41:12 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Como Japão mantém suas ruas limpas mesmo com tão poucas lixeiras",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr624yqxywgno?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 27 Sep 2026 16:52:07 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Ela também é uma vítima': quem é Christa Pike, que pode ser a primeira mulher executada no Tennessee em 200 anos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwdr78jg54jlo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 27 Sep 2026 14:18:31 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "A mulher que envia US$ 10 mil por semana para crianças migrantes detidas nos EUA comprarem comida",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqn745gepm3po?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 27 Sep 2026 12:27:31 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Risco de guerra pode salvar montadoras europeias?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6j4jgpx842wo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 27 Sep 2026 11:08:37 GMT",
-      "tema": "mundo",
       "resumo": null
     },
     {
@@ -320,6 +320,22 @@
       "resumo": null
     },
     {
+      "titulo": "'Ela também é uma vítima': quem é Christa Pike, que pode ser a primeira mulher executada no Tennessee em 200 anos",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwdr78jg54jlo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 27 Sep 2026 14:18:31 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "A mulher que envia US$ 10 mil por semana para crianças migrantes detidas nos EUA comprarem comida",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqn745gepm3po?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 27 Sep 2026 12:27:31 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "O que é o kratom, a 'heroína dos postos de gasolina' que provoca alarme nas autoridades americanas",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/ck5ywwz0ld77o?at_medium=RSS&at_campaign=rss",
@@ -336,26 +352,10 @@
       "resumo": null
     },
     {
-      "titulo": "Dona do ChatGPT diz que seus robôs podem ter invadido sistemas de vários órgãos do governo dos EUA",
+      "titulo": "Risco de guerra pode salvar montadoras europeias?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cxq633pnnz1mo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 26 Sep 2026 20:59:31 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "'O homem que vendeu drogas letais à minha filha para que ela tirasse a própria vida deveria apodrecer no inferno'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwvgyx2zkx3ro?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 26 Sep 2026 19:53:38 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Como a nova direita que governa a América Latina se alinha a Trump diante dos olhos do mundo",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cv98609rxr03o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 26 Sep 2026 18:28:03 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c6j4jgpx842wo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 27 Sep 2026 11:08:37 GMT",
       "tema": "mundo",
       "resumo": null
     }
