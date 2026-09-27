@@ -1,122 +1,130 @@
 {
-  "gerado_em": "2026-09-26T23:22:32.310Z",
+  "gerado_em": "2026-09-27T14:59:06.717Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 31.1,
-    "min": 16.4,
+    "max": 30.5,
+    "min": 17.3,
     "chuva": 0
   },
   "noticias": [
     {
-      "titulo": "PRF apreende 43 kg de cocaína após perseguição de 10 km em rodovia de SP",
+      "titulo": "Mulher é presa em estufa com 106 pés de maconha no interior de SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/26/prf-apreende-43-kg-de-cocaina-apos-perseguicao-de-10-km-em-rodovia-de-sp.ghtml",
-      "hora": "Sat, 26 Sep 2026 23:00:00 -0000",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/27/mulher-e-presa-em-estufa-com-pes-de-maconha-no-interior-de-sp.ghtml",
+      "hora": "Sun, 27 Sep 2026 14:41:13 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "+Milionária hoje: resultado do concurso 393 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/milionaria/noticia/2026/09/27/milionaria-hoje-resultado-do-concurso-393-e-numeros-sorteados.ghtml",
+      "hora": "Sun, 27 Sep 2026 14:35:50 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Timemania hoje: resultado do concurso 2447 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/timemania/noticia/2026/09/27/timemania-hoje-resultado-do-concurso-2447-e-numeros-sorteados.ghtml",
+      "hora": "Sun, 27 Sep 2026 14:35:46 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "André Luís propõe medidas para garantir direitos de mulheres, idosos e pessoas com deficiência",
+      "titulo": "Lotofácil hoje: resultado do concurso 3790 e números sorteados",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/26/andre-luis-propoe-medidas-para-garantir-direitos-de-mulheres-idosos-e-pessoas-com-deficiencia.ghtml",
-      "hora": "Sat, 26 Sep 2026 22:59:42 -0000",
+      "link": "https://g1.globo.com/loterias/lotofacil/noticia/2026/09/27/lotofacil-hoje-resultado-do-concurso-3790-e-numeros-sorteados.ghtml",
+      "hora": "Sun, 27 Sep 2026 14:35:41 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Dia de Sorte hoje: resultado do concurso 1308 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/09/27/dia-de-sorte-hoje-resultado-do-concurso-1308-e-numeros-sorteados.ghtml",
+      "hora": "Sun, 27 Sep 2026 14:35:36 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Quina hoje: resultado do concurso 7128 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/quina/noticia/2026/09/27/quina-hoje-resultado-do-concurso-7128-e-numeros-sorteados.ghtml",
+      "hora": "Sun, 27 Sep 2026 14:35:31 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Confusão em bar termina com major da PM morto a tiros no Amapá",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/09/27/confusao-em-bar-termina-com-major-da-pm-morto-a-tiros-no-amapa.ghtml",
+      "hora": "Sun, 27 Sep 2026 14:28:32 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Diferentes gerações nas eleições: saiba quem é o candidato mais novo e mais velho no pleito deste ano, na PB",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/27/diferentes-geracoes-nas-eleicoes-saiba-quem-e-o-candidato-mais-novo-e-mais-velho-no-pleito-deste-ano-na-pb.ghtml",
+      "hora": "Sun, 27 Sep 2026 14:27:43 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Cadela policial acha drogas e suspeito é preso por tráfico e com motoicleta roubada em Boa Vista",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/09/27/cadela-policial-acha-drogas-e-suspeito-e-preso-por-trafico-e-com-motoicleta-roubada-em-boa-vista.ghtml",
+      "hora": "Sun, 27 Sep 2026 14:27:36 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Fio do Professor Felipe Nunes: análise das pesquisas estaduais da Quaest para presidente",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/27/fio-do-professor-felipe-nunes-analise-das-pesquisas-quaest.ghtml",
+      "hora": "Sun, 27 Sep 2026 14:24:34 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
+      "titulo": "‘Tinha que ser lá’: casal escolhe Lençóis Maranhenses para celebrar casamento",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
-      "hora": "Sat, 26 Sep 2026 22:52:27 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Voluntários fazem ação de limpeza na Laguna de Araruama em Cabo Frio",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/09/26/voluntarios-fazem-acao-de-limpeza-na-laguna-de-araruama-em-cabo-frio.ghtml",
-      "hora": "Sat, 26 Sep 2026 22:52:27 -0000",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/09/27/tinha-que-ser-la-casal-escolhe-lencois-maranhenses-para-celebrar-casamento.ghtml",
+      "hora": "Sun, 27 Sep 2026 14:23:05 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Após acidente com micro-ônibus na BR-174, 12 feridos são transferidos para Manaus; três em estado grave",
+      "titulo": "Homem é morto a tiros em banheiro de bar durante evento com música ao vivo em Vila Velha",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/26/apos-acidente-com-micro-onibus-na-br-174-12-feridos-sao-transferidos-para-manaus-tres-em-estado-grave.ghtml",
-      "hora": "Sat, 26 Sep 2026 22:50:49 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Confira como foi a agenda dos candidatos ao governo do Ceará neste sábado (26)",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/26/confira-como-foi-a-agenda-dos-candidatos-ao-governo-do-ceara-neste-sabado-26.ghtml",
-      "hora": "Sat, 26 Sep 2026 22:47:34 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Região de Campinas tem alerta de 'grande perigo' para onda de calor até quarta-feira",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/26/regiao-de-campinas-tem-alerta-de-grande-perigo-para-onda-de-calor-ate-quarta-feira.ghtml",
-      "hora": "Sat, 26 Sep 2026 22:47:13 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Siga o EPTV 2 Ribeirão e Franca",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv-2-ribeirao-e-franca-ao-vivo.ghtml",
-      "hora": "Sat, 26 Sep 2026 22:44:43 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "155 casais oficializam união em casamento coletivo na Catedral Metropolitana do Rio",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/26/155-casais-oficializam-uniao-em-casamento-coletivo-na-catedral-metropolitana-do-rio.ghtml",
-      "hora": "Sat, 26 Sep 2026 22:44:34 -0000",
+      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/27/homem-e-morto-a-tiros-em-banheiro-de-bar-durante-evento-com-musica-ao-vivo-em-vila-velha.ghtml",
+      "hora": "Sun, 27 Sep 2026 14:21:59 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: GR2 de sábado, 26 de setembro de 2026",
+      "titulo": "Acidente deixa uma pessoa presa às ferragens na BR-316 em Ananindeua",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/edicao/2026/09/26/videos-gr2-de-sabado-26-de-setembro-de-2026.ghtml",
-      "hora": "Sat, 26 Sep 2026 22:43:20 -0000",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/09/27/acidente-na-br-316-em-ananindeua.ghtml",
+      "hora": "Sun, 27 Sep 2026 14:21:44 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Assista aos telejornais da TV Liberal",
+      "titulo": "\n'Diplomacia do Panda' Após encontro de Xi e Trump, China envia dois pandas-gigantes para zoológico nos EUA\n",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
-      "hora": "Sat, 26 Sep 2026 22:42:09 -0000",
+      "link": "https://g1.globo.com/mundo/noticia/2026/09/27/diplomacia-do-panda-apos-encontro-de-xi-e-trump-china-envia-dois-pandas-gigantes-para-zoologico-nos-eua.ghtml",
+      "hora": "Sun, 27 Sep 2026 14:21:13 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Inscrições para Cadastro Escolar estão abertas em Coronel Fabriciano",
+      "titulo": "Homem é detido com carga importada sem nota fiscal na Via Dutra, em Barra Mansa",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/09/26/inscricoes-para-cadastro-escolar-estao-abertas-em-coronel-fabriciano.ghtml",
-      "hora": "Sat, 26 Sep 2026 22:42:05 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Assista ao Boa Noite Espírito Santo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-boa-noite-espirito-santo.ghtml",
-      "hora": "Sat, 26 Sep 2026 22:41:19 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
-      "hora": "Sat, 26 Sep 2026 22:40:28 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/27/homem-e-detido-na-via-dutra-com-carga-importada-sem-nota-fiscal-em-barra-mansa.ghtml",
+      "hora": "Sun, 27 Sep 2026 14:18:42 -0000",
+      "tema": "sp",
       "resumo": null
     },
     {
@@ -240,6 +248,46 @@
       "resumo": null
     },
     {
+      "titulo": "Por que reformas no STF podem ser perigosas?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ckrer307j5rgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 27 Sep 2026 09:41:12 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "'Ela também é uma vítima': quem é Christa Pike, que pode ser a primeira mulher executada no Tennessee em 200 anos",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwdr78jg54jlo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 27 Sep 2026 14:18:31 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "A mulher que envia US$ 10 mil por semana para que crianças migrantes detidas nos EUA possam comprar comida: 'É uma fada-madrinha'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqn745gepm3po?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 27 Sep 2026 12:27:31 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Risco de guerra pode salvar montadoras europeias?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6j4jgpx842wo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 27 Sep 2026 11:08:37 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'Nasci enquanto minha mãe era mantida viva em um pulmão de aço'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq23xdk94vlgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 27 Sep 2026 13:14:54 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Como a nova direita que governa a América Latina se alinha a Trump diante dos olhos do mundo",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cv98609rxr03o?at_medium=RSS&at_campaign=rss",
@@ -251,7 +299,7 @@
       "titulo": "Trump rejeita acordo de paz proposto pelo Irã para reabrir o Estreito de Ormuz em 7 dias",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm1588pz8dx7o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 26 Sep 2026 17:55:21 GMT",
+      "hora": "Sun, 27 Sep 2026 10:21:16 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -272,6 +320,14 @@
       "resumo": null
     },
     {
+      "titulo": "Clique aqui",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 25 Sep 2026 15:06:21 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "'O homem que vendeu drogas letais à minha filha para que ela tirasse a própria vida deveria apodrecer no inferno'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cwvgyx2zkx3ro?at_medium=RSS&at_campaign=rss",
@@ -288,34 +344,10 @@
       "resumo": null
     },
     {
-      "titulo": "As 'melhores cidades' do mundo em 2026 — e por que elas se destacam",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckeq8e4pr83jo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 26 Sep 2026 19:13:47 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Um clã tão radical quanto disfuncional', diz reportagem de capa do Financial Times sobre a família Bolsonaro",
+      "titulo": "'Um clã tão radical quanto disfuncional': o que diz a reportagem de capa do Financial Times sobre a família Bolsonaro",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c674kk77059vo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 26 Sep 2026 16:54:46 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Imprensa internacional noticia a proibição das bets por Lula e fala em golpes no futebol e apostas como 'vilãs'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cx3055j486dvo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 26 Sep 2026 13:41:48 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Clique aqui",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 25 Sep 2026 15:06:21 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -333,30 +365,6 @@
       "link": "https://www.bbc.com/portuguese/articles/ck30540nv5m6o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 25 Sep 2026 22:52:22 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que a Bíblia evangélica é diferente da católica",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwzrzx22275ro?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 26 Sep 2026 15:48:04 GMT",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Até quando apostadores poderão sacar dinheiro? Entenda a proibição das bets",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmx2zzw00r84o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 26 Sep 2026 18:21:09 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Governo planeja R$ 15 bi para comprar dívidas dos bancos e aliviar bolso das famílias com novo Desenrola",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crpd00x808eyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 25 Sep 2026 23:30:43 GMT",
-      "tema": "mundo",
       "resumo": null
     }
   ]
