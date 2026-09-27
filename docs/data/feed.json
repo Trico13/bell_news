@@ -1,130 +1,122 @@
 {
-  "gerado_em": "2026-09-27T14:59:06.717Z",
+  "gerado_em": "2026-09-27T18:57:32.552Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 30.5,
+    "max": 30,
     "min": 17.3,
     "chuva": 0
   },
   "noticias": [
     {
-      "titulo": "Mulher é presa em estufa com 106 pés de maconha no interior de SP",
+      "titulo": "Motorista de aplicativo cai com carro em igarapé de Manaus; VÍDEO",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/27/mulher-e-presa-em-estufa-com-pes-de-maconha-no-interior-de-sp.ghtml",
-      "hora": "Sun, 27 Sep 2026 14:41:13 -0000",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/27/motorista-de-aplicativo-cai-com-carro-em-igarape-de-manaus-video.ghtml",
+      "hora": "Sun, 27 Sep 2026 18:47:38 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "+Milionária hoje: resultado do concurso 393 e números sorteados",
+      "titulo": "Estudante morre afogado em rio no extremo sul da Bahia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/milionaria/noticia/2026/09/27/milionaria-hoje-resultado-do-concurso-393-e-numeros-sorteados.ghtml",
-      "hora": "Sun, 27 Sep 2026 14:35:50 -0000",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/27/estudante-morre-afogado-na-bahia.ghtml",
+      "hora": "Sun, 27 Sep 2026 18:46:40 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Timemania hoje: resultado do concurso 2447 e números sorteados",
+      "titulo": "Pista de acesso em praia de Estância é interditada após erosão provocada por maré alta ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/timemania/noticia/2026/09/27/timemania-hoje-resultado-do-concurso-2447-e-numeros-sorteados.ghtml",
-      "hora": "Sun, 27 Sep 2026 14:35:46 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Lotofácil hoje: resultado do concurso 3790 e números sorteados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/lotofacil/noticia/2026/09/27/lotofacil-hoje-resultado-do-concurso-3790-e-numeros-sorteados.ghtml",
-      "hora": "Sun, 27 Sep 2026 14:35:41 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Dia de Sorte hoje: resultado do concurso 1308 e números sorteados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/09/27/dia-de-sorte-hoje-resultado-do-concurso-1308-e-numeros-sorteados.ghtml",
-      "hora": "Sun, 27 Sep 2026 14:35:36 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Quina hoje: resultado do concurso 7128 e números sorteados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/quina/noticia/2026/09/27/quina-hoje-resultado-do-concurso-7128-e-numeros-sorteados.ghtml",
-      "hora": "Sun, 27 Sep 2026 14:35:31 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Confusão em bar termina com major da PM morto a tiros no Amapá",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/09/27/confusao-em-bar-termina-com-major-da-pm-morto-a-tiros-no-amapa.ghtml",
-      "hora": "Sun, 27 Sep 2026 14:28:32 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Diferentes gerações nas eleições: saiba quem é o candidato mais novo e mais velho no pleito deste ano, na PB",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/27/diferentes-geracoes-nas-eleicoes-saiba-quem-e-o-candidato-mais-novo-e-mais-velho-no-pleito-deste-ano-na-pb.ghtml",
-      "hora": "Sun, 27 Sep 2026 14:27:43 -0000",
+      "link": "https://g1.globo.com/se/sergipe/noticia/2026/09/27/pista-de-acesso-em-praia-de-estancia-e-interditada-apos-erosao-provocada-por-mare-alta.ghtml",
+      "hora": "Sun, 27 Sep 2026 18:44:32 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Cadela policial acha drogas e suspeito é preso por tráfico e com motoicleta roubada em Boa Vista",
+      "titulo": "Homem é morto com mais de 20 tiros na Grande João Pessoa",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/09/27/cadela-policial-acha-drogas-e-suspeito-e-preso-por-trafico-e-com-motoicleta-roubada-em-boa-vista.ghtml",
-      "hora": "Sun, 27 Sep 2026 14:27:36 -0000",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/09/27/homem-e-morto-com-mais-de-20-tiros-na-grande-joao-pessoa.ghtml",
+      "hora": "Sun, 27 Sep 2026 18:42:56 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Fio do Professor Felipe Nunes: análise das pesquisas estaduais da Quaest para presidente",
+      "titulo": "Irmãos de bois-bumbás rivais se apresentam juntos pela primeira vez em mais de 10 anos em RO",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/27/fio-do-professor-felipe-nunes-analise-das-pesquisas-quaest.ghtml",
-      "hora": "Sun, 27 Sep 2026 14:24:34 -0000",
+      "link": "https://g1.globo.com/ro/rondonia/noticia/2026/09/27/irmaos-de-bois-bumbas-rivais-se-apresentam-juntos-pela-primeira-vez-em-mais-de-10-anos-em-ro.ghtml",
+      "hora": "Sun, 27 Sep 2026 18:41:51 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Moradores fazem fila para retirar lona após temporal de granizo; Defesa Civil alerta: 'Não subam nos telhados'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/27/temporal-granizo-defesa-civil-rs.ghtml",
+      "hora": "Sun, 27 Sep 2026 18:40:36 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "‘Tinha que ser lá’: casal escolhe Lençóis Maranhenses para celebrar casamento",
+      "titulo": "Atleta de handebol de 15 anos morre após ser atingida por gangorra em sítio de amiga em SC ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/09/27/tinha-que-ser-la-casal-escolhe-lencois-maranhenses-para-celebrar-casamento.ghtml",
-      "hora": "Sun, 27 Sep 2026 14:23:05 -0000",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/27/atleta-de-handebol-de-15-anos-morre-em-sitio-de-amiga-em-sc.ghtml",
+      "hora": "Sun, 27 Sep 2026 18:40:14 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Homem é morto a tiros em banheiro de bar durante evento com música ao vivo em Vila Velha",
+      "titulo": "\nHomem é preso suspeito de agredir companheira com chicote durante crise de ciúmes em Itatiba",
       "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/09/27/homem-e-morto-a-tiros-em-banheiro-de-bar-durante-evento-com-musica-ao-vivo-em-vila-velha.ghtml",
-      "hora": "Sun, 27 Sep 2026 14:21:59 -0000",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/27/homem-e-preso-suspeito-de-agredir-companheira-com-chicote-durante-crise-de-ciumes-em-itatiba.ghtml",
+      "hora": "Sun, 27 Sep 2026 18:39:58 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Acidente deixa uma pessoa presa às ferragens na BR-316 em Ananindeua",
+      "titulo": "Há quase 30 dias sem beber, Leonardo ‘entra’ em freezer e brinca: ‘Sentir o cheiro’",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/09/27/acidente-na-br-316-em-ananindeua.ghtml",
-      "hora": "Sun, 27 Sep 2026 14:21:44 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/09/27/ha-quase-30-dias-sem-beber-leonardo-entra-em-freezer-e-brinca-sentir-o-cheiro.ghtml",
+      "hora": "Sun, 27 Sep 2026 18:35:50 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "\n'Diplomacia do Panda' Após encontro de Xi e Trump, China envia dois pandas-gigantes para zoológico nos EUA\n",
+      "titulo": "Estudantes criam luva tecnológica que traduz Libras para facilitar comunicação com surdos em MG",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/27/diplomacia-do-panda-apos-encontro-de-xi-e-trump-china-envia-dois-pandas-gigantes-para-zoologico-nos-eua.ghtml",
-      "hora": "Sun, 27 Sep 2026 14:21:13 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/09/27/estudantes-criam-luva-tecnologica-que-traduz-libras-para-facilitar-comunicacao-com-surdos-em-mg.ghtml",
+      "hora": "Sun, 27 Sep 2026 18:34:53 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Homem é detido com carga importada sem nota fiscal na Via Dutra, em Barra Mansa",
+      "titulo": "Criador de 74 paróquias e recebido por quatro papas: quem foi Dom Pedro Fedalto, arcebispo que morreu aos 100 anos em Curitiba",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/27/homem-e-detido-na-via-dutra-com-carga-importada-sem-nota-fiscal-em-barra-mansa.ghtml",
-      "hora": "Sun, 27 Sep 2026 14:18:42 -0000",
+      "link": "https://g1.globo.com/pr/parana/noticia/2026/09/27/quem-era-dom-pedro-fedalto-curitiba.ghtml",
+      "hora": "Sun, 27 Sep 2026 18:30:18 -0000",
       "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "‘É bem mais difícil’: campeão de taekwondo revela desafio ao virar ator e voltar a viver Tora Pleura",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/27/e-bem-mais-dificil-campeao-de-taekwondo-revela-desafio-ao-virar-ator-e-voltar-a-viver-tora-pleura.ghtml",
+      "hora": "Sun, 27 Sep 2026 18:30:00 -0000",
+      "tema": "entretenimento",
+      "resumo": null
+    },
+    {
+      "titulo": "Integrantes de torcida organizada que estavam foragidos são presos em estádio em jogo entre Sport e Náutico",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/09/27/integrantes-de-torcida-organizada-sao-presos-em-estadio-em-jogo-entre-sport-e-nautico.ghtml",
+      "hora": "Sun, 27 Sep 2026 18:29:44 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "'Vida não é uma linha reta', diz acreano Ramon Dino após ficar no top 3 do Mr. Olympia 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/09/27/vida-nao-e-uma-linha-reta-diz-acreano-ramon-dino-apos-ficar-no-top-3-do-mr-olympia-2026.ghtml",
+      "hora": "Sun, 27 Sep 2026 18:29:33 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
@@ -248,11 +240,43 @@
       "resumo": null
     },
     {
+      "titulo": "As gangues que seguem impunes após décadas de exploração sexual infantil no Reino Unido: 'Ainda vejo meus abusadores no supermercado'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c3qjkxdj55vyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 27 Sep 2026 17:41:21 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'Descobri pelas redes sociais que ele estava morto': o duplo castigo aos condenados na Arábia Saudita, um dos países que mais aplicam a pena de morte",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cv8e3zlz3j0no?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 27 Sep 2026 18:24:40 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "É possível comer ultraprocessados e se manter saudável? O que nutricionista diz sobre meu carrinho de compras",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cw62myrvejmyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 27 Sep 2026 18:02:39 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Por que reformas no STF podem ser perigosas?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/ckrer307j5rgo?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 27 Sep 2026 09:41:12 GMT",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Como Japão mantém suas ruas limpas mesmo com tão poucas lixeiras",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cr624yqxywgno?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 27 Sep 2026 16:52:07 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -264,7 +288,7 @@
       "resumo": null
     },
     {
-      "titulo": "A mulher que envia US$ 10 mil por semana para que crianças migrantes detidas nos EUA possam comprar comida: 'É uma fada-madrinha'",
+      "titulo": "A mulher que envia US$ 10 mil por semana para crianças migrantes detidas nos EUA comprarem comida",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cqn745gepm3po?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 27 Sep 2026 12:27:31 GMT",
@@ -288,10 +312,18 @@
       "resumo": null
     },
     {
-      "titulo": "Como a nova direita que governa a América Latina se alinha a Trump diante dos olhos do mundo",
+      "titulo": "Clique aqui",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cv98609rxr03o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 26 Sep 2026 18:28:03 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 27 Sep 2026 17:21:55 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O que é o kratom, a 'heroína dos postos de gasolina' que provoca alarme nas autoridades americanas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck5ywwz0ld77o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 26 Sep 2026 22:47:51 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -312,22 +344,6 @@
       "resumo": null
     },
     {
-      "titulo": "O que é o kratom, a 'heroína dos postos de gasolina' que provoca alarme nas autoridades americanas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck5ywwz0ld77o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 26 Sep 2026 22:47:51 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Clique aqui",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 25 Sep 2026 15:06:21 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
       "titulo": "'O homem que vendeu drogas letais à minha filha para que ela tirasse a própria vida deveria apodrecer no inferno'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cwvgyx2zkx3ro?at_medium=RSS&at_campaign=rss",
@@ -336,35 +352,11 @@
       "resumo": null
     },
     {
-      "titulo": "'Soberania' no altar: falas de bispos católicos e rumor sobre Nossa Senhora viralizam e viram ativo da campanha de Lula na reta final da eleição",
+      "titulo": "Como a nova direita que governa a América Latina se alinha a Trump diante dos olhos do mundo",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cv62kkr916x2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 26 Sep 2026 10:00:07 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "'Um clã tão radical quanto disfuncional': o que diz a reportagem de capa do Financial Times sobre a família Bolsonaro",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c674kk77059vo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 26 Sep 2026 16:54:46 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Como a hermética comunidade amish combate o surto de sarampo mais mortal da história recente dos EUA",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c64g7d7w2xx4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 26 Sep 2026 13:21:15 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cv98609rxr03o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 26 Sep 2026 18:28:03 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que polêmica sobre Nossa Senhora Aparecida entrou na disputa entre Flávio Bolsonaro e Lula pela Presidência",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck30540nv5m6o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 25 Sep 2026 22:52:22 GMT",
-      "tema": "brasil",
       "resumo": null
     }
   ]
