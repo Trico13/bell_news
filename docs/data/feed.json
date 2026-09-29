@@ -1,130 +1,130 @@
 {
-  "gerado_em": "2026-09-28T17:57:11.851Z",
+  "gerado_em": "2026-09-29T00:48:56.837Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 32.2,
+    "max": 31.6,
     "min": 17.9,
-    "chuva": 6
+    "chuva": 14
   },
   "noticias": [
     {
-      "titulo": "Ônibus escolar bate em árvore e ao menos duas crianças ficam feridas em BH",
+      "titulo": "Quaest divulga nova pesquisa da eleição presidencial; veja números",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/28/onibus-escolar-bate-em-arvore-e-ao-menos-duas-criancas-ficam-feridas-em-bh.ghtml",
-      "hora": "Mon, 28 Sep 2026 17:43:13 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "TV Asa Branca faz debate com os candidatos ao governo de Alagoas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/al/alagoas/eleicoes/2026/ao-vivo/debate-candidatos-governo-alagoas.ghtml",
-      "hora": "Mon, 28 Sep 2026 17:42:05 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Ônibus envolvido em acidente no ES não tinha autorização para realizar trajeto, diz ANTT",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/28/onibus-envolvido-em-acidente-no-es-nao-tinha-autorizacao-para-realizar-trajeto-diz-antt.ghtml",
-      "hora": "Mon, 28 Sep 2026 17:39:41 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Moto bate em árvore, pega fogo e mata pessoa na Via Dutra, em Resende",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/28/acidente-na-via-dutra-em-resende.ghtml",
-      "hora": "Mon, 28 Sep 2026 17:39:39 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Caixas eletrônicos da Caixa são quebrados durante a madrugada em Imperatriz",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/09/28/caixas-eletronicos-da-caixa-sao-quebrados-durante-a-madrugada-em-imperatriz.ghtml",
-      "hora": "Mon, 28 Sep 2026 17:38:43 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/09/28/quaest-divulga-nova-pesquisa-da-eleicao-presidencial-veja-numeros.ghtml",
+      "hora": "Tue, 29 Sep 2026 00:33:55 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Investigação contra delegada por assédio moral a servidores é arquivada no RS",
+      "titulo": "Globo promove debate entre candidatos ao governo do DF nesta terça; g1 transmite",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/28/investigacao-contra-delegada-por-assedio-moral-a-servidores-e-arquivada-no-rs.ghtml",
-      "hora": "Mon, 28 Sep 2026 17:37:44 -0000",
+      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/globo-promove-debate-entre-candidatos-ao-governo-do-df-nesta-terca-g1-transmite.ghtml",
+      "hora": "Tue, 29 Sep 2026 00:32:01 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Dois policiais militares são presos por suspeita de envolvimento no desaparecimento de motorista em Caruaru",
+      "titulo": "2ª pesquisa Quaest para o Senado em MS: veja quem lidera, quem é o mais rejeitado e quantos eleitores ainda podem mudar o voto ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/09/28/dois-policiais-militares-sao-presos-por-suspeita-de-envolvimento-no-desaparecimento-de-motorista-em-caruaru.ghtml",
-      "hora": "Mon, 28 Sep 2026 17:37:11 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Quarenta ônibus seminovos chegam em Rio Branco para renovar transporte coletivo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/09/28/quarenta-onibus-seminovos-chegam-em-rio-branco-para-renovar-transporte-coletivo.ghtml",
-      "hora": "Mon, 28 Sep 2026 17:36:34 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "'Virtuosas', filme gravado em SC que explora o universo das mulheres conservadoras está nos cinemas; veja onde assistir",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/28/virtuosas-filme-gravado-sc-explora-universo-mulheres-conservadoras-cinemas.ghtml",
-      "hora": "Mon, 28 Sep 2026 17:35:48 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Eleições 2026: veja os candidatos a deputado federal em cada estado e no DF",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/eleicoes-2026-veja-os-candidatos-a-deputado-federal-em-cada-estado-e-no-df.ghtml",
-      "hora": "Mon, 28 Sep 2026 17:34:24 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Serviço de enfermagem do Samu de Luís Correia é interditado por irregularidades estruturais e sanitárias",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/09/28/servico-de-enfermagem-interditado.ghtml",
-      "hora": "Mon, 28 Sep 2026 17:28:53 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Tarcísio diz que desistência de Salles unifica grupo em SP e espera que gesto ‘reverbere’ pelo Brasil",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/28/tarcisio-diz-que-desistencia-de-salles-unifica-grupo-em-sp-e-espera-que-gesto-reverbere-pelo-brasil.ghtml",
-      "hora": "Mon, 28 Sep 2026 17:21:37 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Morre Arilson Cantanhede, embaixador e repórter do Rio Carnaval",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/carnaval/2027/noticia/2026/09/28/morre-arilson-cantanhede.ghtml",
-      "hora": "Mon, 28 Sep 2026 17:18:49 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "'Chutou as cachorras e apertou o meu pescoço': homem é preso por agredir médica e animais na Gávea; VÍDEO",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/28/homem-e-preso-apos-agredir-medica-e-chutar-cachorras-na-gavea.ghtml",
-      "hora": "Mon, 28 Sep 2026 17:15:43 -0000",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/09/28/2a-pesquisa-quaest-para-o-senado-em-ms-veja-quem-lidera-quem-e-o-mais-rejeitado-e-quantos-eleitores-ainda-podem-mudar-o-voto.ghtml",
+      "hora": "Tue, 29 Sep 2026 00:31:36 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Grupo que planejava matar delegados tinha ramificações na Bolívia e no Uruguai, aponta investigação",
+      "titulo": "Ex-presidente da Câmara de Ilhéus condenado por crimes contra a administração pública é preso",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/09/28/operacao-executar-delegados.ghtml",
-      "hora": "Mon, 28 Sep 2026 17:15:18 -0000",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/28/ex-presidente-da-camara-de-ilheus-e-preso.ghtml",
+      "hora": "Tue, 29 Sep 2026 00:30:43 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição de segunda-feira, 28 de setembro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/playlist/videos-jornal-anhanguera-2-edicao-de-segunda-feira-28-de-setembro-de-2026.ghtml",
+      "hora": "Tue, 29 Sep 2026 00:29:58 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleições 2026: Marconi Perillo promete auxílio para quem recebeu um salário-mínimo com carteira assinada",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/28/eleicoes-2026-marconi-perillo-promete-auxilio-para-quem-recebeu-um-salario-minimo-com-carteira-assinada.ghtml",
+      "hora": "Tue, 29 Sep 2026 00:29:22 -0000",
       "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Lutador de muay thai é morto a tiros em bar na Zona Norte do Rio",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/28/lutador-de-muay-thai-e-morto-a-tiros-em-bar-na-zona-norte-do-rio.ghtml",
+      "hora": "Tue, 29 Sep 2026 00:28:11 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Após polêmica sobre Nossa Senhora Aparecida, Flávio Bolsonaro vai a podcast católico",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/flavio-bolsonaro-podcast-catolico-nossa-senhora-aparecida.ghtml",
+      "hora": "Tue, 29 Sep 2026 00:21:01 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Motorista de app e passageiras brigam após corrida no DF; mulher teve de passar por cirurgia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/09/28/motorista-de-app-e-passageiras-brigam-apos-corrida-no-df-mulher-teve-de-passar-por-cirurgia.ghtml",
+      "hora": "Tue, 29 Sep 2026 00:20:13 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Hana Ghassan defende uso de tecnologia na saúde e mais parcerias público-privadas no Pará",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/09/28/hana-ghassan-defende-uso-de-tecnologia-na-saude-e-mais-parcerias-publico-privadas-no-para.ghtml",
+      "hora": "Tue, 29 Sep 2026 00:19:04 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Governo adia reunião com clubes para discutir impactos da proibição das bets",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/noticia/2026/09/28/governo-adia-reuniao-com-clubes-para-discutir-impactos-da-proibicao-das-bets.ghtml",
+      "hora": "Tue, 29 Sep 2026 00:15:57 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "No Rio Grande do Sul, temporais voltam a causar estragos em quase 70 cidades",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/09/28/no-rio-grande-do-sul-temporais-voltam-a-causar-estragos-em-quase-70-cidades.ghtml",
+      "hora": "Tue, 29 Sep 2026 00:15:17 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "EPTV faz debate entre candidatos ao Senado por São Paulo nesta quarta-feira; veja regras e saiba como assistir",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/09/28/eptv-faz-debate-entre-candidatos-ao-senado-por-sao-paulo-nesta-quarta-feira-veja-regras-e-saiba-como-assistir.ghtml",
+      "hora": "Tue, 29 Sep 2026 00:14:14 -0000",
+      "tema": "entretenimento",
+      "resumo": null
+    },
+    {
+      "titulo": "Renan Santos afirma que vai 'resolver problema do STF' e defende volta da prisão em 2ª instância",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/09/28/renan-santos-afirma-que-vai-resolver-problema-do-stf-e-defende-volta-da-prisao-em-2a-instancia.ghtml",
+      "hora": "Tue, 29 Sep 2026 00:14:08 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleições 2026: Veja a agenda dos candidatos ao governo de Goiás nesta segunda-feira (28)",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/28/eleicoes-2026-veja-a-agenda-dos-candidatos-ao-governo-de-goias-nesta-segunda-feira-28.ghtml",
+      "hora": "Tue, 29 Sep 2026 00:12:07 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -248,10 +248,26 @@
       "resumo": null
     },
     {
+      "titulo": "'Interferir na eleição do Brasil tende a sair pela culatra e Trump sabe disso', diz Ian Bremmer",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c804606ez46vo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 28 Sep 2026 18:56:10 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "Por que Lula acusa Trump de tentar interferir na eleição a favor de Flávio Bolsonaro",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c6pvewvn2j79o?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 28 Sep 2026 07:34:10 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Lula volta a ficar à frente de Flávio no 2º turno no Agregador de Pesquisas da BBC News Brasil",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 28 Sep 2026 18:12:26 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -264,10 +280,10 @@
       "resumo": null
     },
     {
-      "titulo": "Do jogo do bicho ao tigrinho: a história da jogatina e suas proibições no Brasil",
+      "titulo": "De Aparecida à 'soberania' no altar: esquerda mobiliza catolicismo em apoio a Lula como nunca (e a reação de Flavio Bolsonaro)",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c85ydn72e632o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 28 Sep 2026 17:38:43 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cv62kkr916x2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 28 Sep 2026 18:40:45 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -275,7 +291,23 @@
       "titulo": "O que é a CNBB, entidade católica criticada por Flávio Bolsonaro",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cw33kx20nx8no?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 28 Sep 2026 17:07:36 GMT",
+      "hora": "Mon, 28 Sep 2026 18:47:03 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que cada vez menos jovens votam no Brasil — e o que explica esse fenômeno",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cdx5lwnrnr3o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 28 Sep 2026 08:34:22 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Flávio diz que irá ao debate na Globo, o último antes do 1º turno; Lula não está confirmado",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cpwl85rjdz8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 27 Sep 2026 22:27:06 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -288,42 +320,10 @@
       "resumo": null
     },
     {
-      "titulo": "Por que cada vez menos jovens votam no Brasil — e o que explica esse fenômeno",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cdx5lwnrnr3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 28 Sep 2026 08:34:22 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem é o homem mais rico da África — e por que ele quer vender parte de seu império",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c893vzw726x9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 28 Sep 2026 11:20:25 GMT",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Flávio diz que irá ao debate na Globo, o último antes do 1º turno; Lula não está confirmado",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cpwl85rjdz8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 27 Sep 2026 22:27:06 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Chinesa de 6 anos bate recorde mundial de cubo mágico duas vezes",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm9qr211nezno?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 23 Sep 2026 07:13:01 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
       "titulo": "Clique aqui",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 28 Sep 2026 17:01:53 GMT",
+      "hora": "Mon, 28 Sep 2026 18:12:26 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -336,10 +336,18 @@
       "resumo": null
     },
     {
-      "titulo": "De Aparecida à 'soberania' no altar: esquerda mobiliza catolicismo em apoio a Lula como nunca (e a reação de Flavio Bolsonaro)",
+      "titulo": "Quem é o homem mais rico da África — e por que ele quer vender parte de seu império",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cv62kkr916x2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 28 Sep 2026 16:53:31 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c893vzw726x9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 28 Sep 2026 11:20:25 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Do jogo do bicho ao tigrinho: a história da jogatina e das bets no Brasil",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c85ydn72e632o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 28 Sep 2026 19:03:06 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -347,7 +355,7 @@
       "titulo": "Nossa Senhora Aparecida: como padroeira entrou na disputa entre Flávio e Lula",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/ck30540nv5m6o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 28 Sep 2026 15:01:40 GMT",
+      "hora": "Mon, 28 Sep 2026 18:21:36 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -357,14 +365,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cwzrzx22275ro?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 26 Sep 2026 15:48:04 GMT",
       "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "As mulheres que atacam o voto feminino no Brasil",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq2dw67e517jo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 28 Sep 2026 08:03:56 GMT",
-      "tema": "brasil",
       "resumo": null
     }
   ]
