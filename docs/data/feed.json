@@ -1,130 +1,130 @@
 {
-  "gerado_em": "2026-09-29T16:19:52.095Z",
+  "gerado_em": "2026-09-30T00:03:40.632Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 33.3,
+    "max": 32,
     "min": 18.4,
-    "chuva": 61
+    "chuva": 70
   },
   "noticias": [
     {
-      "titulo": "Candidatos a deputado estadual pelo Mobiliza em MG; veja quem são e os números",
+      "titulo": "PT diz que rivais deturpam fala de Lula sobre 'toque' em mulheres e chama de 'ação do Gabinete do Ódio Bolsonarista'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/29/candidatos-a-deputado-estadual-pelo-mobiliza-em-mg-veja-quem-sao-e-os-numeros.ghtml",
-      "hora": "Tue, 29 Sep 2026 16:03:23 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Rei do Marrocos nomeia primeira mulher para chefiar governo ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/09/29/rei-do-marrocos-nomeia-primeira-mulher-para-chefiar-governo.ghtml",
-      "hora": "Tue, 29 Sep 2026 16:03:09 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Boi invade loja de roupas e vendedor tenta laçar animal; VÍDEO",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/09/29/boi-invade-loja-de-roupas-em-timbauba-e-vendedor-tenta-lacar-animal-video.ghtml",
-      "hora": "Tue, 29 Sep 2026 16:02:38 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Em Fortaleza, Lula defende soberania e questiona: ‘Vamos eleger vira-lata que fica puxando saco do Trump?’",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/09/29/em-fortaleza-lula-defende-soberania-e-questiona-vamos-eleger-vira-lata-que-fica-puxando-saco-do-trump.ghtml",
-      "hora": "Tue, 29 Sep 2026 16:02:20 -0000",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/29/pt-nota-fala-de-lula-mulheres-toque.ghtml",
+      "hora": "Tue, 29 Sep 2026 23:47:34 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Candidatos a deputado estadual pelo Agir em MG; veja quem são e os números",
+      "titulo": "Candidatos ao governo do Ceará participam de debate da TV Verdes Mares",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/29/candidatos-a-deputado-estadual-pelo-agir-em-mg-veja-quem-sao-e-os-numeros.ghtml",
-      "hora": "Tue, 29 Sep 2026 16:01:35 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "EPTV 1 Piracicaba ao vivo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/ao-vivo/eptv-1-piracicaba-ao-vivo.ghtml",
-      "hora": "Tue, 29 Sep 2026 16:00:12 -0000",
+      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/ao-vivo/debate-candidatos-governo-ceara.ghtml",
+      "hora": "Tue, 29 Sep 2026 23:47:27 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Zona de Influência: O que se sabe sobre operação da PF que apura negociação de apoio eleitoral com facção na PB",
+      "titulo": "Resultados das Loterias Caixa",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/09/29/zona-de-influencia-o-que-se-sabe-sobre-operacao-da-pf-que-apura-negociacao-de-apoio-eleitoral-com-faccao-na-pb.ghtml",
-      "hora": "Tue, 29 Sep 2026 16:00:07 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Assista ao EPTV1",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv1.ghtml",
-      "hora": "Tue, 29 Sep 2026 16:00:00 -0000",
+      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "hora": "Tue, 29 Sep 2026 23:46:33 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "EPTV 1 Campinas ao vivo",
+      "titulo": "'Perdi essa batalha', desabafa mãe sobre luta contra o crack após filho matar o outro em Maricá, no RJ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-1-ao-vivo.ghtml",
-      "hora": "Tue, 29 Sep 2026 15:59:44 -0000",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/09/29/perdi-essa-batalha-desabafa-mae-sobre-luta-contra-o-crack-apos-filho-matar-o-outro-em-marica-no-rj.ghtml",
+      "hora": "Tue, 29 Sep 2026 23:46:26 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Candidatos a deputado federal pelo PV em MG; veja quem são e os números",
+      "titulo": "Globo transmite em instantes debate com candidatos ao governo de MG; ASSISTA",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/29/candidatos-a-deputado-federal-pelo-pv-em-mg-veja-quem-sao-e-os-numeros.ghtml",
-      "hora": "Tue, 29 Sep 2026 15:59:21 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/ao-vivo/debate-candidatos-governo-mg.ghtml",
+      "hora": "Tue, 29 Sep 2026 23:45:58 -0000",
+      "tema": "entretenimento",
       "resumo": null
     },
     {
-      "titulo": "Candidatos a deputado estadual pelo Democrata em MG; veja quem são e os números",
+      "titulo": "Candidatos ao governo do Espírito Santo participam de debate da TV Gazeta",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/29/candidatos-a-deputado-estadual-pelo-democrata-em-mg-veja-quem-sao-e-os-numeros.ghtml",
-      "hora": "Tue, 29 Sep 2026 15:58:58 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Aulas presenciais são suspensas em escolas estaduais do AM após problemas estruturais",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/09/29/aulas-presenciais-sao-suspensas-em-escolas-estaduais-do-am-apos-problemas-estruturais.ghtml",
-      "hora": "Tue, 29 Sep 2026 15:58:22 -0000",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/candidatos-ao-governo-do-espirito-santo-participam-de-debate-da-tv-gazeta.ghtml",
+      "hora": "Tue, 29 Sep 2026 23:45:42 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Idosa com Alzheimer é encontrada morta após 10 dias de buscas em São Mateus",
+      "titulo": "ACOMPANHE: TV Liberal faz debate com os candidatos ao governo do PA",
       "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/09/29/idosa-com-alzheimer-e-encontrada-morta-apos-10-dias-de-buscas-em-sao-mateus.ghtml",
-      "hora": "Tue, 29 Sep 2026 15:57:25 -0000",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/ao-vivo/debate-candidatos-governo-pa.ghtml",
+      "hora": "Tue, 29 Sep 2026 23:44:51 -0000",
+      "tema": "entretenimento",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEO: AB2 de terça-feira, 29 de setembro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/al/alagoas/edicao/2026/09/29/video-ab1-de-terca-feira-29-de-setembro-de-2026.ghtml",
+      "hora": "Tue, 29 Sep 2026 23:43:22 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Candidatos a deputado estadual pela UP em MG; veja quem são e os números",
+      "titulo": "Filhotes de papagaio-verdadeiro são resgatados após serem anunciados para venda em aplicativo; vídeo ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/29/candidatos-a-deputado-estadual-pela-up-em-mg-veja-quem-sao-e-os-numeros.ghtml",
-      "hora": "Tue, 29 Sep 2026 15:57:11 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/29/filhotes-de-papagaio-verdadeiro-sao-resgatados-apos-serem-anunciados-para-venda-em-aplicativo-video.ghtml",
+      "hora": "Tue, 29 Sep 2026 23:42:03 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Candidatos a deputado estadual pelo PSB em MG; veja quem são e os números",
+      "titulo": "g1 transmite entrevista da TV Bahia com candidato ao governo do estado ACM Neto",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/29/candidatos-a-deputado-estadual-pelo-psb-em-mg-veja-quem-sao-e-os-numeros.ghtml",
-      "hora": "Tue, 29 Sep 2026 15:56:52 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/ao-vivo/debate-candidatos-governo-bahia.ghtml",
+      "hora": "Tue, 29 Sep 2026 23:41:05 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Candidatos ao governo da Paraíba participam de debate nas TVs Cabo Branco e Paraíba; g1 transmite",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/ao-vivo/debate-candidatos-governo-pb.ghtml",
+      "hora": "Tue, 29 Sep 2026 23:40:58 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Saulo Arcangeli defende fortalecimento da assistência social para combater a pobreza",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/29/saulo-arcangeli-defende-fortalecimento-da-assistencia-social-para-combater-a-pobreza.ghtml",
+      "hora": "Tue, 29 Sep 2026 23:40:42 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: NSC Notícias de terça-feira, 29 de setembro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sc/santa-catarina/edicao/2026/09/29/videos-nsc-noticias-de-terca-feira-29-de-setembro-de-2026.ghtml",
+      "hora": "Tue, 29 Sep 2026 23:40:18 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Rede Amazônica faz debate com candidatos ao governo de Rondônia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ro/rondonia/eleicoes/2026/ao-vivo/debate-candidatos-governo-rondonia.ghtml",
+      "hora": "Tue, 29 Sep 2026 23:39:27 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleições 2026 no RS: Priscila Voigt defende 'frentes emergenciais de trabalho' para reconstrução",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/09/29/eleicoes-2026-no-rs-priscila-voigt-defende-frentes-emergenciais-de-trabalho-para-reconstrucao.ghtml",
+      "hora": "Tue, 29 Sep 2026 23:38:47 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -248,6 +248,14 @@
       "resumo": null
     },
     {
+      "titulo": "Quem ganha em Minas ganha no Brasil? Por que eleição de 2026 pode mudar essa 'regra'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cw33kmy7g2nro?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 29 Sep 2026 18:33:00 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "Piketty prevê fim do dólar como moeda global: 'Muito em breve'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c8ly40d6y0vno?at_medium=RSS&at_campaign=rss",
@@ -256,11 +264,11 @@
       "resumo": null
     },
     {
-      "titulo": "'Disputa religiosa' em torno de Nossa Senhora Aparecida leva fake news de volta ao centro da eleição presidencial, destaca imprensa internacional",
+      "titulo": "Espanha anuncia proibição de despejos após retirada de moradora de 87 anos de apartamento em Madri",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjn5d0x2kd2ko?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 29 Sep 2026 13:49:55 GMT",
-      "tema": "mundo",
+      "link": "https://www.bbc.com/portuguese/articles/cm4gjnz9849ro?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 29 Sep 2026 21:38:28 GMT",
+      "tema": "cultura",
       "resumo": null
     },
     {
@@ -272,18 +280,34 @@
       "resumo": null
     },
     {
-      "titulo": "As preocupações que levaram a OpenAI, do ChatGPT,  a abandonar lançamento de novo sistema de IA",
+      "titulo": "Após 41 anos preso, homem condenado à morte nos EUA é solto graças a um teste de DNA",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c9kgvmyeen01o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 29 Sep 2026 13:21:10 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cm9qr81255neo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 29 Sep 2026 22:14:06 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que Maria, mãe de Jesus, é tratada de forma diferente por católicos e evangélicos",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c64g7nrx3nx1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 29 Sep 2026 17:27:15 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Por que milhares de empresas estão fechando na Argentina e o que isso revela sobre a economia na era Milei?",
+      "titulo": "'Ganho duas vezes mais com games do que ganhava como professora'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6z7zx5ny2d5o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 29 Sep 2026 10:18:36 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cv1j434exe4do?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 29 Sep 2026 20:41:52 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "A menina prodígio de 11 anos que se tornou a mais jovem mestre de xadrez da história",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6d941qwxjqwo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 29 Sep 2026 16:38:44 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -291,16 +315,16 @@
       "titulo": "Lula volta a ficar à frente de Flávio no 2º turno no Agregador de Pesquisas da BBC News Brasil",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 28 Sep 2026 18:12:26 GMT",
+      "hora": "Tue, 29 Sep 2026 16:25:04 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Incidente em base aérea britânica denunciado por fazendeira 'claramente envolve agente estrangeiro', dizem EUA",
+      "titulo": "Clique aqui",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq39m83nj298o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 28 Sep 2026 13:33:56 GMT",
-      "tema": "mundo",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 29 Sep 2026 16:25:04 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -312,11 +336,19 @@
       "resumo": null
     },
     {
-      "titulo": "Clique aqui",
+      "titulo": "Raphinha volta à Seleção e marca gol: a história da família que já contribuiu com dois jogadores para o Brasil em Copas",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 28 Sep 2026 18:12:26 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cm2r8jzv7zmo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 29 Sep 2026 23:24:01 GMT",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Votos branco e nulo beneficiam algum candidato?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cx05r42ze64yo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 29 Sep 2026 20:52:09 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -332,30 +364,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c6pvewvn2j79o?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 28 Sep 2026 07:34:10 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "'Interferir na eleição do Brasil tende a sair pela culatra e Trump sabe disso', diz Ian Bremmer",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c804606ez46vo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 28 Sep 2026 18:56:10 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "De Aparecida à 'soberania' no altar: esquerda mobiliza catolicismo em apoio a Lula como nunca (e a reação de Flavio Bolsonaro)",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cv62kkr916x2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 28 Sep 2026 18:40:45 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "O que é a CNBB, entidade católica criticada por Flávio Bolsonaro",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw33kx20nx8no?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 28 Sep 2026 18:47:03 GMT",
       "tema": "brasil",
       "resumo": null
     }
