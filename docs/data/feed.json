@@ -1,138 +1,138 @@
 {
-  "gerado_em": "2026-10-02T16:05:56.210Z",
+  "gerado_em": "2026-10-03T00:09:28.275Z",
   "modo": "palavras-chave",
   "clima": {
     "max": 18.3,
-    "min": 14.9,
+    "min": 15.1,
     "chuva": 99
   },
   "noticias": [
     {
-      "titulo": "Jovem é encontrado morto com quatro tiros em apartamento no Pintolândia, em Boa Vista",
+      "titulo": "Homem fica ferido na perna após caminhão andar enquanto ele verificava equipamento em MG",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/10/02/jovem-e-encontrado-morto-com-quatro-tiros-em-apartamento-no-pintolandia-em-boa-vista.ghtml",
-      "hora": "Fri, 02 Oct 2026 15:51:57 -0000",
+      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/02/homem-fica-ferido-na-perna-apos-caminhao-andar-enquanto-ele-verificava-equipamento-em-mg.ghtml",
+      "hora": "Fri, 02 Oct 2026 23:55:59 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Jovem fica gravemente ferido em acidente no interior e é transferido de helicóptero para Boa Vista",
+      "titulo": "Resultados das Loterias Caixa",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/10/02/jovem-fica-gravemente-ferido-em-acidente-no-interior-e-e-transferido-de-helicoptero-para-boa-vista.ghtml",
-      "hora": "Fri, 02 Oct 2026 15:51:29 -0000",
+      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "hora": "Fri, 02 Oct 2026 23:52:53 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "VÍDEO: pedestre morre atropelado após carro invadir calçada em ultrapassagem frustrada em SC",
+      "titulo": "Piauí vai às urnas neste domingo (4); acompanhe tudo sobre as Eleições 2026 no estado",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/02/video-pedestre-morre-atropelado-carro-calcada-ultrapassagem-blumenau.ghtml",
-      "hora": "Fri, 02 Oct 2026 15:49:20 -0000",
+      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-piaui.ghtml",
+      "hora": "Fri, 02 Oct 2026 23:52:53 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Justiça determina retirada de propagandas eleitorais em BH por risco de temporais",
+      "titulo": "Eleições 2026: Fiscalização é reforçada contra boca de urna, compra de votos e derramamento de santinhos  ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/02/justica-determina-retirada-de-propagandas-eleitorais-em-bh-por-risco-de-temporais.ghtml",
-      "hora": "Fri, 02 Oct 2026 15:48:00 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Caiado volta a criticar cancelamento de debate e diz que STF e TSE 'extrapolaram'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/02/caiado-volta-a-criticar-cancelamento-de-debate-e-diz-que-stf-e-tse-extrapolaram.ghtml",
-      "hora": "Fri, 02 Oct 2026 15:47:54 -0000",
+      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/02/eleicoes-2026-fiscalizacao-e-reforcada-contra-boca-de-urna-compra-de-votos-e-derramamento-de-santinhos.ghtml",
+      "hora": "Fri, 02 Oct 2026 23:52:44 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Ataques russos a 3 pontes de Kiev  congestionam o trânsito e marcam nova tática contra Ucrânia",
+      "titulo": "Veja agenda de campanha dos candidatos ao governo de MG nesta sexta-feira",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/02/ataques-russos-a-3-pontes-de-kiev-congestionam-o-transito-e-marcam-nova-tatica-contra-ucrania.ghtml",
-      "hora": "Fri, 02 Oct 2026 15:47:42 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEO: mulher joga água e óleo fervendo no vizinho após briga no interior de SP ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/02/video-mulher-joga-agua-e-oleo-fervendo-no-vizinho-apos-briga-no-interior-de-sp.ghtml",
-      "hora": "Fri, 02 Oct 2026 15:47:38 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Mãe é presa em flagrante após agredir filho de 8 anos com fio de telefone em Várzea Paulista",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/02/mae-e-presa-em-flagrante-apos-agredir-filho-de-8-anos-com-fio-de-telefone-em-varzea-paulista.ghtml",
-      "hora": "Fri, 02 Oct 2026 15:47:04 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Eleições 2026: acompanhe a cobertura ao vivo da votação no 1º turno no Maranhão",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/ao-vivo/ao-vivo-votacao-no-1-turno-no-maranhao.ghtml",
-      "hora": "Fri, 02 Oct 2026 15:46:43 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Bombeiro há 10 anos e histórico de denúncias por ameaça e violência: saiba quem é o militar que matou estudante de Medicina a tiros em SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/02/bombeiro-ha-10-anos-e-historico-de-denuncias-por-ameaca-e-violencia-saiba-quem-e-o-militar-que-matou-estudante-de-medicina-a-tiros-em-sp.ghtml",
-      "hora": "Fri, 02 Oct 2026 15:46:04 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Aulas são suspensas após chuva derruba muro de escola municipal em Teresópolis",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/02/aulas-sao-suspensas-apos-chuva-derruba-muro-de-escola-municipal-em-teresopolis.ghtml",
-      "hora": "Fri, 02 Oct 2026 15:43:26 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Pessoal bastante assustado', diz testemunha que ajudou no resgate de universitários feridos em acidente em Franca, SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/02/pessoal-bastante-assustado-diz-testemunha-que-ajudou-no-resgate-de-universitarios-feridos-em-acidente-em-franca-sp.ghtml",
-      "hora": "Fri, 02 Oct 2026 15:42:46 -0000",
+      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/02/veja-agenda-de-campanha-dos-candidatos-ao-governo-de-mg-nesta-sexta-feira.ghtml",
+      "hora": "Fri, 02 Oct 2026 23:52:37 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Carro com seis pessoas capota e criança de 3 anos morre em Pesqueira; VÍDEO",
+      "titulo": "Juristas e entidades da imprensa criticam decisões da Justiça que provocaram cancelamento do debate da Globo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/10/02/carro-com-seis-pessoas-capota-e-crianca-de-3-anos-morre-em-pesqueira-video.ghtml",
-      "hora": "Fri, 02 Oct 2026 15:41:35 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/02/juristas-e-entidades-da-imprensa-criticam-decisoes-da-justica-que-provocaram-cancelamento-do-debate-da-globo.ghtml",
+      "hora": "Fri, 02 Oct 2026 23:51:40 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "TSE forma maioria para barrar candidatura de Cícero Lucena ao governo da Paraíba",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/02/tse-forma-maioria-para-barrar-candidatura-de-cicero-lucena-ao-governo-da-paraiba.ghtml",
+      "hora": "Fri, 02 Oct 2026 23:50:30 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao governo do RS nesta sexta-feira, 2",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/02/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-rs-nesta-sexta-feira-2.ghtml",
+      "hora": "Fri, 02 Oct 2026 23:47:11 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Justiça determina que Prefeitura de João Pessoa não deve exigir CNPJ de terreiros para isenção de IPTU",
+      "titulo": "Encontros, entrevistas, carreatas e caminhadas: veja como foi a agenda dos candidatos ao governo de RO nesta sexta-feira (2)",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/02/justica-determina-que-prefeitura-de-joao-pessoa-nao-deve-exigir-cnpj-de-terreiros-para-isencao-de-iptu.ghtml",
-      "hora": "Fri, 02 Oct 2026 15:39:08 -0000",
+      "link": "https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/10/02/encontros-entrevistas-carreatas-e-caminhadas-veja-como-foi-a-agenda-dos-candidatos-ao-governo-de-ro-nesta-sexta-feira-2.ghtml",
+      "hora": "Fri, 02 Oct 2026 23:41:27 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Obra interdita acesso a retorno da Padre Manoel da Nóbrega em Itanhaém; veja mudanças",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/02/obra-interdita-acesso-a-retorno-da-padre-manoel-da-nobrega-em-itanhaem-veja-mudancas.ghtml",
+      "hora": "Fri, 02 Oct 2026 23:39:59 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Previsão de chuva mobiliza checagem da rede elétrica em locais de votação na região de Presidente Prudente",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/02/previsao-de-chuva-mobiliza-checagem-da-rede-eletrica-em-locais-de-votacao-na-regiao-de-presidente-prudente.ghtml",
+      "hora": "Fri, 02 Oct 2026 23:33:31 -0000",
+      "tema": "checagem",
+      "resumo": null
+    },
+    {
+      "titulo": "Morre o radialista e jornalista Luiz Monteiro aos 82 anos em Jaú",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/02/morre-o-radialista-e-jornalista-luiz-monteiro-aos-82-anos-em-jau.ghtml",
+      "hora": "Fri, 02 Oct 2026 23:28:44 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Homem é baleado nas costas após ver esposa conversar com outro em Rio Branco",
+      "titulo": "Bares e restaurantes de SP não poderão mais oferecer bisnagas de molho de uso compartilhado a partir de domingo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/10/02/homem-e-baleado-apos-ver-esposa-conversar-com-outro-em-rio-branco.ghtml",
-      "hora": "Fri, 02 Oct 2026 15:38:10 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/02/bares-e-restaurantes-de-sp-nao-poderao-mais-oferecer-bisnagas-de-molho-de-uso-compartilhado-a-partir-de-domingo.ghtml",
+      "hora": "Fri, 02 Oct 2026 23:23:19 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Esquerda que ri de 'CEO de MEI' não entende os sonhos do novo trabalhador, diz antropóloga",
+      "titulo": "Candidatos ao Governo de MT cumprem agendas nesta sexta-feira (2)",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/10/02/candidatos-ao-governo-de-mt-cumprem-agendas-nesta-sexta-feira-2.ghtml",
+      "hora": "Fri, 02 Oct 2026 23:22:08 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Lula pede ao TSE que suspensão de serviços da embaixada dos EUA seja incluída em investigação sobre interferência externa",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/02/campanha-de-lula-pede-ao-tse-que-suspensao-de-servicos-da-embaixada-dos-eua-seja-incluida-em-investigacao-sobre-interferencia-externa.ghtml",
+      "hora": "Fri, 02 Oct 2026 23:22:01 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "PF investiga suposto plano de atacar embaixada dos EUA: o que se sabe e como o governo brasileiro avalia",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjn5d90edrppo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 10:54:31 GMT",
-      "tema": "cultura",
+      "link": "https://www.bbc.com/portuguese/articles/cmx2dn8v9lgyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 02 Oct 2026 21:07:27 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -144,6 +144,30 @@
       "resumo": null
     },
     {
+      "titulo": "O número que pode definir a eleição presidencial em primeiro turno — e os fatores que apontam contra isso",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cv0lrly138rko?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 02 Oct 2026 23:13:34 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Como a imprensa russa vê a eleição brasileira - e o que isso revela sobre a forma com que o governo Putin enxerga o Brasil ",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwdr714gj6e1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 02 Oct 2026 20:01:10 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que a nova onda de protestos estudantis assusta o governo francês",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwm26n81jl0lo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 02 Oct 2026 17:41:59 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Vorcaro forneceu jatinho e Moët Chandon a desembargador para viagem a Buenos Aires, mostram mensagens",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmy4z41l1j3eo?at_medium=RSS&at_campaign=rss",
@@ -152,26 +176,18 @@
       "resumo": null
     },
     {
-      "titulo": "Por que eleição presidencial de 1998 foi a única a não ter debate na TV — e o que ela teve em comum com a de 2026",
+      "titulo": "O que deu errado para a Nike? Como gigante mundial de artigos esportivos perdeu 'brilho'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr78088q1p5go?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 14:53:53 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cqrk3kkn406no?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 02 Oct 2026 16:59:47 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Flávio Bolsonaro volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas da BBC News Brasil",
+      "titulo": "Distância entre Lula e Flávio Bolsonaro é de 3 pontos no 1º turno no Agregador de Pesquisas da BBC News Brasil",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 14:57:55 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Preferência por Lula, cautela ao criticar Flávio: como a China (e a imprensa local) vê a eleição no Brasil",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c693e0lddp4po?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 13:41:55 GMT",
+      "hora": "Fri, 02 Oct 2026 16:16:10 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -184,25 +200,10 @@
       "resumo": null
     },
     {
-      "titulo": "Globo cancela debate e cita decisões de Gilmar Mendes, do STF, e Estela Aranha, do TSE: o que dizem juristas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwddvdpm19q6o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 01:39:26 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "As reações ao cancelamento do debate da Globo - e outros acontecimentos dessa quinta-feira pré-1º turno",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/c9rk3kjvgy35t?at_medium=RSS&at_campaign=rss",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
       "titulo": "Clique aqui",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 14:57:55 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 02 Oct 2026 10:39:09 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -215,34 +216,34 @@
       "resumo": null
     },
     {
-      "titulo": "BBC News Brasil fará cobertura AO VIVO no dia da eleição, com apuração e resultados do primeiro turno",
+      "titulo": "Quociente eleitoral: o que é e como funciona a eleição de deputados — e por que a regra pode deixar o mais votado de fora",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvj64l9408k0o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 09:03:53 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmgqdwk10jyno?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 02 Oct 2026 22:34:04 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Debate na Globo cancelado: as razões da emissora, as reações dos candidatos e as críticas de entidades de imprensa",
+      "titulo": "Por que eleição presidencial de 1998 foi a única a não ter debate na TV — e o que ela teve em comum com a de 2026",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm0rekknz957o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 08:40:23 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cr78088q1p5go?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 02 Oct 2026 14:53:53 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "O que as pesquisas diziam sobre Lula x Bolsonaro no dia do debate da Globo em 2022 e 2018 — e o que dizem em 2026",
+      "titulo": "Esquerda que ri de 'CEO de MEI' não entende os sonhos do novo trabalhador, diz antropóloga",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cj3v4g4kze7lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 01 Oct 2026 12:56:45 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cjn5d90edrppo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 02 Oct 2026 10:54:31 GMT",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Católicos mais com Lula, evangélicos mais com Flávio: o que as pesquisas mostram sobre a batalha do voto e as religiões",
+      "titulo": "Preferência por Lula, cautela ao criticar Flávio: como a China (e a imprensa local) vê a eleição no Brasil",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmx2z70jq94wo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 01 Oct 2026 19:47:55 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c693e0lddp4po?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 02 Oct 2026 13:41:55 GMT",
       "tema": "brasil",
       "resumo": null
     }
