@@ -1,130 +1,146 @@
 {
-  "gerado_em": "2026-10-03T14:33:45.891Z",
+  "gerado_em": "2026-10-03T18:32:36.337Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 24.6,
+    "max": 24.2,
     "min": 14.8,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Trânsito Sul de Minas",
+      "titulo": "Motorista é preso com 385 kg de maconha e 4 kg de cocaína em Piraí",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/03/transito-sul-de-minas.ghtml",
-      "hora": "Sat, 03 Oct 2026 14:21:56 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/03/motorista-e-preso-com-385-kg-de-maconha-e-4-kg-de-cocaina-em-pirai.ghtml",
+      "hora": "Sat, 03 Oct 2026 18:16:13 -0000",
+      "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Cury critica excesso de privilégios a políticos no poder e diz ser alternativa: 'Nem picanha, nem fuzil'",
+      "titulo": "Quem são os candidatos a senador no Amazonas em 2026: veja por nome, número e partido",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/10/03/cury-critica-excesso-de-privilegios-a-politicos-no-poder-e-diz-ser-alternativa-nem-picanha-nem-fuzil.ghtml",
-      "hora": "Sat, 03 Oct 2026 14:21:25 -0000",
+      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-senador-no-amazonas-em-2026-veja-por-nome-numero-e-partido.ghtml",
+      "hora": "Sat, 03 Oct 2026 18:13:49 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Caiado nega apoiar Flávio Bolsonaro já no 1º turno ",
+      "titulo": "Quem são os candidatos a deputado estadual no Amazonas em 2026: veja por nome, número e partido",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/03/caiado-nega-apoiar-flavio-bolsonaro-ja-no-1o-turno.ghtml",
-      "hora": "Sat, 03 Oct 2026 14:19:53 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Mais de 2,3 mil PMs e guardas reforçam a segurança das eleições na Baixada Santista e Vale do Ribeira",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/eleicoes/2026/noticia/2026/10/03/mais-de-2300-policiais-e-guardas-irao-reforcar-a-seguranca-nas-eleicoes-na-baixada-santista-e-vale-do-ribeira.ghtml",
-      "hora": "Sat, 03 Oct 2026 14:19:13 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEO: suspeito de executar a tiros integrante de gangue rival é preso na Grande BH ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/03/video-suspeito-de-executar-a-tiros-integrante-de-gangue-rival-e-preso-na-grande-bh.ghtml",
-      "hora": "Sat, 03 Oct 2026 14:18:59 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Eleições 2026: primeiro turno pode ter até 40 mm de chuva e temporais em MS; veja a previsão do tempo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/03/eleicoes-2026-primeiro-turno-pode-ter-ate-40-mm-de-chuva-e-temporais-em-ms-veja-a-previsao-do-tempo.ghtml",
-      "hora": "Sat, 03 Oct 2026 14:18:26 -0000",
+      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-deputado-estadual-no-amazonas-em-2026-veja-por-nome-numero-e-partido.ghtml",
+      "hora": "Sat, 03 Oct 2026 18:13:47 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "PF investiga esquema eleitoral após apreensão de R$ 4 milhões em dinheiro vivo em Roraima",
+      "titulo": "Quem são os candidatos a deputado federal no Amazonas em 2026: veja por nome, número e partido",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/10/03/pf-investiga-esquema-eleitoral-apos-apreensao-de-r-4-milhoes-em-dinheiro-vivo-em-roraima.ghtml",
-      "hora": "Sat, 03 Oct 2026 14:18:22 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "\nEmpresas devem garantir liberação de trabalhadores para votar no domingo (4), alerta MPT-PI",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/10/03/trabalhadores-votar-pi.ghtml",
-      "hora": "Sat, 03 Oct 2026 14:15:39 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "TRE-DF realiza audiência pública para sorteio das urnas que serão auditadas nas Eleições 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/03/tre-df-realiza-audiencia-publica-para-sorteio-das-urnas-que-serao-auditadas-nas-eleicoes-2026.ghtml",
-      "hora": "Sat, 03 Oct 2026 14:14:27 -0000",
+      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-deputado-federal-no-amazonas-em-2026-veja-por-nome-numero-e-partido.ghtml",
+      "hora": "Sat, 03 Oct 2026 18:13:44 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Por que eleição brasileira é teste para estratégia de Trump na América Latina",
+      "titulo": "Página do g1 Região dos Lagos terá cobertura especial no domingo de eleições",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/03/por-que-eleicao-brasileira-e-teste-para-estrategia-de-trump-na-america-latina.ghtml",
-      "hora": "Sat, 03 Oct 2026 14:11:24 -0000",
-      "tema": "cultura",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/eleicoes/2026/noticia/2026/10/03/pagina-do-g1-regiao-dos-lagos-tera-cobertura-especial-no-domingo-de-eleicoes.ghtml",
+      "hora": "Sat, 03 Oct 2026 18:12:07 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Acompanhe a cobertura do 1º turno das eleições no Distrito Federal",
+      "titulo": "Quem são os candidatos a senador no Amapá em 2026: veja por nome, número e partido",
       "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-df.ghtml",
-      "hora": "Sat, 03 Oct 2026 14:11:07 -0000",
+      "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-senador-no-amapa-em-2026-veja-por-nome-numero-e-partido.ghtml",
+      "hora": "Sat, 03 Oct 2026 18:11:33 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Quem são os candidatos a deputado estadual no Amapá em 2026: veja por nome, número e partido",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-deputado-estadual-no-amapa-em-2026-veja-por-nome-numero-e-partido.ghtml",
+      "hora": "Sat, 03 Oct 2026 18:11:29 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Siqueira Campos Júnior desiste de disputar o governo do Tocantins e declara apoio a Professora Dorinha",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/03/siqueira-campos-junior-desiste-de-disputar-o-governo-do-tocantins-e-declara-apoio-a-professora-dorinha.ghtml",
+      "hora": "Sat, 03 Oct 2026 18:11:28 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Quem são os candidatos a deputado federal no Amapá em 2026: veja por nome, número e partido",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-deputado-federal-no-amapa-em-2026-veja-por-nome-numero-e-partido.ghtml",
+      "hora": "Sat, 03 Oct 2026 18:11:26 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Banner é arrancado pelo vento e atinge motociclistas em Bom Jesus do Itabapoana; VÍDEO",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/10/03/banner-e-arrancado-pelo-vento-e-atinge-motociclistas-em-bom-jesus-do-itabapoana-video.ghtml",
+      "hora": "Sat, 03 Oct 2026 18:10:34 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Eleições 2026: Itapetininga terá linhas de ônibus extras neste domingo",
+      "titulo": "Operação apreende R$ 120 mil em espécie que seria usado para compra de votos no Ceará",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/eleicoes/2026/noticia/2026/10/03/eleicoes-2026-itapetininga-tera-linhas-de-onibus-extras-neste-domingo.ghtml",
-      "hora": "Sat, 03 Oct 2026 14:10:39 -0000",
+      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/03/operacao-apreende-r-120-mil-em-especie-que-seria-usado-para-compra-de-votos-no-ceara.ghtml",
+      "hora": "Sat, 03 Oct 2026 18:09:10 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Quem são os candidatos a deputado estadual em Alagoas em 2026: veja por nome, número e partido",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-deputado-estadual-em-alagoas-em-2026-veja-por-nome-numero-e-partido.ghtml",
+      "hora": "Sat, 03 Oct 2026 18:08:43 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Quem são os candidatos a deputado federal em Alagoas em 2026: veja por nome, número e partido",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-deputado-federal-em-alagoas-em-2026-veja-por-nome-numero-e-partido.ghtml",
+      "hora": "Sat, 03 Oct 2026 18:08:40 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Quem são os candidatos a senador em Alagoas em 2026: veja por nome, número e partido",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-senador-em-alagoas-em-2026-veja-por-nome-numero-e-partido.ghtml",
+      "hora": "Sat, 03 Oct 2026 18:08:36 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Quem são os candidatos a deputado estadual no Acre em 2026: veja por nome, número e partido",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-deputado-estadual-no-acre-em-2026-veja-por-nome-numero-e-partido.ghtml",
+      "hora": "Sat, 03 Oct 2026 18:06:14 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Ceará, Pernambuco, Rio e outras disputas de governo estadual que você precisa ficar de olho",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqx28ygpe56yo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 03 Oct 2026 17:53:07 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Dupla é detida com granadas, espingarda e drogas em Itatiaia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/03/dupla-e-detida-com-granadas-espingarda-e-drogas-em-itatiaia.ghtml",
-      "hora": "Sat, 03 Oct 2026 14:08:45 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Motorista de carreta morre após batida de frente com caminhão na BR-365, em MG ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/03/motorista-de-carreta-morre-apos-batida-de-frente-com-caminhao-na-br-365-em-mg.ghtml",
-      "hora": "Sat, 03 Oct 2026 14:05:35 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: Bom Dia Sábado, 3 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/playlist/videos-bom-dia-sabado-3-de-outubro-de-2026.ghtml",
-      "hora": "Sat, 03 Oct 2026 14:05:17 -0000",
-      "tema": "mundo",
+      "titulo": "Eleições 2026: quem são os principais candidatos a governador em cada Estado",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c69v9z2wydv1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 03 Oct 2026 11:04:04 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -136,6 +152,38 @@
       "resumo": null
     },
     {
+      "titulo": "As surreais eleições dos anos 80 e 90 em que uma marca de cerveja estampou as cabines de votação no Brasil",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqm272zvp8n4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 03 Oct 2026 15:55:54 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "'Presenciei quase 500 execuções de presos – e nunca vi uma como a de Christa Pike'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crgj9vp328plo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 03 Oct 2026 18:27:32 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Copiloto usou machado em ataque a comandante de avião para Israel",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cr86zldp7gv2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 03 Oct 2026 16:52:48 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'O gado está morrendo de sede e fome': o impacto devastador do El Niño no Corredor Seco da América Central",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crq5xnxqw29lo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 03 Oct 2026 16:31:42 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Por que eleição brasileira é teste para estratégia de Trump na América Latina",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm369n893g50o?at_medium=RSS&at_campaign=rss",
@@ -144,10 +192,18 @@
       "resumo": null
     },
     {
-      "titulo": "Eleições 2026: quem são os principais candidatos a governador em cada Estado",
+      "titulo": "Como vale-tudo no STF 'sequestrou' a eleição — e quais as consequências disso",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c69v9z2wydv1o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 03 Oct 2026 11:04:04 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c6kg8dq2j4l4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 03 Oct 2026 15:33:56 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Clique aqui",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 02 Oct 2026 10:39:09 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -176,22 +232,6 @@
       "resumo": null
     },
     {
-      "titulo": "Por que a nova onda de protestos estudantis assusta o governo francês",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwm26n81jl0lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 17:41:59 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Vorcaro forneceu jatinho e Moët Chandon a desembargador para viagem a Buenos Aires, mostram mensagens",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmy4z41l1j3eo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 07:52:47 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
       "titulo": "Distância entre Lula e Flávio Bolsonaro é de 3 pontos no 1º turno no Agregador de Pesquisas da BBC News Brasil",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
@@ -200,50 +240,10 @@
       "resumo": null
     },
     {
-      "titulo": "Clique aqui",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 10:39:09 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
       "titulo": "Mapa das Eleições 2026: veja ao vivo o resultado para presidente e governador por Estado e cidade",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 02 Oct 2026 10:39:09 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Como a imprensa russa vê a eleição brasileira - e o que isso revela sobre a forma com que o governo Putin enxerga o Brasil ",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwdr714gj6e1o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 20:01:10 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Como justificar o voto e o que acontece se você não votar",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c35y79jr2q87o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 11:25:45 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Quociente eleitoral: o que é e como funciona a eleição de deputados — e por que a regra pode deixar o mais votado de fora",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmgqdwk10jyno?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 22:34:04 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que eleição presidencial de 1998 foi a única a não ter debate na TV — e o que ela teve em comum com a de 2026",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr78088q1p5go?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 14:53:53 GMT",
       "tema": "mundo",
       "resumo": null
     }
