@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-03T18:32:36.337Z",
+  "gerado_em": "2026-10-03T23:30:38.710Z",
   "modo": "palavras-chave",
   "clima": {
     "max": 24.2,
@@ -8,122 +8,130 @@
   },
   "noticias": [
     {
-      "titulo": "Motorista é preso com 385 kg de maconha e 4 kg de cocaína em Piraí",
+      "titulo": "Quaest: como votam os eleitores de Caiado, Renan e Cury em um 2º turno entre Lula e Flávio Bolsonaro",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/03/motorista-e-preso-com-385-kg-de-maconha-e-4-kg-de-cocaina-em-pirai.ghtml",
-      "hora": "Sat, 03 Oct 2026 18:16:13 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem são os candidatos a senador no Amazonas em 2026: veja por nome, número e partido",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-senador-no-amazonas-em-2026-veja-por-nome-numero-e-partido.ghtml",
-      "hora": "Sat, 03 Oct 2026 18:13:49 -0000",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/03/quaest-como-votam-os-eleitores-de-caiado-renan-e-cury-em-um-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml",
+      "hora": "Sat, 03 Oct 2026 23:15:16 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Quem são os candidatos a deputado estadual no Amazonas em 2026: veja por nome, número e partido",
+      "titulo": "Capitão da PM flagrado agredindo duas mulheres já havia sido investigado por outro caso de violência contra a mulher",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-deputado-estadual-no-amazonas-em-2026-veja-por-nome-numero-e-partido.ghtml",
-      "hora": "Sat, 03 Oct 2026 18:13:47 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem são os candidatos a deputado federal no Amazonas em 2026: veja por nome, número e partido",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-deputado-federal-no-amazonas-em-2026-veja-por-nome-numero-e-partido.ghtml",
-      "hora": "Sat, 03 Oct 2026 18:13:44 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Página do g1 Região dos Lagos terá cobertura especial no domingo de eleições",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/eleicoes/2026/noticia/2026/10/03/pagina-do-g1-regiao-dos-lagos-tera-cobertura-especial-no-domingo-de-eleicoes.ghtml",
-      "hora": "Sat, 03 Oct 2026 18:12:07 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem são os candidatos a senador no Amapá em 2026: veja por nome, número e partido",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-senador-no-amapa-em-2026-veja-por-nome-numero-e-partido.ghtml",
-      "hora": "Sat, 03 Oct 2026 18:11:33 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem são os candidatos a deputado estadual no Amapá em 2026: veja por nome, número e partido",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-deputado-estadual-no-amapa-em-2026-veja-por-nome-numero-e-partido.ghtml",
-      "hora": "Sat, 03 Oct 2026 18:11:29 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Siqueira Campos Júnior desiste de disputar o governo do Tocantins e declara apoio a Professora Dorinha",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/03/siqueira-campos-junior-desiste-de-disputar-o-governo-do-tocantins-e-declara-apoio-a-professora-dorinha.ghtml",
-      "hora": "Sat, 03 Oct 2026 18:11:28 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem são os candidatos a deputado federal no Amapá em 2026: veja por nome, número e partido",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-deputado-federal-no-amapa-em-2026-veja-por-nome-numero-e-partido.ghtml",
-      "hora": "Sat, 03 Oct 2026 18:11:26 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Banner é arrancado pelo vento e atinge motociclistas em Bom Jesus do Itabapoana; VÍDEO",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/10/03/banner-e-arrancado-pelo-vento-e-atinge-motociclistas-em-bom-jesus-do-itabapoana-video.ghtml",
-      "hora": "Sat, 03 Oct 2026 18:10:34 -0000",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/10/03/capitao-da-pm-flagrado-agredindo-duas-mulheres-ja-havia-sido-investigado-por-outro-caso-de-violencia-contra-a-mulher.ghtml",
+      "hora": "Sat, 03 Oct 2026 23:11:59 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Operação apreende R$ 120 mil em espécie que seria usado para compra de votos no Ceará",
+      "titulo": "Jovem é atropelado e morre durante carreata no RS",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/03/operacao-apreende-r-120-mil-em-especie-que-seria-usado-para-compra-de-votos-no-ceara.ghtml",
-      "hora": "Sat, 03 Oct 2026 18:09:10 -0000",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/03/jovem-morre-durante-carreata-no-rs.ghtml",
+      "hora": "Sat, 03 Oct 2026 23:10:19 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Datafolha para presidente no RJ, votos válidos: Flávio Bolsonaro, 48%; Lula, 40%; Caiado, 4%; Augusto Cury, 3%; Renan Santos, 3%",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/03/datafolha-rj-presidente-3-outubro.ghtml",
+      "hora": "Sat, 03 Oct 2026 23:07:25 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Quem são os candidatos a deputado estadual em Alagoas em 2026: veja por nome, número e partido",
+      "titulo": "Acompanhe a cobertura das eleições em Minas Gerais",
       "fonte": "G1",
-      "link": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-deputado-estadual-em-alagoas-em-2026-veja-por-nome-numero-e-partido.ghtml",
-      "hora": "Sat, 03 Oct 2026 18:08:43 -0000",
+      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-mg.ghtml",
+      "hora": "Sat, 03 Oct 2026 23:06:01 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "TSE indefere candidatura de Deltan Dallagnol ao Senado pelo Paraná",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/03/tse-indefere-candidatura-deltan-senado-parana.ghtml",
+      "hora": "Sat, 03 Oct 2026 23:04:41 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Quem são os candidatos a deputado federal em Alagoas em 2026: veja por nome, número e partido",
+      "titulo": "Polícia Civil investiga morte de estudante da UFPA encontrado em apartamento em Belém",
       "fonte": "G1",
-      "link": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-deputado-federal-em-alagoas-em-2026-veja-por-nome-numero-e-partido.ghtml",
-      "hora": "Sat, 03 Oct 2026 18:08:40 -0000",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/10/03/policia-civil-investiga-morte-de-estudante-da-ufpa-encontrado-em-apartamento-em-belem.ghtml",
+      "hora": "Sat, 03 Oct 2026 23:04:03 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleições 2026: acompanhe a cobertura ao vivo do 1º turno em todo o Brasil",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-primeiro-turno.ghtml",
+      "hora": "Sat, 03 Oct 2026 23:02:21 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Quem são os candidatos a senador em Alagoas em 2026: veja por nome, número e partido",
+      "titulo": "Eleições na Baixada Santista e Vale do Ribeira: confira tudo que você precisa saber para o dia da votação",
       "fonte": "G1",
-      "link": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-senador-em-alagoas-em-2026-veja-por-nome-numero-e-partido.ghtml",
-      "hora": "Sat, 03 Oct 2026 18:08:36 -0000",
+      "link": "https://g1.globo.com/sp/santos-regiao/eleicoes/2026/noticia/2026/10/03/eleicoes-na-baixada-santista-e-vale-do-ribeira-confira-tudo-que-voce-precisa-saber-para-o-dia-da-votacao.ghtml",
+      "hora": "Sat, 03 Oct 2026 23:00:00 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: EPTV 2 Sul de Minas de sábado, 3 de outubro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/10/03/videos-eptv-2-sul-de-minas-de-sabado-3-de-outubro-de-2026.ghtml",
+      "hora": "Sat, 03 Oct 2026 22:59:09 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Siga o EPTV 2 Ribeirão e Franca",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv-2-ribeirao-e-franca-ao-vivo.ghtml",
+      "hora": "Sat, 03 Oct 2026 22:53:48 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Quaest no AP, votos válidos: Dr Furlan, 53%; Clécio, 47%",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/03/quaest-ap-governador-3-outubro.ghtml",
+      "hora": "Sat, 03 Oct 2026 22:53:32 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Quem são os candidatos a deputado estadual no Acre em 2026: veja por nome, número e partido",
+      "titulo": "Assista ao Boa Noite Espírito Santo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/03/quem-sao-os-candidatos-a-deputado-estadual-no-acre-em-2026-veja-por-nome-numero-e-partido.ghtml",
-      "hora": "Sat, 03 Oct 2026 18:06:14 -0000",
+      "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-boa-noite-espirito-santo.ghtml",
+      "hora": "Sat, 03 Oct 2026 22:53:21 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Liberal",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
+      "hora": "Sat, 03 Oct 2026 22:52:44 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Quaest para o Senado no Amazonas, votos válidos: Eduardo Braga, 36%; Capitão Alberto Neto, 25%; Plínio Valério, 22%; Wilson Lima, 15%",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/03/quaest-am-senado-3-outubro.ghtml",
+      "hora": "Sat, 03 Oct 2026 22:52:12 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Pesquisas para presidente: o que elas dizem na véspera da eleição – e o que mostravam em 2022 e 2018",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6n8dl07vv4lo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 03 Oct 2026 22:32:47 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -152,10 +160,26 @@
       "resumo": null
     },
     {
+      "titulo": "O número que pode definir a eleição presidencial em primeiro turno — e os fatores que apontam contra isso",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cv0lrly138rko?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 02 Oct 2026 23:13:34 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "As surreais eleições dos anos 80 e 90 em que uma marca de cerveja estampou as cabines de votação no Brasil",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cqm272zvp8n4o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 03 Oct 2026 15:55:54 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que eleição brasileira é teste para estratégia de Trump na América Latina",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm369n893g50o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 03 Oct 2026 13:47:44 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -168,26 +192,18 @@
       "resumo": null
     },
     {
-      "titulo": "Copiloto usou machado em ataque a comandante de avião para Israel",
+      "titulo": "Por que a Espanha, que construía casas demais, vive hoje uma grave crise de moradia",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr86zldp7gv2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 03 Oct 2026 16:52:48 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c3vgygl0r9v2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 03 Oct 2026 19:16:16 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "'O gado está morrendo de sede e fome': o impacto devastador do El Niño no Corredor Seco da América Central",
+      "titulo": "Clique aqui",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crq5xnxqw29lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 03 Oct 2026 16:31:42 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que eleição brasileira é teste para estratégia de Trump na América Latina",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm369n893g50o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 03 Oct 2026 13:47:44 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 02 Oct 2026 10:39:09 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -196,14 +212,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c6kg8dq2j4l4o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 03 Oct 2026 15:33:56 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Clique aqui",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 10:39:09 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -221,14 +229,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cmewellkk7zyo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 02 Oct 2026 13:54:39 GMT",
       "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "O número que pode definir a eleição presidencial em primeiro turno — e os fatores que apontam contra isso",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cv0lrly138rko?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 23:13:34 GMT",
-      "tema": "brasil",
       "resumo": null
     },
     {
