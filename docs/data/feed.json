@@ -1,137 +1,152 @@
 {
-  "gerado_em": "2026-10-03T23:30:38.710Z",
+  "gerado_em": "2026-10-04T15:08:46.564Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 24.2,
-    "min": 14.8,
-    "chuva": 100
+    "max": 25.9,
+    "min": 17.2,
+    "chuva": 94
   },
   "noticias": [
     {
-      "titulo": "Quaest: como votam os eleitores de Caiado, Renan e Cury em um 2º turno entre Lula e Flávio Bolsonaro",
+      "titulo": "Eleições 2026: acompanhe a cobertura do 1º turno em Piracicaba e região",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/03/quaest-como-votam-os-eleitores-de-caiado-renan-e-cury-em-um-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml",
-      "hora": "Sat, 03 Oct 2026 23:15:16 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Capitão da PM flagrado agredindo duas mulheres já havia sido investigado por outro caso de violência contra a mulher",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/10/03/capitao-da-pm-flagrado-agredindo-duas-mulheres-ja-havia-sido-investigado-por-outro-caso-de-violencia-contra-a-mulher.ghtml",
-      "hora": "Sat, 03 Oct 2026 23:11:59 -0000",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-piracicaba-e-regiao.ghtml",
+      "hora": "Sun, 04 Oct 2026 15:07:20 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Jovem é atropelado e morre durante carreata no RS",
+      "titulo": "Prefeita de Divinópolis, Janete Aparecida passa mal em casa e é internada no CTI",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/03/jovem-morre-durante-carreata-no-rs.ghtml",
-      "hora": "Sat, 03 Oct 2026 23:10:19 -0000",
+      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/04/prefeita-de-divinopolis-janete-aparecida-passa-mal-em-casa-e-e-internada-no-cti.ghtml",
+      "hora": "Sun, 04 Oct 2026 15:06:16 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Datafolha para presidente no RJ, votos válidos: Flávio Bolsonaro, 48%; Lula, 40%; Caiado, 4%; Augusto Cury, 3%; Renan Santos, 3%",
+      "titulo": "Eleições 2026: acompanhe em tempo real a cobertura do 1º turno em Mato Grosso do Sul",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/03/datafolha-rj-presidente-3-outubro.ghtml",
-      "hora": "Sat, 03 Oct 2026 23:07:25 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Acompanhe a cobertura das eleições em Minas Gerais",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-mg.ghtml",
-      "hora": "Sat, 03 Oct 2026 23:06:01 -0000",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-mato-grosso-do-sul.ghtml",
+      "hora": "Sun, 04 Oct 2026 15:05:51 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "TSE indefere candidatura de Deltan Dallagnol ao Senado pelo Paraná",
+      "titulo": "Eleições 2026: Monjas de clausura deixam convento para participar da votação em Teresópolis",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/03/tse-indefere-candidatura-deltan-senado-parana.ghtml",
-      "hora": "Sat, 03 Oct 2026 23:04:41 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Polícia Civil investiga morte de estudante da UFPA encontrado em apartamento em Belém",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/10/03/policia-civil-investiga-morte-de-estudante-da-ufpa-encontrado-em-apartamento-em-belem.ghtml",
-      "hora": "Sat, 03 Oct 2026 23:04:03 -0000",
+      "link": "https://g1.globo.com/rj/regiao-serrana/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-petropolis-nova-friburgo-teresopolis-regiao-serrana.ghtml",
+      "hora": "Sun, 04 Oct 2026 15:04:52 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Eleições 2026: acompanhe a cobertura ao vivo do 1º turno em todo o Brasil",
+      "titulo": "Lucien Rezende (PSOL) vota em Ribas do Rio Pardo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-primeiro-turno.ghtml",
-      "hora": "Sat, 03 Oct 2026 23:02:21 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/10/04/lucien-rezende-psol-vota-em-ribas-do-rio-pardo.ghtml",
+      "hora": "Sun, 04 Oct 2026 15:04:48 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Eleições na Baixada Santista e Vale do Ribeira: confira tudo que você precisa saber para o dia da votação",
+      "titulo": "Acompanhe a cobertura das eleições no 1º turno no Espírito Santo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/eleicoes/2026/noticia/2026/10/03/eleicoes-na-baixada-santista-e-vale-do-ribeira-confira-tudo-que-voce-precisa-saber-para-o-dia-da-votacao.ghtml",
-      "hora": "Sat, 03 Oct 2026 23:00:00 -0000",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-espirito-santo.ghtml",
+      "hora": "Sun, 04 Oct 2026 15:04:38 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Acompanhe a cobertura do 1º turno das eleições em Pernambuco",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-pernambuco.ghtml",
+      "hora": "Sun, 04 Oct 2026 15:04:24 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: EPTV 2 Sul de Minas de sábado, 3 de outubro de 2026",
+      "titulo": "Candidatos ao governo do Acre votam; ACOMPANHE",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/10/03/videos-eptv-2-sul-de-minas-de-sabado-3-de-outubro-de-2026.ghtml",
-      "hora": "Sat, 03 Oct 2026 22:59:09 -0000",
+      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-acre.ghtml",
+      "hora": "Sun, 04 Oct 2026 15:04:10 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Siga o EPTV 2 Ribeirão e Franca",
+      "titulo": "SIGA: Eleitores enfrentam filas nas primeiras horas de votação no RN",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv-2-ribeirao-e-franca-ao-vivo.ghtml",
-      "hora": "Sat, 03 Oct 2026 22:53:48 -0000",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-rn.ghtml",
+      "hora": "Sun, 04 Oct 2026 15:03:53 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Quaest no AP, votos válidos: Dr Furlan, 53%; Clécio, 47%",
+      "titulo": "Jaques Wagner (PT) vota em Salvador",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/03/quaest-ap-governador-3-outubro.ghtml",
-      "hora": "Sat, 03 Oct 2026 22:53:32 -0000",
+      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/04/jaques-wagner-pt-vota-em-salvador.ghtml",
+      "hora": "Sun, 04 Oct 2026 15:03:39 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Apagão faz eleitores votarem no escuro, no Paraná",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pr/parana/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-parana.ghtml",
+      "hora": "Sun, 04 Oct 2026 15:03:36 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Assista ao Boa Noite Espírito Santo",
+      "titulo": "Helder Salomão (PT) vota em Cariacica",
       "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-boa-noite-espirito-santo.ghtml",
-      "hora": "Sat, 03 Oct 2026 22:53:21 -0000",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/04/helder-salomao-pt-vota-em-cariacica.ghtml",
+      "hora": "Sun, 04 Oct 2026 15:03:30 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Assista aos telejornais da TV Liberal",
+      "titulo": "Três candidatos a governador do Ceará já votaram; acompanhe todas as notícias",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
-      "hora": "Sat, 03 Oct 2026 22:52:44 -0000",
+      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-ceara.ghtml",
+      "hora": "Sun, 04 Oct 2026 15:03:17 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Quaest para o Senado no Amazonas, votos válidos: Eduardo Braga, 36%; Capitão Alberto Neto, 25%; Plínio Valério, 22%; Wilson Lima, 15%",
+      "titulo": "Ciclista morre após acidente com caminhão na BR-116, em Feira de Santana",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/03/quaest-am-senado-3-outubro.ghtml",
-      "hora": "Sat, 03 Oct 2026 22:52:12 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/04/ciclista-morre-apos-acidente-com-caminhao-na-br-116-em-feira-de-santana.ghtml",
+      "hora": "Sun, 04 Oct 2026 15:02:51 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Pesquisas para presidente: o que elas dizem na véspera da eleição – e o que mostravam em 2022 e 2018",
+      "titulo": "Acompanhe a cobertura das eleições no 1º turno em Rondônia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ro/rondonia/eleicoes/2026/ao-vivo/cobertura-das-eleicoes-no-1-turno-em-rondonia.ghtml",
+      "hora": "Sun, 04 Oct 2026 15:01:29 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleições 2026 AO VIVO: Acompanhe a votação para presidente; veja os primeiros resultados da apuração no exterior",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6n8dl07vv4lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 03 Oct 2026 22:32:47 GMT",
+      "link": "https://www.bbc.co.uk/portuguese/live/c94g1vj6j2z8t?at_medium=RSS&at_campaign=rss",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Ônibus e metrô de graça no dia da eleição: o que diz a regra e o que mais você precisa saber para votar",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c75gxk1vlnqo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 04 Oct 2026 11:53:50 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Lula e Flávio Bolsonaro chegam ao 1º turno com 2 pontos de distância no Agregador de Pesquisas da BBC News Brasil",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 04 Oct 2026 12:01:19 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -144,6 +159,22 @@
       "resumo": null
     },
     {
+      "titulo": "Como justificar o voto e o que acontece se você não votar",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c35y79jr2q87o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 02 Oct 2026 11:25:45 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Clique aqui",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 04 Oct 2026 12:51:38 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "Eleições 2026: quem são os principais candidatos a governador em cada Estado",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c69v9z2wydv1o?at_medium=RSS&at_campaign=rss",
@@ -152,11 +183,51 @@
       "resumo": null
     },
     {
-      "titulo": "A influente igreja evangélica que apoiou Jair, mas rejeita Flávio Bolsonaro",
+      "titulo": "'Eleição decisiva para futuro da América Latina': como imprensa internacional noticia disputa presidencial no Brasil",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckz7z7j25g19o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 03 Oct 2026 09:57:15 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cred30n2v4edo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 04 Oct 2026 14:55:32 GMT",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Os grandes doadores que apostam nos dois lados da eleição",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm62449jp7j4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 04 Oct 2026 13:07:41 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Pesquisas para presidente: o que elas dizem na véspera da eleição – e o que mostravam em 2022 e 2018",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6n8dl07vv4lo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 04 Oct 2026 01:51:39 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Quando o resultado da eleição será divulgado e onde acompanhar a apuração do TSE em tempo real",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cme3reppxv7zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 04 Oct 2026 11:52:30 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "BBC News Brasil fará transmissão AO VIVO às 16h30 para você acompanhar apuração e resultados do primeiro turno",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cvj64l9408k0o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 02 Oct 2026 09:03:53 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Mapa das Eleições 2026: veja ao vivo o resultado para presidente e governador por Estado e cidade",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 04 Oct 2026 12:51:38 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -168,83 +239,11 @@
       "resumo": null
     },
     {
-      "titulo": "As surreais eleições dos anos 80 e 90 em que uma marca de cerveja estampou as cabines de votação no Brasil",
+      "titulo": "A influente igreja evangélica que apoiou Jair, mas rejeita Flávio Bolsonaro",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqm272zvp8n4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 03 Oct 2026 15:55:54 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/ckz7z7j25g19o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 03 Oct 2026 09:57:15 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que eleição brasileira é teste para estratégia de Trump na América Latina",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm369n893g50o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 03 Oct 2026 13:47:44 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "'Presenciei quase 500 execuções de presos – e nunca vi uma como a de Christa Pike'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crgj9vp328plo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 03 Oct 2026 18:27:32 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que a Espanha, que construía casas demais, vive hoje uma grave crise de moradia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3vgygl0r9v2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 03 Oct 2026 19:16:16 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Clique aqui",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 10:39:09 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Como vale-tudo no STF 'sequestrou' a eleição — e quais as consequências disso",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6kg8dq2j4l4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 03 Oct 2026 15:33:56 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "PF investiga suposto plano de atacar embaixada dos EUA: o que se sabe e como o governo brasileiro avalia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmx2dn8v9lgyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 21:07:27 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "O que os governos dos EUA e da Austrália dizem sobre fechamento de embaixadas e consulados no Brasil às vésperas da eleição",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmewellkk7zyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 13:54:39 GMT",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Distância entre Lula e Flávio Bolsonaro é de 3 pontos no 1º turno no Agregador de Pesquisas da BBC News Brasil",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 16:16:10 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Mapa das Eleições 2026: veja ao vivo o resultado para presidente e governador por Estado e cidade",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 02 Oct 2026 10:39:09 GMT",
-      "tema": "mundo",
       "resumo": null
     }
   ]
