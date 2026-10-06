@@ -1,129 +1,129 @@
 {
-  "gerado_em": "2026-10-06T01:39:54.826Z",
+  "gerado_em": "2026-10-06T16:29:43.657Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 22.5,
-    "min": 15.8,
-    "chuva": 44
+    "max": 25,
+    "min": 16.2,
+    "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Resultado das eleições 2026 em Brasilândia (MS): como foi a votação no 1º turno",
+      "titulo": "Resultado das eleições 2026 em Pai Pedro (MG): votação para presidente na Escola Municipal Jose de Alencar (Vila Sudário), na 226ª zona eleitoral",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-brasilandia-ms-como-foi-a-votacao-no-1o-turno.ghtml",
-      "hora": "Tue, 06 Oct 2026 01:35:49 -0000",
+      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pai-pedro-mg-votacao-para-presidente-na-escola-municipal-jose-de-alencar-vila-sudario-na-226a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 16:27:51 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultado das eleições 2026 em Cândido de Abreu (PR): como foi a votação nos locais de votação da 106ª Zona Eleitoral",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-candido-de-abreu-pr-como-foi-a-votacao-nos-locais-de-votacao-da-106a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 16:27:49 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Resultado das eleições 2026 em Batayporã (MS): como foi a votação no 1º turno",
+      "titulo": "Resultado das eleições 2026 em Ilha Solteira (SP): votação para presidente no Em Aparecida Benedita Brito da Silva, na 368ª zona eleitoral",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-bataypora-ms-como-foi-a-votacao-no-1o-turno.ghtml",
-      "hora": "Tue, 06 Oct 2026 01:35:47 -0000",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ilha-solteira-sp-votacao-para-presidente-no-em-aparecida-benedita-brito-da-silva-na-368a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 16:27:44 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultado das eleições 2026 em Saquarema (RJ): votação para presidente na Escola Municipal Carmem Regina Ferreira de Oliveira, na 62ª zona eleitoral",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-saquarema-rj-votacao-para-presidente-na-escola-municipal-carmem-regina-ferreira-de-oliveira-na-62a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 16:27:43 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultado das eleições 2026 em Altinópolis (SP): votação para presidente no Emefei Ermelinda Rosalina Sammarco de Figueiredo, na 202ª zona eleitoral",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-altinopolis-sp-votacao-para-presidente-no-emefei-ermelinda-rosalina-sammarco-de-figueiredo-na-202a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 16:27:42 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultado das eleições 2026 em Senador La Rocque (MA): votação para presidente na Unidade Escolar Rui Barbosa Ii, na 58ª zona eleitoral",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-senador-la-rocque-ma-votacao-para-presidente-na-unidade-escolar-rui-barbosa-ii-na-58a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 16:27:42 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultado das eleições 2026 em Paragominas (PA): votação para presidente no Emeif Nossa Senhora Aparecida, na 42ª zona eleitoral",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-paragominas-pa-votacao-para-presidente-no-emeif-nossa-senhora-aparecida-na-42a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 16:27:41 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultado das eleições 2026 em Inajá (PE): como foi a votação nos locais de votação da 63ª Zona Eleitoral",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-inaja-pe-como-foi-a-votacao-nos-locais-de-votacao-da-63a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 16:27:41 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Resultado das eleições 2026 em Bela Vista (MS): como foi a votação no 1º turno",
+      "titulo": "Resultado das eleições 2026 em Formosa do Rio Preto (BA): como foi a votação nos locais de votação da 187ª Zona Eleitoral",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-bela-vista-ms-como-foi-a-votacao-no-1o-turno.ghtml",
-      "hora": "Tue, 06 Oct 2026 01:35:43 -0000",
+      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-formosa-do-rio-preto-ba-como-foi-a-votacao-nos-locais-de-votacao-da-187a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 16:27:40 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Resultado das eleições 2026 em João Neiva (ES): votação para presidente no Emeif Guilherme Baptista, na 14ª zona eleitoral",
+      "titulo": "Resultado das eleições 2026 em Porto dos Gaúchos (MT): votação para presidente na Escola Est.1 e 2 Graus 'Jose Alves Bezerra', na 27ª zona eleitoral",
       "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-joao-neiva-es-votacao-para-presidente-no-emeif-guilherme-baptista-na-14a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 01:35:42 -0000",
+      "link": "https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-porto-dos-gauchos-mt-votacao-para-presidente-na-escola-est-1-e-2-graus-jose-alves-bezerra-na-27a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 16:27:39 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Resultado das eleições 2026 em João Neiva (ES): votação para presidente no Emef Missionários Combonianos, na 14ª zona eleitoral",
+      "titulo": "Resultado das eleições 2026 em Barracão (RS): votação para presidente no Clube Aliança, na 103ª zona eleitoral",
       "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-joao-neiva-es-votacao-para-presidente-no-emef-missionarios-combonianos-na-14a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 01:35:41 -0000",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-barracao-rs-votacao-para-presidente-no-clube-alianca-na-103a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 16:27:39 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Resultado das eleições 2026 em João Neiva (ES): votação para presidente no Colégio Monte Negro, na 14ª zona eleitoral",
+      "titulo": "Resultado das eleições 2026 em Ponte Branca (MT): votação para presidente na Escola Estadual São Domingos Savio, na 8ª zona eleitoral",
       "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-joao-neiva-es-votacao-para-presidente-no-colegio-monte-negro-na-14a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 01:35:38 -0000",
+      "link": "https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ponte-branca-mt-votacao-para-presidente-na-escola-estadual-sao-domingos-savio-na-8a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 16:27:38 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Resultado das eleições 2026 em João Neiva (ES): votação para presidente no Emeif Teresita Borrini Farina, na 14ª zona eleitoral",
+      "titulo": "Resultado das eleições 2026 em Governador Mangabeira (BA): votação para presidente na Escola Municipal Antônio Gomes Dias, na 131ª zona eleitoral",
       "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-joao-neiva-es-votacao-para-presidente-no-emeif-teresita-borrini-farina-na-14a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 01:35:36 -0000",
+      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-governador-mangabeira-ba-votacao-para-presidente-na-escola-municipal-antonio-gomes-dias-na-131a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 16:27:37 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Resultado das eleições 2026 em João Neiva (ES): votação para presidente no Emef Professora Maria Oliria Sarcinelli Campagnaro, na 14ª zona eleitoral",
+      "titulo": "Resultado das eleições 2026 em Ipubi (PE): votação para presidente na Escola Paula Sabrina - Anexo da Escola Pedro Vicente, na 133ª zona eleitoral",
       "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-joao-neiva-es-votacao-para-presidente-no-emef-professora-maria-oliria-sarcinelli-campagnaro-na-14a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 01:35:34 -0000",
+      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ipubi-pe-votacao-para-presidente-na-escola-paula-sabrina-anexo-da-escola-pedro-vicente-na-133a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 16:27:36 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Resultado das eleições 2026 em João Neiva (ES): votação para presidente no Eeefm de João Neiva, na 14ª zona eleitoral",
+      "titulo": "Resultado das eleições 2026 em Ipubi (PE): votação para presidente na Escola Joaquim Eugenio Silva, na 133ª zona eleitoral",
       "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-joao-neiva-es-votacao-para-presidente-no-eeefm-de-joao-neiva-na-14a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 01:35:32 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultado das eleições 2026 em Aquidauana (MS): como foi a votação no 1º turno",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-aquidauana-ms-como-foi-a-votacao-no-1o-turno.ghtml",
-      "hora": "Tue, 06 Oct 2026 01:35:21 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultado das eleições 2026 em Bonito (MS): como foi a votação no 1º turno",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-bonito-ms-como-foi-a-votacao-no-1o-turno.ghtml",
-      "hora": "Tue, 06 Oct 2026 01:35:15 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultado das eleições 2026 em Anastácio (MS): como foi a votação no 1º turno",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-anastacio-ms-como-foi-a-votacao-no-1o-turno.ghtml",
-      "hora": "Tue, 06 Oct 2026 01:35:14 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultado das eleições 2026 em Matina (BA): votação para presidente no Colegio Municipal de Moco, na 113ª zona eleitoral",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-matina-ba-votacao-para-presidente-no-colegio-municipal-de-moco-na-113a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 01:34:59 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultado das eleições 2026 em Matina (BA): votação para presidente no Colegio Municipal de Pichico, na 113ª zona eleitoral",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-matina-ba-votacao-para-presidente-no-colegio-municipal-de-pichico-na-113a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 01:34:57 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultado das eleições 2026 em Matina (BA): votação para presidente no Colegio Municipal de Lages, na 113ª zona eleitoral",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-matina-ba-votacao-para-presidente-no-colegio-municipal-de-lages-na-113a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 01:34:55 -0000",
+      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ipubi-pe-votacao-para-presidente-na-escola-joaquim-eugenio-silva-na-133a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 16:27:36 -0000",
       "tema": "cultura",
       "resumo": null
     },
@@ -248,6 +248,54 @@
       "resumo": null
     },
     {
+      "titulo": "Avanço da direita em eleição no Brasil é vitória de Trump? ",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq8ezl2j0380o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 08:04:06 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O que são as 'partículas fantasma' que deram Nobel de Física a professor da Bélgica",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6kglr3wy2zgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 13:08:04 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Flávio Bolsonaro e Lula: as propostas dos candidatos à Presidência que disputam o 2º turno",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ckq5ne65q14go?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 14:16:53 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Ressurgimento de Bolsonaro expõe a fraqueza de Lula, diz jornal econômico mais importante do mundo",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwe9lgvx3mj0o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 11:05:52 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Pesquisas do 2º turno: quando é a 1ª rodada e outras datas importantes da reta final da eleição 2026",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck20wgq2p6vxo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 15:55:13 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Sem mencionar Flávio, Trump diz que 1º turno 'foi uma grande vitória'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crkg7dj193xdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 15:38:03 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Projeto do fim da escala 6x1 será derrotado no Senado, mas virará último ativo eleitoral de Lula, avalia historiador",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cxp8gl2zlez7o?at_medium=RSS&at_campaign=rss",
@@ -256,10 +304,26 @@
       "resumo": null
     },
     {
-      "titulo": "O que está por trás da euforia do mercado com vantagem de Flávio Bolsonaro no 1º turno",
+      "titulo": "Perda de votos no Nordeste e outros obstáculos de Lula para tentar virada inédita no 2º turno ",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c933xvxj7dryo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 17:44:32 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cwly3l9rykj5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 05 Oct 2026 11:36:32 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Clique aqui",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 04 Oct 2026 19:15:47 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Quem são os senadores eleitos em 2026: veja os resultados por Estado",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqj9kjznejp0o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 05 Oct 2026 08:43:32 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -272,29 +336,6 @@
       "resumo": null
     },
     {
-      "titulo": "Trump diz que liderança de Flávio no primeiro turno foi 'grande vitória'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/c94g1vj6j2z8t?at_medium=RSS&at_campaign=rss",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Perda de votos no Nordeste e outros obstáculos de Lula para tentar virada inédita no 2º turno ",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwly3l9rykj5o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 11:36:32 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Lula x Flávio no 2º turno: para onde vão os votos de Cury, Renan e Caiado?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm209062n3wgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 22:22:03 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
       "titulo": "A multiplicação de 'Nikolas': a 'fórmula' por trás das votações históricas de deputados do PL",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c32l4nxgpvq2o?at_medium=RSS&at_campaign=rss",
@@ -303,66 +344,18 @@
       "resumo": null
     },
     {
+      "titulo": "O que está por trás da euforia do mercado com vantagem de Flávio Bolsonaro no 1º turno",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c933xvxj7dryo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 05 Oct 2026 17:44:32 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Os maiores vencedores e os maiores perdedores do primeiro turno das eleições 2026",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c6x2w5x2egd8o?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 05 Oct 2026 04:27:19 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem são os senadores eleitos em 2026: veja os resultados por Estado",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqj9kjznejp0o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 08:43:32 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Clique aqui",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 04 Oct 2026 19:15:47 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem são os governadores eleitos em 2026 e quais Estados terão 2º turno: veja os resultados",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6lyk4jgljv9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 18:21:47 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Virada surpreendente': como imprensa internacional repercutiu vitória de Flávio Bolsonaro sobre Lula no 1º turno",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckj0l4dgd24lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 08:58:41 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Os gráficos que explicam como Flávio Bolsonaro chegou à frente de Lula no 1º turno",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crq8nx1qq8j4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 13:40:38 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Flávio Bolsonaro x Lula: os contrastes dos projetos de Brasil que vão para o 2º turno",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmpwg82gwd2zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 04:33:10 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Nikolas Ferreira e Lucas Pavanato são os deputados mais votados da história: veja os 10 no topo da lista",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3y0elvd819lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 04:10:12 GMT",
       "tema": "mundo",
       "resumo": null
     }
