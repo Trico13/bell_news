@@ -1,130 +1,130 @@
 {
-  "gerado_em": "2026-10-05T19:03:33.710Z",
+  "gerado_em": "2026-10-06T01:39:54.826Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 22.3,
-    "min": 16.5,
-    "chuva": 61
+    "max": 22.5,
+    "min": 15.8,
+    "chuva": 44
   },
   "noticias": [
     {
-      "titulo": "Resultado das eleições 2026 em Pires do Rio (GO): como foi a votação no 1º turno",
+      "titulo": "Resultado das eleições 2026 em Brasilândia (MS): como foi a votação no 1º turno",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-pires-do-rio-go-como-foi-a-votacao-no-1o-turno.ghtml",
-      "hora": "Mon, 05 Oct 2026 18:43:55 -0000",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-brasilandia-ms-como-foi-a-votacao-no-1o-turno.ghtml",
+      "hora": "Tue, 06 Oct 2026 01:35:49 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Resultado das eleições 2026 em Pirenópolis (GO): como foi a votação no 1º turno",
+      "titulo": "Resultado das eleições 2026 em Batayporã (MS): como foi a votação no 1º turno",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-pirenopolis-go-como-foi-a-votacao-no-1o-turno.ghtml",
-      "hora": "Mon, 05 Oct 2026 18:43:50 -0000",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-bataypora-ms-como-foi-a-votacao-no-1o-turno.ghtml",
+      "hora": "Tue, 06 Oct 2026 01:35:47 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultado das eleições 2026 em Bela Vista (MS): como foi a votação no 1º turno",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-bela-vista-ms-como-foi-a-votacao-no-1o-turno.ghtml",
+      "hora": "Tue, 06 Oct 2026 01:35:43 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultado das eleições 2026 em João Neiva (ES): votação para presidente no Emeif Guilherme Baptista, na 14ª zona eleitoral",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-joao-neiva-es-votacao-para-presidente-no-emeif-guilherme-baptista-na-14a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 01:35:42 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Resultado das eleições 2026 em Piranhas (GO): como foi a votação no 1º turno",
+      "titulo": "Resultado das eleições 2026 em João Neiva (ES): votação para presidente no Emef Missionários Combonianos, na 14ª zona eleitoral",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-piranhas-go-como-foi-a-votacao-no-1o-turno.ghtml",
-      "hora": "Mon, 05 Oct 2026 18:43:45 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultado das eleições 2026 em Piracanjuba (GO): como foi a votação no 1º turno",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-piracanjuba-go-como-foi-a-votacao-no-1o-turno.ghtml",
-      "hora": "Mon, 05 Oct 2026 18:43:39 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultado das eleições 2026 em Pilar de Goiás (GO): como foi a votação no 1º turno",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-pilar-de-goias-go-como-foi-a-votacao-no-1o-turno.ghtml",
-      "hora": "Mon, 05 Oct 2026 18:43:34 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultado das eleições 2026 em Petrolina de Goiás (GO): como foi a votação no 1º turno",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-petrolina-de-goias-go-como-foi-a-votacao-no-1o-turno.ghtml",
-      "hora": "Mon, 05 Oct 2026 18:43:28 -0000",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-joao-neiva-es-votacao-para-presidente-no-emef-missionarios-combonianos-na-14a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 01:35:41 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Resultado das eleições 2026 em Paraúna (GO): como foi a votação no 1º turno",
+      "titulo": "Resultado das eleições 2026 em João Neiva (ES): votação para presidente no Colégio Monte Negro, na 14ª zona eleitoral",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-parauna-go-como-foi-a-votacao-no-1o-turno.ghtml",
-      "hora": "Mon, 05 Oct 2026 18:43:26 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Ana Castela transforma broncas, alfinetadas e conselhos do pai em música feita com IA ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/05/ana-castela-transforma-broncas-alfinetadas-e-conselhos-do-pai-em-musica-feita-com-ia.ghtml",
-      "hora": "Mon, 05 Oct 2026 18:43:26 -0000",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-joao-neiva-es-votacao-para-presidente-no-colegio-monte-negro-na-14a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 01:35:38 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Veja os principais desafios de Daniel Vilela nos próximos 4 anos",
+      "titulo": "Resultado das eleições 2026 em João Neiva (ES): votação para presidente no Emeif Teresita Borrini Farina, na 14ª zona eleitoral",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/10/05/veja-os-principais-desafios-de-daniel-vilela-nos-proximos-4-anos.ghtml",
-      "hora": "Mon, 05 Oct 2026 18:42:33 -0000",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-joao-neiva-es-votacao-para-presidente-no-emeif-teresita-borrini-farina-na-14a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 01:35:36 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Carro sai de pista e capota na Via Dutra, em Barra Mansa ",
+      "titulo": "Resultado das eleições 2026 em João Neiva (ES): votação para presidente no Emef Professora Maria Oliria Sarcinelli Campagnaro, na 14ª zona eleitoral",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/05/carro-sai-de-pista-e-capota-na-via-dutra-em-barra-mansa.ghtml",
-      "hora": "Mon, 05 Oct 2026 18:42:14 -0000",
-      "tema": "sp",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-joao-neiva-es-votacao-para-presidente-no-emef-professora-maria-oliria-sarcinelli-campagnaro-na-14a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 01:35:34 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Representação feminina cai na Assembleia do AM: apenas 2 mulheres são eleitas para 2027",
+      "titulo": "Resultado das eleições 2026 em João Neiva (ES): votação para presidente no Eeefm de João Neiva, na 14ª zona eleitoral",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/representacao-feminina-cai-na-assembleia-do-am-apenas-2-mulheres-sao-eleitas-para-2027.ghtml",
-      "hora": "Mon, 05 Oct 2026 18:42:13 -0000",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-joao-neiva-es-votacao-para-presidente-no-eeefm-de-joao-neiva-na-14a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 01:35:32 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultado das eleições 2026 em Aquidauana (MS): como foi a votação no 1º turno",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-aquidauana-ms-como-foi-a-votacao-no-1o-turno.ghtml",
+      "hora": "Tue, 06 Oct 2026 01:35:21 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Três pessoas são presas em flagrante e outras 43 são levadas a delegacias por suspeita de crimes eleitorais no Ceará",
+      "titulo": "Resultado das eleições 2026 em Bonito (MS): como foi a votação no 1º turno",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/05/tres-pessoas-sao-presas-em-flagrante-e-outras-43-sao-levadas-a-delegacias-por-suspeita-de-crimes-eleitorais-no-ceara.ghtml",
-      "hora": "Mon, 05 Oct 2026 18:42:08 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-bonito-ms-como-foi-a-votacao-no-1o-turno.ghtml",
+      "hora": "Tue, 06 Oct 2026 01:35:15 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Unimed Teresina publica aditivo ao edital da Assembleia Geral Extraordinária",
+      "titulo": "Resultado das eleições 2026 em Anastácio (MS): como foi a votação no 1º turno",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/especial-publicitario/unimed-teresina/sos-unimed/noticia/2026/10/05/unimed-teresina-publica-aditivo-ao-edital-da-assembleia-geral-extraordinaria.ghtml",
-      "hora": "Mon, 05 Oct 2026 18:41:27 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-anastacio-ms-como-foi-a-votacao-no-1o-turno.ghtml",
+      "hora": "Tue, 06 Oct 2026 01:35:14 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Casal e filhos caem de canoa durante ventania, flutuam 8 km até margem e se emocionam: 'Nova chance'",
+      "titulo": "Resultado das eleições 2026 em Matina (BA): votação para presidente no Colegio Municipal de Moco, na 113ª zona eleitoral",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/10/05/casal-e-filhos-caem-de-canoa-durante-ventania-flutuam-8-km-ate-margem-e-se-emocionam-nova-chance.ghtml",
-      "hora": "Mon, 05 Oct 2026 18:38:47 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-matina-ba-votacao-para-presidente-no-colegio-municipal-de-moco-na-113a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 01:34:59 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: BDP de segunda-feira, 5 de outubro de 2026",
+      "titulo": "Resultado das eleições 2026 em Matina (BA): votação para presidente no Colegio Municipal de Pichico, na 113ª zona eleitoral",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/edicao/2026/10/05/videos-bdp-de-segunda-feira-5-de-outubro-de-2026.ghtml",
-      "hora": "Mon, 05 Oct 2026 18:38:31 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-matina-ba-votacao-para-presidente-no-colegio-municipal-de-pichico-na-113a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 01:34:57 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultado das eleições 2026 em Matina (BA): votação para presidente no Colegio Municipal de Lages, na 113ª zona eleitoral",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-matina-ba-votacao-para-presidente-no-colegio-municipal-de-lages-na-113a-zona-eleitoral.ghtml",
+      "hora": "Tue, 06 Oct 2026 01:34:55 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
@@ -264,7 +264,15 @@
       "resumo": null
     },
     {
-      "titulo": "Garotinho desiste e 2° turno do Rio pode ser suspenso; Ruas deve ser declarado o novo governador",
+      "titulo": "Como PL e Michelle Bolsonaro contribuíram com bancada feminina recorde na Câmara",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6d938105009o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 05 Oct 2026 20:00:35 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Trump diz que liderança de Flávio no primeiro turno foi 'grande vitória'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.co.uk/portuguese/live/c94g1vj6j2z8t?at_medium=RSS&at_campaign=rss",
       "tema": "mundo",
@@ -282,24 +290,16 @@
       "titulo": "Lula x Flávio no 2º turno: para onde vão os votos de Cury, Renan e Caiado?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm209062n3wgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 14:52:25 GMT",
+      "hora": "Mon, 05 Oct 2026 22:22:03 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "O que explica a 'multiplicação dos Nikolas' com votações históricas do PL pelo Brasil",
+      "titulo": "A multiplicação de 'Nikolas': a 'fórmula' por trás das votações históricas de deputados do PL",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c32l4nxgpvq2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 17:00:45 GMT",
+      "hora": "Mon, 05 Oct 2026 19:04:46 GMT",
       "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Os gráficos que explicam como Flávio Bolsonaro chegou à frente de Lula no 1º turno",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crq8nx1qq8j4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 13:40:38 GMT",
-      "tema": "brasil",
       "resumo": null
     },
     {
@@ -343,6 +343,14 @@
       "resumo": null
     },
     {
+      "titulo": "Os gráficos que explicam como Flávio Bolsonaro chegou à frente de Lula no 1º turno",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crq8nx1qq8j4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 05 Oct 2026 13:40:38 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "Flávio Bolsonaro x Lula: os contrastes dos projetos de Brasil que vão para o 2º turno",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmpwg82gwd2zo?at_medium=RSS&at_campaign=rss",
@@ -356,14 +364,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c3y0elvd819lo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 05 Oct 2026 04:10:12 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Lula terá que fazer gesto expressivo para virar a situação', diz analista político",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c8zxldq3kvvlo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 13:27:20 GMT",
-      "tema": "brasil",
       "resumo": null
     }
   ]
