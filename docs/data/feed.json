@@ -1,129 +1,121 @@
 {
-  "gerado_em": "2026-10-07T00:21:34.279Z",
+  "gerado_em": "2026-10-07T17:15:16.793Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 23.6,
-    "min": 16.2,
+    "max": 25.1,
+    "min": 16.4,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Plenário do TSE vai analisar caso Garotinho nesta quinta e pode definir rumo das eleições no Rio",
+      "titulo": "Lula defende PEC da Segurança e diz que lema da campanha é: 'Para o povo trabalhador, proteção; para o bandido, prisão'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/06/plenario-do-tse-vai-analisar-caso-garotinho-nesta-quinta-e-pode-definir-rumo-das-eleicoes-no-rio.ghtml",
-      "hora": "Wed, 07 Oct 2026 00:06:16 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Eleições 2026: número de seções eleitorais com acessibilidade aumenta para receber 40% a mais de eleitores com deficiência",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/06/eleicoes-2026-numero-de-secoes-eleitorais-com-acessibilidade-aumenta-para-receber-40percent-a-mais-de-eleitores-com-deficiencia.ghtml",
-      "hora": "Wed, 07 Oct 2026 00:04:32 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Mega-Sena, concurso 3067: confira os números sorteados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/06/mega-sena-concurso-3067-confira-os-numeros-sorteados.ghtml",
-      "hora": "Wed, 07 Oct 2026 00:03:51 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Dupla é presa com 540 frascos de perfumes importados em rodovia no interior de SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/06/dupla-e-presa-com-540-frascos-de-perfumes-importados-em-rodovia-no-interior-de-sp.ghtml",
-      "hora": "Wed, 07 Oct 2026 00:00:46 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Estátua de Trump nu banhado a ouro é exibida no Parlamento Europeu",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/06/estatua-de-donald-trump-nu-e-exibida-no-parlamento-europeu.ghtml",
-      "hora": "Wed, 07 Oct 2026 00:00:11 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Médica que teve 50% de corpo queimado em explosão de lancha deixa o hospital após sete cirurgias; vídeo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/10/06/medica-que-teve-50percent-de-corpo-queimado-em-explosao-de-lancha-deixa-o-hospital-apos-sete-cirurgias-video.ghtml",
-      "hora": "Tue, 06 Oct 2026 23:55:34 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Chuva arranca árvores e causa estragos em Goiás; vídeo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/10/06/chuva-arranca-arvores-e-causa-estragos-em-goias-video.ghtml",
-      "hora": "Tue, 06 Oct 2026 23:54:51 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Flávio Bolsonaro, candidato do PL à Presidência, recebe o apoio de Ronaldo Caiado, do PSD",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/06/flavio-bolsonaro-candidato-do-pl-a-presidencia-recebe-o-apoio-de-ronaldo-caiado-do-psd.ghtml",
-      "hora": "Tue, 06 Oct 2026 23:53:41 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-      "hora": "Tue, 06 Oct 2026 23:53:05 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Galeria de esgoto cede, caminhão afunda e atinge carro estacionado em rua de Nova Friburgo: 'Quem paga a conta?'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/06/galeria-de-esgoto-cede-caminhao-afunda-e-atinge-carro-estacionado-em-rua-de-nova-friburgo-quem-paga-a-conta.ghtml",
-      "hora": "Tue, 06 Oct 2026 23:52:17 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Justiça condena ex-vereadora Kátia das Rendeiras por suposto esquema de ‘rachadinha’ em Caruaru",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/10/06/justica-condena-ex-vereadora-katia-das-rendeiras-por-suposto-esquema-de-rachadinha-em-caruaru.ghtml",
-      "hora": "Tue, 06 Oct 2026 23:44:27 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Pichações com símbolos associados ao nazismo são encontradas em prédios da UFSM; caso é investigado pela PF",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/06/simbolos-nazismo-ufsm-santa-maria-rs-investigacao-pf.ghtml",
-      "hora": "Tue, 06 Oct 2026 23:43:48 -0000",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/lula-defende-pec-da-seguranca-e-diz-que-lema-da-campanha-e-para-o-povo-trabalhador-protecao-para-o-bandido-prisao.ghtml",
+      "hora": "Wed, 07 Oct 2026 17:10:02 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Paraíba elege dois vereadores como deputados estaduais e terá mudanças em Câmaras de João Pessoa e Campina Grande",
+      "titulo": "Suspeito que saiu do estado após assalto a comércio é preso ao retornar a Macapá; VÍDEO",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/paraiba-elege-dois-vereadores-como-deputados-estaduais-e-tera-mudancas-em-camaras-de-joao-pessoa-e-campina-grande.ghtml",
-      "hora": "Tue, 06 Oct 2026 23:41:19 -0000",
-      "tema": "entretenimento",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/10/07/suspeito-que-saiu-do-estado-apos-assalto-a-comercio-e-preso-ao-retornar-a-macapa-video.ghtml",
+      "hora": "Wed, 07 Oct 2026 17:09:36 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Presidente Lula, que concorre à reeleição pelo PT, discute estratégias da campanha no segundo turno em Brasília",
+      "titulo": "OpenAI afirma que novo modelo produziu 377 resultados matemáticos inéditos; entenda",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/06/presidente-lula-que-concorre-a-reeleicao-pelo-pt-discute-estrategias-da-campanha-no-segundo-turno-em-brasilia.ghtml",
-      "hora": "Tue, 06 Oct 2026 23:40:24 -0000",
+      "link": "https://g1.globo.com/educacao/noticia/2026/10/07/openai-resultados-matematicos.ghtml",
+      "hora": "Wed, 07 Oct 2026 17:06:32 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Mãe e adolescente atingidas por árvore que caiu durante ventania lembram desespero: 'Nascemos de novo'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/07/mae-e-adolescente-atingidas-por-arvore-que-caiu-durante-ventania-lembram-desespero-nascemos-de-novo.ghtml",
+      "hora": "Wed, 07 Oct 2026 17:04:13 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Polícia Civil abre inquérito para investigar como criança de 3 anos escapou de creche em Florianópolis",
+      "titulo": "Hotéis para eventos e hospedagem em Foz do Iguaçu",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/06/policia-civil-abre-inquerito-investigar-crianca-3-anos-escapou-creche-florianopolis.ghtml",
-      "hora": "Tue, 06 Oct 2026 23:34:59 -0000",
+      "link": "https://g1.globo.com/pr/parana/especial-publicitario/visit-iguassu/visite-foz-do-iguacu/noticia/2026/10/07/hoteis-para-eventos-e-hospedagem-em-foz-do-iguacu.ghtml",
+      "hora": "Wed, 07 Oct 2026 17:04:11 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Polícia Civil resgata 12 gatos em condições insalubres e de maus-tratos em Conchas",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/07/policia-civil-resgata-12-gatos-em-condicoes-insalubres-e-de-maus-tratos-em-conchas.ghtml",
+      "hora": "Wed, 07 Oct 2026 17:02:27 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Maior coruja do Brasil aparece em apartamento e surpreende moradores de Indaiatuba (SP)",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/10/07/maior-coruja-do-brasil-aparece-em-apartamento-e-surpreende-moradores-de-indaiatuba-sp.ghtml",
+      "hora": "Wed, 07 Oct 2026 17:01:42 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Programa de estágio convoca mais de 2,3 mil universitários para trabalhos na Bahia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/10/07/programa-de-estagio-convoca-mais-de-23-mil-universitarios-para-trabalhos-na-bahia.ghtml",
+      "hora": "Wed, 07 Oct 2026 17:00:17 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Carreta do Exército invade contramão e bate em ônibus escolar em SP; VÍDEO",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/07/carreta-do-exercito-invade-contramao-e-bate-em-onibus-escolar-em-sp-video.ghtml",
+      "hora": "Wed, 07 Oct 2026 17:00:00 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Homens armados invadem UTI e matam paciente em hospital do Amazonas",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/07/homens-armados-invadem-uti-e-matam-paciente-em-hospital-do-amazonas.ghtml",
+      "hora": "Wed, 07 Oct 2026 16:59:52 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: EPTV 1 Sul de Minas de quarta-feira, 7 de outubro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/10/07/videos-eptv-1-sul-de-minas-de-quarta-feira-7-de-outubro-de-2026.ghtml",
+      "hora": "Wed, 07 Oct 2026 16:59:04 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEO: espuma surge em afluente do Rio Jundiaí em Itupeva",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/07/video-espuma-surge-em-afluente-do-rio-jundiai-em-itupeva.ghtml",
+      "hora": "Wed, 07 Oct 2026 16:57:20 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "AO VIVO: Assista ao JAC1 com Murilo Lima",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/ao-vivo/ao-vivo-assista-ao-jac1-com-murilo-lima.ghtml",
+      "hora": "Wed, 07 Oct 2026 16:56:13 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Prefeitura de BH começa a notificar responsáveis por publicidade irregular pelo WhatsApp",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/07/prefeitura-de-bh-comeca-a-notificar-responsaveis-por-publicidade-irregular-pelo-whatsapp.ghtml",
+      "hora": "Wed, 07 Oct 2026 16:55:18 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -248,75 +240,75 @@
       "resumo": null
     },
     {
-      "titulo": "Como o agro-bolsonarismo na Amazônia e no Centro-Oeste equilibrou a disputa com Nordeste lulista, segundo professor de universidade britânica",
+      "titulo": "O que Flávio Bolsonaro quer mudar na Constituição, caso seja eleito com Congresso mais poderoso e conservador?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5vgyl2gk7jyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 06 Oct 2026 16:54:18 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Deputada mais votada de SP apresentou projetos de lei que repetem textos de outros políticos e erra até a própria cidade",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crwyd10307kjo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 06 Oct 2026 22:08:37 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cvglw4627kdlo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 07 Oct 2026 16:13:34 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Mulher condenada à morte nos EUA está consciente após tentativa de execução fracassada, dizem advogados",
+      "titulo": "'Desafio de Flávio é ser presidente de direita normal', avalia economista Samuel Pessôa",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cked39wwg4glo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 06 Oct 2026 21:40:36 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Peste peneumônica: o que se sabe sobre a morte de pesquisadora russa ",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmqxnw3nxn4vo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 06 Oct 2026 20:55:55 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Fim da escala 6x1 vai prejudicar a economia? Exemplos de países europeus e do próprio Brasil indicam que não",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c9861jj5l58o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 06 Oct 2026 16:46:01 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/crn8w7jw76djo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 07 Oct 2026 08:02:07 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "O que são as 'partículas fantasma' que deram Nobel de Física a professor da Bélgica",
+      "titulo": "O que Flávio e Lula propõem sobre a  escala 6x1 ",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6kglr3wy2zgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 06 Oct 2026 13:08:04 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c34g1vgly2deo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 07 Oct 2026 15:22:23 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que a virada de Lula no segundo turno é tão difícil?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6y0enryxv77o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 07 Oct 2026 15:10:04 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O que é o mistério da assimetria da vida que rendeu Nobel de Química a cientistas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq4g17grdy2zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 07 Oct 2026 13:47:52 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "O que se sabe e o que falta definir sobre a participação de Lula e Flávio nos debates do 2º turno",
+      "titulo": "A ansiedade com chegada do Super El Niño em quem já foi vítima de tragédias climáticas: 'Vai ser pior?'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmd93nkj51pgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 06 Oct 2026 21:25:29 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwp84zp54p5lo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 07 Oct 2026 12:47:50 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "O que explica a diferença entre o resultado das urnas e as pesquisas",
+      "titulo": "'Entrevistei Christa Pike há 20 anos e não consigo parar de pensar nela'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq5ynrke17mdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 06 Oct 2026 17:57:25 GMT",
-      "tema": "cultura",
+      "link": "https://www.bbc.com/portuguese/articles/cm3el8z947dgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 07 Oct 2026 08:18:17 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "As propostas dos candidatos à Presidência que disputam o 2º turno",
+      "titulo": "O professor que causa furor entre os adolescentes chineses (e a razão do seu sucesso)",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckq5ne65q14go?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 06 Oct 2026 14:16:53 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cjx2z2wgwg1lo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 07 Oct 2026 09:41:33 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Qual é a composição da nova Câmara dos Deputados: quem ganhou e quem perdeu espaço nas eleições 2026 ",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cw054z5n04e9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 07 Oct 2026 13:40:19 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -328,43 +320,43 @@
       "resumo": null
     },
     {
+      "titulo": "Deputada estadual mais votada de SP apresentou projetos de lei que repetem textos de outros políticos e erra até a própria cidade",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crwyd10307kjo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 22:08:37 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Como o agro-bolsonarismo na Amazônia e no Centro-Oeste equilibrou a disputa com Nordeste lulista, segundo professor de universidade britânica",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c5vgyl2gk7jyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 16:54:18 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "As propostas dos candidatos à Presidência que disputam o 2º turno",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ckq5ne65q14go?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 14:16:53 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Debates no segundo turno: datas, o que se sabe e o que falta definir sobre a participação de Lula e Flávio Bolsonaro",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmd93nkj51pgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 21:25:29 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "Avanço da direita em eleição no Brasil é vitória de Trump? ",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cq8ezl2j0380o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 06 Oct 2026 08:04:06 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Quando é a 1ª rodada de pesquisas e outras datas importantes da reta final da eleição",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck20wgq2p6vxo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 06 Oct 2026 19:15:24 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Projeto do fim da escala 6x1 será derrotado no Senado, mas virará último ativo eleitoral de Lula, avalia historiador",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cxp8gl2zlez7o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 17:44:13 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Ressurgimento de Bolsonaro expõe a fraqueza de Lula, diz jornal econômico mais importante do mundo",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwe9lgvx3mj0o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 06 Oct 2026 11:05:52 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Veja o resultado por estado dos senadores eleitos no domingo",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqj9kjznejp0o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 08:43:32 GMT",
-      "tema": "mundo",
       "resumo": null
     }
   ]
