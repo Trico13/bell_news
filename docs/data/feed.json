@@ -1,130 +1,130 @@
 {
-  "gerado_em": "2026-10-06T16:29:43.657Z",
+  "gerado_em": "2026-10-07T00:21:34.279Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 25,
+    "max": 23.6,
     "min": 16.2,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Resultado das eleições 2026 em Pai Pedro (MG): votação para presidente na Escola Municipal Jose de Alencar (Vila Sudário), na 226ª zona eleitoral",
+      "titulo": "Plenário do TSE vai analisar caso Garotinho nesta quinta e pode definir rumo das eleições no Rio",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-pai-pedro-mg-votacao-para-presidente-na-escola-municipal-jose-de-alencar-vila-sudario-na-226a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 16:27:51 -0000",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/06/plenario-do-tse-vai-analisar-caso-garotinho-nesta-quinta-e-pode-definir-rumo-das-eleicoes-no-rio.ghtml",
+      "hora": "Wed, 07 Oct 2026 00:06:16 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Resultado das eleições 2026 em Cândido de Abreu (PR): como foi a votação nos locais de votação da 106ª Zona Eleitoral",
+      "titulo": "Eleições 2026: número de seções eleitorais com acessibilidade aumenta para receber 40% a mais de eleitores com deficiência",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-candido-de-abreu-pr-como-foi-a-votacao-nos-locais-de-votacao-da-106a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 16:27:49 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/06/eleicoes-2026-numero-de-secoes-eleitorais-com-acessibilidade-aumenta-para-receber-40percent-a-mais-de-eleitores-com-deficiencia.ghtml",
+      "hora": "Wed, 07 Oct 2026 00:04:32 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Mega-Sena, concurso 3067: confira os números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/06/mega-sena-concurso-3067-confira-os-numeros-sorteados.ghtml",
+      "hora": "Wed, 07 Oct 2026 00:03:51 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Dupla é presa com 540 frascos de perfumes importados em rodovia no interior de SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/06/dupla-e-presa-com-540-frascos-de-perfumes-importados-em-rodovia-no-interior-de-sp.ghtml",
+      "hora": "Wed, 07 Oct 2026 00:00:46 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Estátua de Trump nu banhado a ouro é exibida no Parlamento Europeu",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/06/estatua-de-donald-trump-nu-e-exibida-no-parlamento-europeu.ghtml",
+      "hora": "Wed, 07 Oct 2026 00:00:11 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Médica que teve 50% de corpo queimado em explosão de lancha deixa o hospital após sete cirurgias; vídeo",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/10/06/medica-que-teve-50percent-de-corpo-queimado-em-explosao-de-lancha-deixa-o-hospital-apos-sete-cirurgias-video.ghtml",
+      "hora": "Tue, 06 Oct 2026 23:55:34 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Chuva arranca árvores e causa estragos em Goiás; vídeo",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/10/06/chuva-arranca-arvores-e-causa-estragos-em-goias-video.ghtml",
+      "hora": "Tue, 06 Oct 2026 23:54:51 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Flávio Bolsonaro, candidato do PL à Presidência, recebe o apoio de Ronaldo Caiado, do PSD",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/06/flavio-bolsonaro-candidato-do-pl-a-presidencia-recebe-o-apoio-de-ronaldo-caiado-do-psd.ghtml",
+      "hora": "Tue, 06 Oct 2026 23:53:41 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultados das Loterias Caixa",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "hora": "Tue, 06 Oct 2026 23:53:05 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Galeria de esgoto cede, caminhão afunda e atinge carro estacionado em rua de Nova Friburgo: 'Quem paga a conta?'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/06/galeria-de-esgoto-cede-caminhao-afunda-e-atinge-carro-estacionado-em-rua-de-nova-friburgo-quem-paga-a-conta.ghtml",
+      "hora": "Tue, 06 Oct 2026 23:52:17 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Justiça condena ex-vereadora Kátia das Rendeiras por suposto esquema de ‘rachadinha’ em Caruaru",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/10/06/justica-condena-ex-vereadora-katia-das-rendeiras-por-suposto-esquema-de-rachadinha-em-caruaru.ghtml",
+      "hora": "Tue, 06 Oct 2026 23:44:27 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Pichações com símbolos associados ao nazismo são encontradas em prédios da UFSM; caso é investigado pela PF",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/06/simbolos-nazismo-ufsm-santa-maria-rs-investigacao-pf.ghtml",
+      "hora": "Tue, 06 Oct 2026 23:43:48 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Resultado das eleições 2026 em Ilha Solteira (SP): votação para presidente no Em Aparecida Benedita Brito da Silva, na 368ª zona eleitoral",
+      "titulo": "Paraíba elege dois vereadores como deputados estaduais e terá mudanças em Câmaras de João Pessoa e Campina Grande",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ilha-solteira-sp-votacao-para-presidente-no-em-aparecida-benedita-brito-da-silva-na-368a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 16:27:44 -0000",
-      "tema": "cultura",
+      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/06/paraiba-elege-dois-vereadores-como-deputados-estaduais-e-tera-mudancas-em-camaras-de-joao-pessoa-e-campina-grande.ghtml",
+      "hora": "Tue, 06 Oct 2026 23:41:19 -0000",
+      "tema": "entretenimento",
       "resumo": null
     },
     {
-      "titulo": "Resultado das eleições 2026 em Saquarema (RJ): votação para presidente na Escola Municipal Carmem Regina Ferreira de Oliveira, na 62ª zona eleitoral",
+      "titulo": "Presidente Lula, que concorre à reeleição pelo PT, discute estratégias da campanha no segundo turno em Brasília",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-saquarema-rj-votacao-para-presidente-na-escola-municipal-carmem-regina-ferreira-de-oliveira-na-62a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 16:27:43 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultado das eleições 2026 em Altinópolis (SP): votação para presidente no Emefei Ermelinda Rosalina Sammarco de Figueiredo, na 202ª zona eleitoral",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-altinopolis-sp-votacao-para-presidente-no-emefei-ermelinda-rosalina-sammarco-de-figueiredo-na-202a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 16:27:42 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultado das eleições 2026 em Senador La Rocque (MA): votação para presidente na Unidade Escolar Rui Barbosa Ii, na 58ª zona eleitoral",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-senador-la-rocque-ma-votacao-para-presidente-na-unidade-escolar-rui-barbosa-ii-na-58a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 16:27:42 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultado das eleições 2026 em Paragominas (PA): votação para presidente no Emeif Nossa Senhora Aparecida, na 42ª zona eleitoral",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-paragominas-pa-votacao-para-presidente-no-emeif-nossa-senhora-aparecida-na-42a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 16:27:41 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultado das eleições 2026 em Inajá (PE): como foi a votação nos locais de votação da 63ª Zona Eleitoral",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-inaja-pe-como-foi-a-votacao-nos-locais-de-votacao-da-63a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 16:27:41 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/06/presidente-lula-que-concorre-a-reeleicao-pelo-pt-discute-estrategias-da-campanha-no-segundo-turno-em-brasilia.ghtml",
+      "hora": "Tue, 06 Oct 2026 23:40:24 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Resultado das eleições 2026 em Formosa do Rio Preto (BA): como foi a votação nos locais de votação da 187ª Zona Eleitoral",
+      "titulo": "Polícia Civil abre inquérito para investigar como criança de 3 anos escapou de creche em Florianópolis",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-formosa-do-rio-preto-ba-como-foi-a-votacao-nos-locais-de-votacao-da-187a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 16:27:40 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultado das eleições 2026 em Porto dos Gaúchos (MT): votação para presidente na Escola Est.1 e 2 Graus 'Jose Alves Bezerra', na 27ª zona eleitoral",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-porto-dos-gauchos-mt-votacao-para-presidente-na-escola-est-1-e-2-graus-jose-alves-bezerra-na-27a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 16:27:39 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultado das eleições 2026 em Barracão (RS): votação para presidente no Clube Aliança, na 103ª zona eleitoral",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-barracao-rs-votacao-para-presidente-no-clube-alianca-na-103a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 16:27:39 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultado das eleições 2026 em Ponte Branca (MT): votação para presidente na Escola Estadual São Domingos Savio, na 8ª zona eleitoral",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ponte-branca-mt-votacao-para-presidente-na-escola-estadual-sao-domingos-savio-na-8a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 16:27:38 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultado das eleições 2026 em Governador Mangabeira (BA): votação para presidente na Escola Municipal Antônio Gomes Dias, na 131ª zona eleitoral",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-governador-mangabeira-ba-votacao-para-presidente-na-escola-municipal-antonio-gomes-dias-na-131a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 16:27:37 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultado das eleições 2026 em Ipubi (PE): votação para presidente na Escola Paula Sabrina - Anexo da Escola Pedro Vicente, na 133ª zona eleitoral",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ipubi-pe-votacao-para-presidente-na-escola-paula-sabrina-anexo-da-escola-pedro-vicente-na-133a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 16:27:36 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultado das eleições 2026 em Ipubi (PE): votação para presidente na Escola Joaquim Eugenio Silva, na 133ª zona eleitoral",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-ipubi-pe-votacao-para-presidente-na-escola-joaquim-eugenio-silva-na-133a-zona-eleitoral.ghtml",
-      "hora": "Tue, 06 Oct 2026 16:27:36 -0000",
-      "tema": "cultura",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/06/policia-civil-abre-inquerito-investigar-crianca-3-anos-escapou-creche-florianopolis.ghtml",
+      "hora": "Tue, 06 Oct 2026 23:34:59 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -248,10 +248,42 @@
       "resumo": null
     },
     {
-      "titulo": "Avanço da direita em eleição no Brasil é vitória de Trump? ",
+      "titulo": "Como o agro-bolsonarismo na Amazônia e no Centro-Oeste equilibrou a disputa com Nordeste lulista, segundo professor de universidade britânica",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq8ezl2j0380o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 06 Oct 2026 08:04:06 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c5vgyl2gk7jyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 16:54:18 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Deputada mais votada de SP apresentou projetos de lei que repetem textos de outros políticos e erra até a própria cidade",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crwyd10307kjo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 22:08:37 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Mulher condenada à morte nos EUA está consciente após tentativa de execução fracassada, dizem advogados",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cked39wwg4glo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 21:40:36 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Peste peneumônica: o que se sabe sobre a morte de pesquisadora russa ",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmqxnw3nxn4vo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 20:55:55 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Fim da escala 6x1 vai prejudicar a economia? Exemplos de países europeus e do próprio Brasil indicam que não",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c9861jj5l58o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 16:46:01 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -264,50 +296,26 @@
       "resumo": null
     },
     {
-      "titulo": "Flávio Bolsonaro e Lula: as propostas dos candidatos à Presidência que disputam o 2º turno",
+      "titulo": "O que se sabe e o que falta definir sobre a participação de Lula e Flávio nos debates do 2º turno",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmd93nkj51pgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 21:25:29 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O que explica a diferença entre o resultado das urnas e as pesquisas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq5ynrke17mdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 17:57:25 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "As propostas dos candidatos à Presidência que disputam o 2º turno",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/ckq5ne65q14go?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 06 Oct 2026 14:16:53 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Ressurgimento de Bolsonaro expõe a fraqueza de Lula, diz jornal econômico mais importante do mundo",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwe9lgvx3mj0o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 06 Oct 2026 11:05:52 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Pesquisas do 2º turno: quando é a 1ª rodada e outras datas importantes da reta final da eleição 2026",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck20wgq2p6vxo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 06 Oct 2026 15:55:13 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Sem mencionar Flávio, Trump diz que 1º turno 'foi uma grande vitória'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crkg7dj193xdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 06 Oct 2026 15:38:03 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Projeto do fim da escala 6x1 será derrotado no Senado, mas virará último ativo eleitoral de Lula, avalia historiador",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cxp8gl2zlez7o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 17:44:13 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Perda de votos no Nordeste e outros obstáculos de Lula para tentar virada inédita no 2º turno ",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwly3l9rykj5o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 11:36:32 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -320,42 +328,42 @@
       "resumo": null
     },
     {
-      "titulo": "Quem são os senadores eleitos em 2026: veja os resultados por Estado",
+      "titulo": "Avanço da direita em eleição no Brasil é vitória de Trump? ",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq8ezl2j0380o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 08:04:06 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Quando é a 1ª rodada de pesquisas e outras datas importantes da reta final da eleição",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck20wgq2p6vxo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 19:15:24 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Projeto do fim da escala 6x1 será derrotado no Senado, mas virará último ativo eleitoral de Lula, avalia historiador",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cxp8gl2zlez7o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 05 Oct 2026 17:44:13 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Ressurgimento de Bolsonaro expõe a fraqueza de Lula, diz jornal econômico mais importante do mundo",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwe9lgvx3mj0o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 11:05:52 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Veja o resultado por estado dos senadores eleitos no domingo",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cqj9kjznejp0o?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 05 Oct 2026 08:43:32 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Como PL e Michelle Bolsonaro contribuíram com bancada feminina recorde na Câmara",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6d938105009o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 20:00:35 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "A multiplicação de 'Nikolas': a 'fórmula' por trás das votações históricas de deputados do PL",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c32l4nxgpvq2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 19:04:46 GMT",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "O que está por trás da euforia do mercado com vantagem de Flávio Bolsonaro no 1º turno",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c933xvxj7dryo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 17:44:32 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Os maiores vencedores e os maiores perdedores do primeiro turno das eleições 2026",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6x2w5x2egd8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 05 Oct 2026 04:27:19 GMT",
       "tema": "mundo",
       "resumo": null
     }
