@@ -1,121 +1,129 @@
 {
-  "gerado_em": "2026-10-07T17:15:16.793Z",
+  "gerado_em": "2026-10-08T00:42:27.471Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 25.1,
-    "min": 16.4,
+    "max": 25.2,
+    "min": 16.9,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Lula defende PEC da Segurança e diz que lema da campanha é: 'Para o povo trabalhador, proteção; para o bandido, prisão'",
+      "titulo": "Com até 80% de superlotação, abrigos para crianças em Campo Grande têm falta de camas, cuidadores e itens de higiene",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/07/lula-defende-pec-da-seguranca-e-diz-que-lema-da-campanha-e-para-o-povo-trabalhador-protecao-para-o-bandido-prisao.ghtml",
-      "hora": "Wed, 07 Oct 2026 17:10:02 -0000",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/07/com-ate-80percent-de-superlotacao-abrigos-para-criancas-em-campo-grande-tem-falta-de-camas-cuidadores-e-itens-de-higiene.ghtml",
+      "hora": "Thu, 08 Oct 2026 00:36:51 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem é preso com drogas em Volta Redonda",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/07/homem-e-preso-com-drogas-em-volta-redonda.ghtml",
+      "hora": "Thu, 08 Oct 2026 00:34:59 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Suspeito que saiu do estado após assalto a comércio é preso ao retornar a Macapá; VÍDEO",
+      "titulo": "Suspeito que oferecia dinheiro por sexo com adolescentes é preso no AP após pai olhar celular do filho",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/10/07/suspeito-que-saiu-do-estado-apos-assalto-a-comercio-e-preso-ao-retornar-a-macapa-video.ghtml",
-      "hora": "Wed, 07 Oct 2026 17:09:36 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "OpenAI afirma que novo modelo produziu 377 resultados matemáticos inéditos; entenda",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/educacao/noticia/2026/10/07/openai-resultados-matematicos.ghtml",
-      "hora": "Wed, 07 Oct 2026 17:06:32 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Mãe e adolescente atingidas por árvore que caiu durante ventania lembram desespero: 'Nascemos de novo'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/07/mae-e-adolescente-atingidas-por-arvore-que-caiu-durante-ventania-lembram-desespero-nascemos-de-novo.ghtml",
-      "hora": "Wed, 07 Oct 2026 17:04:13 -0000",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/10/07/suspeito-que-oferecia-dinheiro-por-sexo-com-adolescentes-e-preso-no-ap-apos-pai-olhar-celular-do-filho.ghtml",
+      "hora": "Thu, 08 Oct 2026 00:33:26 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Hotéis para eventos e hospedagem em Foz do Iguaçu",
+      "titulo": "Lagoa Santa suspende aulas em toda a rede municipal após surto de sarna",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pr/parana/especial-publicitario/visit-iguassu/visite-foz-do-iguacu/noticia/2026/10/07/hoteis-para-eventos-e-hospedagem-em-foz-do-iguacu.ghtml",
-      "hora": "Wed, 07 Oct 2026 17:04:11 -0000",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/07/lagoa-santa-suspende-aulas-em-toda-a-rede-municipal-apos-surto-de-sarna.ghtml",
+      "hora": "Thu, 08 Oct 2026 00:30:39 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Polícia do DF prende quadrilha que vendia kits do golpe do falso parente; veja como não ser vítima",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/07/policia-do-df-prende-quadrilha-que-vendia-kits-do-golpe-do-falso-parente-veja-como-nao-ser-vitima.ghtml",
+      "hora": "Thu, 08 Oct 2026 00:26:05 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Polícia Civil resgata 12 gatos em condições insalubres e de maus-tratos em Conchas",
+      "titulo": "Prefeitos que deixaram cargos para disputar eleição não conseguem ser eleitos no Acre; saiba quais",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/07/policia-civil-resgata-12-gatos-em-condicoes-insalubres-e-de-maus-tratos-em-conchas.ghtml",
-      "hora": "Wed, 07 Oct 2026 17:02:27 -0000",
+      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/07/prefeitos-que-deixaram-cargos-para-disputar-eleicao-nao-conseguem-ser-eleitos-no-acre-saiba-quais.ghtml",
+      "hora": "Thu, 08 Oct 2026 00:25:46 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO desta quarta-feira, 7 de outubro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-desta-quarta-feira-7-de-outubro-de-2026.ghtml",
+      "hora": "Thu, 08 Oct 2026 00:22:31 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Maior coruja do Brasil aparece em apartamento e surpreende moradores de Indaiatuba (SP)",
+      "titulo": "Missa de 7º dia de estudante de medicina morto em briga de trânsito reúne estudantes, amigos e familiares em Taubaté",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/10/07/maior-coruja-do-brasil-aparece-em-apartamento-e-surpreende-moradores-de-indaiatuba-sp.ghtml",
-      "hora": "Wed, 07 Oct 2026 17:01:42 -0000",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/07/missa-de-7o-dia-de-estudante-de-medicina-morto-em-briga-de-transito-reune-estudantes-amigos-e-familiares-em-taubate.ghtml",
+      "hora": "Thu, 08 Oct 2026 00:21:37 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Programa de estágio convoca mais de 2,3 mil universitários para trabalhos na Bahia",
+      "titulo": "Justiça de São Paulo condena torcedor do Corinthians pela morte de um palmeirense há 14 anos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/10/07/programa-de-estagio-convoca-mais-de-23-mil-universitarios-para-trabalhos-na-bahia.ghtml",
-      "hora": "Wed, 07 Oct 2026 17:00:17 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/07/justica-de-sao-paulo-condena-torcedor-do-corinthians-pela-morte-de-um-palmeirense-ha-14-anos.ghtml",
+      "hora": "Thu, 08 Oct 2026 00:16:47 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Policial militar é morta a tiros dentro de carro em Imperatriz",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/10/07/policial-militar-e-morta-a-tiros-dentro-de-carro-em-imperatriz.ghtml",
+      "hora": "Thu, 08 Oct 2026 00:10:45 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Carreta do Exército invade contramão e bate em ônibus escolar em SP; VÍDEO",
+      "titulo": "Presidente Lula, candidato à reeleição pelo PT, se reúne com jovens eleitos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/07/carreta-do-exercito-invade-contramao-e-bate-em-onibus-escolar-em-sp-video.ghtml",
-      "hora": "Wed, 07 Oct 2026 17:00:00 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/07/presidente-lula-candidato-a-reeleicao-pelo-pt-se-reune-com-jovens-eleitos.ghtml",
+      "hora": "Thu, 08 Oct 2026 00:07:53 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Flávio Bolsonaro, candidato do PL à Presidência, recebe apoio do Novo e do Republicanos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/07/flavio-bolsonaro-candidato-do-pl-a-presidencia-recebe-apoio-do-novo-e-do-republicanos.ghtml",
+      "hora": "Thu, 08 Oct 2026 00:07:26 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "'Tristeza para a família', diz tio de indígena que morreu eletrocutado enquanto colhia mangas no Acre",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/10/07/tristeza-para-a-familia-diz-tio-de-indigena-que-morreu-eletrocutado-enquanto-colhia-mangas-no-acre.ghtml",
+      "hora": "Thu, 08 Oct 2026 00:07:03 -0000",
+      "tema": "checagem",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleição mostra força de candidatos influencers na Grande SP, mas também mantém redutos regionais na Câmara e na Alesp",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/07/eleicao-mostra-forca-de-candidatos-influencers-na-grande-sp-mas-tambem-mantem-redutos-regionais-na-camara-e-na-alesp.ghtml",
+      "hora": "Thu, 08 Oct 2026 00:05:20 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Homens armados invadem UTI e matam paciente em hospital do Amazonas",
+      "titulo": "MP denuncia por homicídio qualificado motorista de carro que matou jovem em Cuiabá",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/07/homens-armados-invadem-uti-e-matam-paciente-em-hospital-do-amazonas.ghtml",
-      "hora": "Wed, 07 Oct 2026 16:59:52 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: EPTV 1 Sul de Minas de quarta-feira, 7 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/10/07/videos-eptv-1-sul-de-minas-de-quarta-feira-7-de-outubro-de-2026.ghtml",
-      "hora": "Wed, 07 Oct 2026 16:59:04 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEO: espuma surge em afluente do Rio Jundiaí em Itupeva",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/07/video-espuma-surge-em-afluente-do-rio-jundiai-em-itupeva.ghtml",
-      "hora": "Wed, 07 Oct 2026 16:57:20 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "AO VIVO: Assista ao JAC1 com Murilo Lima",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/ao-vivo/ao-vivo-assista-ao-jac1-com-murilo-lima.ghtml",
-      "hora": "Wed, 07 Oct 2026 16:56:13 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Prefeitura de BH começa a notificar responsáveis por publicidade irregular pelo WhatsApp",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/07/prefeitura-de-bh-comeca-a-notificar-responsaveis-por-publicidade-irregular-pelo-whatsapp.ghtml",
-      "hora": "Wed, 07 Oct 2026 16:55:18 -0000",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/07/mp-denuncia-por-homicidio-qualificado-motorista-de-carro-que-matou-jovem-em-cuiaba.ghtml",
+      "hora": "Thu, 08 Oct 2026 00:04:32 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -240,10 +248,50 @@
       "resumo": null
     },
     {
-      "titulo": "O que Flávio Bolsonaro quer mudar na Constituição, caso seja eleito com Congresso mais poderoso e conservador?",
+      "titulo": "O que Flávio Bolsonaro quer mudar na Constituição, caso seja eleito com Congresso mais conservador?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cvglw4627kdlo?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 07 Oct 2026 16:13:34 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Quais são as propostas de Flávio Bolsonaro e de Lula sobre a escala 6x1",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c34g1vgly2deo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 07 Oct 2026 15:22:23 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Eduarda Campopiano erra até a própria cidade em projetos de lei que repetem textos de outros políticos",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crwyd10307kjo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 22:08:37 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Morre idosa que foi despejada e provocou onda de protestos na Espanha",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmvgxr52xjw2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 07 Oct 2026 19:56:05 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "O que é a peste pneumônica e como ela se espalha?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c3j479x2lwg2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 07 Oct 2026 17:31:32 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Clique aqui",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 04 Oct 2026 19:15:47 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -256,35 +304,43 @@
       "resumo": null
     },
     {
-      "titulo": "O que Flávio e Lula propõem sobre a  escala 6x1 ",
+      "titulo": "Como o agro-bolsonarismo na Amazônia e no Centro-Oeste equilibrou a disputa com Nordeste lulista, segundo professor de universidade britânica",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c34g1vgly2deo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 07 Oct 2026 15:22:23 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que a virada de Lula no segundo turno é tão difícil?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6y0enryxv77o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 07 Oct 2026 15:10:04 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "O que é o mistério da assimetria da vida que rendeu Nobel de Química a cientistas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq4g17grdy2zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 07 Oct 2026 13:47:52 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c5vgyl2gk7jyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 16:54:18 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "A ansiedade com chegada do Super El Niño em quem já foi vítima de tragédias climáticas: 'Vai ser pior?'",
+      "titulo": "Flávio Bolsonaro e Lula: as propostas dos candidatos à Presidência que disputam o 2º turno",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwp84zp54p5lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 07 Oct 2026 12:47:50 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/ckq5ne65q14go?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 14:16:53 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Quem ganhou e quem perdeu espaço com a nova composição da Câmara dos Deputados",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cw054z5n04e9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 07 Oct 2026 13:40:19 GMT",
       "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Flávio Bolsonaro e Lula: as propostas dos candidatos à Presidência que disputam o 2º turno",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ckq5ne65q14go?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 14:16:53 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Fim da escala 6x1 vai prejudicar a economia? Exemplos de países europeus e do próprio Brasil indicam que não",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c9861jj5l58o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 06 Oct 2026 16:46:01 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -304,59 +360,11 @@
       "resumo": null
     },
     {
-      "titulo": "Qual é a composição da nova Câmara dos Deputados: quem ganhou e quem perdeu espaço nas eleições 2026 ",
+      "titulo": "O que a BBC viu na linha de frente da guerra no Iêmen, o conflito que ameaça a segurança energética do mundo",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw054z5n04e9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 07 Oct 2026 13:40:19 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c69qr8zwd573o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 07 Oct 2026 19:17:01 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Clique aqui",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 04 Oct 2026 19:15:47 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Deputada estadual mais votada de SP apresentou projetos de lei que repetem textos de outros políticos e erra até a própria cidade",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crwyd10307kjo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 06 Oct 2026 22:08:37 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Como o agro-bolsonarismo na Amazônia e no Centro-Oeste equilibrou a disputa com Nordeste lulista, segundo professor de universidade britânica",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5vgyl2gk7jyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 06 Oct 2026 16:54:18 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "As propostas dos candidatos à Presidência que disputam o 2º turno",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckq5ne65q14go?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 06 Oct 2026 14:16:53 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Debates no segundo turno: datas, o que se sabe e o que falta definir sobre a participação de Lula e Flávio Bolsonaro",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmd93nkj51pgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 06 Oct 2026 21:25:29 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Avanço da direita em eleição no Brasil é vitória de Trump? ",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq8ezl2j0380o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 06 Oct 2026 08:04:06 GMT",
-      "tema": "brasil",
       "resumo": null
     }
   ]
