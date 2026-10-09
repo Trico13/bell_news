@@ -1,122 +1,122 @@
 {
-  "gerado_em": "2026-10-08T17:11:42.559Z",
+  "gerado_em": "2026-10-09T00:58:30.138Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 29,
+    "max": 30,
     "min": 15.9,
-    "chuva": 2
+    "chuva": 12
   },
   "noticias": [
     {
-      "titulo": "Influenciadora é suspeita de liderar tráfico de cocaína em cidade do Paraná",
+      "titulo": "Estudantes voltam às ruas na França em protestos por melhores condições no ensino público",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/10/08/operacao-trafico-umuarama.ghtml",
-      "hora": "Thu, 08 Oct 2026 17:07:11 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/08/estudantes-voltam-as-ruas-na-franca-em-protestos-por-melhores-condicoes-no-ensino-publico.ghtml",
+      "hora": "Fri, 09 Oct 2026 00:50:30 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Batalha em Paris: VÍDEO mostra confronto entre policiais e estudantes durante protestos pela educação",
+      "titulo": "Prefeito e vice de Campinas vão às redes sociais e declaram apoios diferentes no 2º turno para presidente",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/08/batalha-em-paris-video-mostra-confronto-entre-policiais-e-estudantes-durante-protestos-pela-educacao.ghtml",
-      "hora": "Thu, 08 Oct 2026 17:07:00 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/10/08/prefeito-e-vice-de-campinas-vao-as-redes-sociais-e-declaram-apoios-diferentes-no-2o-turno-para-presidente.ghtml",
+      "hora": "Fri, 09 Oct 2026 00:46:55 -0000",
+      "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Nas redes, Lula celebra Dia do Nordestino e diz que, se Flávio for eleito, cortará Pé-de-Meia e outros programas sociais",
+      "titulo": "MP ajuíza ação contra Município de Salvador para cobrar ações contra 'práticas abusivas' dos ambulantes nas praias",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/nas-redes-lula-celebra-dia-do-nordestino-e-diz-que-se-flavio-for-eleito-cortara-pe-de-meia-e-outros-programas-sociais.ghtml",
-      "hora": "Thu, 08 Oct 2026 17:06:30 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Liberal",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
-      "hora": "Thu, 08 Oct 2026 17:04:38 -0000",
+      "link": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/10/08/mp-ba-vai-a-justica-contra-assedio-e-precos-abusivos-de-ambulantes-no-porto-da-barra.ghtml",
+      "hora": "Fri, 09 Oct 2026 00:45:11 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: EPTV 1 Sul de Minas de quinta-feira, 8 de outubro de 2026",
+      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO desta quinta-feira, 8 de outubro de 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/10/08/videos-eptv-1-sul-de-minas-de-quinta-feira-8-de-outubro-de-2026.ghtml",
-      "hora": "Thu, 08 Oct 2026 17:04:01 -0000",
+      "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-desta-quinta-feira-8-de-outubro-de-2026.ghtml",
+      "hora": "Fri, 09 Oct 2026 00:44:40 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição-TO desta quinta-feira, 8 de outubro de 2026",
+      "titulo": "Motociclista fica ferido após carro invadir preferencial em Rorainópolis",
       "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-1-edicao-to-desta-quinta-feira-8-de-outubro-de-2026.ghtml",
-      "hora": "Thu, 08 Oct 2026 17:00:46 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem é o jovem assassinado em Palmas enquanto voltava para casa após deixar pai em estação de ônibus",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/10/08/quem-e-o-jovem-assassinado-em-palmas-enquanto-voltava-para-casa-apos-deixar-pai-em-estacao-de-onibus.ghtml",
-      "hora": "Thu, 08 Oct 2026 17:00:13 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Abastecimento de água pode ser interrompido em bairros da Zona Sul de Teresina neste fim de semana; veja quais",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/10/08/abastecimento-agua-interrompido-teresina.ghtml",
-      "hora": "Thu, 08 Oct 2026 16:59:57 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Mãe é suspeita de orquestrar 'tribunal do crime' contra adolescentes para vingar morte de filha em MS",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/08/mae-e-suspeita-de-orquestrar-tribunal-do-crime-contra-adolescentes-para-vingar-morte-de-filha-em-ms.ghtml",
-      "hora": "Thu, 08 Oct 2026 16:59:51 -0000",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/10/08/motociclista-fica-ferido-apos-carro-invadir-preferencial-em-rorainopolis.ghtml",
+      "hora": "Fri, 09 Oct 2026 00:43:25 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Gato é abandonado no meio da rua, sob chuva e quase acaba atropelado em Piracicaba; VÍDEO",
+      "titulo": "Ministério Público de Contas pede investigação sobre atuação do governo no combate a queimadas no Amazonas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/08/gato-e-abandonado-no-meio-da-rua-sob-chuva-e-quase-acaba-atropelado-em-piracicaba-video.ghtml",
-      "hora": "Thu, 08 Oct 2026 16:59:48 -0000",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/08/ministerio-publico-de-contas-pede-investigacao-sobre-atuacao-do-governo-no-combate-a-queimadas-no-amazonas.ghtml",
+      "hora": "Fri, 09 Oct 2026 00:37:26 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Criança de 1 ano se afoga e é entubada após carro cair de ponte em Sorriso (MT)",
+      "titulo": "Tiririca grava vídeo sobre derrota nas eleições no Ceará: 'Acho que brinquei muito'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/08/crianca-de-1-ano-se-afoga-e-e-entubada-apos-carro-cair-de-ponte-em-sorriso-mt.ghtml",
-      "hora": "Thu, 08 Oct 2026 16:57:04 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/08/tiririca-grava-video-sobre-derrota-nas-eleicoes-no-ceara-acho-que-brinquei-muito.ghtml",
+      "hora": "Fri, 09 Oct 2026 00:37:13 -0000",
+      "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Caminhão boiadeiro bate em árvore e pega fogo na MGC-122, em Janaúba",
+      "titulo": "Cury diz que apoio a Flávio Bolsonaro não é 'cheque em branco': 'Eu e todo o povo brasileiro iremos cobrar'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/08/caminhao-boiadeiro-bate-em-arvore-e-pega-fogo-na-mgc-122-em-janauba.ghtml",
-      "hora": "Thu, 08 Oct 2026 16:56:45 -0000",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/10/08/cury-diz-que-apoio-a-flavio-bolsonaro-nao-e-cheque-em-branco-eu-e-todo-o-povo-brasileiro-iremos-cobrar.ghtml",
+      "hora": "Fri, 09 Oct 2026 00:35:57 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Homem é condenado a 14 anos de prisão por mandar matar mecânico para ficar com o seguro de vida dele",
+      "titulo": "Jacaré dá bote em cachorro, que desaparece na água em lago no TO; VÍDEO",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/08/homem-acusado-de-mandar-matar-mecanico-para-ficar-com-seguro-de-vida-dele-e-condenado-a-14-anos-de-prisao-em-sao-roque.ghtml",
-      "hora": "Thu, 08 Oct 2026 16:56:27 -0000",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/10/08/jacare-da-bote-em-cachorro-que-desaparece-na-agua-em-lago-no-to-video.ghtml",
+      "hora": "Fri, 09 Oct 2026 00:35:44 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "EUA barram Microsoft e outras big techs de contratar estrangeiros por programa que leva ao green card; veja lista ",
+      "titulo": "TSE anula votos dados a Garotinho na eleição para governador do Rio",
       "fonte": "G1",
-      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/08/eua-big-techs-contratar-estrangeiros-programa-green-card.ghtml",
-      "hora": "Thu, 08 Oct 2026 16:52:20 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/08/tse-anula-votos-dados-a-garotinho-na-eleicao-para-governador-do-rio.ghtml",
+      "hora": "Fri, 09 Oct 2026 00:33:47 -0000",
       "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultados das Loterias Caixa",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "hora": "Fri, 09 Oct 2026 00:32:49 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Timemania hoje: resultado do concurso 2451 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/timemania/noticia/2026/10/08/timemania-hoje-resultado-do-concurso-2451-e-numeros-sorteados.ghtml",
+      "hora": "Fri, 09 Oct 2026 00:31:03 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Loteria Federal hoje: resultado do concurso 6107 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/loteria-federal/noticia/2026/10/08/loteria-federal-hoje-resultado-do-concurso-6107-e-numeros-sorteados.ghtml",
+      "hora": "Fri, 09 Oct 2026 00:30:59 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Dia de Sorte hoje: resultado do concurso 1312 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/10/08/dia-de-sorte-hoje-resultado-do-concurso-1312-e-numeros-sorteados-1.ghtml",
+      "hora": "Fri, 09 Oct 2026 00:30:54 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -240,6 +240,14 @@
       "resumo": null
     },
     {
+      "titulo": "Grupo de dança de crianças africanas que fez vídeo pró-Flávio Bolsonaro promete devolver criptomoedas recebidas por apoio",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cjzxl549wr3xo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 09 Oct 2026 00:06:04 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Quem está à frente nas pesquisas para presidente no 2º turno das Eleições 2026? Veja Lula x Flávio Bolsonaro no agregador da BBC",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
@@ -248,19 +256,19 @@
       "resumo": null
     },
     {
-      "titulo": "Por que Douglas Ruas pode ganhar eleição para governador do Rio quatro dias depois do 1º turno",
+      "titulo": "Fuzilamento de ex-militar condenado à morte será transmitido ao vivo nos EUA, anuncia Pentágono",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c8zxl5365315o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 08 Oct 2026 15:33:15 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c6wydpqexn5do?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 08 Oct 2026 23:29:10 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Bolsonarismo se fortaleceu tanto que não precisa mais dos militares, diz especialista em Forças Armadas",
+      "titulo": "A fúria de estudantes que ocupam as ruas da França em protesto: 'Ficamos sem professores por semanas'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmqxn8w7l3ryo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 08 Oct 2026 07:29:12 GMT",
-      "tema": "cultura",
+      "link": "https://www.bbc.com/portuguese/articles/c6m24vx9x2ydo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 08 Oct 2026 18:51:07 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -277,6 +285,14 @@
       "link": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 04 Oct 2026 19:15:47 GMT",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que Douglas Ruas pode ganhar eleição para governador do Rio quatro dias depois do 1º turno",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c8zxl5365315o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 08 Oct 2026 23:47:36 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -300,14 +316,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c34g1vgly2deo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 08 Oct 2026 10:07:50 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "'Desafio de Flávio é ser presidente de direita normal', avalia economista Samuel Pessôa",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crn8w7jw76djo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 07 Oct 2026 08:02:07 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -340,14 +348,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmvgxr52xjw2o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 07 Oct 2026 19:56:05 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "O professor que causa furor entre os adolescentes chineses (e a razão do seu sucesso)",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjx2z2wgwg1lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 07 Oct 2026 09:41:33 GMT",
       "tema": "mundo",
       "resumo": null
     }
