@@ -1,114 +1,122 @@
 {
-  "gerado_em": "2026-10-12T00:13:42.121Z",
+  "gerado_em": "2026-10-12T19:37:12.556Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 25.5,
-    "min": 17.3,
-    "chuva": 100
+    "max": 24.9,
+    "min": 17.2,
+    "chuva": 97
   },
   "noticias": [
     {
-      "titulo": "Comércio da Baixada Santista espera vender 5% mais no Dia das Crianças",
+      "titulo": "Acidente deixa nove feridos na MG-126, quatro em estado grave",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/11/comercio-da-baixada-santista-espera-vender-5percent-mais-no-dia-das-criancas.ghtml",
-      "hora": "Sun, 11 Oct 2026 23:45:04 -0000",
+      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/12/acidente-deixa-nove-feridos-na-mg-126-quatro-em-estado-grave.ghtml",
+      "hora": "Mon, 12 Oct 2026 19:22:38 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Houthis anunciam novo ataque a aeroporto de Riade; governo saudita diz que destruiu míssil",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/12/houthis-anunciam-novo-ataque-a-aeroporto-de-riade-governo-saudita-diz-que-destruiu-missil.ghtml",
+      "hora": "Mon, 12 Oct 2026 19:22:26 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "'Ratos de biblioteca': na era digital, leitores mantêm paixão por livros físicos em acervos públicos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/12/ratos-de-biblioteca-na-era-digital-leitores-mantem-paixao-por-livros-fisicos-em-acervos-publicos.ghtml",
+      "hora": "Mon, 12 Oct 2026 19:20:38 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Policial de folga atira em filho que atacava pai com faca no interior do Ceará",
+      "titulo": "Capela das Velas e Sala das Promessas recebem devotos no Dia de Nossa Senhora Aparecida; veja vídeo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/10/11/policial-de-folga-atira-em-filho-que-atacava-pai-com-faca-no-interior-do-ceara.ghtml",
-      "hora": "Sun, 11 Oct 2026 23:40:52 -0000",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/festa-da-padroeira/noticia/2026/10/12/capela-das-velas-e-sala-das-promessas-recebem-devotos-no-dia-de-nossa-senhora-aparecida-veja-video.ghtml",
+      "hora": "Mon, 12 Oct 2026 19:20:35 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Chuva forte causa alagamentos, queda de árvore e danos em supermercado em Cosmópolis",
+      "titulo": "IFS está com 1300 vagas abertas para cursos técnicos integrados; saiba como se inscrever",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/11/chuva-forte-causa-alagamentos-queda-de-arvore-e-danos-em-supermercado-em-cosmopolis.ghtml",
-      "hora": "Sun, 11 Oct 2026 23:34:52 -0000",
+      "link": "https://g1.globo.com/se/sergipe/noticia/2026/10/12/ifs-esta-com-1300-vagas-abertas-para-cursos-tecnicos-integrados-saiba-como-se-inscrever.ghtml",
+      "hora": "Mon, 12 Oct 2026 19:18:26 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Procissão no Rio Tietê reúne fiéis em embarcações durante celebração a Nossa Senhora Aparecida em Boracéia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/12/procissao-no-rio-tiete-reune-fieis-em-embarcacoes-durante-celebracao-a-nossa-senhora-aparecida-em-boraceia.ghtml",
+      "hora": "Mon, 12 Oct 2026 19:13:49 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Bell Marques se declara no primeiro Dia das Crianças da neta: 'Trouxe um amor tão grande'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/12/bell-marques-se-declara-no-primeiro-dia-das-criancas-da-neta.ghtml",
+      "hora": "Mon, 12 Oct 2026 19:07:49 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "'Milagre', diz mãe que escapou com filho de queda de muro de escola em Jardinópolis, SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/12/milagre-diz-mae-que-escapou-com-filho-de-queda-de-muro-de-escola-em-jardinopolis-sp.ghtml",
+      "hora": "Mon, 12 Oct 2026 19:06:50 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Motociclista entra na contramão, bate em carro estacionado e foge em Ribeirão Preto, SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/12/motociclista-entra-na-contramao-bate-em-carro-estacionado-e-foge-em-ribeirao-preto-sp.ghtml",
+      "hora": "Mon, 12 Oct 2026 19:06:18 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Carreta tomba e interdita alça de acesso em rodovia de Campinas",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/12/carreta-tomba-e-interdita-alca-de-acesso-em-rodovia-de-campinas.ghtml",
+      "hora": "Mon, 12 Oct 2026 19:04:30 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Menino autista de 8 anos é encontrado morto em rio após 3 dias de buscas em SC",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/12/menino-autista-desaparecido-encontrado-morto-rio-3-dias-buscas-sc.ghtml",
+      "hora": "Mon, 12 Oct 2026 19:04:18 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'Eu devia ter te falado te amo mais vezes', diz irmã de jovem morto com 27 tiros disparados pela PM em homenagem nas redes sociais",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/12/eu-devia-ter-te-falado-te-amo-mais-vezes-diz-irma-de-jovem-morto-com-27-tiros-disparados-pela-pm-em-homenagem-nas-redes-sociais.ghtml",
+      "hora": "Mon, 12 Oct 2026 19:03:00 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Dia de Nossa Senhora Aparecida: confira os horários das missas e procissões em MT",
+      "titulo": "Jovem morre afogado na Prainha de Mambucaba em Paraty",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/11/dia-de-nossa-senhora-aparecida-confira-os-horarios-das-missas-e-procissoes-em-mt.ghtml",
-      "hora": "Sun, 11 Oct 2026 23:24:36 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Suspeito morre e outro é baleado após policial reagir a assalto no interior do Ceará",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/10/11/suspeito-morre-e-outro-e-baleado-apos-policial-reagir-a-assalto-no-interior-do-ceara.ghtml",
-      "hora": "Sun, 11 Oct 2026 23:17:15 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Morre Edson Silva, ator de ‘Laços de Família’ e dublador",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/noticia/2026/10/11/morre-edson-silva-ator-de-lacos-de-familia-e-dublador.ghtml",
-      "hora": "Sun, 11 Oct 2026 23:10:00 -0000",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/12/jovem-morre-afogado-na-prainha-de-mambucaba-em-paraty.ghtml",
+      "hora": "Mon, 12 Oct 2026 19:01:20 -0000",
       "tema": "entretenimento",
       "resumo": null
     },
     {
-      "titulo": "Incêndio em subestação de energia elétrica é apagado após três horas de trabalho dos bombeiros; alguns bairros seguem afetados",
+      "titulo": "Crianças fazem ‘cabelo do devoto’ e recriam histórias bíblicas em penteados em homenagem à padroeira do Brasil",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/11/incendio-em-subestacao-de-energia-controlado.ghtml",
-      "hora": "Sun, 11 Oct 2026 23:09:05 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Dia de Nossa Senhora Aparecida: veja a programação nas igrejas do Rio",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/11/dia-de-nossa-senhora-aparecida-veja-a-programacao-nas-igrejas-do-rio.ghtml",
-      "hora": "Sun, 11 Oct 2026 23:03:38 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Festival de churrasco tem shows de rock e entrada grátis em Praia Grande",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/o-que-fazer-em-santos/noticia/2026/10/11/festival-de-churrasco-tem-shows-de-rock-e-entrada-gratis-em-praia-grande.ghtml",
-      "hora": "Sun, 11 Oct 2026 23:00:00 -0000",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/12/criancas-fazem-cabelo-do-devoto-e-recriam-historias-biblicas-em-penteados-em-homenagem-a-padroeira-do-brasil.ghtml",
+      "hora": "Mon, 12 Oct 2026 19:01:05 -0000",
       "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Motociclista morre após colidir em muro próximo ao Socorrão II, na Grande São Luís",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/10/11/motociclista-morre-apos-colidir-em-muro-proximo-ao-socorrao-ii-na-grande-sao-luis.ghtml",
-      "hora": "Sun, 11 Oct 2026 22:53:57 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem invade quarto da ex e esfaqueia atual companheiro dela enquanto casal dormia em MT",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/11/homem-invade-quarto-da-ex-e-esfaqueia-atual-companheiro-dela-enquanto-casal-dormia-em-mt.ghtml",
-      "hora": "Sun, 11 Oct 2026 22:47:48 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Dia das Crianças: confira a programação gratuita na Grande Vitória nesta segunda-feira (12)",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/11/dia-das-criancas-confira-a-programacao-gratuita-na-grande-vitoria-nesta-segunda-feira-12.ghtml",
-      "hora": "Sun, 11 Oct 2026 22:29:30 -0000",
-      "tema": "entretenimento",
-      "resumo": null
-    },
-    {
-      "titulo": "Em dia de maior movimento, 24 mil romeiros passam pela Via Dutra a caminho de Aparecida neste domingo, diz PRF",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/11/em-dia-de-maior-movimento-24-mil-romeiros-passam-pela-via-dutra-a-caminho-de-aparecida-neste-domingo-diz-prf.ghtml",
-      "hora": "Sun, 11 Oct 2026 22:28:54 -0000",
-      "tema": "mundo",
       "resumo": null
     },
     {
@@ -232,34 +240,42 @@
       "resumo": null
     },
     {
-      "titulo": "Corredor Andes-Atlântico: o que se sabe sobre o ambicioso projeto dos EUA para acessar recursos estratégicos da Argentina (e competir com a China)",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmp30v645lz2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 11 Oct 2026 17:16:29 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "O que se sabe sobre o vaivém de decisões da Justiça Eleitoral sobre o canal de WhatsApp 'Exército de Lula'",
+      "titulo": "'Exército de Lula' no WhatsApp: TSE não encontra notícias falsas apontadas por campanha de Flavio Bolsonaro",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cwn8dre9yg7no?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 11 Oct 2026 23:37:53 GMT",
+      "hora": "Mon, 12 Oct 2026 19:08:47 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "A nova onda de protestos de jovens do movimento das 'baratas' na Índia em imagens",
+      "titulo": "Flávio Bolsonaro aparece 4 pontos à frente de Lula na disputa do 2º turno no agregador da BBC",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwp9gy84my15o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 11 Oct 2026 20:12:14 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 12 Oct 2026 15:43:08 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O que Flávio Bolsonaro e Lula propõem sobre concursos públicos e o funcionalismo",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6ev3gn2k39zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 12 Oct 2026 08:16:33 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que Alexandre de Moraes decidiu autorizar visitas de Flávio a Jair Bolsonaro após 3 meses de proibição",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cjly0z0kldqxo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 12 Oct 2026 14:02:47 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "'A Casa dos Segredos': a luxuosa mansão usada pelo Reino Unido para espionar generais nazistas e que mudou a história da 2ª Guerra Mundial",
+      "titulo": "Americanos vencem Nobel de Economia por modelo para entender decisões de famílias e empresas",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crpd0g8dzqjdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 11 Oct 2026 18:53:36 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c5j9k2ke2e4mo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 12 Oct 2026 12:59:49 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -272,14 +288,6 @@
       "resumo": null
     },
     {
-      "titulo": "Douglas Ruas é eleito governador do Rio em 1º turno após TRE retotalizar votos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmzxlkzdk592o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 10 Oct 2026 18:52:37 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
       "titulo": "Como Jair Bolsonaro quase conseguiu em 2022 a virada que Lula almeja no 2º turno",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cw23dnmk9v9po?at_medium=RSS&at_campaign=rss",
@@ -288,27 +296,59 @@
       "resumo": null
     },
     {
-      "titulo": "Quem está à frente nas pesquisas para presidente no 2º turno das Eleições 2026? Veja Lula x Flávio Bolsonaro no agregador da BBC",
+      "titulo": "O peso do agro na urna explica a geografia do voto no 1º turno, segundo economista da Universidade de Londres",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 09 Oct 2026 13:33:27 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c5vgyl2gk7jyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 12 Oct 2026 18:42:36 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "O que Flávio Bolsonaro quer mudar na Constituição, caso seja eleito com Congresso mais poderoso e conservador?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cvglw4627kdlo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 07 Oct 2026 16:13:34 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "O que diziam as pesquisas para presidente na largada do 2º turno em 2018 e 2022 — e o que mostram agora",
+      "titulo": "Nossa Senhora Aparecida: por que a santa envolvida em polêmica eleitoral é a padroeira do Brasil?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c64g1zvx4e1do?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 09 Oct 2026 19:46:51 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmzxlkk9wqvko?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 12 Oct 2026 07:47:52 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Conheça as propostas de Lula e Flávio Bolsonaro para a Cultura",
+      "titulo": "O romance que previu sociedade distópica em que eleitores não escolhem nenhum candidato",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3zxjrxjr0gqo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 10 Oct 2026 13:08:51 GMT",
-      "tema": "cultura",
+      "link": "https://www.bbc.com/portuguese/articles/ckwy4xqxq108o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 09 Oct 2026 08:23:54 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "A nova onda de protestos de jovens do movimento das 'baratas' na Índia em imagens",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwp9gy84my15o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 11 Oct 2026 20:12:14 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'Trend' dos anos 80 no ChatGPT: o que você está entregando de graça para a IA e como se proteger",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c5vgjmxzrxyno?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 12 Oct 2026 08:38:07 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que o Dia das Crianças é comemorado em 12 de outubro no Brasil?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cw77p8pjr4g4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 12 Oct 2026 12:37:18 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -316,30 +356,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm86zpgyp789o?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 11 Oct 2026 16:22:19 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Os milionários de origem cubana que se preparam em Miami para a possível queda do governo da ilha",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmvg6wxndn5zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 11 Oct 2026 09:24:11 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Papa Leão 14 será submetido a cirurgia para retirar nódulo no pulmão",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cxm23j5v132vo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 11 Oct 2026 12:02:35 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Sua mulher foi levada por tsunami e ele passou anos mergulhando para estar perto dela",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmkg8d75lq1go?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 11 Oct 2026 13:50:52 GMT",
       "tema": "mundo",
       "resumo": null
     }
