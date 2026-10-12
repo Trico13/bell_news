@@ -1,129 +1,113 @@
 {
-  "gerado_em": "2026-10-11T16:08:32.884Z",
+  "gerado_em": "2026-10-12T00:13:42.121Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 27.4,
-    "min": 18,
+    "max": 25.5,
+    "min": 17.3,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Acidente envolvendo dois carros deixa um morto e quatro feridos em Pitangueiras, SP",
+      "titulo": "Comércio da Baixada Santista espera vender 5% mais no Dia das Crianças",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/11/acidente-envolvendo-dois-carros-deixa-um-morto-e-quatro-feridos-em-pitangueiras-sp.ghtml",
-      "hora": "Sun, 11 Oct 2026 15:59:23 -0000",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/11/comercio-da-baixada-santista-espera-vender-5percent-mais-no-dia-das-criancas.ghtml",
+      "hora": "Sun, 11 Oct 2026 23:45:04 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Motociclista morre após bater de frente com carro na BR-304, no RN",
+      "titulo": "Policial de folga atira em filho que atacava pai com faca no interior do Ceará",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/11/motociclista-morre-batida-br-304-assu.ghtml",
-      "hora": "Sun, 11 Oct 2026 15:57:36 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Mega-Sena 3069: aposta de Sergipe acerta a quina e leva R$ 26 mil; veja onde foi",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/10/11/mega-sena-3069-aposta-de-sergipe-acerta-a-quina-e-leva-r-26-mil-veja-onde-foi.ghtml",
-      "hora": "Sun, 11 Oct 2026 15:57:13 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Manutenções na rede elétrica podem deixar bairros de Boa Vista e outras três cidades sem energia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/10/11/manutencoes-na-rede-eletrica-podem-deixar-bairros-de-boa-vista-e-outras-tres-cidades-sem-energia.ghtml",
-      "hora": "Sun, 11 Oct 2026 15:56:27 -0000",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/10/11/policial-de-folga-atira-em-filho-que-atacava-pai-com-faca-no-interior-do-ceara.ghtml",
+      "hora": "Sun, 11 Oct 2026 23:40:52 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Tattoo Arte Solidária reúne tatuagens e ações para mulheres com câncer de mama em Santos",
+      "titulo": "Chuva forte causa alagamentos, queda de árvore e danos em supermercado em Cosmópolis",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/11/tattoo-arte-solidaria-reune-tatuagens-e-acoes-para-mulheres-com-cancer-de-mama-em-santos.ghtml",
-      "hora": "Sun, 11 Oct 2026 15:56:03 -0000",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/11/chuva-forte-causa-alagamentos-queda-de-arvore-e-danos-em-supermercado-em-cosmopolis.ghtml",
+      "hora": "Sun, 11 Oct 2026 23:34:52 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Dia de Nossa Senhora Aparecida: confira os horários das missas e procissões em MT",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/11/dia-de-nossa-senhora-aparecida-confira-os-horarios-das-missas-e-procissoes-em-mt.ghtml",
+      "hora": "Sun, 11 Oct 2026 23:24:36 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Mato Grosso do Sul tem previsão de chuva forte e temporais; veja como fica o tempo no feriado",
+      "titulo": "Suspeito morre e outro é baleado após policial reagir a assalto no interior do Ceará",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/11/mato-grosso-do-sul-tem-previsao-de-chuva-forte-e-temporais-veja-como-fica-o-tempo-no-feriado.ghtml",
-      "hora": "Sun, 11 Oct 2026 15:55:38 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/10/11/suspeito-morre-e-outro-e-baleado-apos-policial-reagir-a-assalto-no-interior-do-ceara.ghtml",
+      "hora": "Sun, 11 Oct 2026 23:17:15 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Russo condenado à prisão perpétua por tráfico e preso na Bahia por envolvimento com facção deve ser extraditado, diz SSP",
+      "titulo": "Morre Edson Silva, ator de ‘Laços de Família’ e dublador",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/11/russo-condenado-a-prisao-perpetua-e-preso-na-ba-por-envolvimento-com-faccao-deve-ser-extraditado-diz-ssp.ghtml",
-      "hora": "Sun, 11 Oct 2026 15:54:05 -0000",
+      "link": "https://g1.globo.com/pop-arte/noticia/2026/10/11/morre-edson-silva-ator-de-lacos-de-familia-e-dublador.ghtml",
+      "hora": "Sun, 11 Oct 2026 23:10:00 -0000",
+      "tema": "entretenimento",
+      "resumo": null
+    },
+    {
+      "titulo": "Incêndio em subestação de energia elétrica é apagado após três horas de trabalho dos bombeiros; alguns bairros seguem afetados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/11/incendio-em-subestacao-de-energia-controlado.ghtml",
+      "hora": "Sun, 11 Oct 2026 23:09:05 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Dia de Nossa Senhora Aparecida: veja a programação nas igrejas do Rio",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/11/dia-de-nossa-senhora-aparecida-veja-a-programacao-nas-igrejas-do-rio.ghtml",
+      "hora": "Sun, 11 Oct 2026 23:03:38 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Festival de churrasco tem shows de rock e entrada grátis em Praia Grande",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/o-que-fazer-em-santos/noticia/2026/10/11/festival-de-churrasco-tem-shows-de-rock-e-entrada-gratis-em-praia-grande.ghtml",
+      "hora": "Sun, 11 Oct 2026 23:00:00 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Motorista bêbado em alta velocidade bate em outro carro, causa incêndio e foge em rodovia do Paraná; uma pessoa morreu carbonizada",
+      "titulo": "Motociclista morre após colidir em muro próximo ao Socorrão II, na Grande São Luís",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pr/parana/noticia/2026/10/11/acidente-mandirituba-br-116-parana.ghtml",
-      "hora": "Sun, 11 Oct 2026 15:49:04 -0000",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/10/11/motociclista-morre-apos-colidir-em-muro-proximo-ao-socorrao-ii-na-grande-sao-luis.ghtml",
+      "hora": "Sun, 11 Oct 2026 22:53:57 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Lula reclama de 'decisões tendenciosas' do TSE após decisão para derrubar canal nas redes",
+      "titulo": "Homem invade quarto da ex e esfaqueia atual companheiro dela enquanto casal dormia em MT",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/11/lula-reclama-de-decisoes-tendenciosas-do-tse-apos-decisao-para-derrubar-canal-nas-redes.ghtml",
-      "hora": "Sun, 11 Oct 2026 15:44:05 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Advogada denuncia agressões do namorado após médica suspeitar de violência doméstica em João Pessoa",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/11/advogada-denuncia-agressoes-do-namorado-apos-medica-suspeitar-de-violencia-domestica-em-joao-pessoa.ghtml",
-      "hora": "Sun, 11 Oct 2026 15:41:10 -0000",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/11/homem-invade-quarto-da-ex-e-esfaqueia-atual-companheiro-dela-enquanto-casal-dormia-em-mt.ghtml",
+      "hora": "Sun, 11 Oct 2026 22:47:48 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Acidente com carros e van deixa três feridos e causa incêndio em vegetação no interior do Ceará",
+      "titulo": "Dia das Crianças: confira a programação gratuita na Grande Vitória nesta segunda-feira (12)",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/10/11/acidente-com-carros-e-van-deixa-tres-feridos-e-causa-incendio-em-vegetacao-no-interior-do-ceara.ghtml",
-      "hora": "Sun, 11 Oct 2026 15:39:21 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/11/dia-das-criancas-confira-a-programacao-gratuita-na-grande-vitoria-nesta-segunda-feira-12.ghtml",
+      "hora": "Sun, 11 Oct 2026 22:29:30 -0000",
+      "tema": "entretenimento",
       "resumo": null
     },
     {
-      "titulo": "Círio 2026: promessa de fã do BTS, homem vestido de canguru e corte da corda marcam procissão",
+      "titulo": "Em dia de maior movimento, 24 mil romeiros passam pela Via Dutra a caminho de Aparecida neste domingo, diz PRF",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/10/11/cirio-2026-promessa-de-fa-do-bts-homem-vestido-de-canguru-e-corte-da-corda-marcam-procissao.ghtml",
-      "hora": "Sun, 11 Oct 2026 15:39:15 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "'Não houve conflito nem briga', diz assessoria sobre término de Vini Jr e Virginia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/10/11/nao-houve-conflito-nem-briga-diz-assessoria-sobre-termino-de-vini-jr-e-virginia.ghtml",
-      "hora": "Sun, 11 Oct 2026 15:38:07 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Nunes Marques manda derrubar canal 'Exército do Lula' nas redes",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/11/nunes-marques-manda-derrubar-canal-exercito-do-lula-nas-redes.ghtml",
-      "hora": "Sun, 11 Oct 2026 15:36:31 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Incêndio deixa casa completamente destruída em Canoas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/11/incendio-casa-destruida-canoas.ghtml",
-      "hora": "Sun, 11 Oct 2026 15:35:33 -0000",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/11/em-dia-de-maior-movimento-24-mil-romeiros-passam-pela-via-dutra-a-caminho-de-aparecida-neste-domingo-diz-prf.ghtml",
+      "hora": "Sun, 11 Oct 2026 22:28:54 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -248,42 +232,34 @@
       "resumo": null
     },
     {
-      "titulo": "Os milionários de origem cubana que se preparam em Miami para a possível queda do governo da ilha",
+      "titulo": "Corredor Andes-Atlântico: o que se sabe sobre o ambicioso projeto dos EUA para acessar recursos estratégicos da Argentina (e competir com a China)",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmvg6wxndn5zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 11 Oct 2026 09:24:11 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmp30v645lz2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 11 Oct 2026 17:16:29 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Papa Leão 14 será submetido a cirurgia para retirar nódulo no pulmão",
+      "titulo": "O que se sabe sobre o vaivém de decisões da Justiça Eleitoral sobre o canal de WhatsApp 'Exército de Lula'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cxm23j5v132vo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 11 Oct 2026 12:02:35 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cwn8dre9yg7no?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 11 Oct 2026 23:37:53 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "A nova onda de protestos de jovens do movimento das 'baratas' na Índia em imagens",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwp9gy84my15o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 11 Oct 2026 20:12:14 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Como ataque a aeroporto na Arábia Saudita eleva tensão em um Oriente Médio já explosivo",
+      "titulo": "'A Casa dos Segredos': a luxuosa mansão usada pelo Reino Unido para espionar generais nazistas e que mudou a história da 2ª Guerra Mundial",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr5yn257eng4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 11 Oct 2026 14:42:43 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Chegou a hora de a Ucrânia ter um novo presidente', diz Trump após Zelensky condenar acordo sobre diesel com a Rússia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5y43vvk2m4mo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 11 Oct 2026 10:59:33 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Sua mulher foi levada por tsunami e ele passou anos mergulhando para estar perto dela",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmkg8d75lq1go?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 11 Oct 2026 13:50:52 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/crpd0g8dzqjdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 11 Oct 2026 18:53:36 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -336,34 +312,34 @@
       "resumo": null
     },
     {
-      "titulo": "Christa Pike sai do hospital e retorna à prisão 10 dias após sobreviver a execução fracassada",
+      "titulo": "Trump anuncia trégua energética entre Rússia e Ucrânia; o que se sabe",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq1j3g33e7g9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 10 Oct 2026 21:07:12 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cm86zpgyp789o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 11 Oct 2026 16:22:19 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Ganhadora do Nobel da Paz reage contra sanções dos EUA ao Tribunal Penal Internacional: 'Inaceitáveis'",
+      "titulo": "Os milionários de origem cubana que se preparam em Miami para a possível queda do governo da ilha",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqpvgme9pmpko?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 10 Oct 2026 19:47:16 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmvg6wxndn5zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 11 Oct 2026 09:24:11 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Por que o México está desmilitarizando suas escolas",
+      "titulo": "Papa Leão 14 será submetido a cirurgia para retirar nódulo no pulmão",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cv0ldp76jy51o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 10 Oct 2026 20:30:32 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cxm23j5v132vo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 11 Oct 2026 12:02:35 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Jonas I, o autoproclamado rei da Suíça que criou um 'império' polêmico ao se apropriar de terrenos sem dono",
+      "titulo": "Sua mulher foi levada por tsunami e ele passou anos mergulhando para estar perto dela",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm4g13gjndpzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 11 Oct 2026 00:39:25 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmkg8d75lq1go?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 11 Oct 2026 13:50:52 GMT",
       "tema": "mundo",
       "resumo": null
     }
