@@ -1,122 +1,130 @@
 {
-  "gerado_em": "2026-10-12T19:37:12.556Z",
+  "gerado_em": "2026-10-13T02:24:59.624Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 24.9,
+    "max": 24.8,
     "min": 17.2,
     "chuva": 97
   },
   "noticias": [
     {
-      "titulo": "Acidente deixa nove feridos na MG-126, quatro em estado grave",
+      "titulo": "Arábia Saudita diz ter interceptado novo míssil lançado do Iêmen",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/12/acidente-deixa-nove-feridos-na-mg-126-quatro-em-estado-grave.ghtml",
-      "hora": "Mon, 12 Oct 2026 19:22:38 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/arabia-saudita-diz-ter-interceptado-novo-missil-lancado-do-iemen.ghtml",
+      "hora": "Tue, 13 Oct 2026 01:09:30 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Houthis anunciam novo ataque a aeroporto de Riade; governo saudita diz que destruiu míssil",
+      "titulo": "Agentes federais dos EUA fazem buscas na casa de deputada democrata nascida na Somália",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/12/houthis-anunciam-novo-ataque-a-aeroporto-de-riade-governo-saudita-diz-que-destruiu-missil.ghtml",
-      "hora": "Mon, 12 Oct 2026 19:22:26 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "'Ratos de biblioteca': na era digital, leitores mantêm paixão por livros físicos em acervos públicos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/12/ratos-de-biblioteca-na-era-digital-leitores-mantem-paixao-por-livros-fisicos-em-acervos-publicos.ghtml",
-      "hora": "Mon, 12 Oct 2026 19:20:38 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/agentes-federais-dos-eua-fazem-buscas-na-casa-de-deputada-democrata-nascida-na-somalia.ghtml",
+      "hora": "Tue, 13 Oct 2026 01:04:23 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Capela das Velas e Sala das Promessas recebem devotos no Dia de Nossa Senhora Aparecida; veja vídeo",
+      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição de segunda-feira, 12 de outubro de 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/festa-da-padroeira/noticia/2026/10/12/capela-das-velas-e-sala-das-promessas-recebem-devotos-no-dia-de-nossa-senhora-aparecida-veja-video.ghtml",
-      "hora": "Mon, 12 Oct 2026 19:20:35 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "IFS está com 1300 vagas abertas para cursos técnicos integrados; saiba como se inscrever",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/10/12/ifs-esta-com-1300-vagas-abertas-para-cursos-tecnicos-integrados-saiba-como-se-inscrever.ghtml",
-      "hora": "Mon, 12 Oct 2026 19:18:26 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Procissão no Rio Tietê reúne fiéis em embarcações durante celebração a Nossa Senhora Aparecida em Boracéia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/12/procissao-no-rio-tiete-reune-fieis-em-embarcacoes-durante-celebracao-a-nossa-senhora-aparecida-em-boraceia.ghtml",
-      "hora": "Mon, 12 Oct 2026 19:13:49 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Bell Marques se declara no primeiro Dia das Crianças da neta: 'Trouxe um amor tão grande'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/12/bell-marques-se-declara-no-primeiro-dia-das-criancas-da-neta.ghtml",
-      "hora": "Mon, 12 Oct 2026 19:07:49 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "'Milagre', diz mãe que escapou com filho de queda de muro de escola em Jardinópolis, SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/12/milagre-diz-mae-que-escapou-com-filho-de-queda-de-muro-de-escola-em-jardinopolis-sp.ghtml",
-      "hora": "Mon, 12 Oct 2026 19:06:50 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Motociclista entra na contramão, bate em carro estacionado e foge em Ribeirão Preto, SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/12/motociclista-entra-na-contramao-bate-em-carro-estacionado-e-foge-em-ribeirao-preto-sp.ghtml",
-      "hora": "Mon, 12 Oct 2026 19:06:18 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Carreta tomba e interdita alça de acesso em rodovia de Campinas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/12/carreta-tomba-e-interdita-alca-de-acesso-em-rodovia-de-campinas.ghtml",
-      "hora": "Mon, 12 Oct 2026 19:04:30 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Menino autista de 8 anos é encontrado morto em rio após 3 dias de buscas em SC",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/12/menino-autista-desaparecido-encontrado-morto-rio-3-dias-buscas-sc.ghtml",
-      "hora": "Mon, 12 Oct 2026 19:04:18 -0000",
+      "link": "https://g1.globo.com/go/goias/edicao/2026/10/12/videos-jornal-anhanguera-2-edicao-de-segunda-feira-12-de-outubro-de-2026.ghtml",
+      "hora": "Tue, 13 Oct 2026 00:55:39 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "'Eu devia ter te falado te amo mais vezes', diz irmã de jovem morto com 27 tiros disparados pela PM em homenagem nas redes sociais",
+      "titulo": "Temporais provocam alagamentos e destruição em cidades da região de Campinas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/12/eu-devia-ter-te-falado-te-amo-mais-vezes-diz-irma-de-jovem-morto-com-27-tiros-disparados-pela-pm-em-homenagem-nas-redes-sociais.ghtml",
-      "hora": "Mon, 12 Oct 2026 19:03:00 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/temporais-provocam-alagamentos-e-destruicao-em-cidades-da-regiao-de-campinas.ghtml",
+      "hora": "Tue, 13 Oct 2026 00:48:35 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEO: motorista é detido após bater carro em outro durante tentativa de fuga na Bahia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/12/batida-em-tentativa-de-fuga.ghtml",
+      "hora": "Tue, 13 Oct 2026 00:46:15 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Piloto diz que chalana estava em dia e que agiu rápido antes de naufrágio no Rio Grande: 'Colete em todo mundo'  ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/12/piloto-diz-que-chalana-estava-em-dia-e-que-agiu-rapido-antes-de-naufragio-no-rio-grande-colete-em-todo-mundo.ghtml",
+      "hora": "Tue, 13 Oct 2026 00:42:24 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Fiéis lotam Santuário de Aparecida no Dia da Padroeira do Brasil",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/fieis-lotam-santuario-de-aparecida-no-dia-da-padroeira-do-brasil.ghtml",
+      "hora": "Tue, 13 Oct 2026 00:39:22 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Jovem morre afogado na Prainha de Mambucaba em Paraty",
+      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao governo do TO no 2º turno",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/12/jovem-morre-afogado-na-prainha-de-mambucaba-em-paraty.ghtml",
-      "hora": "Mon, 12 Oct 2026 19:01:20 -0000",
-      "tema": "entretenimento",
+      "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/12/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-to-no-2o-turno.ghtml",
+      "hora": "Tue, 13 Oct 2026 00:39:16 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Crianças fazem ‘cabelo do devoto’ e recriam histórias bíblicas em penteados em homenagem à padroeira do Brasil",
+      "titulo": "Eleições no AM: em entrevistas, Omar Aziz e Maria do Carmo falam sobre redução da fila do SisReg ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/12/criancas-fazem-cabelo-do-devoto-e-recriam-historias-biblicas-em-penteados-em-homenagem-a-padroeira-do-brasil.ghtml",
-      "hora": "Mon, 12 Oct 2026 19:01:05 -0000",
+      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/12/eleicoes-no-am-em-entrevistas-omar-aziz-e-maria-do-carmo-falam-sobre-reducao-da-fila-do-sisreg.ghtml",
+      "hora": "Tue, 13 Oct 2026 00:37:31 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "João Gomes arrecada mais de R$ 1 milhão em show beneficente para Hospital Dom Tomás em Petrolina",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/10/12/abrace-um-denguinho-joao-gomes-arrecada-mais-de-r-1-milhao-em-show-beneficente-em-petrolina.ghtml",
+      "hora": "Tue, 13 Oct 2026 00:37:09 -0000",
       "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Como gibis e brincadeiras ajudam crianças a compreender o câncer e enfrentar o tratamento",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/criancas-cancer-tratamento.ghtml",
+      "hora": "Tue, 13 Oct 2026 00:37:06 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Entenda a teoria que levou os vencedores do Nobel de Economia a mudar a política monetária",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/entenda-a-teoria-que-levou-os-vencedores-do-nobel-de-economia-a-mudar-a-politica-monetaria.ghtml",
+      "hora": "Tue, 13 Oct 2026 00:32:58 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Polícia de SP investiga mortes de dois homens em abordagens com dezenas de tiros",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/policia-de-sp-investiga-mortes-de-dois-homens-em-abordagens-com-dezenas-de-tiros.ghtml",
+      "hora": "Tue, 13 Oct 2026 00:31:54 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Líder comunitário que teve perna amputada consegue prótese com apoio da DPE-RR: 'mudou a minha vida'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/10/12/lider-comunitario-que-teve-perna-amputada-consegue-protese-com-apoio-da-dpe-rr-mudou-minha-a-vida.ghtml",
+      "hora": "Tue, 13 Oct 2026 00:31:24 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Idosa de 72 anos morre após ser atropelada por motocicleta no sul da Bahia ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/12/idosa-morre-atropelada-na-bahia.ghtml",
+      "hora": "Tue, 13 Oct 2026 00:27:03 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -248,18 +256,18 @@
       "resumo": null
     },
     {
-      "titulo": "Flávio Bolsonaro aparece 4 pontos à frente de Lula na disputa do 2º turno no agregador da BBC",
+      "titulo": "Por que TSE mandou Flávio Bolsonaro apagar vídeo enganoso que associa uso de drogas a ato pró-Lula na Paulista",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 12 Oct 2026 15:43:08 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c95yngxzd73no?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 13 Oct 2026 01:52:49 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "O que Flávio Bolsonaro e Lula propõem sobre concursos públicos e o funcionalismo",
+      "titulo": "Flávio Bolsonaro aparece 4 pontos à frente de Lula na disputa do 2º turno no agregador da BBC",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6ev3gn2k39zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 12 Oct 2026 08:16:33 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 12 Oct 2026 15:43:08 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -284,6 +292,14 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 04 Oct 2026 19:15:47 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O que Flávio Bolsonaro e Lula propõem sobre concursos públicos e o funcionalismo",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6ev3gn2k39zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 12 Oct 2026 08:16:33 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -320,11 +336,11 @@
       "resumo": null
     },
     {
-      "titulo": "O romance que previu sociedade distópica em que eleitores não escolhem nenhum candidato",
+      "titulo": "Morre RJ Mitte, ator de 'Breaking Bad' que usou carreira para dar visibilidade a pessoas com deficiência",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckwy4xqxq108o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 09 Oct 2026 08:23:54 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cke8r4yqg9zmo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 12 Oct 2026 22:34:07 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -341,14 +357,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c5vgjmxzrxyno?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 12 Oct 2026 08:38:07 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que o Dia das Crianças é comemorado em 12 de outubro no Brasil?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw77p8pjr4g4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 12 Oct 2026 12:37:18 GMT",
-      "tema": "brasil",
       "resumo": null
     },
     {
