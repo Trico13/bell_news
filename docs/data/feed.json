@@ -1,130 +1,130 @@
 {
-  "gerado_em": "2026-10-13T02:24:59.624Z",
+  "gerado_em": "2026-10-13T17:21:25.909Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 24.8,
-    "min": 17.2,
-    "chuva": 97
+    "max": 28.2,
+    "min": 17.4,
+    "chuva": 80
   },
   "noticias": [
     {
-      "titulo": "Arábia Saudita diz ter interceptado novo míssil lançado do Iêmen",
+      "titulo": "Eleições no AM: Omar Aziz e Maria do Carmo trocam críticas, discutem filas na saúde e escala 6x1 em primeiro debate do 2º turno",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/arabia-saudita-diz-ter-interceptado-novo-missil-lancado-do-iemen.ghtml",
-      "hora": "Tue, 13 Oct 2026 01:09:30 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Agentes federais dos EUA fazem buscas na casa de deputada democrata nascida na Somália",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/agentes-federais-dos-eua-fazem-buscas-na-casa-de-deputada-democrata-nascida-na-somalia.ghtml",
-      "hora": "Tue, 13 Oct 2026 01:04:23 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição de segunda-feira, 12 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/edicao/2026/10/12/videos-jornal-anhanguera-2-edicao-de-segunda-feira-12-de-outubro-de-2026.ghtml",
-      "hora": "Tue, 13 Oct 2026 00:55:39 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Temporais provocam alagamentos e destruição em cidades da região de Campinas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/temporais-provocam-alagamentos-e-destruicao-em-cidades-da-regiao-de-campinas.ghtml",
-      "hora": "Tue, 13 Oct 2026 00:48:35 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEO: motorista é detido após bater carro em outro durante tentativa de fuga na Bahia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/12/batida-em-tentativa-de-fuga.ghtml",
-      "hora": "Tue, 13 Oct 2026 00:46:15 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Piloto diz que chalana estava em dia e que agiu rápido antes de naufrágio no Rio Grande: 'Colete em todo mundo'  ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/12/piloto-diz-que-chalana-estava-em-dia-e-que-agiu-rapido-antes-de-naufragio-no-rio-grande-colete-em-todo-mundo.ghtml",
-      "hora": "Tue, 13 Oct 2026 00:42:24 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Fiéis lotam Santuário de Aparecida no Dia da Padroeira do Brasil",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/fieis-lotam-santuario-de-aparecida-no-dia-da-padroeira-do-brasil.ghtml",
-      "hora": "Tue, 13 Oct 2026 00:39:22 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Eleições 2026: veja como foi o dia dos candidatos ao governo do TO no 2º turno",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/12/eleicoes-2026-veja-como-foi-o-dia-dos-candidatos-ao-governo-do-to-no-2o-turno.ghtml",
-      "hora": "Tue, 13 Oct 2026 00:39:16 -0000",
+      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/13/eleicoes-no-am-omar-aziz-e-maria-do-carmo-trocam-criticas-discutem-filas-na-saude-e-escala-6x1-em-primeiro-debate-do-2o-turno.ghtml",
+      "hora": "Tue, 13 Oct 2026 17:08:59 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Eleições no AM: em entrevistas, Omar Aziz e Maria do Carmo falam sobre redução da fila do SisReg ",
+      "titulo": "Casal morre após carro capotar e bater em construção na PA-320, no Pará",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/12/eleicoes-no-am-em-entrevistas-omar-aziz-e-maria-do-carmo-falam-sobre-reducao-da-fila-do-sisreg.ghtml",
-      "hora": "Tue, 13 Oct 2026 00:37:31 -0000",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/10/13/casal-morre-apos-carro-capotar-e-bater-na-pa-320-no-para.ghtml",
+      "hora": "Tue, 13 Oct 2026 17:01:34 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "João Gomes arrecada mais de R$ 1 milhão em show beneficente para Hospital Dom Tomás em Petrolina",
+      "titulo": "Eleições 2026: como consultar meu local de votação para o segundo turno?",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/10/12/abrace-um-denguinho-joao-gomes-arrecada-mais-de-r-1-milhao-em-show-beneficente-em-petrolina.ghtml",
-      "hora": "Tue, 13 Oct 2026 00:37:09 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Como gibis e brincadeiras ajudam crianças a compreender o câncer e enfrentar o tratamento",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/criancas-cancer-tratamento.ghtml",
-      "hora": "Tue, 13 Oct 2026 00:37:06 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Entenda a teoria que levou os vencedores do Nobel de Economia a mudar a política monetária",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/entenda-a-teoria-que-levou-os-vencedores-do-nobel-de-economia-a-mudar-a-politica-monetaria.ghtml",
-      "hora": "Tue, 13 Oct 2026 00:32:58 -0000",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/eleicoes-2026-como-consultar-meu-local-de-votacao-para-o-segundo-turno.ghtml",
+      "hora": "Tue, 13 Oct 2026 17:00:44 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Polícia de SP investiga mortes de dois homens em abordagens com dezenas de tiros",
+      "titulo": "Criança é encontrada sozinha e chorando em carro; PM apreende arma e prende pai em Curvelo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/12/policia-de-sp-investiga-mortes-de-dois-homens-em-abordagens-com-dezenas-de-tiros.ghtml",
-      "hora": "Tue, 13 Oct 2026 00:31:54 -0000",
+      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/13/crianca-e-encontrada-sozinha-e-chorando-em-carro-pm-apreende-arma-e-prende-pai-em-curvelo.ghtml",
+      "hora": "Tue, 13 Oct 2026 16:57:29 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: Bom Dia Acre desta terça-feira, 13 de outubro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/playlist/videos-bom-dia-acre-desta-terca-feira-13-de-outubro-de-2026.ghtml",
+      "hora": "Tue, 13 Oct 2026 16:54:44 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Jovem desaparece após cair de moto aquática no rio Tocantins, no Pará; bombeiros fazem buscas",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/10/13/jovem-desaparece-apos-cair-de-moto-aquatica-no-rio-tocantins-no-para-bombeiros-fazem-buscas.ghtml",
+      "hora": "Tue, 13 Oct 2026 16:52:06 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Músico e produtor cultural Edu Bizu morre em Teresina; 'sempre levarei comigo', diz filho ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/10/13/musico-e-produtor-cultural-edu-bizu-morre-em-teresina.ghtml",
+      "hora": "Tue, 13 Oct 2026 16:50:42 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Locais de prova do concurso da prefeitura de Guarabira, com 170 vagas, são divulgados ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/13/locais-de-prova-do-concurso-da-prefeitura-de-guarabira-com-170-vagas-sao-divulgados.ghtml",
+      "hora": "Tue, 13 Oct 2026 16:48:00 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Após disputar governo, Joel Rodrigues aceita convite de Silvio Mendes e assume secretaria em Teresina",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/10/13/joel-rodrigues-secretaria-em-teresina.ghtml",
+      "hora": "Tue, 13 Oct 2026 16:46:55 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Fim da escala 6x1: Senado retoma debate nesta terça; votação está prevista para quarta",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/trabalho-e-carreira/ao-vivo/senado-pec-fim-escalada-6x1.ghtml",
+      "hora": "Tue, 13 Oct 2026 16:43:31 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Professor e ex-aluna da UNIFAE transformam experiência em negócio",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-carlos-regiao/especial-publicitario/unifae-unifae-todos-os-sonhos-se-encontram-aqui/noticia/2026/10/13/professor-e-ex-aluna-da-unifae-transformam-experiencia-em-negocio.ghtml",
+      "hora": "Tue, 13 Oct 2026 16:43:25 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Líder comunitário que teve perna amputada consegue prótese com apoio da DPE-RR: 'mudou a minha vida'",
+      "titulo": "Garis têm mudança no horário de trabalho após Teresina registrar temperaturas acima de 40 ºC, diz sindicato",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/10/12/lider-comunitario-que-teve-perna-amputada-consegue-protese-com-apoio-da-dpe-rr-mudou-minha-a-vida.ghtml",
-      "hora": "Tue, 13 Oct 2026 00:31:24 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/10/13/garis-mudanca-horario-trabalho-teresina.ghtml",
+      "hora": "Tue, 13 Oct 2026 16:40:16 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Idosa de 72 anos morre após ser atropelada por motocicleta no sul da Bahia ",
+      "titulo": "Nova UBS Araucária tem mais espaço e melhora atendimento à população",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/12/idosa-morre-atropelada-na-bahia.ghtml",
-      "hora": "Tue, 13 Oct 2026 00:27:03 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/pr/parana/especial-publicitario/municipio-de-araucaria/araucaria-noticias/noticia/2026/10/13/nova-ubs-araucaria-tem-mais-espaco-e-melhora-atendimento-a-populacao.ghtml",
+      "hora": "Tue, 13 Oct 2026 16:40:12 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Festival Pelourinho Cultural terá programação especial e gratuita para crianças em Salvador",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/o-que-fazer-em-salvador/noticia/2026/10/13/festival-pelourinho-cultural-em-salvador.ghtml",
+      "hora": "Tue, 13 Oct 2026 16:39:13 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Vídeo mostra rio encoberto por fumaça e céu avermelhado no interior do AM",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/13/video-mostra-rio-encoberto-por-fumaca-e-ceu-avermelhado-no-interior-do-am-video.ghtml",
+      "hora": "Tue, 13 Oct 2026 16:37:51 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -248,10 +248,50 @@
       "resumo": null
     },
     {
-      "titulo": "'Exército de Lula' no WhatsApp: TSE não encontra notícias falsas apontadas por campanha de Flavio Bolsonaro",
+      "titulo": "'Exército de Lula' no WhatsApp: por que Nunes Marques suspendeu canal novamente",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwn8dre9yg7no?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 12 Oct 2026 19:08:47 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c9vgrpmn26lpo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 13 Oct 2026 15:04:55 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Os relatos de quem teve post político bloqueado no Instagram nestas eleições: 'Ninguém deveria perder o direito de se manifestar'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cv98z1x17k86o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 13 Oct 2026 09:16:28 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Morte de Netinho: o que é linfoma não Hodgkin, câncer que o cantor enfrentava desde 2025",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq0738m2epkvo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 13 Oct 2026 16:14:36 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Tanto Lula quanto Flávio vão precisar do apoio de Gilmar Mendes no STF para governar, diz constitucionalista",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c5n49my0vz49o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 13 Oct 2026 07:44:10 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Flávio Bolsonaro aparece 3 pontos à frente de Lula na disputa do 2º turno no agregador da BBC",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 13 Oct 2026 16:10:09 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Clique aqui",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 04 Oct 2026 19:15:47 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -264,10 +304,10 @@
       "resumo": null
     },
     {
-      "titulo": "Flávio Bolsonaro aparece 4 pontos à frente de Lula na disputa do 2º turno no agregador da BBC",
+      "titulo": "'Exército de Lula' no WhatsApp: TSE não encontra notícias falsas apontadas por campanha de Flavio Bolsonaro",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 12 Oct 2026 15:43:08 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cwn8dre9yg7no?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 12 Oct 2026 19:08:47 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -280,43 +320,11 @@
       "resumo": null
     },
     {
-      "titulo": "Americanos vencem Nobel de Economia por modelo para entender decisões de famílias e empresas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5j9k2ke2e4mo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 12 Oct 2026 12:59:49 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Clique aqui",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 04 Oct 2026 19:15:47 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
       "titulo": "O que Flávio Bolsonaro e Lula propõem sobre concursos públicos e o funcionalismo",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c6ev3gn2k39zo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 12 Oct 2026 08:16:33 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Como Jair Bolsonaro quase conseguiu em 2022 a virada que Lula almeja no 2º turno",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw23dnmk9v9po?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 10 Oct 2026 10:35:44 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "O peso do agro na urna explica a geografia do voto no 1º turno, segundo economista da Universidade de Londres",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5vgyl2gk7jyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 12 Oct 2026 18:42:36 GMT",
-      "tema": "mundo",
       "resumo": null
     },
     {
@@ -328,42 +336,34 @@
       "resumo": null
     },
     {
-      "titulo": "Nossa Senhora Aparecida: por que a santa envolvida em polêmica eleitoral é a padroeira do Brasil?",
+      "titulo": "O que o FMI prevê para a economia brasileira em 2027 — e os desafios para retomar crescimento",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmzxlkk9wqvko?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 12 Oct 2026 07:47:52 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmn06w5dz3lxo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 13 Oct 2026 09:43:04 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Morre RJ Mitte, ator de 'Breaking Bad' que usou carreira para dar visibilidade a pessoas com deficiência",
+      "titulo": "Geração Z está menos inteligente? O que explica queda histórica em notas",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cke8r4yqg9zmo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 12 Oct 2026 22:34:07 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cqy7l0d6g8ddo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 13 Oct 2026 08:04:02 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "A nova onda de protestos de jovens do movimento das 'baratas' na Índia em imagens",
+      "titulo": "Executiva que comanda o Signal contesta previsões de 'apocalipse de IA' e diz que risco é o uso descuidado da inteligência artificial",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwp9gy84my15o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 11 Oct 2026 20:12:14 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cxvgded1emgzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 13 Oct 2026 13:09:05 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "'Trend' dos anos 80 no ChatGPT: o que você está entregando de graça para a IA e como se proteger",
+      "titulo": "O que está por trás do fechamento de milhares de empresas na Argentina sob governo Milei",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5vgjmxzrxyno?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 12 Oct 2026 08:38:07 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Trump anuncia trégua energética entre Rússia e Ucrânia; o que se sabe",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm86zpgyp789o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 11 Oct 2026 16:22:19 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c64g125ynezyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 13 Oct 2026 10:16:01 GMT",
       "tema": "mundo",
       "resumo": null
     }
