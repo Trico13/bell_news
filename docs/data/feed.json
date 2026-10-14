@@ -1,122 +1,130 @@
 {
-  "gerado_em": "2026-10-14T19:10:25.282Z",
+  "gerado_em": "2026-10-14T23:41:00.652Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 28.8,
-    "min": 18.1,
+    "max": 27.2,
+    "min": 18.2,
     "chuva": 93
   },
   "noticias": [
     {
-      "titulo": "Pablo é homenageado pela esposa e filhos no aniversário de 41 anos: 'Coração enorme'",
+      "titulo": "Renata Lo Prete entrevista Lula, candidato à reeleição pelo PT",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/14/pablo-e-homenageado-pela-esposa-e-filhos.ghtml",
-      "hora": "Wed, 14 Oct 2026 19:02:02 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/jornal-nacional/ao-vivo/lula-entrevista-candidatos-presidente-segundo-turno.ghtml",
+      "hora": "Wed, 14 Oct 2026 23:26:02 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "MPF pede prisão preventiva de PM acusado de matar estudante de medicina em hotel de SP",
+      "titulo": "Renata Lo Prete entrevista Flávio Bolsonaro, candidato à Presidência pelo PL",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/14/mpf-pede-prisao-preventiva-de-pm-acusado-de-matar-estudante-de-medicina-em-hotel-de-sp.ghtml",
-      "hora": "Wed, 14 Oct 2026 19:01:50 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/ao-vivo/flavio-bolsonaro-entrevista-candidatos-presidente-segundo-turno.ghtml",
+      "hora": "Wed, 14 Oct 2026 23:25:53 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Flávio Bolsonaro foi cadastrado como 'usuário master' em conta bancária de empresa de advogado investigado",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/14/flavio-bolsonaro-foi-cadastrado-como-usuario-master-em-conta-bancaria-de-empresa-de-advogado-investigado.ghtml",
+      "hora": "Wed, 14 Oct 2026 23:25:25 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Linha Sul do Metrô do Recife volta a circular após parar pela 2ª vez em três dias por falha elétrica",
+      "titulo": "Pai e mãe suspeitos de matar bebê com golpes de faca podem responder por homicídio qualificado, no Sertão da PB",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/14/linha-sul-do-metro-do-recife-volta-a-circular-apos-parar-pela-2a-vez-em-tres-dias.ghtml",
-      "hora": "Wed, 14 Oct 2026 19:01:17 -0000",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/14/pai-e-mae-suspeitos-de-matar-bebe-com-golpes-de-faca-podem-responder-por-homicidio-qualificado-no-sertao-da-pb.ghtml",
+      "hora": "Wed, 14 Oct 2026 23:25:14 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: Jornal do Acre 1ª Edição desta quarta-feira, 14 de outubro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-quarta-feira-14-de-outubro-de-2026.ghtml",
+      "hora": "Wed, 14 Oct 2026 23:24:47 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Quaest divulga primeira pesquisa do 2º turno da eleição presidencial; veja os números",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/14/quaest-divulga-primeira-pesquisa-do-2o-turno-da-eleicao-presidencial-veja-os-numeros.ghtml",
+      "hora": "Wed, 14 Oct 2026 23:24:16 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Mulher sai correndo e grita por socorro ao flagrar homem se masturbando em rua de MS; VÍDEO",
+      "titulo": "Suspeito de integrar grupo que trocou tiros com policiais federais no aeroporto internacional de Guarulhos é preso na Bahia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/14/mulher-sai-correndo-e-grita-por-socorro-ao-flagrar-homem-se-masturbando-em-rua-de-ms-video.ghtml",
-      "hora": "Wed, 14 Oct 2026 19:00:46 -0000",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/14/suspeito-de-integrar-grupo-criminoso-e-preso-em-governador-mangabeira.ghtml",
+      "hora": "Wed, 14 Oct 2026 23:21:09 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem que matou outro durante confraternização em campo de futebol é condenado a 22 anos de prisão em Dores do Indaiá",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/14/homem-que-matou-outro-durante-confraternizacao-em-campo-de-futebol-e-condenado-a-22-anos-de-prisao-em-dores-do-indaia.ghtml",
+      "hora": "Wed, 14 Oct 2026 23:18:44 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "São Sebastião registra 84% de ocupação no feriado de Nossa Senhora Aparecida",
+      "titulo": "Resultados das Loterias Caixa",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-sao-sebastiao-sao-sebastiao-bem-cuidada/noticia/2026/10/14/sao-sebastiao-registra-84percent-de-ocupacao-no-feriado-de-nossa-senhora-aparecida.ghtml",
-      "hora": "Wed, 14 Oct 2026 19:00:45 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Biblioteca virtual reúne mais de 300 zines gratuitos e amplia acesso à produção independente no AP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/10/14/biblioteca-virtual-reune-mais-de-300-zines-gratuitos-e-amplia-acesso-a-producao-independente-no-ap.ghtml",
-      "hora": "Wed, 14 Oct 2026 19:00:29 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Minerais críticos e estratégicos concentram 57% dos empregos da mineração em 2025, diz ANM",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/14/minerais-criticos-e-estrategicos-concentram-57percent-dos-empregos-da-mineracao-em-2025-diz-anm.ghtml",
-      "hora": "Wed, 14 Oct 2026 19:00:00 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "'Acho que ele matou mesmo': motorista de aplicativo gravou áudio após deixar suspeito de matar casal no DF",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/14/acho-que-ele-matou-mesmo-motorista-de-aplicativo-gravou-audio-apos-deixar-suspeito-de-matar-casal-no-df.ghtml",
-      "hora": "Wed, 14 Oct 2026 18:58:54 -0000",
+      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "hora": "Wed, 14 Oct 2026 23:18:02 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Presidente da Câmara de Santa Cruz do Rio Pardo é afastado do cargo durante investigação sobre projeto habitacional",
+      "titulo": "Homem é preso por agressão, perseguição e divulgação de registros íntimos da ex-companheira em Tomar do Geru",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/14/presidente-da-camara-de-santa-cruz-do-rio-pardo-e-afastado-do-cargo-durante-investigacao-sobre-projeto-habitacional.ghtml",
-      "hora": "Wed, 14 Oct 2026 18:58:31 -0000",
+      "link": "https://g1.globo.com/se/sergipe/noticia/2026/10/14/quatro-casos-violencia-contra-mulher-nesta-quarta-feira.ghtml",
+      "hora": "Wed, 14 Oct 2026 23:15:16 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Após resgatar filhotes em cerca, empresário busca câmeras para identificar possível autor de abandono",
+      "titulo": "VÍDEOS: NSC Notícias de quarta-feira, 14 de outubro de 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/10/14/filhotes-em-cerca-empresario-busca-cameras.ghtml",
-      "hora": "Wed, 14 Oct 2026 18:56:29 -0000",
+      "link": "https://g1.globo.com/sc/santa-catarina/edicao/2026/10/14/videos-nsc-noticias-de-quarta-feira-14-de-outubro-de-2026.ghtml",
+      "hora": "Wed, 14 Oct 2026 23:12:02 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "VÍDEO mostra pedra de 50 kg caindo de caminhão sobre teto de carro em SC; motorista está na UTI",
+      "titulo": "4º Festival da Cerveja reúne shows e bebidas artesanais em Santos; veja a programação",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/14/video-pedra-50-quilos-caindo-caminhao-sobre-teto-de-carro.ghtml",
-      "hora": "Wed, 14 Oct 2026 18:55:43 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Uma forma de criar disciplina para um objetivo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/bauru-marilia/especial-publicitario/grupo-comauto-planeje-suas-conquistas-com-o-grupo-comauto/noticia/2026/10/14/uma-forma-de-criar-disciplina-para-um-objetivo.ghtml",
-      "hora": "Wed, 14 Oct 2026 18:55:01 -0000",
+      "link": "https://g1.globo.com/sp/santos-regiao/culinaria-013/noticia/2026/10/14/4o-festival-da-cerveja-reune-shows-e-bebidas-artesanais-em-santos-veja-a-programacao.ghtml",
+      "hora": "Wed, 14 Oct 2026 23:10:26 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Fortaleza recebeu Encontro do Ecossistema de Educação Empreendedora ",
+      "titulo": "Justiça considera inconstitucional fórmula de cálculo da taxa do lixo em Goiânia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/especial-publicitario/especial-publicitario-sebrae-ceara/inovacao-e-negocios/noticia/2026/10/14/fortaleza-recebeu-encontro-do-ecossistema-de-educacao-empreendedora.ghtml",
-      "hora": "Wed, 14 Oct 2026 18:54:52 -0000",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/10/14/justica-considera-inconstitucional-formula-de-calculo-da-taxa-do-lixo-em-goiania.ghtml",
+      "hora": "Wed, 14 Oct 2026 23:07:41 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "CCJ do Senado aprova PEC da Segurança Pública; texto segue para votação em plenário",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/14/ccj-do-senado-aprova-pec-da-seguranca-publica-texto-segue-para-votacao-em-plenario.ghtml",
+      "hora": "Wed, 14 Oct 2026 23:07:28 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Última apresentação de Ayres Rocha no JAC2 foi há quase dois anos: 'Missão cumprida'",
+      "titulo": "Campanhas de Lula e Flávio Bolsonaro não chegam a acordo e critérios para registro de canais podem ir a plenário",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/10/14/ultima-apresentacao-de-ayres-rocha-no-jac2-foi-ha-quase-dois-anos-missao-cumprida.ghtml",
-      "hora": "Wed, 14 Oct 2026 18:54:43 -0000",
-      "tema": "cultura",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/14/campanhas-de-lula-e-flavio-nao-chegam-a-acordo-e-criterios-para-registros-de-canais-pode-ficar-para-plenario.ghtml",
+      "hora": "Wed, 14 Oct 2026 23:06:50 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -240,18 +248,34 @@
       "resumo": null
     },
     {
-      "titulo": "Fim da escala 6x1: Senado pode decidir sobre proposta ainda nesta quarta; siga em tempo real",
+      "titulo": "Senado vota fim da escala 6x1; senadores discursam mas placar ainda não abriu, siga em tempo real",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.co.uk/portuguese/live/c6gelgd1w93zt?at_medium=RSS&at_campaign=rss",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Meta promete mudança em sua IA após acusações de favorecimento a Flávio Bolsonaro",
+      "titulo": "Fim da escala 6x1: o que acontecerá se a proposta for aprovada no Senado?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm4g1exxq8ndo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 14 Oct 2026 16:05:42 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmp3gnwvlwv1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 14 Oct 2026 20:43:55 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "O que dizem eleitores que trocaram Lula por Flávio Bolsonaro em 2026: 'Mudei minha mentalidade' ",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq9vzkx8l48ro?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 14 Oct 2026 22:38:48 GMT",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "De Eduarda Campopiano a Ana Elisa: as estratégias das 18 jovens eleitas para o Legislativo em 2026",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqm24394j9kvo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 14 Oct 2026 20:20:50 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -260,22 +284,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cmy0rk9e23r3o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 14 Oct 2026 17:57:49 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Ex-ministro de FHC, Pedro Parente vê em Flávio risco de concentração de poder",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmn06wpypkn8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 14 Oct 2026 14:02:57 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "O que aconteceu com o experimento de Bukele para transformar El Salvador no 'país do bitcoin'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwly38g70435o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 14 Oct 2026 13:48:02 GMT",
-      "tema": "cultura",
       "resumo": null
     },
     {
@@ -295,6 +303,14 @@
       "resumo": null
     },
     {
+      "titulo": "Ex-ministro de FHC, Pedro Parente não declara voto, mas vê em Flávio risco de concentração de poder com vitória da direita no Congresso",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmn06wpypkn8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 14 Oct 2026 14:02:57 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "Manifestações de rua podem mudar os rumos do segundo turno?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c9gkvg235r0vo?at_medium=RSS&at_campaign=rss",
@@ -308,14 +324,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 14 Oct 2026 16:08:01 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Os relatos de quem teve post político bloqueado no Instagram nestas eleições",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cv98z1x17k86o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 13 Oct 2026 09:16:28 GMT",
-      "tema": "mundo",
       "resumo": null
     },
     {
