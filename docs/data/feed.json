@@ -1,130 +1,114 @@
 {
-  "gerado_em": "2026-10-15T14:40:07.998Z",
+  "gerado_em": "2026-10-15T18:52:33.396Z",
   "modo": "palavras-chave",
   "clima": {
     "max": 25.7,
     "min": 18,
-    "chuva": 91
+    "chuva": 90
   },
   "noticias": [
     {
-      "titulo": "AO VIVO: Assista ao GR1",
+      "titulo": "acidente com morte em rio preto",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/ao-vivo/ao-vivo-assista-ao-gr1.ghtml",
-      "hora": "Thu, 15 Oct 2026 14:30:11 -0000",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/15/acidente-com-morte-em-rio-preto.ghtml",
+      "hora": "Thu, 15 Oct 2026 18:43:10 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
+      "titulo": "VÍDEOS: AB1 de quinta-feira, 15 de outubro de 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
-      "hora": "Thu, 15 Oct 2026 14:28:52 -0000",
+      "link": "https://g1.globo.com/al/alagoas/edicao/2026/10/15/videos-ab1-de-quinta-feira-15-de-outubro-de-2026.ghtml",
+      "hora": "Thu, 15 Oct 2026 18:39:10 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Boa Noite Espírito Santo entrevista candidatos ao governo no 2º turno",
+      "titulo": "Falta de água em Teresina é tema de audiência; concessionária promete melhorias em até 20 dias",
       "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/boa-noite-espirito-santo-entrevista-candidatos-ao-governo-no-2-turno.ghtml",
-      "hora": "Thu, 15 Oct 2026 14:27:26 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Três jovens morrem após confronto com policiais militares na Bahia; viatura foi atingida na região ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/15/confronto-com-a-policia-na-bahia.ghtml",
-      "hora": "Thu, 15 Oct 2026 14:26:28 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem é a delegada do Pará presa suspeita de repassar informações sigilosas ao PCC",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/10/15/quem-e-a-delegada-do-para-presa-suspeita-de-repassar-informacoes-sigilosas-ao-pcc.ghtml",
-      "hora": "Thu, 15 Oct 2026 14:26:13 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Outubro Rosa: RN é o 5º estado do Nordeste com mais casos estimados de câncer de mama, aponta Inca",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/15/outubro-rosa-rn-e-o-5o-estado-do-nordeste-com-mais-casos-estimados-de-cancer-de-mama-aponta-inca.ghtml",
-      "hora": "Thu, 15 Oct 2026 14:25:45 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Cadu de Lula é entrevistado no Inter 1",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/ao-vivo/entrevista-candidatos-rn-segundo-turno.ghtml",
-      "hora": "Thu, 15 Oct 2026 14:24:01 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "De presos na Operação Guilhotina a perdão de Pezão e elo com a política: quem são os irmãos policiais detidos de novo pela PF",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/15/quem-sao-os-irmaos-policiais-detidos-de-novo-pela-pf.ghtml",
-      "hora": "Thu, 15 Oct 2026 14:23:40 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Foragido da Justiça por violência doméstica é preso em Sapucaia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/15/foragido-da-justica-por-violencia-domestica-e-preso-em-sapucaia.ghtml",
-      "hora": "Thu, 15 Oct 2026 14:21:25 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "PF aponta Canella como articulador político de organização criminosa que movimentou 7,6 bilhões em 6 anos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/15/investigacao-pf-marcio-canella.ghtml",
-      "hora": "Thu, 15 Oct 2026 14:21:24 -0000",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/10/15/audiencia-concessionaria-melhorias.ghtml",
+      "hora": "Thu, 15 Oct 2026 18:36:01 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Grupo usava caminhões de minério para transportar drogas da Bolívia e pagava funcionários para evitar fiscalização",
+      "titulo": "Neta é presa por colocar fogo na casa da avó após briga por pagamento de uma conta no ES",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/15/grupo-usava-caminhoes-de-minerio-para-transportar-drogas-da-bolivia-e-pagava-funcionarios-para-evitar-fiscalizacao.ghtml",
-      "hora": "Thu, 15 Oct 2026 14:20:53 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Incêndio atinge prédio no Centro de Manaus; VÍDEO",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/15/incendio-atinge-predio-no-centro-de-manaus.ghtml",
-      "hora": "Thu, 15 Oct 2026 14:20:32 -0000",
+      "link": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/10/15/neta-e-presa-por-colocar-fogo-na-casa-da-avo-apos-briga-por-pagamento-de-uma-conta-no-es.ghtml",
+      "hora": "Thu, 15 Oct 2026 18:34:46 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Delegada do Pará é presa suspeita de passar informações ao PCC, em operação realizada em três estados",
+      "titulo": "'OAB da Medicina': Câmara aprova medida que prevê obrigatoriedade de três provas durante o curso",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/15/operacao-sinalagma.ghtml",
-      "hora": "Thu, 15 Oct 2026 14:19:20 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Polícia Rodoviária apreende 40 mil maços de cigarros contrabandeados em Pacaembu",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/15/policia-rodoviaria-apreende-40-mil-macos-de-cigarros-contrabandeados-em-pacaembu.ghtml",
-      "hora": "Thu, 15 Oct 2026 14:18:07 -0000",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/15/oab-da-medicina-camara-aprova-medida-que-preve-obrigatoriedade-de-tres-provas-durante-o-curso.ghtml",
+      "hora": "Thu, 15 Oct 2026 18:34:04 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Incêndio avança sobre terra indígena no AM; moradores relatam morte de animais",
+      "titulo": "TRE-RJ confirma vitória de Douglas Ruas no primeiro turno",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/15/incendio-avanca-sobre-terra-indigena-no-am-moradores-relatam-morte-de-animais.ghtml",
-      "hora": "Thu, 15 Oct 2026 14:15:06 -0000",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/15/tre-douglas-ruas.ghtml",
+      "hora": "Thu, 15 Oct 2026 18:31:41 -0000",
       "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição Regiões de quinta-feira, 15 de outubro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/edicao/2026/10/15/videos-jornal-anhanguera-1-edicao-regioes-de-quinta-feira-15-de-outubro-de-2026.ghtml",
+      "hora": "Thu, 15 Oct 2026 18:31:21 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Mulher se tranca no quarto com filha de 1 ano para se proteger do companheiro com faca, diz polícia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/10/15/mulher-se-tranca-no-quarto-com-filha-de-1-ano-para-se-proteger-do-companheiro-com-faca-diz-policia.ghtml",
+      "hora": "Thu, 15 Oct 2026 18:30:40 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Vírus do Nilo Ocidental avança na Europa, bate recorde de infecções e deixa 141 mortos em 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/saude/noticia/2026/10/15/virus-do-nilo-ocidental-avanca-na-europa-bate-recorde-de-infeccoes-e-deixa-141-mortos-em-2026.ghtml",
+      "hora": "Thu, 15 Oct 2026 18:28:02 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Feira Emprega Transporte oferece vagas de emprego e qualificação gratuita em Feira de Santana",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/15/vagas-de-emprego-na-bahia.ghtml",
+      "hora": "Thu, 15 Oct 2026 18:27:28 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Arcebispo de Santarém orienta mudar horários de missas e procissões devido ao calor extremo",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/15/arcebispo-de-santarem-orienta-mudar-horarios-de-missas-e-procissoes-devido-ao-calor-extremo.ghtml",
+      "hora": "Thu, 15 Oct 2026 18:24:20 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "PRF recupera duas motocicletas roubadas durante fiscalização em Caxias, no MA",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/10/15/prf-recupera-duas-motocicletas-roubadas-durante-fiscalizacao-em-caxias-no-ma.ghtml",
+      "hora": "Thu, 15 Oct 2026 18:23:35 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Corpo com marcas de tiros no tórax e nas costas é encontrado na Zona Norte de Macapá",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/10/15/corpo-com-marcas-de-tiros-no-torax-e-nas-costas-e-encontrado-na-zona-norte-de-macapa.ghtml",
+      "hora": "Thu, 15 Oct 2026 18:19:01 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -248,15 +232,7 @@
       "resumo": null
     },
     {
-      "titulo": "Mães solo celebram fim da escala 6x1: 'Estava vendo a vida dos meus filhos passar'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c617krelxj7do?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 13:53:04 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Os dilemas de empresários após fim da 6x1: 'Entendo, mas a conta não fecha'",
+      "titulo": "Os dilemas de pequenos empresários após fim da 6x1: 'Entendo, mas a conta não fecha'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c4gj05r3yz2o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 15 Oct 2026 13:49:21 GMT",
@@ -264,17 +240,26 @@
       "resumo": null
     },
     {
-      "titulo": "Brasil aprova maior mudança da jornada de trabalho desde 1988 ",
+      "titulo": "Mães solo celebram fim da escala 6x1: 'Estava vendo a vida dos meus filhos passar'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqdr85xvxgdro?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 01:40:41 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c617krelxj7do?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 15:57:33 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Pesquisas a 10 dias do 2º turno — o que diziam em 2018 e 2022 e o que mostram agora",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmx2dqy4jw91o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 15:46:52 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Como foi a votação do Senado que aprovou fim da escala 6x1: veja repercussão",
+      "titulo": "Distância entre Flávio e Lula é de 3 pontos no agregador de pesquisas da BBC",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/c6gelgd1w93zt?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 18:02:16 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -295,19 +280,11 @@
       "resumo": null
     },
     {
-      "titulo": "'As gangues, as armas e a batalha pelo Brasil': jornal britânico destaca protagonismo da violência de facções criminosas na eleição",
+      "titulo": "Fim da escala 6x1 foi aprovado no Senado, o que acontece agora?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqjdmzjrglv2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 12:41:56 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Pesquisas para presidente a 10 dias do 2º turno — o que diziam em 2018 e 2022 e o que mostram agora",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmx2dqy4jw91o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 13:31:04 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmp3gnwvlwv1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 02:34:57 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -319,18 +296,25 @@
       "resumo": null
     },
     {
-      "titulo": "Distância entre Flávio e Lula diminui para 2 pontos, mostra agregador de pesquisas da BBC",
+      "titulo": "Brasil aprova maior mudança da jornada de trabalho desde 1988 ",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 09:30:26 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cqdr85xvxgdro?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 01:40:41 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "O que dizem eleitores que trocaram Lula por Flávio Bolsonaro em 2026: 'Com o agro, mudei minha mentalidade' ",
+      "titulo": "Como foi a votação do Senado que aprovou fim da escala 6x1: veja repercussão",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq9vzkx8l48ro?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 13:43:28 GMT",
+      "link": "https://www.bbc.co.uk/portuguese/live/c6gelgd1w93zt?at_medium=RSS&at_campaign=rss",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "'As gangues, as armas e a batalha pelo Brasil': jornal britânico destaca protagonismo da violência de facções criminosas na eleição",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqjdmzjrglv2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 12:41:56 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -340,6 +324,14 @@
       "link": "https://www.bbc.com/portuguese/articles/ck1wv3z8epx9o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 15 Oct 2026 13:06:21 GMT",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O que está por trás do fechamento de milhares de empresas na Argentina sob governo Milei",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c64g125ynezyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 13 Oct 2026 10:16:01 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -356,14 +348,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c862eyd6lp5wo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 15 Oct 2026 09:33:35 GMT",
       "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "A impressionante descoberta do naufrágio mais antigo do mundo na costa da Turquia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmy0rk9e23r3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 14 Oct 2026 17:57:49 GMT",
-      "tema": "mundo",
       "resumo": null
     }
   ]
