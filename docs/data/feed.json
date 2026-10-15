@@ -1,130 +1,130 @@
 {
-  "gerado_em": "2026-10-14T23:41:00.652Z",
+  "gerado_em": "2026-10-15T14:40:07.998Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 27.2,
-    "min": 18.2,
-    "chuva": 93
+    "max": 25.7,
+    "min": 18,
+    "chuva": 91
   },
   "noticias": [
     {
-      "titulo": "Renata Lo Prete entrevista Lula, candidato à reeleição pelo PT",
+      "titulo": "AO VIVO: Assista ao GR1",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/ao-vivo/lula-entrevista-candidatos-presidente-segundo-turno.ghtml",
-      "hora": "Wed, 14 Oct 2026 23:26:02 -0000",
+      "link": "https://g1.globo.com/pe/petrolina-regiao/ao-vivo/ao-vivo-assista-ao-gr1.ghtml",
+      "hora": "Thu, 15 Oct 2026 14:30:11 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
+      "hora": "Thu, 15 Oct 2026 14:28:52 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Boa Noite Espírito Santo entrevista candidatos ao governo no 2º turno",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/boa-noite-espirito-santo-entrevista-candidatos-ao-governo-no-2-turno.ghtml",
+      "hora": "Thu, 15 Oct 2026 14:27:26 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Três jovens morrem após confronto com policiais militares na Bahia; viatura foi atingida na região ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/15/confronto-com-a-policia-na-bahia.ghtml",
+      "hora": "Thu, 15 Oct 2026 14:26:28 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Renata Lo Prete entrevista Flávio Bolsonaro, candidato à Presidência pelo PL",
+      "titulo": "Quem é a delegada do Pará presa suspeita de repassar informações sigilosas ao PCC",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/ao-vivo/flavio-bolsonaro-entrevista-candidatos-presidente-segundo-turno.ghtml",
-      "hora": "Wed, 14 Oct 2026 23:25:53 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Flávio Bolsonaro foi cadastrado como 'usuário master' em conta bancária de empresa de advogado investigado",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/14/flavio-bolsonaro-foi-cadastrado-como-usuario-master-em-conta-bancaria-de-empresa-de-advogado-investigado.ghtml",
-      "hora": "Wed, 14 Oct 2026 23:25:25 -0000",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/10/15/quem-e-a-delegada-do-para-presa-suspeita-de-repassar-informacoes-sigilosas-ao-pcc.ghtml",
+      "hora": "Thu, 15 Oct 2026 14:26:13 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Pai e mãe suspeitos de matar bebê com golpes de faca podem responder por homicídio qualificado, no Sertão da PB",
+      "titulo": "Outubro Rosa: RN é o 5º estado do Nordeste com mais casos estimados de câncer de mama, aponta Inca",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/14/pai-e-mae-suspeitos-de-matar-bebe-com-golpes-de-faca-podem-responder-por-homicidio-qualificado-no-sertao-da-pb.ghtml",
-      "hora": "Wed, 14 Oct 2026 23:25:14 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: Jornal do Acre 1ª Edição desta quarta-feira, 14 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-quarta-feira-14-de-outubro-de-2026.ghtml",
-      "hora": "Wed, 14 Oct 2026 23:24:47 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Quaest divulga primeira pesquisa do 2º turno da eleição presidencial; veja os números",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/14/quaest-divulga-primeira-pesquisa-do-2o-turno-da-eleicao-presidencial-veja-os-numeros.ghtml",
-      "hora": "Wed, 14 Oct 2026 23:24:16 -0000",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/15/outubro-rosa-rn-e-o-5o-estado-do-nordeste-com-mais-casos-estimados-de-cancer-de-mama-aponta-inca.ghtml",
+      "hora": "Thu, 15 Oct 2026 14:25:45 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Suspeito de integrar grupo que trocou tiros com policiais federais no aeroporto internacional de Guarulhos é preso na Bahia",
+      "titulo": "Cadu de Lula é entrevistado no Inter 1",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/14/suspeito-de-integrar-grupo-criminoso-e-preso-em-governador-mangabeira.ghtml",
-      "hora": "Wed, 14 Oct 2026 23:21:09 -0000",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/ao-vivo/entrevista-candidatos-rn-segundo-turno.ghtml",
+      "hora": "Thu, 15 Oct 2026 14:24:01 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "De presos na Operação Guilhotina a perdão de Pezão e elo com a política: quem são os irmãos policiais detidos de novo pela PF",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/15/quem-sao-os-irmaos-policiais-detidos-de-novo-pela-pf.ghtml",
+      "hora": "Thu, 15 Oct 2026 14:23:40 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Foragido da Justiça por violência doméstica é preso em Sapucaia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/15/foragido-da-justica-por-violencia-domestica-e-preso-em-sapucaia.ghtml",
+      "hora": "Thu, 15 Oct 2026 14:21:25 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "PF aponta Canella como articulador político de organização criminosa que movimentou 7,6 bilhões em 6 anos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/15/investigacao-pf-marcio-canella.ghtml",
+      "hora": "Thu, 15 Oct 2026 14:21:24 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Grupo usava caminhões de minério para transportar drogas da Bolívia e pagava funcionários para evitar fiscalização",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/15/grupo-usava-caminhoes-de-minerio-para-transportar-drogas-da-bolivia-e-pagava-funcionarios-para-evitar-fiscalizacao.ghtml",
+      "hora": "Thu, 15 Oct 2026 14:20:53 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Incêndio atinge prédio no Centro de Manaus; VÍDEO",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/15/incendio-atinge-predio-no-centro-de-manaus.ghtml",
+      "hora": "Thu, 15 Oct 2026 14:20:32 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Delegada do Pará é presa suspeita de passar informações ao PCC, em operação realizada em três estados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/10/15/operacao-sinalagma.ghtml",
+      "hora": "Thu, 15 Oct 2026 14:19:20 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Homem que matou outro durante confraternização em campo de futebol é condenado a 22 anos de prisão em Dores do Indaiá",
+      "titulo": "Polícia Rodoviária apreende 40 mil maços de cigarros contrabandeados em Pacaembu",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/14/homem-que-matou-outro-durante-confraternizacao-em-campo-de-futebol-e-condenado-a-22-anos-de-prisao-em-dores-do-indaia.ghtml",
-      "hora": "Wed, 14 Oct 2026 23:18:44 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-      "hora": "Wed, 14 Oct 2026 23:18:02 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem é preso por agressão, perseguição e divulgação de registros íntimos da ex-companheira em Tomar do Geru",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/10/14/quatro-casos-violencia-contra-mulher-nesta-quarta-feira.ghtml",
-      "hora": "Wed, 14 Oct 2026 23:15:16 -0000",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/15/policia-rodoviaria-apreende-40-mil-macos-de-cigarros-contrabandeados-em-pacaembu.ghtml",
+      "hora": "Thu, 15 Oct 2026 14:18:07 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: NSC Notícias de quarta-feira, 14 de outubro de 2026",
+      "titulo": "Incêndio avança sobre terra indígena no AM; moradores relatam morte de animais",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/edicao/2026/10/14/videos-nsc-noticias-de-quarta-feira-14-de-outubro-de-2026.ghtml",
-      "hora": "Wed, 14 Oct 2026 23:12:02 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "4º Festival da Cerveja reúne shows e bebidas artesanais em Santos; veja a programação",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/culinaria-013/noticia/2026/10/14/4o-festival-da-cerveja-reune-shows-e-bebidas-artesanais-em-santos-veja-a-programacao.ghtml",
-      "hora": "Wed, 14 Oct 2026 23:10:26 -0000",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/15/incendio-avanca-sobre-terra-indigena-no-am-moradores-relatam-morte-de-animais.ghtml",
+      "hora": "Thu, 15 Oct 2026 14:15:06 -0000",
       "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Justiça considera inconstitucional fórmula de cálculo da taxa do lixo em Goiânia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/10/14/justica-considera-inconstitucional-formula-de-calculo-da-taxa-do-lixo-em-goiania.ghtml",
-      "hora": "Wed, 14 Oct 2026 23:07:41 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "CCJ do Senado aprova PEC da Segurança Pública; texto segue para votação em plenário",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/14/ccj-do-senado-aprova-pec-da-seguranca-publica-texto-segue-para-votacao-em-plenario.ghtml",
-      "hora": "Wed, 14 Oct 2026 23:07:28 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Campanhas de Lula e Flávio Bolsonaro não chegam a acordo e critérios para registro de canais podem ir a plenário",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/14/campanhas-de-lula-e-flavio-nao-chegam-a-acordo-e-criterios-para-registros-de-canais-pode-ficar-para-plenario.ghtml",
-      "hora": "Wed, 14 Oct 2026 23:06:50 -0000",
-      "tema": "brasil",
       "resumo": null
     },
     {
@@ -248,42 +248,42 @@
       "resumo": null
     },
     {
-      "titulo": "Senado vota fim da escala 6x1; senadores discursam mas placar ainda não abriu, siga em tempo real",
+      "titulo": "Mães solo celebram fim da escala 6x1: 'Estava vendo a vida dos meus filhos passar'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c617krelxj7do?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 13:53:04 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Os dilemas de empresários após fim da 6x1: 'Entendo, mas a conta não fecha'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c4gj05r3yz2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 13:49:21 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Brasil aprova maior mudança da jornada de trabalho desde 1988 ",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqdr85xvxgdro?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 01:40:41 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Como foi a votação do Senado que aprovou fim da escala 6x1: veja repercussão",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.co.uk/portuguese/live/c6gelgd1w93zt?at_medium=RSS&at_campaign=rss",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Fim da escala 6x1: o que acontecerá se a proposta for aprovada no Senado?",
+      "titulo": "Aplicativo BBC News Brasil: como baixar e receber alerta de notícias e análises",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmp3gnwvlwv1o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 14 Oct 2026 20:43:55 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "O que dizem eleitores que trocaram Lula por Flávio Bolsonaro em 2026: 'Mudei minha mentalidade' ",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq9vzkx8l48ro?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 14 Oct 2026 22:38:48 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cqe9l2z988g5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 10:26:15 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "De Eduarda Campopiano a Ana Elisa: as estratégias das 18 jovens eleitas para o Legislativo em 2026",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqm24394j9kvo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 14 Oct 2026 20:20:50 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "A impressionante descoberta do naufrágio mais antigo do mundo na costa da Turquia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmy0rk9e23r3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 14 Oct 2026 17:57:49 GMT",
-      "tema": "mundo",
       "resumo": null
     },
     {
@@ -295,67 +295,75 @@
       "resumo": null
     },
     {
-      "titulo": "Por que Flávio Bolsonaro voltou atrás sobre o fim da escala 6x1?",
+      "titulo": "'As gangues, as armas e a batalha pelo Brasil': jornal britânico destaca protagonismo da violência de facções criminosas na eleição",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjqln6grn1nyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 13 Oct 2026 20:22:58 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Ex-ministro de FHC, Pedro Parente não declara voto, mas vê em Flávio risco de concentração de poder com vitória da direita no Congresso",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmn06wpypkn8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 14 Oct 2026 14:02:57 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cqjdmzjrglv2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 12:41:56 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Manifestações de rua podem mudar os rumos do segundo turno?",
+      "titulo": "Pesquisas para presidente a 10 dias do 2º turno — o que diziam em 2018 e 2022 e o que mostram agora",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c9gkvg235r0vo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 14 Oct 2026 18:51:18 GMT",
-      "tema": "mundo",
+      "link": "https://www.bbc.com/portuguese/articles/cmx2dqy4jw91o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 13:31:04 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Quem está à frente nas pesquisas? Veja Lula x Flávio Bolsonaro no agregador da BBC",
+      "titulo": "Fim da escala 6x1 é 'vitória' e dá 'impulso eleitoral' para Lula, destaca imprensa internacional",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cvrlyj213l53o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 11:03:32 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Distância entre Flávio e Lula diminui para 2 pontos, mostra agregador de pesquisas da BBC",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 14 Oct 2026 16:08:01 GMT",
+      "hora": "Thu, 15 Oct 2026 09:30:26 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "'Exército de Lula' no WhatsApp: por que Nunes Marques suspendeu canal novamente",
+      "titulo": "O que dizem eleitores que trocaram Lula por Flávio Bolsonaro em 2026: 'Com o agro, mudei minha mentalidade' ",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c9vgrpmn26lpo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 13 Oct 2026 18:33:12 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cq9vzkx8l48ro?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 13:43:28 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Como França foi além do combate à desinformação para aumentar cobertura vacinal: 'Vale mais vacina no braço que mente convencida'",
+      "titulo": "Fim da escala 6x1 é fruto de luta dos trabalhadores, não do governo, diz sociólogo",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm62y6wlwkzgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 14 Oct 2026 10:14:45 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/ck1wv3z8epx9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 13:06:21 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Quem comanda Igreja Católica durante recuperação do papa Leão 14 após  cirurgia contra câncer?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq5ynk7rl4xzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 14 Oct 2026 19:33:17 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Papa com câncer: o que é adenocarcinoma pulmonar",
+      "titulo": "'Razão e Sensibilidade': 4 erros das adaptações de Jane Austen, segundo especialistas",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3kgq59npk0zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 14 Oct 2026 08:44:16 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Como conflitos globais viraram dor de cabeça para Trump em eleições de meio de mandato nos EUA",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6gm083z7gj9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 14 Oct 2026 10:56:00 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c862eyd6lp5wo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 09:33:35 GMT",
       "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "A impressionante descoberta do naufrágio mais antigo do mundo na costa da Turquia",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmy0rk9e23r3o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 14 Oct 2026 17:57:49 GMT",
+      "tema": "mundo",
       "resumo": null
     }
   ]
