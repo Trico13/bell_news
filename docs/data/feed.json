@@ -1,113 +1,129 @@
 {
-  "gerado_em": "2026-10-15T18:52:33.396Z",
+  "gerado_em": "2026-10-15T23:32:39.664Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 25.7,
+    "max": 27.1,
     "min": 18,
     "chuva": 90
   },
   "noticias": [
     {
-      "titulo": "acidente com morte em rio preto",
+      "titulo": "Câmeras ajudam na identificação e prisão de suspeito de furtar comércios em Rio Preto",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/15/acidente-com-morte-em-rio-preto.ghtml",
-      "hora": "Thu, 15 Oct 2026 18:43:10 -0000",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/15/cameras-ajudam-na-identificacao-e-prisao-de-suspeito-de-furtar-comercios-em-rio-preto.ghtml",
+      "hora": "Thu, 15 Oct 2026 23:18:50 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: AB1 de quinta-feira, 15 de outubro de 2026",
+      "titulo": "Incêndio em Terra Maxakali: MPMG dá 24 horas para Bertópolis fornecer água e alimentos a indígenas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/al/alagoas/edicao/2026/10/15/videos-ab1-de-quinta-feira-15-de-outubro-de-2026.ghtml",
-      "hora": "Thu, 15 Oct 2026 18:39:10 -0000",
+      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/10/15/incendio-em-terra-maxakali-mpmg-da-24-horas-para-bertopolis-fornecer-agua-e-alimentos-a-indigenas.ghtml",
+      "hora": "Thu, 15 Oct 2026 23:16:20 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Falta de água em Teresina é tema de audiência; concessionária promete melhorias em até 20 dias",
+      "titulo": "Renata Lo Prete entrevista Lula, candidato à reeleição pelo PT, nesta quinta (15)",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/10/15/audiencia-concessionaria-melhorias.ghtml",
-      "hora": "Thu, 15 Oct 2026 18:36:01 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Neta é presa por colocar fogo na casa da avó após briga por pagamento de uma conta no ES",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/sul-es/noticia/2026/10/15/neta-e-presa-por-colocar-fogo-na-casa-da-avo-apos-briga-por-pagamento-de-uma-conta-no-es.ghtml",
-      "hora": "Thu, 15 Oct 2026 18:34:46 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'OAB da Medicina': Câmara aprova medida que prevê obrigatoriedade de três provas durante o curso",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/15/oab-da-medicina-camara-aprova-medida-que-preve-obrigatoriedade-de-tres-provas-durante-o-curso.ghtml",
-      "hora": "Thu, 15 Oct 2026 18:34:04 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/ao-vivo/lula-entrevista-candidatos-presidente-segundo-turno.ghtml",
+      "hora": "Thu, 15 Oct 2026 23:14:16 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "TRE-RJ confirma vitória de Douglas Ruas no primeiro turno",
+      "titulo": "Candidata no DF, Celina Leão dá entrevista à Globo no 2º turno; veja íntegra e trechos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/15/tre-douglas-ruas.ghtml",
-      "hora": "Thu, 15 Oct 2026 18:31:41 -0000",
+      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/15/candidata-no-df-celina-leao-da-entrevista-a-globo-no-2o-turno-veja-integra-e-trechos.ghtml",
+      "hora": "Thu, 15 Oct 2026 23:13:08 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: Professora Maria do Carmo é entrevistada no Jornal do Amazonas 2ª edição",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/playlist/videos-professora-maria-do-carmo-e-entrevistada-no-jornal-do-amazonas-2-edicao.ghtml",
+      "hora": "Thu, 15 Oct 2026 23:12:37 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "TV Anhanguera entrevista nesta semana os candidatos ao governo do Tocantins no segundo turno",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/ao-vivo/entrevistas-candidatos-tocantins-segundo-turno.ghtml",
+      "hora": "Thu, 15 Oct 2026 23:09:13 -0000",
+      "tema": "entretenimento",
+      "resumo": null
+    },
+    {
+      "titulo": "Rios sobem e ultrapassam cotas de alerta após chuvas em MS",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/15/rios-sobem-e-ultrapassam-cotas-de-alerta-apos-chuvas-em-ms.ghtml",
+      "hora": "Thu, 15 Oct 2026 23:08:53 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Boa Noite Espírito Santo entrevista Lorenzo Pazolini, candidato ao governo no 2º turno",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/boa-noite-espirito-santo-entrevista-candidatos-ao-governo-no-2-turno.ghtml",
+      "hora": "Thu, 15 Oct 2026 23:08:03 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: NE2 de quinta-feira, 15 de outubro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/pernambuco/videos-ne2/playlist/videos-ne2-de-quinta-feira-15-de-outubro-de-2026.ghtml",
+      "hora": "Thu, 15 Oct 2026 23:07:56 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Fim da escala 6x1: hotel de Campinas prevê contratar até 20% mais funcionários; bares, restaurantes e comércio veem desafios",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/concursos-e-emprego/noticia/2026/10/15/fim-da-escala-6x1-hotel-de-campinas-preve-contratar-ate-20percent-mais-funcionarios-bares-restaurantes-e-comercio-veem-desafios-na-adaptacao.ghtml",
+      "hora": "Thu, 15 Oct 2026 23:07:02 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição Regiões de quinta-feira, 15 de outubro de 2026",
+      "titulo": "VÍDEOS: GR2 de quinta-feira, 15 de outubro ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/edicao/2026/10/15/videos-jornal-anhanguera-1-edicao-regioes-de-quinta-feira-15-de-outubro-de-2026.ghtml",
-      "hora": "Thu, 15 Oct 2026 18:31:21 -0000",
+      "link": "https://g1.globo.com/pe/petrolina-regiao/playlist/videos-gr2-de-quinta-feira-15-de-outubro-de-2026.ghtml",
+      "hora": "Thu, 15 Oct 2026 23:05:38 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Mulher se tranca no quarto com filha de 1 ano para se proteger do companheiro com faca, diz polícia",
+      "titulo": "VÍDEOS: DF2 de quinta-feira, 15 de outubro de 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/10/15/mulher-se-tranca-no-quarto-com-filha-de-1-ano-para-se-proteger-do-companheiro-com-faca-diz-policia.ghtml",
-      "hora": "Thu, 15 Oct 2026 18:30:40 -0000",
+      "link": "https://g1.globo.com/df/distrito-federal/videos-df2/playlist/videos-df2-de-quinta-feira-15-de-outubro-de-2026.ghtml",
+      "hora": "Thu, 15 Oct 2026 23:03:38 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Vírus do Nilo Ocidental avança na Europa, bate recorde de infecções e deixa 141 mortos em 2026",
+      "titulo": "Morre terceiro motociclista envolvido em acidente com caminhão de coleta de lixo em Aparecida de Goiânia, diz família",
       "fonte": "G1",
-      "link": "https://g1.globo.com/saude/noticia/2026/10/15/virus-do-nilo-ocidental-avanca-na-europa-bate-recorde-de-infeccoes-e-deixa-141-mortos-em-2026.ghtml",
-      "hora": "Thu, 15 Oct 2026 18:28:02 -0000",
+      "link": "https://g1.globo.com/go/goias/transito/noticia/2026/10/15/morre-terceiro-motociclista-envolvido-em-acidente-com-caminhao-de-coleta-de-lixo-em-aparecida-de-goiania.ghtml",
+      "hora": "Thu, 15 Oct 2026 23:03:19 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Feira Emprega Transporte oferece vagas de emprego e qualificação gratuita em Feira de Santana",
+      "titulo": "Conhecidos como 'saguis-caveirinha', filhotes de espécie ameaçada de extinção nascem em centro de conservação",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/15/vagas-de-emprego-na-bahia.ghtml",
-      "hora": "Thu, 15 Oct 2026 18:27:28 -0000",
-      "tema": "cultura",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/15/conhecidos-como-saguis-caveirinha-filhotes-de-especie-ameacada-de-extincao-nascem-em-centro-de-conservacao.ghtml",
+      "hora": "Thu, 15 Oct 2026 23:03:04 -0000",
+      "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Arcebispo de Santarém orienta mudar horários de missas e procissões devido ao calor extremo",
+      "titulo": "VÍDEOS: Lorenzo Pazolini é entrevistado pelo Boa Noite ES",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/15/arcebispo-de-santarem-orienta-mudar-horarios-de-missas-e-procissoes-devido-ao-calor-extremo.ghtml",
-      "hora": "Thu, 15 Oct 2026 18:24:20 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "PRF recupera duas motocicletas roubadas durante fiscalização em Caxias, no MA",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/10/15/prf-recupera-duas-motocicletas-roubadas-durante-fiscalizacao-em-caxias-no-ma.ghtml",
-      "hora": "Thu, 15 Oct 2026 18:23:35 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Corpo com marcas de tiros no tórax e nas costas é encontrado na Zona Norte de Macapá",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/10/15/corpo-com-marcas-de-tiros-no-torax-e-nas-costas-e-encontrado-na-zona-norte-de-macapa.ghtml",
-      "hora": "Thu, 15 Oct 2026 18:19:01 -0000",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/playlist/videos-lorenzo-pazolini-e-entrevistado-pelo-boa-noite-es.ghtml",
+      "hora": "Thu, 15 Oct 2026 23:02:41 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -232,27 +248,19 @@
       "resumo": null
     },
     {
-      "titulo": "Os dilemas de pequenos empresários após fim da 6x1: 'Entendo, mas a conta não fecha'",
+      "titulo": "Por que Kassio Nunes Marques virou alvo de críticas por suas decisões à frente do TSE ",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c4gj05r3yz2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 13:49:21 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Mães solo celebram fim da escala 6x1: 'Estava vendo a vida dos meus filhos passar'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c617krelxj7do?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 15:57:33 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Pesquisas a 10 dias do 2º turno — o que diziam em 2018 e 2022 e o que mostram agora",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmx2dqy4jw91o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 15:46:52 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/ckz7x0j4lx1do?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 20:11:20 GMT",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Vorcaro disse 'te amo' para Gusttavo Lima e tratava cantor como 'sócio' em bet",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6m2d4x73dz9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 20:59:27 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -260,6 +268,14 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 15 Oct 2026 18:02:16 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "'As gangues, as armas e a batalha pelo Brasil': jornal britânico destaca protagonismo da violência de facções criminosas na eleição",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqjdmzjrglv2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 12:41:56 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -280,10 +296,34 @@
       "resumo": null
     },
     {
+      "titulo": "Os dilemas de pequenos empresários após fim da 6x1: 'Entendo, mas a conta não fecha'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c4gj05r3yz2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 13:49:21 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Impacto do fim da escala 6x1 na economia: o que mostram exemplos de redução de jornada em países europeus",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6x2v01kke3zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 19:29:45 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Mães solo celebram fim da escala 6x1: 'Estava vendo a vida dos meus filhos passar'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c617krelxj7do?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 15:57:33 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Fim da escala 6x1 foi aprovado no Senado, o que acontece agora?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmp3gnwvlwv1o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 02:34:57 GMT",
+      "hora": "Thu, 15 Oct 2026 19:05:01 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -304,29 +344,6 @@
       "resumo": null
     },
     {
-      "titulo": "Como foi a votação do Senado que aprovou fim da escala 6x1: veja repercussão",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/c6gelgd1w93zt?at_medium=RSS&at_campaign=rss",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "'As gangues, as armas e a batalha pelo Brasil': jornal britânico destaca protagonismo da violência de facções criminosas na eleição",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqjdmzjrglv2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 12:41:56 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Fim da escala 6x1 é fruto de luta dos trabalhadores, não do governo, diz sociólogo",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck1wv3z8epx9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 13:06:21 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
       "titulo": "O que está por trás do fechamento de milhares de empresas na Argentina sob governo Milei",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c64g125ynezyo?at_medium=RSS&at_campaign=rss",
@@ -335,10 +352,10 @@
       "resumo": null
     },
     {
-      "titulo": "Quem comanda Igreja Católica durante recuperação do papa Leão 14 após  cirurgia contra câncer?",
+      "titulo": "A impressionante descoberta do naufrágio mais antigo do mundo na costa da Turquia",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq5ynk7rl4xzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 14 Oct 2026 19:33:17 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmy0rk9e23r3o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 14 Oct 2026 17:57:49 GMT",
       "tema": "mundo",
       "resumo": null
     },
