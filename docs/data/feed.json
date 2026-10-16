@@ -1,129 +1,121 @@
 {
-  "gerado_em": "2026-10-15T23:32:39.664Z",
+  "gerado_em": "2026-10-16T14:31:42.027Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 27.1,
-    "min": 18,
-    "chuva": 90
+    "max": 25.2,
+    "min": 16.9,
+    "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Câmeras ajudam na identificação e prisão de suspeito de furtar comércios em Rio Preto",
+      "titulo": "VÍDEO mostra carro na contramão antes de batida de frente na SP-340",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/15/cameras-ajudam-na-identificacao-e-prisao-de-suspeito-de-furtar-comercios-em-rio-preto.ghtml",
-      "hora": "Thu, 15 Oct 2026 23:18:50 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Incêndio em Terra Maxakali: MPMG dá 24 horas para Bertópolis fornecer água e alimentos a indígenas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/10/15/incendio-em-terra-maxakali-mpmg-da-24-horas-para-bertopolis-fornecer-agua-e-alimentos-a-indigenas.ghtml",
-      "hora": "Thu, 15 Oct 2026 23:16:20 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Renata Lo Prete entrevista Lula, candidato à reeleição pelo PT, nesta quinta (15)",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/ao-vivo/lula-entrevista-candidatos-presidente-segundo-turno.ghtml",
-      "hora": "Thu, 15 Oct 2026 23:14:16 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Candidata no DF, Celina Leão dá entrevista à Globo no 2º turno; veja íntegra e trechos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/15/candidata-no-df-celina-leao-da-entrevista-a-globo-no-2o-turno-veja-integra-e-trechos.ghtml",
-      "hora": "Thu, 15 Oct 2026 23:13:08 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: Professora Maria do Carmo é entrevistada no Jornal do Amazonas 2ª edição",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/playlist/videos-professora-maria-do-carmo-e-entrevistada-no-jornal-do-amazonas-2-edicao.ghtml",
-      "hora": "Thu, 15 Oct 2026 23:12:37 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "TV Anhanguera entrevista nesta semana os candidatos ao governo do Tocantins no segundo turno",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/ao-vivo/entrevistas-candidatos-tocantins-segundo-turno.ghtml",
-      "hora": "Thu, 15 Oct 2026 23:09:13 -0000",
-      "tema": "entretenimento",
-      "resumo": null
-    },
-    {
-      "titulo": "Rios sobem e ultrapassam cotas de alerta após chuvas em MS",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/15/rios-sobem-e-ultrapassam-cotas-de-alerta-apos-chuvas-em-ms.ghtml",
-      "hora": "Thu, 15 Oct 2026 23:08:53 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Boa Noite Espírito Santo entrevista Lorenzo Pazolini, candidato ao governo no 2º turno",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/boa-noite-espirito-santo-entrevista-candidatos-ao-governo-no-2-turno.ghtml",
-      "hora": "Thu, 15 Oct 2026 23:08:03 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: NE2 de quinta-feira, 15 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/videos-ne2/playlist/videos-ne2-de-quinta-feira-15-de-outubro-de-2026.ghtml",
-      "hora": "Thu, 15 Oct 2026 23:07:56 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Fim da escala 6x1: hotel de Campinas prevê contratar até 20% mais funcionários; bares, restaurantes e comércio veem desafios",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/concursos-e-emprego/noticia/2026/10/15/fim-da-escala-6x1-hotel-de-campinas-preve-contratar-ate-20percent-mais-funcionarios-bares-restaurantes-e-comercio-veem-desafios-na-adaptacao.ghtml",
-      "hora": "Thu, 15 Oct 2026 23:07:02 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: GR2 de quinta-feira, 15 de outubro ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/playlist/videos-gr2-de-quinta-feira-15-de-outubro-de-2026.ghtml",
-      "hora": "Thu, 15 Oct 2026 23:05:38 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: DF2 de quinta-feira, 15 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/videos-df2/playlist/videos-df2-de-quinta-feira-15-de-outubro-de-2026.ghtml",
-      "hora": "Thu, 15 Oct 2026 23:03:38 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Morre terceiro motociclista envolvido em acidente com caminhão de coleta de lixo em Aparecida de Goiânia, diz família",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/transito/noticia/2026/10/15/morre-terceiro-motociclista-envolvido-em-acidente-com-caminhao-de-coleta-de-lixo-em-aparecida-de-goiania.ghtml",
-      "hora": "Thu, 15 Oct 2026 23:03:19 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Conhecidos como 'saguis-caveirinha', filhotes de espécie ameaçada de extinção nascem em centro de conservação",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/15/conhecidos-como-saguis-caveirinha-filhotes-de-especie-ameacada-de-extincao-nascem-em-centro-de-conservacao.ghtml",
-      "hora": "Thu, 15 Oct 2026 23:03:04 -0000",
+      "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/10/16/video-mostra-carro-na-contramao-antes-de-batida-de-frente-na-sp-340.ghtml",
+      "hora": "Fri, 16 Oct 2026 14:16:54 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: Lorenzo Pazolini é entrevistado pelo Boa Noite ES",
+      "titulo": "Operação apreende Porsche, outros três veículos e R$ 75 mil em espécie na Grande Fortaleza",
       "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/playlist/videos-lorenzo-pazolini-e-entrevistado-pelo-boa-noite-es.ghtml",
-      "hora": "Thu, 15 Oct 2026 23:02:41 -0000",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/10/16/operacao-apreende-porsche-outros-tres-veiculos-e-r-75-mil-em-especie-na-grande-fortaleza.ghtml",
+      "hora": "Fri, 16 Oct 2026 14:16:50 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Apesar de votos a favor, apenas um senador da oposição comparece à promulgação da PEC que acaba com a escala 6x1",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/16/apesar-de-votos-a-favor-apenas-um-senador-da-oposicao-comparece-a-promulgacao-da-pec-que-acaba-com-a-escala-6x1.ghtml",
+      "hora": "Fri, 16 Oct 2026 14:16:09 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Alerta para dengue: monitoramento aponta alto risco de Aedes aegypti em três bairros de Nova Friburgo",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/16/alerta-para-dengue-monitoramento-aponta-alto-risco-de-aedes-aegypti-em-tres-bairros-de-nova-friburgo.ghtml",
+      "hora": "Fri, 16 Oct 2026 14:15:59 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Policial para viatura no meio de avenida para salvar criança que corria em meio ao trânsito de Goiânia; vídeo ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/10/16/policial-para-viatura-no-meio-de-avenida-para-salvar-crianca-que-corria-em-meio-ao-transito-de-goiania-video.ghtml",
+      "hora": "Fri, 16 Oct 2026 14:15:57 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Estudante sofre amputação após braço ficar preso em triturador de universidade em MG",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/16/estudante-sofre-amputacao-apos-braco-ficar-preso-em-triturador-de-universidade-em-mg.ghtml",
+      "hora": "Fri, 16 Oct 2026 14:15:23 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Allyson (União) é entrevistado no Inter 1",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/ao-vivo/entrevista-candidatos-rn-segundo-turno.ghtml",
+      "hora": "Fri, 16 Oct 2026 14:15:08 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Cinco pessoas são presas em operação contra venda ilegal de armas ligada a homicídio no ES",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/16/policia-faz-operacao-contra-contra-venda-ilegal-de-armas-ligada-a-homicidio-no-es.ghtml",
+      "hora": "Fri, 16 Oct 2026 14:14:59 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Moraes vota para tornar Oswaldo Eustáquio réu por associação criminosa",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/16/moraes-vota-para-tornar-oswaldo-eustaquio-reu-por-associacao-criminosa.ghtml",
+      "hora": "Fri, 16 Oct 2026 14:14:44 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Mulher de cantor com leucemia diz que está muito abalada após nova internação: 'Mexeu muito com a gente'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/10/16/mulher-de-cantor-com-leucemia-diz-que-esta-muito-abalada-apos-nova-internacao-mexeu-muito-com-a-gente.ghtml",
+      "hora": "Fri, 16 Oct 2026 14:13:08 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Cachorro morre após ser baleado por policial de folga em praça de Unaí",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/16/cachorro-morre-apos-ser-baleado-por-policial-de-folga-em-praca-de-unai.ghtml",
+      "hora": "Fri, 16 Oct 2026 14:12:01 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Assista ao Bahia Meio Dia da TV Subaé",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+      "hora": "Fri, 16 Oct 2026 14:10:47 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem é preso suspeito de cometer dois furtos em menos de 12 horas na PB",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/16/homem-e-preso-suspeito-de-cometer-dois-furtos-em-menos-de-12-horas-na-pb.ghtml",
+      "hora": "Fri, 16 Oct 2026 14:09:27 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEO: carreta carregada com madeira pega fogo e interdita a SP-250 em São Miguel Arcanjo",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/16/video-carreta-carregada-com-madeira-pega-fogo-e-interdita-a-sp-250-em-sao-miguel-arcanjo.ghtml",
+      "hora": "Fri, 16 Oct 2026 14:07:17 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -248,42 +240,42 @@
       "resumo": null
     },
     {
-      "titulo": "Por que Kassio Nunes Marques virou alvo de críticas por suas decisões à frente do TSE ",
+      "titulo": "Redução da maioridade penal: as diferenças nas propostas de Lula e Flávio Bolsonaro",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckz7x0j4lx1do?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 20:11:20 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cq4g1ep62pgyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 16 Oct 2026 11:18:30 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Vorcaro disse 'te amo' para Gusttavo Lima e tratava cantor como 'sócio' em bet",
+      "titulo": "Atirador mata crianças de 5, 7 e 11 anos em escola nos EUA; o que se sabe",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6m2d4x73dz9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 20:59:27 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cjp3gk57nzyro?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 16 Oct 2026 09:14:19 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Distância entre Flávio e Lula é de 3 pontos no agregador de pesquisas da BBC",
+      "titulo": "A crise global que Flávio Bolsonaro ou Lula terão de enfrentar se eleitos",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cv0lr33lw868o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 16 Oct 2026 08:56:12 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O que a crise da saúde britânica nos ensina: 'O Brasil foca demais na autoridade do médico'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6d93nk3vygpo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 16 Oct 2026 10:34:54 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Distância entre Flávio e Lula é de 2 pontos no agregador de pesquisas da BBC",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 18:02:16 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "'As gangues, as armas e a batalha pelo Brasil': jornal britânico destaca protagonismo da violência de facções criminosas na eleição",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqjdmzjrglv2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 12:41:56 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Aplicativo BBC News Brasil: como baixar e receber alerta de notícias e análises",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqe9l2z988g5o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 10:26:15 GMT",
+      "hora": "Fri, 16 Oct 2026 13:54:07 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -292,6 +284,30 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 04 Oct 2026 19:15:47 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Lula na Globo: o que disse o candidato à Presidência na segunda entrevista à emissora",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq4g161xg3d3o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 16 Oct 2026 02:45:31 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que Kassio Nunes Marques virou alvo de críticas por suas decisões à frente do TSE ",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ckz7x0j4lx1do?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 20:11:20 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Aplicativo BBC News Brasil: como baixar e receber alerta de notícias e análises",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqe9l2z988g5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 15 Oct 2026 10:26:15 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -312,35 +328,11 @@
       "resumo": null
     },
     {
-      "titulo": "Mães solo celebram fim da escala 6x1: 'Estava vendo a vida dos meus filhos passar'",
+      "titulo": "Amyr Klink ganha filme e explica por que não quis ajudar a filha Tamara a virar navegadora: 'História se constrói, não se herda'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c617krelxj7do?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 15:57:33 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Fim da escala 6x1 foi aprovado no Senado, o que acontece agora?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmp3gnwvlwv1o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 19:05:01 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Fim da escala 6x1 é 'vitória' e dá 'impulso eleitoral' para Lula, destaca imprensa internacional",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvrlyj213l53o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 11:03:32 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Brasil aprova maior mudança da jornada de trabalho desde 1988 ",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqdr85xvxgdro?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 01:40:41 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c90k0320l7v7o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 16 Oct 2026 09:45:09 GMT",
+      "tema": "cultura",
       "resumo": null
     },
     {
