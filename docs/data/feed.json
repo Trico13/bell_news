@@ -1,121 +1,129 @@
 {
-  "gerado_em": "2026-10-17T13:27:37.651Z",
+  "gerado_em": "2026-10-17T17:45:48.329Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 21.7,
-    "min": 15.6,
+    "max": 21.6,
+    "min": 16,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Grupo Clareou grava álbum audiovisual em show na favela da Rocinha, com o cantor Mumuzinho entre os convidados",
+      "titulo": "Deputado Paulo Duarte é internado em Campo Grande e passa por procedimentos cardíaco e cerebral",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/10/17/grupo-clareou-grava-album-audiovisual-em-show-na-favela-da-rocinha-com-o-cantor-mumuzinho-entre-os-convidados.ghtml",
-      "hora": "Sat, 17 Oct 2026 13:23:32 -0000",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/17/deputado-paulo-duarte-e-internado-em-campo-grande-e-passa-por-procedimentos-cardiaco-e-cerebral.ghtml",
+      "hora": "Sat, 17 Oct 2026 17:40:35 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Três Rios registra 21 ocorrências após 85 mm de chuva em 24 horas",
+      "titulo": "Assista aos telejornais da TV Bahia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/17/tres-rios-registra-21-ocorrencias-apos-85-mm-de-chuva-em-24-horas.ghtml",
-      "hora": "Sat, 17 Oct 2026 13:19:31 -0000",
+      "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+      "hora": "Sat, 17 Oct 2026 17:33:49 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "IFPA abre inscrições para processo seletivo com 400 vagas em Santarém; veja como se inscrever",
+      "titulo": "Cleitinho reage a projeto de Simões sobre redução do IPVA, diz que fará estudos e volta a criticar situação financeira de MG",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/17/ifpa-abre-inscricoes-para-processo-seletivo-com-400-vagas-em-santarem-veja-como-se-inscrever.ghtml",
-      "hora": "Sat, 17 Oct 2026 13:17:05 -0000",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/17/cleitinho-reage-a-projeto-reducao-ipva-mg.ghtml",
+      "hora": "Sat, 17 Oct 2026 17:33:48 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Quadrilha rende motorista e rouba carga de peças automotivas avaliadas em R$ 1,4 milhão em Jundiaí",
+      "titulo": "MPT processa diplomata aposentada e filho por trabalho análogo à escravidão em área nobre de Brasília",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/17/quadrilha-rende-motorista-e-rouba-carga-de-pecas-automotivas-avaliadas-em-r-14-milhao-em-jundiai.ghtml",
-      "hora": "Sat, 17 Oct 2026 13:16:30 -0000",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/17/mpt-processa-diplomata-aposentada-e-filho-por-trabalho-analogo-a-escravidao-em-area-nobre-de-brasilia.ghtml",
+      "hora": "Sat, 17 Oct 2026 17:33:30 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Casal que propôs R$ 30 mil por 'barriga de aluguel' é condenado por tráfico de pessoas em SC",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/17/casal-que-propos-30-mil-reais-por-barriga-de-aluguel-condenado.ghtml",
+      "hora": "Sat, 17 Oct 2026 17:33:22 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem é baleado na cabeça durante assalto perto de feira em Guarabira, na Paraíba",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/17/homem-e-baleado-na-cabeca-durante-assalto-perto-de-feira-em-guarabira-na-paraiba.ghtml",
+      "hora": "Sat, 17 Oct 2026 17:32:56 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: EPTV 1 Sul de Minas de sábado, 17 de outubro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/10/17/videos-eptv-1-sul-de-minas-de-sabado-17-de-outubro-de-2026.ghtml",
+      "hora": "Sat, 17 Oct 2026 17:31:26 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Datafolha: redução da maioridade penal tem apoio de 89% dos eleitores de Flávio e 70% dos de Lula",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/17/datafolha-reducao-da-maioridade-penal-tem-apoio-de-89percent-dos-eleitores-de-flavio-e-70percent-dos-de-lula.ghtml",
+      "hora": "Sat, 17 Oct 2026 17:26:21 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Super El Niño: evento climático similar ao de 2026 matou quase 10 mil pessoas na Paraíba há dois séculos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/17/super-el-nino-evento-climatico-similar-ao-de-2026-matou-quase-10-mil-pessoas-na-paraiba-ha-dois-seculos.ghtml",
+      "hora": "Sat, 17 Oct 2026 17:25:17 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Brasileira presa por transportar cocaína em cosméticos na Indonésia é natural do Paraná ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/10/17/brasileira-presa-por-transportar-cocaina-em-cosmeticos-na-indonesia-e-natural-do-parana.ghtml",
+      "hora": "Sat, 17 Oct 2026 17:22:29 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "‘Trilhas de Futuro’ tem mais de 5 mil vagas para cursos gratuitos em Juiz de Fora e região; confira",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/17/trilhas-de-futuro-tem-mais-de-5-mil-vagas-para-cursos-gratuitos-em-juiz-de-fora-e-regiao-confira.ghtml",
+      "hora": "Sat, 17 Oct 2026 17:20:52 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: NE1 de sábado, 17 de outubro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/pernambuco/videos-ne1/playlist/videos-ne1-de-sabado-17-de-outubro-de-2026.ghtml",
+      "hora": "Sat, 17 Oct 2026 17:19:48 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Flávio Bolsonaro faz ato com apoiadores na Avenida Dante Michelini, em Vitória, no ES",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/17/flavio-bolsonaro-faz-ato-com-apoiadores-na-avenida-dante-michelini-em-vitoria-no-es.ghtml",
+      "hora": "Sat, 17 Oct 2026 17:19:42 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Carreta com 38 toneladas de farelo de milho capota e motorista fica gravemente ferido na BR-354, em MG",
+      "titulo": "'Barato da Cozinha': aprenda a fazer quindão ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/17/carreta-com-38-toneladas-de-farelo-de-milho-capota-e-motorista-fica-gravemente-ferido-na-br-354-em-mg.ghtml",
-      "hora": "Sat, 17 Oct 2026 13:15:39 -0000",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/17/barato-da-cozinha-aprenda-a-fazer-quindao.ghtml",
+      "hora": "Sat, 17 Oct 2026 17:19:32 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Chuva e ventos fortes provocam desabamento de telhado, queda de árvore e estragos no Vale e região",
+      "titulo": "Motorista é socorrido após acidente em estrada vicinal no interior de SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/17/chuva-e-ventos-fortes-provocam-desabamento-de-telhado-queda-de-arvore-e-estragos-no-vale-e-regiao.ghtml",
-      "hora": "Sat, 17 Oct 2026 13:15:36 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Chuva causa pontos de alagamento, deslizamento de terra e queda de árvores no interior de SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/17/chuva-causa-pontos-de-alagamento-deslizamento-de-terra-e-queda-de-arvores-no-interior-de-sp.ghtml",
-      "hora": "Sat, 17 Oct 2026 13:12:48 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem era Jeová Almeida Lima Neto, filho do prefeito de São Caetano que morreu em acidente de moto",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/10/17/quem-era-jeova-almeida-lima-neto-filho-do-prefeito-de-sao-caetano-que-morreu-em-acidente-de-moto.ghtml",
-      "hora": "Sat, 17 Oct 2026 13:09:19 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "IFRN abre inscrições para cursos gratuitos de mandarim; veja como participar",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/17/ifrn-abre-inscricoes-para-cursos-gratuitos-de-mandarim-veja-como-participar.ghtml",
-      "hora": "Sat, 17 Oct 2026 13:06:19 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem de 32 anos é baleado com três tiros no peito e na barriga no bairro Maracanã",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/17/homem-de-32-anos-e-baleado-com-tres-tiros-no-peito-e-na-barriga-no-bairro-maracana.ghtml",
-      "hora": "Sat, 17 Oct 2026 13:06:15 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Agita P.A: festa de 178 anos de Pouso Alegre tem Bell Marques e Léo Santana; veja como será acesso, transporte e segurança",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/17/agita-pa-festa-de-178-anos-de-pouso-alegre-tem-bell-marques-e-leo-santana-veja-como-sera-acesso-transporte-e-seguranca.ghtml",
-      "hora": "Sat, 17 Oct 2026 13:03:56 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Defesa Civil envia alerta para celulares após piora da fumaça em Manaus",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/17/defesa-civil-envia-alerta-para-celulares-apos-piora-da-fumaca-em-manaus.ghtml",
-      "hora": "Sat, 17 Oct 2026 13:00:03 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem é preso por tráfico de drogas em Valença",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/17/homem-e-preso-por-trafico-de-drogas-em-valenca.ghtml",
-      "hora": "Sat, 17 Oct 2026 12:57:36 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Tempestade faz poste cair sobre carros e causa queda de árvores em Estiva Gerbi",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/17/tempestade-faz-poste-cair-sobre-carros-e-causa-queda-de-arvores-em-estiva-gerbi.ghtml",
-      "hora": "Sat, 17 Oct 2026 12:49:25 -0000",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/17/motorista-e-socorrido-apos-acidente-em-estrada-vicinal-no-interior-de-sp.ghtml",
+      "hora": "Sat, 17 Oct 2026 17:19:26 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -240,11 +248,27 @@
       "resumo": null
     },
     {
+      "titulo": "'No Brasil, o rico fica mais rico dormindo, e o pobre trabalha para o sistema financeiro', diz fundador da Petz",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmy83ggg2168o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 17 Oct 2026 17:27:52 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "O que a eleição de uma estreante deputada federal de 24 anos do Rio revela sobre a onda de direita no Brasil",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cwq6n967qyqvo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 17 Oct 2026 09:57:35 GMT",
       "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Prédio incendiado, 272 presos: o que está por trás de dia de protestos na França",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck0546rzg0gvo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 17 Oct 2026 17:41:35 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -256,26 +280,10 @@
       "resumo": null
     },
     {
-      "titulo": "Senador do PL promete dinheiro de emendas a cidades com mais votos em Flávio: especialistas veem indício de crime eleitoral",
+      "titulo": "'Não há regras': a nova estratégia de Putin que pretende impossibilitar a vida nas cidades ucranianas",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm4g1888n52eo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 16 Oct 2026 20:00:48 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Flávio Bolsonaro na Globo: o que disse o candidato à Presidência na 2ª entrevista à emissora",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmly0n1qdqr4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 17 Oct 2026 02:45:36 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "A 'história esquecida' dos vikings que chegaram à América 500 anos antes de Cristóvão Colombo",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cke8r42r4d58o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 17 Oct 2026 13:23:23 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/ckd7qvj2n9v3o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 17 Oct 2026 16:19:41 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -288,10 +296,18 @@
       "resumo": null
     },
     {
+      "titulo": "Senador do PL promete dinheiro de emendas a cidades com mais votos em Flávio: especialistas veem indício de crime eleitoral",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm4g1888n52eo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 16 Oct 2026 20:00:48 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Debate na Band no segundo turno: o que esperar do primeiro confronto entre Lula e Flávio Bolsonaro ",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cwkg57dyvrn3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 16 Oct 2026 22:03:45 GMT",
+      "hora": "Sat, 17 Oct 2026 15:33:57 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -312,19 +328,19 @@
       "resumo": null
     },
     {
-      "titulo": "Lula na Globo: o que disse o candidato à Presidência na segunda entrevista à emissora",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq4g161xg3d3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 16 Oct 2026 02:45:31 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
       "titulo": "Aplicativo BBC News Brasil: como baixar e receber alerta de notícias e análises",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cqe9l2z988g5o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 15 Oct 2026 10:26:15 GMT",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "A 'história esquecida' dos vikings que chegaram à América 500 anos antes de Cristóvão Colombo",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cke8r42r4d58o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 17 Oct 2026 13:23:23 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -348,14 +364,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c69w40gp9r1qo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 16 Oct 2026 18:57:58 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "O que está por trás do fechamento de milhares de empresas na Argentina sob governo Milei",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c64g125ynezyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 13 Oct 2026 10:16:01 GMT",
       "tema": "mundo",
       "resumo": null
     }
