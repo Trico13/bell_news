@@ -1,129 +1,121 @@
 {
-  "gerado_em": "2026-10-16T23:14:43.785Z",
+  "gerado_em": "2026-10-17T13:27:37.651Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 25.8,
-    "min": 17.3,
+    "max": 21.7,
+    "min": 15.6,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Lula promete concluir duplicação da BR-381 e transformar ‘Estrada da Morte’ em ‘Estrada da Vida’ no Vale do Aço",
+      "titulo": "Grupo Clareou grava álbum audiovisual em show na favela da Rocinha, com o cantor Mumuzinho entre os convidados",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/vales-mg/eleicoes/2026/noticia/2026/10/16/lula-promete-concluir-duplicacao-da-br-381-e-transformar-estrada-da-morte-em-estrada-da-vida-no-vale-do-aco.ghtml",
-      "hora": "Fri, 16 Oct 2026 22:58:34 -0000",
+      "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/10/17/grupo-clareou-grava-album-audiovisual-em-show-na-favela-da-rocinha-com-o-cantor-mumuzinho-entre-os-convidados.ghtml",
+      "hora": "Sat, 17 Oct 2026 13:23:32 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Temporal alaga creche municipal e força liberação antecipada de alunos em Nova Friburgo",
+      "titulo": "Três Rios registra 21 ocorrências após 85 mm de chuva em 24 horas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/16/temporal-alaga-creche-municipal-e-forca-liberacao-antecipada-de-alunos-em-nova-friburgo.ghtml",
-      "hora": "Fri, 16 Oct 2026 22:57:39 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Irrigação transformou fruticultura, mas água continua no centro das preocupações",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/especial-publicitario/seiva-do-vale/seiva-do-vale/noticia/2026/10/16/irrigacao-transformou-fruticultura-mas-agua-continua-no-centro-das-preocupacoes.ghtml",
-      "hora": "Fri, 16 Oct 2026 22:56:56 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "El Niño 2026 evidencia importância estratégica da irrigação no Vale do São Francisco",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/especial-publicitario/seiva-do-vale/seiva-do-vale/noticia/2026/10/16/el-nino-2026-evidencia-importancia-estrategica-da-irrigacao-no-vale-do-sao-francisco.ghtml",
-      "hora": "Fri, 16 Oct 2026 22:56:51 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Intensidade do El Niño 2026 preocupa porque deve ser histórica",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/especial-publicitario/seiva-do-vale/seiva-do-vale/noticia/2026/10/16/intensidade-do-el-nino-2026-preocupa-porque-deve-ser-historica.ghtml",
-      "hora": "Fri, 16 Oct 2026 22:56:46 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "El Niño de 2026 reacende alerta para produtores do Vale do São\nFrancisco",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/especial-publicitario/seiva-do-vale/seiva-do-vale/noticia/2026/10/16/el-nino-de-2026-reacende-alerta-para-produtores-do-vale-do-sao-francisco.ghtml",
-      "hora": "Fri, 16 Oct 2026 22:56:39 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Lideranças políticas de Sergipe se mobilizam em apoio a Lula e Flávio no segundo turno",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/10/16/liderancas-politicas-sergipe-segundo-turno.ghtml",
-      "hora": "Fri, 16 Oct 2026 22:56:30 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Justiça Federal da PB condena duas pessoas por racismo contra nordestinos em rede social",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/16/justica-federal-da-pb-condena-duas-pessoas-por-racismo-contra-nordestinos-em-rede-social.ghtml",
-      "hora": "Fri, 16 Oct 2026 22:56:05 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Justiça de SP nega a advogado que viajou com Flávio Bolsonaro em jatinho de Vorcaro devolução de R$ 163 milhões perdidos em bets",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/16/justica-de-sp-nega-a-advogado-que-viajou-com-flavio-bolsonaro-em-jatinho-de-vorcaro-devolucao-de-r-163-milhoes-perdidos-em-bets.ghtml",
-      "hora": "Fri, 16 Oct 2026 22:55:25 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Empresário amazonense Victor Simões é uma das vítimas da queda de avião no interior de SP; veja quem era",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/16/empresario-amazonense-victor-simoes-e-uma-das-vitimas-da-queda-de-aviao-no-interior-de-sp-veja-quem-era.ghtml",
-      "hora": "Fri, 16 Oct 2026 22:53:22 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: EPTV 2 Sul de Minas de sexta-feira, 16 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/10/16/videos-eptv-2-sul-de-minas-de-sexta-feira-16-de-outubro-de-2026.ghtml",
-      "hora": "Fri, 16 Oct 2026 22:53:06 -0000",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/17/tres-rios-registra-21-ocorrencias-apos-85-mm-de-chuva-em-24-horas.ghtml",
+      "hora": "Sat, 17 Oct 2026 13:19:31 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Porto de Santos terá dois novos berços de atracação na Alemoa para granéis líquidos; entenda",
+      "titulo": "IFPA abre inscrições para processo seletivo com 400 vagas em Santarém; veja como se inscrever",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2026/10/16/porto-santos-novos-bercos-atracacao.ghtml",
-      "hora": "Fri, 16 Oct 2026 22:52:20 -0000",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/17/ifpa-abre-inscricoes-para-processo-seletivo-com-400-vagas-em-santarem-veja-como-se-inscrever.ghtml",
+      "hora": "Sat, 17 Oct 2026 13:17:05 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Quadrilha rende motorista e rouba carga de peças automotivas avaliadas em R$ 1,4 milhão em Jundiaí",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/17/quadrilha-rende-motorista-e-rouba-carga-de-pecas-automotivas-avaliadas-em-r-14-milhao-em-jundiai.ghtml",
+      "hora": "Sat, 17 Oct 2026 13:16:30 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Flávio Bolsonaro visita sede da Globo no Rio",
+      "titulo": "Carreta com 38 toneladas de farelo de milho capota e motorista fica gravemente ferido na BR-354, em MG",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/16/flavio-bolsonaro-visita-sede-da-globo-no-rio.ghtml",
-      "hora": "Fri, 16 Oct 2026 22:52:15 -0000",
+      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/17/carreta-com-38-toneladas-de-farelo-de-milho-capota-e-motorista-fica-gravemente-ferido-na-br-354-em-mg.ghtml",
+      "hora": "Sat, 17 Oct 2026 13:15:39 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Festa do Pequi em Goiânia terá disputa para eleger o maior roedor de pequi do Brasil",
+      "titulo": "Chuva e ventos fortes provocam desabamento de telhado, queda de árvore e estragos no Vale e região",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/10/16/festa-do-pequi-em-goiania-tera-disputa-para-eleger-o-maior-roedor-de-pequi-do-brasil.ghtml",
-      "hora": "Fri, 16 Oct 2026 22:51:41 -0000",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/17/chuva-e-ventos-fortes-provocam-desabamento-de-telhado-queda-de-arvore-e-estragos-no-vale-e-regiao.ghtml",
+      "hora": "Sat, 17 Oct 2026 13:15:36 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Chuva causa pontos de alagamento, deslizamento de terra e queda de árvores no interior de SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/17/chuva-causa-pontos-de-alagamento-deslizamento-de-terra-e-queda-de-arvores-no-interior-de-sp.ghtml",
+      "hora": "Sat, 17 Oct 2026 13:12:48 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Pacientes com câncer relatam tratamento interrompido por falta de oncologistas no Hospital do Andaraí",
+      "titulo": "Quem era Jeová Almeida Lima Neto, filho do prefeito de São Caetano que morreu em acidente de moto",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/16/pacientes-com-cancer-relatam-tratamento-interrompido-por-falta-de-oncologistas-no-hospital-do-andarai.ghtml",
-      "hora": "Fri, 16 Oct 2026 22:51:05 -0000",
+      "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/10/17/quem-era-jeova-almeida-lima-neto-filho-do-prefeito-de-sao-caetano-que-morreu-em-acidente-de-moto.ghtml",
+      "hora": "Sat, 17 Oct 2026 13:09:19 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "IFRN abre inscrições para cursos gratuitos de mandarim; veja como participar",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/17/ifrn-abre-inscricoes-para-cursos-gratuitos-de-mandarim-veja-como-participar.ghtml",
+      "hora": "Sat, 17 Oct 2026 13:06:19 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem de 32 anos é baleado com três tiros no peito e na barriga no bairro Maracanã",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/17/homem-de-32-anos-e-baleado-com-tres-tiros-no-peito-e-na-barriga-no-bairro-maracana.ghtml",
+      "hora": "Sat, 17 Oct 2026 13:06:15 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Agita P.A: festa de 178 anos de Pouso Alegre tem Bell Marques e Léo Santana; veja como será acesso, transporte e segurança",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/17/agita-pa-festa-de-178-anos-de-pouso-alegre-tem-bell-marques-e-leo-santana-veja-como-sera-acesso-transporte-e-seguranca.ghtml",
+      "hora": "Sat, 17 Oct 2026 13:03:56 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Defesa Civil envia alerta para celulares após piora da fumaça em Manaus",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/17/defesa-civil-envia-alerta-para-celulares-apos-piora-da-fumaca-em-manaus.ghtml",
+      "hora": "Sat, 17 Oct 2026 13:00:03 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem é preso por tráfico de drogas em Valença",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/17/homem-e-preso-por-trafico-de-drogas-em-valenca.ghtml",
+      "hora": "Sat, 17 Oct 2026 12:57:36 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Tempestade faz poste cair sobre carros e causa queda de árvores em Estiva Gerbi",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/17/tempestade-faz-poste-cair-sobre-carros-e-causa-queda-de-arvores-em-estiva-gerbi.ghtml",
+      "hora": "Sat, 17 Oct 2026 12:49:25 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -248,6 +240,22 @@
       "resumo": null
     },
     {
+      "titulo": "O que a eleição de uma estreante deputada federal de 24 anos do Rio revela sobre a onda de direita no Brasil",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwq6n967qyqvo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 17 Oct 2026 09:57:35 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que Trump suspendeu várias sanções contra a Rússia em meio a tensões com Ucrânia",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmdxw58v17gno?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 17 Oct 2026 12:50:05 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "Senador do PL promete dinheiro de emendas a cidades com mais votos em Flávio: especialistas veem indício de crime eleitoral",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm4g1888n52eo?at_medium=RSS&at_campaign=rss",
@@ -256,35 +264,19 @@
       "resumo": null
     },
     {
-      "titulo": "Como PF e PGR mapeiam suposta rede de exploração sexual de Vorcaro: 'Voo das kengas é para sair de manhã'",
+      "titulo": "Flávio Bolsonaro na Globo: o que disse o candidato à Presidência na 2ª entrevista à emissora",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmpwgqzpdl5qo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 16 Oct 2026 18:55:42 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmly0n1qdqr4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 17 Oct 2026 02:45:36 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "A 'história esquecida' dos vikings que chegaram à América 500 anos antes de Cristóvão Colombo",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cke8r42r4d58o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 17 Oct 2026 13:23:23 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Redução da maioridade penal: as diferenças nas propostas de Lula e Flávio Bolsonaro",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq4g1ep62pgyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 16 Oct 2026 11:18:30 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "A crise global que Flávio Bolsonaro ou Lula terão de enfrentar se eleitos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cv0lr33lw868o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 16 Oct 2026 08:56:12 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "O que crise da saúde britânica nos ensina: 'Brasil foca demais na autoridade do médico'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6d93nk3vygpo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 16 Oct 2026 10:34:54 GMT",
-      "tema": "brasil",
       "resumo": null
     },
     {
@@ -304,19 +296,19 @@
       "resumo": null
     },
     {
-      "titulo": "Distância entre Flávio e Lula é de 2 pontos no agregador de pesquisas da BBC",
+      "titulo": "Distância entre Flávio e Lula é de 3 pontos no agregador de pesquisas da BBC",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 16 Oct 2026 13:54:07 GMT",
+      "hora": "Sat, 17 Oct 2026 09:54:20 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Fim da escala 6x 1 vira lei: os próximo passos e prazos",
+      "titulo": "Redução da maioridade penal: as diferenças nas propostas de Lula e Flávio Bolsonaro",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cxvgd8qe92vlo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 16 Oct 2026 15:40:08 GMT",
-      "tema": "mundo",
+      "link": "https://www.bbc.com/portuguese/articles/cq4g1ep62pgyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 16 Oct 2026 11:18:30 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
