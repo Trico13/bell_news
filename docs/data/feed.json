@@ -1,129 +1,113 @@
 {
-  "gerado_em": "2026-10-17T17:45:48.329Z",
+  "gerado_em": "2026-10-17T22:53:17.277Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 21.6,
-    "min": 16,
+    "max": 22,
+    "min": 15.7,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Deputado Paulo Duarte é internado em Campo Grande e passa por procedimentos cardíaco e cerebral",
+      "titulo": "Assista ao Boa Noite Espírito Santo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/17/deputado-paulo-duarte-e-internado-em-campo-grande-e-passa-por-procedimentos-cardiaco-e-cerebral.ghtml",
-      "hora": "Sat, 17 Oct 2026 17:40:35 -0000",
-      "tema": "cultura",
+      "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-boa-noite-espirito-santo.ghtml",
+      "hora": "Sat, 17 Oct 2026 22:45:52 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Manifestantes fazem ato pró-Lula em BH",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/17/manifestantes-fazem-ato-pro-lula-em-bh.ghtml",
+      "hora": "Sat, 17 Oct 2026 22:44:10 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
       "titulo": "Assista aos telejornais da TV Bahia",
       "fonte": "G1",
       "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
-      "hora": "Sat, 17 Oct 2026 17:33:49 -0000",
+      "hora": "Sat, 17 Oct 2026 22:43:35 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Cleitinho reage a projeto de Simões sobre redução do IPVA, diz que fará estudos e volta a criticar situação financeira de MG",
+      "titulo": "Depois de Lula, Flávio Bolsonaro diz ser prejudicado pela Meta e pede para TSE proibir impulsionamento de posts negativos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/17/cleitinho-reage-a-projeto-reducao-ipva-mg.ghtml",
-      "hora": "Sat, 17 Oct 2026 17:33:48 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "MPT processa diplomata aposentada e filho por trabalho análogo à escravidão em área nobre de Brasília",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/17/mpt-processa-diplomata-aposentada-e-filho-por-trabalho-analogo-a-escravidao-em-area-nobre-de-brasilia.ghtml",
-      "hora": "Sat, 17 Oct 2026 17:33:30 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Casal que propôs R$ 30 mil por 'barriga de aluguel' é condenado por tráfico de pessoas em SC",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/17/casal-que-propos-30-mil-reais-por-barriga-de-aluguel-condenado.ghtml",
-      "hora": "Sat, 17 Oct 2026 17:33:22 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem é baleado na cabeça durante assalto perto de feira em Guarabira, na Paraíba",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/17/homem-e-baleado-na-cabeca-durante-assalto-perto-de-feira-em-guarabira-na-paraiba.ghtml",
-      "hora": "Sat, 17 Oct 2026 17:32:56 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: EPTV 1 Sul de Minas de sábado, 17 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/10/17/videos-eptv-1-sul-de-minas-de-sabado-17-de-outubro-de-2026.ghtml",
-      "hora": "Sat, 17 Oct 2026 17:31:26 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Datafolha: redução da maioridade penal tem apoio de 89% dos eleitores de Flávio e 70% dos de Lula",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/17/datafolha-reducao-da-maioridade-penal-tem-apoio-de-89percent-dos-eleitores-de-flavio-e-70percent-dos-de-lula.ghtml",
-      "hora": "Sat, 17 Oct 2026 17:26:21 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Super El Niño: evento climático similar ao de 2026 matou quase 10 mil pessoas na Paraíba há dois séculos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/17/super-el-nino-evento-climatico-similar-ao-de-2026-matou-quase-10-mil-pessoas-na-paraiba-ha-dois-seculos.ghtml",
-      "hora": "Sat, 17 Oct 2026 17:25:17 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Brasileira presa por transportar cocaína em cosméticos na Indonésia é natural do Paraná ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/10/17/brasileira-presa-por-transportar-cocaina-em-cosmeticos-na-indonesia-e-natural-do-parana.ghtml",
-      "hora": "Sat, 17 Oct 2026 17:22:29 -0000",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/17/depois-de-lula-flavio-bolsonaro-diz-ser-prejudicado-pela-meta-e-pede-para-tse-proibir-impulsionamento-de-posts-negativos.ghtml",
+      "hora": "Sat, 17 Oct 2026 22:42:12 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "‘Trilhas de Futuro’ tem mais de 5 mil vagas para cursos gratuitos em Juiz de Fora e região; confira",
+      "titulo": "Homem é abordado em blitz da PM e preso por porte ilegal de arma no PI",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/17/trilhas-de-futuro-tem-mais-de-5-mil-vagas-para-cursos-gratuitos-em-juiz-de-fora-e-regiao-confira.ghtml",
-      "hora": "Sat, 17 Oct 2026 17:20:52 -0000",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/10/17/preso-arma-blitz.ghtml",
+      "hora": "Sat, 17 Oct 2026 22:40:29 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: NE1 de sábado, 17 de outubro de 2026",
+      "titulo": "VÍDEOS: GR2 de sábado, 17 de outubro de 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/videos-ne1/playlist/videos-ne1-de-sabado-17-de-outubro-de-2026.ghtml",
-      "hora": "Sat, 17 Oct 2026 17:19:48 -0000",
+      "link": "https://g1.globo.com/pe/petrolina-regiao/edicao/2026/10/17/videos-gr2-de-sabado-17-de-outubro-de-2026.ghtml",
+      "hora": "Sat, 17 Oct 2026 22:37:47 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Flávio Bolsonaro faz ato com apoiadores na Avenida Dante Michelini, em Vitória, no ES",
+      "titulo": "Porangaba reabre creche que estava com aulas suspensas após surto de síndrome de mão-pé-boca",
       "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/17/flavio-bolsonaro-faz-ato-com-apoiadores-na-avenida-dante-michelini-em-vitoria-no-es.ghtml",
-      "hora": "Sat, 17 Oct 2026 17:19:42 -0000",
-      "tema": "sp",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/17/porangaba-reabre-creche-que-estava-com-aulas-suspensas-apos-surto-de-sindrome-de-mao-pe-boca.ghtml",
+      "hora": "Sat, 17 Oct 2026 22:37:30 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "'Barato da Cozinha': aprenda a fazer quindão ",
+      "titulo": "Homem é socorrido com ferimentos graves após ser esfaqueado em praça no interior de SP ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/17/barato-da-cozinha-aprenda-a-fazer-quindao.ghtml",
-      "hora": "Sat, 17 Oct 2026 17:19:32 -0000",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/17/homem-e-socorrido-com-ferimentos-graves-apos-ser-esfaqueado-em-praca-no-interior-de-sp.ghtml",
+      "hora": "Sat, 17 Oct 2026 22:33:52 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Corredor fica gravemente ferido ao ser atropelado por carro que desviava de caminhão em ultrapassagem na MG-235",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/17/corredor-fica-gravemente-ferido-ao-ser-atropelado-por-carro-que-desviava-de-caminhao-em-ultrapassagem-na-mg-235.ghtml",
+      "hora": "Sat, 17 Oct 2026 22:31:53 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Filha de FHC, ex-ministro de Temer, autor de pedido de impeachment de Dilma e juristas assinam carta pela reeleição de Lula",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/17/carta-apoio-reeleicao-lula-alckmin.ghtml",
+      "hora": "Sat, 17 Oct 2026 22:11:40 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Motorista é socorrido após acidente em estrada vicinal no interior de SP",
+      "titulo": "Círio 2026: Ciclo Romaria e Romaria da Juventude levam milhares de devotos às ruas de Belém",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/17/motorista-e-socorrido-apos-acidente-em-estrada-vicinal-no-interior-de-sp.ghtml",
-      "hora": "Sat, 17 Oct 2026 17:19:26 -0000",
+      "link": "https://g1.globo.com/pa/para/cirio-de-nazare/noticia/2026/10/17/cirio-de-nazare-2026-ciclo-romaria-e-romaria-da-juventude-levam-milhares-de-devotos-as-ruas-de-belem.ghtml",
+      "hora": "Sat, 17 Oct 2026 22:10:09 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Caminhão carregado de madeira bate na lateral de ônibus ao descer serra, tomba e atinge carro no Paraná",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/17/caminhao-madeira-tomba-atinge-carro-parana.ghtml",
+      "hora": "Sat, 17 Oct 2026 22:06:21 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Duas crianças ficam feridas após motorista invadir a contramão em Boa Vista",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/10/17/duas-criancas-ficam-feridas-apos-motorista-invadir-a-contramao-em-boa-vista.ghtml",
+      "hora": "Sat, 17 Oct 2026 22:05:24 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -248,15 +232,31 @@
       "resumo": null
     },
     {
-      "titulo": "'No Brasil, o rico fica mais rico dormindo, e o pobre trabalha para o sistema financeiro', diz fundador da Petz",
+      "titulo": "'No Brasil, rico fica mais rico dormindo, e pobre trabalha para pagar juros', diz fundador da Petz",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmy83ggg2168o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 17 Oct 2026 17:27:52 GMT",
+      "hora": "Sat, 17 Oct 2026 18:25:44 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "O que a eleição de uma estreante deputada federal de 24 anos do Rio revela sobre a onda de direita no Brasil",
+      "titulo": "Como a relação estratégica entre Cuba e Venezuela enfraqueceu após a captura de Maduro",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c5ev3g2rmm42o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 17 Oct 2026 21:50:56 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que os EUA estão retomando o pelotão de fuzilamento como método de execução",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c9e8l387mn57o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 17 Oct 2026 20:38:56 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "O que a eleição da deputada federal mais jovem do Rio revela sobre a onda de direita no Brasil",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cwq6n967qyqvo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 17 Oct 2026 09:57:35 GMT",
@@ -264,26 +264,10 @@
       "resumo": null
     },
     {
-      "titulo": "Prédio incendiado, 272 presos: o que está por trás de dia de protestos na França",
+      "titulo": "Prédio incendiado, mais de mil presos: o que está por trás de dia de protestos na França",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/ck0546rzg0gvo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 17 Oct 2026 17:41:35 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que Trump suspendeu várias sanções contra a Rússia em meio a tensões com Ucrânia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmdxw58v17gno?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 17 Oct 2026 12:50:05 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "'Não há regras': a nova estratégia de Putin que pretende impossibilitar a vida nas cidades ucranianas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckd7qvj2n9v3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 17 Oct 2026 16:19:41 GMT",
+      "hora": "Sat, 17 Oct 2026 22:41:03 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -296,19 +280,19 @@
       "resumo": null
     },
     {
+      "titulo": "Os desafios do SUS — e o que crise do sistema de saúde britânico pode ensinar: 'No Brasil, tudo ainda é muito focado no médico como autoridade final'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6d93nk3vygpo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 16 Oct 2026 10:34:54 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "Senador do PL promete dinheiro de emendas a cidades com mais votos em Flávio: especialistas veem indício de crime eleitoral",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm4g1888n52eo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 16 Oct 2026 20:00:48 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Debate na Band no segundo turno: o que esperar do primeiro confronto entre Lula e Flávio Bolsonaro ",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwkg57dyvrn3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 17 Oct 2026 15:33:57 GMT",
-      "tema": "brasil",
       "resumo": null
     },
     {
@@ -320,10 +304,10 @@
       "resumo": null
     },
     {
-      "titulo": "Redução da maioridade penal: as diferenças nas propostas de Lula e Flávio Bolsonaro",
+      "titulo": "Debate na Band no segundo turno: o que esperar do primeiro confronto entre Lula e Flávio Bolsonaro ",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq4g1ep62pgyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 16 Oct 2026 11:18:30 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cwkg57dyvrn3o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 17 Oct 2026 15:33:57 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -336,6 +320,14 @@
       "resumo": null
     },
     {
+      "titulo": "O que as imagens de uma elefanta carregando um filhote morto revelam sobre o luto dos animais",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c63r583p3pw4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 17 Oct 2026 19:13:41 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "A 'história esquecida' dos vikings que chegaram à América 500 anos antes de Cristóvão Colombo",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cke8r42r4d58o?at_medium=RSS&at_campaign=rss",
@@ -344,26 +336,18 @@
       "resumo": null
     },
     {
+      "titulo": "Por que Trump suspendeu várias sanções contra a Rússia em meio a tensões com Ucrânia",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmdxw58v17gno?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 17 Oct 2026 12:50:05 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "Atirador mata crianças de 5, 7 e 11 anos em escola nos EUA; o que se sabe",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cjp3gk57nzyro?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 16 Oct 2026 09:14:19 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Pai de Tamara Klink explica por que não quis ajudar filha a virar navegadora: 'História se constrói, não se herda'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c90k0320l7v7o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 16 Oct 2026 21:56:23 GMT",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "'Óculos pervertidos': versão sem câmera poderá salvar o produto da Meta?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c69w40gp9r1qo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 16 Oct 2026 18:57:58 GMT",
       "tema": "mundo",
       "resumo": null
     }
