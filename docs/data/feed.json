@@ -1,122 +1,130 @@
 {
-  "gerado_em": "2026-10-18T13:46:04.532Z",
+  "gerado_em": "2026-10-18T17:49:50.887Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 23.9,
+    "max": 24.1,
     "min": 14.8,
-    "chuva": 41
+    "chuva": 57
   },
   "noticias": [
     {
-      "titulo": "Homem de 36 anos é morto a facadas no Centro de Santarém",
+      "titulo": "Caminhão tomba após motorista fugir de abordagem policial em rodovia de SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/18/homem-de-36-anos-e-morto-a-facadas-no-centro-de-santarem.ghtml",
-      "hora": "Sun, 18 Oct 2026 13:28:18 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-      "hora": "Sun, 18 Oct 2026 13:27:42 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Fortaleza terá ônibus gratuito e frota reforçada para o dia de votação no segundo turno das eleições",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/18/onibus-gratuito-fortaleza-eleicoes-segundo-turno.ghtml",
-      "hora": "Sun, 18 Oct 2026 13:26:33 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Cartaz da namorada, cachorrinha e prova em família: candidatos ganham incentivo para 1ª fase da Unicamp 2027",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/10/18/cartaz-namorada-cachorrinha-prova-familia-candidatos-ganham-incentivo-unicamp-2027.ghtml",
-      "hora": "Sun, 18 Oct 2026 13:24:46 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Carros de luxo formam fila e impressionam em Goiânia; vídeo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/10/18/carros-de-luxo-formam-fila-e-impressionam-em-goiania-video.ghtml",
-      "hora": "Sun, 18 Oct 2026 13:23:22 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Trump diz que a França 'está em chamas' e 'destruída' pela imigração",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/18/trump-diz-que-a-franca-esta-em-chamas-e-destruida-pela-imigracao.ghtml",
-      "hora": "Sun, 18 Oct 2026 13:18:25 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Alerta de tempestade, seca e incêndio na BR-135: veja as notícias mais lidas da semana",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/18/alerta-de-tempestade-seca-e-incendio-na-br-135-veja-as-noticias-mais-lidas-da-semana.ghtml",
-      "hora": "Sun, 18 Oct 2026 13:18:25 -0000",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/18/caminhao-tomba-apos-motorista-fugir-de-abordagem-policial-em-rodovia-de-sp.ghtml",
+      "hora": "Sun, 18 Oct 2026 17:38:17 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Área onde funcionava lixão recebe crianças para aulas de educação ambiental em São Luís, no MA ",
+      "titulo": "Cidade do interior da PB produz mais de 40 mil peças de roupa por semana e movimenta economia local: ‘Somos profissionais na costura’, diz costureira",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/10/18/area-onde-funcionava-lixao-recebe-criancas-para-aulas-de-educacao-ambiental-em-sao-luis-no-ma.ghtml",
-      "hora": "Sun, 18 Oct 2026 13:17:35 -0000",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/18/cidade-do-interior-da-pb-produz-mais-de-40-mil-pecas-de-roupa-por-semana-e-movimenta-economia-local-somos-profissionais-na-costura-diz-costureira.ghtml",
+      "hora": "Sun, 18 Oct 2026 17:37:55 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Unicamp 2027: portões fecham para aplicação das provas da 1ª fase do vestibular",
+      "titulo": "Mega-Sena: apostas de Goiás acertam cinco números e levam quase R$ 1 milhão ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/10/18/mega-sena-apostas-de-goias-acertam-cinco-numeros-e-levam-quase-r-1-milhao.ghtml",
+      "hora": "Sun, 18 Oct 2026 17:36:40 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Integrantes de 'Rebelde' lamentam morte de Lua Blanco ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pop-arte/noticia/2026/10/18/integrantes-de-rebelde-lamentam-morte-de-lua-blanco.ghtml",
+      "hora": "Sun, 18 Oct 2026 17:36:23 -0000",
+      "tema": "entretenimento",
+      "resumo": null
+    },
+    {
+      "titulo": "Oposição venezuelana reafirma liderança política de María Corina Machado",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/18/oposicao-venezuelana-ratifica-a-nobel-machado-como-lider-politica.ghtml",
+      "hora": "Sun, 18 Oct 2026 17:36:09 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Vestibular Unicamp: acompanhe ao vivo a resolução comentada da prova",
       "fonte": "G1",
       "link": "https://g1.globo.com/sp/campinas-regiao/educacao/ao-vivo/unicamp-2027-correcao-ao-vivo-1-fase.ghtml",
-      "hora": "Sun, 18 Oct 2026 13:12:56 -0000",
+      "hora": "Sun, 18 Oct 2026 17:35:07 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Jovem troca o sonho das quadras pela sala de aula e busca vaga em Educação Física na Unicamp",
+      "titulo": "Estiagem em Santarém afeta mais de 6 mil famílias e seca lagos na região do Tapará",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/educacao/noticia/2026/10/18/jovem-troca-o-sonho-das-quadras-pela-sala-de-aula-e-busca-vaga-em-educacao-fisica-na-unicamp.ghtml",
-      "hora": "Sun, 18 Oct 2026 13:12:00 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Incêndio em carro deixa uma pessoa ferida na rodovia Mogi-Bertioga, em SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/18/incendio-em-carro-deixa-uma-pessoa-ferida-na-rodovia-mogi-bertioga-em-sp.ghtml",
-      "hora": "Sun, 18 Oct 2026 13:08:07 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Jovem de 22 anos morre após bater moto em canteiro central no interior do RN",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/18/jovem-de-22-anos-morre-apos-bater-moto-em-canteiro-central-no-interior-do-rn.ghtml",
-      "hora": "Sun, 18 Oct 2026 13:07:22 -0000",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/18/estiagem-em-santarem-afeta-mais-de-6-mil-familias-e-seca-lagos-na-regiao-do-tapara.ghtml",
+      "hora": "Sun, 18 Oct 2026 17:32:27 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Turista alemão morre afogado em praia de Salvador após quase uma hora de tentativa de reanimação",
+      "titulo": "INB abre processo seletivo com salários de até R$ 8,3 mil em Resende",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/18/turista-afogado-em-salvador.ghtml",
-      "hora": "Sun, 18 Oct 2026 13:02:16 -0000",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/18/inb-abre-processo-seletivo-com-salarios-de-ate-r-83-mil-em-resende.ghtml",
+      "hora": "Sun, 18 Oct 2026 17:31:27 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "No ápice, ato de Flávio Bolsonaro na Paulista reúne 71,9 mil pessoas, segundo metodologia da USP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/18/no-apice-ato-de-flavio-bolsonaro-na-av-paulista-reune-719-mil-pessoas-segundo-metodologia-da-usp.ghtml",
+      "hora": "Sun, 18 Oct 2026 17:24:43 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Idosa de 84 anos é amarrada, amordaçada e agredida durante tentativa de roubo dentro de casa no interior de SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/18/idosa-de-84-anos-e-amarrada-amordacada-e-agredida-durante-tentativa-de-roubo-dentro-de-casa-no-interior-de-sp.ghtml",
+      "hora": "Sun, 18 Oct 2026 17:17:13 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Após morte de peixes, equipes de saúde investigam possível intoxicação de moradores na zona rural de São Luís",
+      "titulo": "Unicamp 2027: com 6,38% de ausentes, 1ª fase tem a menor  abstenção em 16 anos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/10/18/apos-morte-de-peixes-equipes-de-saude-investigam-possivel-intoxicacao-na-zona-rural-de-sao-luis.ghtml",
-      "hora": "Sun, 18 Oct 2026 13:01:06 -0000",
+      "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/10/18/unicamp-2027-com-638percent-de-ausentes-1a-fase-tem-a-menor-abstencao-em-16-anos.ghtml",
+      "hora": "Sun, 18 Oct 2026 17:12:26 -0000",
       "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEO: 'arco-íris de fogo' é flagrado junto a halo solar no céu de Bom Sucesso de Itararé",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/18/video-arco-iris-de-fogo-e-flagrado-junto-a-halo-solar-no-ceu-de-bom-sucesso-de-itarare.ghtml",
+      "hora": "Sun, 18 Oct 2026 17:12:12 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Apoiadores fazem ato para Lula em Porto Alegre",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/18/ato-lula-porto-alegre.ghtml",
+      "hora": "Sun, 18 Oct 2026 17:08:47 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Táxi e moto se envolvem em acidente na Avenida Francisco Bicalho; motociclista fica ferido",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/18/acidente-taxi-moto-francisco-bicalho.ghtml",
+      "hora": "Sun, 18 Oct 2026 17:07:26 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Ana Castela troca os palcos pela areia e mostra habilidade no futevôlei; VÍDEO",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/18/ana-castela-troca-os-palcos-pela-areia-e-mostra-habilidade-no-futevolei-video.ghtml",
+      "hora": "Sun, 18 Oct 2026 17:06:52 -0000",
+      "tema": "entretenimento",
       "resumo": null
     },
     {
@@ -248,11 +256,11 @@
       "resumo": null
     },
     {
-      "titulo": "Iate com piscina de 50 metros e toboáguas: imagens de satélite revelam o centro de lazer secreto de Kim Jong Un",
+      "titulo": "Flávio e Lula estão empatados no agregador de pesquisas da BBC: veja números",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckgelqn9y7q9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 18 Oct 2026 12:41:50 GMT",
-      "tema": "mundo",
+      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 18 Oct 2026 15:02:01 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -272,10 +280,10 @@
       "resumo": null
     },
     {
-      "titulo": "O caso da herdeira alemã acusada de ordenar sequestro dos próprios filhos que levou a escândalo de espionagem",
+      "titulo": "Iate com piscina de 50 metros e toboáguas: imagens de satélite revelam o centro de lazer secreto de Kim Jong Un",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c674pd9lddwgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 18 Oct 2026 00:05:59 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/ckgelqn9y7q9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 18 Oct 2026 12:41:50 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -299,7 +307,7 @@
       "titulo": "Fim da escala 6x1: o que pensa uma mãe solo e um pequeno empresário",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cq1kdz8dweezo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 18 Oct 2026 12:56:07 GMT",
+      "hora": "Sun, 18 Oct 2026 14:10:59 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -307,16 +315,16 @@
       "titulo": "Debate na Band no segundo turno: o que esperar do primeiro confronto entre Lula e Flávio Bolsonaro ",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cwkg57dyvrn3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 17 Oct 2026 15:33:57 GMT",
+      "hora": "Sun, 18 Oct 2026 15:43:01 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Distância entre Flávio e Lula é de 3 pontos no agregador de pesquisas da BBC",
+      "titulo": "Manifestações de rua podem mudar os rumos do segundo turno?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 17 Oct 2026 09:54:20 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c9gkvg235r0vo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 14 Oct 2026 18:51:18 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -324,6 +332,22 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cqe9l2z988g5o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 15 Oct 2026 10:26:15 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O caso da herdeira alemã acusada de ordenar sequestro dos próprios filhos que levou a escândalo de espionagem",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c674pd9lddwgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 18 Oct 2026 00:05:59 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que Trump suspendeu várias sanções contra a Rússia em meio a tensões com Ucrânia",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmdxw58v17gno?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 17 Oct 2026 12:50:05 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -341,22 +365,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c63r583p3pw4o?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 17 Oct 2026 19:13:41 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "A 'história esquecida' dos vikings que chegaram à América 500 anos antes de Cristóvão Colombo",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cke8r42r4d58o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 17 Oct 2026 13:23:23 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que Trump suspendeu várias sanções contra a Rússia em meio a tensões com Ucrânia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmdxw58v17gno?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 17 Oct 2026 12:50:05 GMT",
-      "tema": "brasil",
       "resumo": null
     }
   ]
