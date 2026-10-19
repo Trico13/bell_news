@@ -1,130 +1,130 @@
 {
-  "gerado_em": "2026-10-18T22:46:17.472Z",
+  "gerado_em": "2026-10-19T16:47:47.817Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 24.4,
-    "min": 14.8,
-    "chuva": 57
+    "max": 22.7,
+    "min": 13.8,
+    "chuva": 4
   },
   "noticias": [
     {
-      "titulo": "STF abre inquérito para apurar suposta lavagem de dinheiro envolvendo Flávio Bolsonaro e o advogado Willer Tomaz",
+      "titulo": "Adolescentes são apreendidos após um deles ameaçar irmãs de morte com uma arma em Pirapora",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/18/stf-abre-inquerito-para-apurar-suposta-lavagem-de-dinheiro-envolvendo-flavio-bolsonaro-e-o-advogado-willer-tomaz.ghtml",
-      "hora": "Sun, 18 Oct 2026 22:36:36 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Apoiadores de Lula fazem atos de campanha espalhados pela cidade de SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/18/apoiadores-de-lula-fazem-atos-de-campanha-espalhados-pela-cidade-de-sp.ghtml",
-      "hora": "Sun, 18 Oct 2026 22:30:22 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEO: jacaré é flagrado com corpo de outro na boca no Pantanal de MT; biólogo explica canibalismo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/18/video-jacare-e-flagrado-com-corpo-de-outro-na-boca-no-pantanal-de-mt-biologo-explica-canibalismo.ghtml",
-      "hora": "Sun, 18 Oct 2026 22:28:54 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Batida entre caminhões provoca vazamento de produto químico em rodovia de SP; VÍDEO",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/18/batida-entre-caminhoes-provoca-vazamento-de-produto-quimico-em-rodovia-de-sp-video.ghtml",
-      "hora": "Sun, 18 Oct 2026 22:23:23 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Quatro locais de votação no Ceará são alterados para 2º turno; veja quais",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/18/quatro-locais-de-votacao-no-ceara-sao-alterados-para-2o-turno-veja-quais.ghtml",
-      "hora": "Sun, 18 Oct 2026 22:16:26 -0000",
+      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/19/adolescentes-sao-apreendidos-apos-um-deles-amecar-irmas-de-morte-com-uma-arma-em-pirapora.ghtml",
+      "hora": "Mon, 19 Oct 2026 16:35:03 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Resultado da Mega-Sena: 2 apostas do interior de SP quase levam os R$ 170 milhões; veja números",
+      "titulo": "Greve dos ônibus em Macapá chega ao 5º dia; sindicato diz que empresa descumpriu acordo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/18/resultado-da-mega-sena-2-apostas-do-interior-de-sp-quase-levam-os-r-170-milhoes-veja-numeros.ghtml",
-      "hora": "Sun, 18 Oct 2026 22:16:07 -0000",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/10/19/greve-dos-onibus-em-macapa-chega-ao-5o-dia-sindicato-diz-que-empresa-descumpriu-acordo.ghtml",
+      "hora": "Mon, 19 Oct 2026 16:34:20 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Deputada federal Roberta Roma deixa unidade semi-intensiva e é transferida para quarto após ser internada em Salvador",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/19/deputada-federal-roberta-roma-deixa-unidade-semi-intensiva.ghtml",
+      "hora": "Mon, 19 Oct 2026 16:30:07 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleitores de três cidades da PB têm mudanças nos locais de votação para o 2º turno das eleições",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/19/oito-secoes-eleitorais-sofrem-mudancas-no-local-de-votacao-na-paraiba.ghtml",
+      "hora": "Mon, 19 Oct 2026 16:26:57 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Papa pede que Zelensky coopere com Putin para garantir ajuda a cidade ucraniana sob controle russo",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/19/papa-fala-ao-telefone-com-zelensky.ghtml",
+      "hora": "Mon, 19 Oct 2026 16:26:51 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Tiro de deputado do PL em balada em SP atingiu apresentador Fred Bruno, da TV Globo: ‘Senti um impacto muito grande no meu pé’",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/19/tiro-de-deputado-do-pl-em-balada-em-sp-acertou-apresentador-fred-bruno-da-tv-globo-senti-um-impacto-muito-grande-no-meu-pe.ghtml",
+      "hora": "Mon, 19 Oct 2026 16:26:16 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Adolescente venezuelana de 14 anos é encontrada morta em mata no Paraná; padrasto, apontado como suspeito, morre em confronto com a PM",
+      "titulo": "Suspeito de furtos é morto a facadas e dois são presos por homicídio e ocultação de corpo em Uberlândia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/10/18/adolescente-encontrada-morta-parana-padrasto-suspeito.ghtml",
-      "hora": "Sun, 18 Oct 2026 22:15:44 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Roraima tem alerta de chuvas intensas em 10 municípios até terça-feira",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/10/18/roraima-tem-alerta-de-chuvas-intensas-em-10-municipios-ate-terca-feira.ghtml",
-      "hora": "Sun, 18 Oct 2026 22:15:28 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Saiba onde conseguir consulta veterinária e castração gratuitas para cães e gatos em Campo Grande",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/18/saiba-onde-conseguir-consulta-veterinaria-e-castracao-gratuitas-para-caes-e-gatos-em-campo-grande.ghtml",
-      "hora": "Sun, 18 Oct 2026 22:14:33 -0000",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/19/suspeito-de-furtos-e-morto-a-facadas-e-dois-sao-presos-por-homicidio-e-ocultacao-de-corpo-em-uberlandia.ghtml",
+      "hora": "Mon, 19 Oct 2026 16:26:07 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Entregador é encontrado morto próximo a vestiários de campo de futebol na Grande BH",
+      "titulo": "Obras da Sabesp causam interdições em sete cidades da Baixada Santista; confira os trechos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/18/entregador-e-encontrado-morto-em-campo-de-futebol-na-grande-bh.ghtml",
-      "hora": "Sun, 18 Oct 2026 22:12:05 -0000",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/19/obras-da-sabesp-causam-interdicoes-em-sete-cidades-da-baixada-santista-confira-os-trechos.ghtml",
+      "hora": "Mon, 19 Oct 2026 16:24:25 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Subaé",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+      "hora": "Mon, 19 Oct 2026 16:24:23 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Bahia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+      "hora": "Mon, 19 Oct 2026 16:24:07 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Lula expôs Flávio em casos de corrupção, e senador acertou ao deixar petista 'visivelmente irritado', avaliam aliados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/19/lula-expos-flavio-em-casos-de-corrupcao-e-senador-acertou-ao-deixar-petista-visivelmente-irritado-avaliam-aliados.ghtml",
+      "hora": "Mon, 19 Oct 2026 16:24:00 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Policial civil e outros dois suspeitos são presos após roubo de malas de ônibus",
+      "titulo": "E-Commerce Brasil amplia atuação e cria nova agenda de encontros para o mercado digital",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/18/policial-civil-e-outras-duas-pessoas-sao-presos-suspeitos-de-roubar-onibus-em-itu.ghtml",
-      "hora": "Sun, 18 Oct 2026 22:10:12 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Moradores fazem manifestação após ficarem dias sem água em Cachoeiras de Macacu: 'Sem uma gota d'água e temos crianças'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/18/moradores-fazem-manifestacao-apos-ficarem-dias-sem-agua-em-cachoeiras-de-macacu-sem-uma-gota-dagua-e-temos-criancas.ghtml",
-      "hora": "Sun, 18 Oct 2026 22:03:30 -0000",
+      "link": "https://g1.globo.com/especial-publicitario/e-commerce-brasil/noticia/2026/10/19/e-commerce-brasil-amplia-atuacao-e-cria-nova-agenda-de-encontros-para-o-mercado-digital.ghtml",
+      "hora": "Mon, 19 Oct 2026 16:23:57 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Médico morre em troca de tiros com a polícia no noroeste de SP",
+      "titulo": "Assista ao EPTV1",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/18/medico-morre-em-troca-de-tiros-com-policia-no-noroeste-de-sp.ghtml",
-      "hora": "Sun, 18 Oct 2026 22:01:11 -0000",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv1.ghtml",
+      "hora": "Mon, 19 Oct 2026 16:23:18 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Adolescente fantasiado de Fofão fica ferido após cair durante apresentação em MG",
+      "titulo": "Benito Di Paula será homenageado no Concerto de Natal da Campesina Friburguense, onde foi aluno de música aos 17 anos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/18/adolescente-fantasiado-de-fofao-fica-ferido-apos-cair-durante-apresentacao-em-mg.ghtml",
-      "hora": "Sun, 18 Oct 2026 22:01:11 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/19/benito-di-paula-sera-homenageado-no-concerto-de-natal-da-campesina-friburguense-onde-foi-aluno-de-musica-aos-17-anos.ghtml",
+      "hora": "Mon, 19 Oct 2026 16:23:13 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Acidente mata dois estudantes na GO-080",
+      "titulo": "Ministério da Agricultura confirma foco da doença de Newcastle em granja de perus em SC",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/transito/noticia/2026/10/18/estudante-morre-apos-acidente-em-goias.ghtml",
-      "hora": "Sun, 18 Oct 2026 22:00:45 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/19/ministerio-da-agricultura-confirma-foco-da-doenca-de-newcastle-em-sc.ghtml",
+      "hora": "Mon, 19 Oct 2026 16:20:43 -0000",
+      "tema": "sp",
       "resumo": null
     },
     {
@@ -248,42 +248,43 @@
       "resumo": null
     },
     {
-      "titulo": "Por que o TSE mudou 2.000 seções eleitorais agora e quais as regiões mais afetadas",
+      "titulo": "Quem ganhou e quem perdeu no primeiro debate entre Lula e Flávio Bolsonaro",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmkgkyezx4yko?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 18 Oct 2026 20:32:17 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmd7qyplwzzpo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 19 Oct 2026 04:41:47 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Debate da Band: os momentos mais marcantes",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqjdvd8dk29eo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 19 Oct 2026 04:56:00 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "'Caótico' e 'tenso': o que imprensa internacional disse sobre debate",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwm241rer242o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 19 Oct 2026 08:53:53 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Protestos na França ampliam pressão sobre governo Macron; premiê autoriza toque de recolher parcial",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwy8l5zm10vzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 19 Oct 2026 15:55:02 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Debate na Band: Lula e Flávio Bolsonaro se enfrentam antes do 2º turno",
+      "titulo": "O que Flávio e Lula propõem sobre reajuste do salário mínimo e aposentadorias",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/c693zk97yz74t?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.com/portuguese/articles/c6x2qwd9jx8zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 19 Oct 2026 08:38:22 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Flávio e Lula estão empatados no agregador de pesquisas da BBC: veja números",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 18 Oct 2026 15:02:01 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "'No Brasil, rico fica mais rico dormindo, e pobre trabalha para pagar juros', diz fundador da Petz",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmy83ggg2168o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 17 Oct 2026 18:25:44 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Iate com piscina de 50 metros e toboáguas: imagens de satélite revelam o centro de lazer secreto de Kim Jong Un",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckgelqn9y7q9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 18 Oct 2026 12:41:50 GMT",
-      "tema": "mundo",
       "resumo": null
     },
     {
@@ -291,6 +292,37 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 04 Oct 2026 19:15:47 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Lula e Flávio trocam acusações de corrupção e debate da Band termina 'caótico': veja como foi",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.co.uk/portuguese/live/c693zk97yz74t?at_medium=RSS&at_campaign=rss",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Como saber se seu local de votação mudou no 2º turno",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq1j3zl8npr8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 19 Oct 2026 16:33:20 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Debate Flávio Bolsonaro X Lula na Globo: data, horário e como assistir",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ckreyvyvell8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 19 Oct 2026 10:05:06 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Quem está à frente nas pesquisas para presidente no 2º turno das Eleições 2026?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 19 Oct 2026 16:41:16 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -303,35 +335,11 @@
       "resumo": null
     },
     {
-      "titulo": "O que a eleição da deputada mais jovem do Rio revela sobre a onda de direita",
+      "titulo": "Quanto a província de Alberta gera de riqueza para o Canadá e o que aconteceria se ela conquistasse a independência?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwq6n967qyqvo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 17 Oct 2026 09:57:35 GMT",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Fim da escala 6x1: o que pensa uma mãe solo e um pequeno empresário",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq1kdz8dweezo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 18 Oct 2026 14:10:59 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Debate Lula x Flávio na Band: horário, data, regras e o que está em jogo no primeiro confronto direto",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwkg57dyvrn3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 18 Oct 2026 18:51:14 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Aplicativo BBC News Brasil: como baixar e receber alerta de notícias e análises",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqe9l2z988g5o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 15 Oct 2026 10:26:15 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cv62y0prwzpwo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 19 Oct 2026 14:18:44 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -343,27 +351,19 @@
       "resumo": null
     },
     {
-      "titulo": "Como americanos enfrentam a alta da inflação: 'Já fiz coisas insanas para sobreviver'",
+      "titulo": "Cindy Crawford fala pela primeira vez sobre morte do filho: 'Estou arrasada'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c317krq052jgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 18 Oct 2026 19:18:31 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c862y72v7x21o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 19 Oct 2026 13:39:03 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "O caso da herdeira alemã acusada de ordenar sequestro dos próprios filhos que levou a escândalo de espionagem",
+      "titulo": "Iate com piscina de 50 metros e toboáguas: imagens de satélite revelam o centro de lazer secreto de Kim Jong Un",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c674pd9lddwgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 18 Oct 2026 18:37:36 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/ckgelqn9y7q9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 18 Oct 2026 12:41:50 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Como a deusa grega Afrodite se tornou uma das figuras mais controversas da história da arte",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmvgxpvx54zko?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 18 Oct 2026 18:18:20 GMT",
-      "tema": "cultura",
       "resumo": null
     }
   ]
