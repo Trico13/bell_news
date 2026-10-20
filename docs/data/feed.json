@@ -1,122 +1,122 @@
 {
-  "gerado_em": "2026-10-20T00:06:29.283Z",
+  "gerado_em": "2026-10-20T14:39:45.908Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 22.9,
-    "min": 14,
-    "chuva": 9
+    "max": 23.2,
+    "min": 13.8,
+    "chuva": 0
   },
   "noticias": [
     {
-      "titulo": "Resultados das Loterias Caixa",
+      "titulo": "Homem que agrediu esposa com barra de ferro em BH tem prisão preventiva decretada",
       "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-      "hora": "Mon, 19 Oct 2026 23:52:56 -0000",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/20/homem-que-agrediu-esposa-com-barra-de-ferro-em-bh-tem-prisao-preventiva-decretada.ghtml",
+      "hora": "Tue, 20 Oct 2026 14:32:06 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de segunda-feira, 19 de outubro de 2026",
+      "titulo": "Hegseth discute guerra no Irã com Netanyahu em visita não anunciada a Israel, dizem autoridades",
       "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-segunda-feira-19-de-outubro-de-2026.ghtml",
-      "hora": "Mon, 19 Oct 2026 23:48:12 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Corpos de três homens são encontrados carbonizados em área de mata no Sul de SC",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/19/corpos-mata-sangao.ghtml",
-      "hora": "Mon, 19 Oct 2026 23:43:02 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Danniel Vieira revela diagnostico de câncer de pele e anuncia cirurgia para remoção de tumor",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/19/danniel-vieira-revela-diagnostico-de-cancer.ghtml",
-      "hora": "Mon, 19 Oct 2026 23:42:02 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Gangue do Rolex': polícia prende dupla paulista suspeita de roubar relógios de luxo em Porto Alegre",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/19/gangue-do-rolex-policia-prende-dupla-paulista-suspeita-de-roubar-relogios-de-luxo-em-porto-alegre.ghtml",
-      "hora": "Mon, 19 Oct 2026 23:38:06 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Presidente da Câmara de Olímpia preso suspeito de participação em 'rachadinha' renuncia ao cargo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/19/presidente-da-camara-de-olimpia-preso-suspeito-de-participacao-em-rachadinha-renuncia-ao-cargo.ghtml",
-      "hora": "Mon, 19 Oct 2026 23:33:45 -0000",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/20/hegseth-discute-guerra-no-ira-com-netanyahu-em-visita-nao-anunciada-a-israel-dizem-autoridades.ghtml",
+      "hora": "Tue, 20 Oct 2026 14:31:50 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Justiça determina que Sabesp recupere mais de 200 pontos de asfalto em Botucatu",
+      "titulo": "Assista ao EPTV1",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/19/justica-determina-que-sabesp-recupere-mais-de-200-pontos-de-asfalto-em-botucatu.ghtml",
-      "hora": "Mon, 19 Oct 2026 23:27:36 -0000",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv1.ghtml",
+      "hora": "Tue, 20 Oct 2026 14:30:40 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem que atacou médico morre após ser contido por PMs e sofrer mal súbito durante ocorrência na Consolação, em SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/20/homem-que-atacou-medico-morre-apos-ser-contido-por-pms-e-sofrer-mal-subito-durante-ocorrencia-na-consolacao-em-sp.ghtml",
+      "hora": "Tue, 20 Oct 2026 14:29:24 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "'Gatos' de energia aumentam mais de 160% no Oeste Paulista e geram prejuízo de R$ 1 milhão em nove meses",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/20/gatos-de-energia-aumentam-mais-de-160percent-no-oeste-paulista-e-geram-prejuizo-de-r-1-milhao-em-nove-meses.ghtml",
+      "hora": "Tue, 20 Oct 2026 14:29:13 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Médico que morreu em confronto com a polícia após ameaçar a esposa foi atingido por 3 tiros, diz PM",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/20/tiros-em-medico-que-morreu-em-confronto-com-a-policia.ghtml",
+      "hora": "Tue, 20 Oct 2026 14:27:51 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleições 2026: quem é Geraldo Alckmin, vice de Lula?",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/eleicoes-2026-quem-e-geraldo-alckmin-vice-de-lula.ghtml",
+      "hora": "Tue, 20 Oct 2026 14:26:19 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Menina indígena atacada por onça no PA segue internada na UTI: 'Foi muito assustador', conta tio",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/10/20/menina-indigena-atacada-por-onca-no-pa-segue-internada-na-uti-foi-muito-assustador-conta-tio.ghtml",
+      "hora": "Tue, 20 Oct 2026 14:22:50 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Catuaí Shopping Cascavel é destaque entre grandes obras da engenharia brasileira",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pr/parana/especial-publicitario/shopping-catuai/noticia/2026/10/20/catuai-shopping-cascavel-e-destaque-entre-grandes-obras-da-engenharia-brasileira.ghtml",
+      "hora": "Tue, 20 Oct 2026 14:22:32 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Guarda-vidas salvam banhistas de afogamentos no litoral de SP no fim de semana; veja balanço",
+      "titulo": "Incra tem apenas uma servidora para mediar conflitos agrários no Amazonas, diz MPF",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/19/guarda-vidas-salvam-banhistas-de-afogamentos-no-litoral-de-sp-no-fim-de-semana-veja-balanco.ghtml",
-      "hora": "Mon, 19 Oct 2026 23:27:28 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Manifestantes protestam em frente à sede da Meta em SP contra suposta interferência nas eleições",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/19/manifestantes-protestam-em-frente-a-sede-da-meta-em-sp-contra-suposta-interferencia-nas-eleicoes.ghtml",
-      "hora": "Mon, 19 Oct 2026 23:25:03 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Justiça do RJ aprova fim de recuperação judicial da Americanas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/19/justica-do-rj-fim-de-recuperacao-judicial-da-americanas.ghtml",
-      "hora": "Mon, 19 Oct 2026 23:24:34 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: NSC Notícias de segunda-feira, 19 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/edicao/2026/10/19/videos-nsc-noticias-de-segunda-feira-19-de-outubro-de-2026.ghtml",
-      "hora": "Mon, 19 Oct 2026 23:22:30 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Acusado de esfaquear a ex após término irá a novo júri após anulação de sentença pelo TJMT",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/19/acusado-de-esfaquear-a-ex-apos-termino-ira-a-novo-juri-apos-anulacao-de-sentenca-pelo-tjmt.ghtml",
-      "hora": "Mon, 19 Oct 2026 23:21:52 -0000",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/20/incra-tem-apenas-uma-servidora-para-mediar-conflitos-agrarios-no-amazonas-diz-mpf.ghtml",
+      "hora": "Tue, 20 Oct 2026 14:22:14 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "MIDR autoriza repasse de R$ 4,1 milhões para combate à estiagem e resposta a desastres no AP",
+      "titulo": "MP suspende curso de formação da Guarda de Macapá após apontar conflito de interesses em contrato",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/10/19/midr-autoriza-repasse-de-r-41-milhoes-para-combate-a-estiagem-e-resposta-a-desastres-no-ap.ghtml",
-      "hora": "Mon, 19 Oct 2026 23:19:47 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/10/20/mp-suspende-curso-de-formacao-da-guarda-de-macapa-apos-apontar-conflito-de-interesses-em-contrato.ghtml",
+      "hora": "Tue, 20 Oct 2026 14:21:41 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Mulher morre afogada enquanto tomava banho em rio com familiares no TO, diz polícia",
+      "titulo": "VÍDEO: Mulher tem carro roubado enquanto estacionava para ir em consulta médica em Uberlândia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/10/19/mulher-morre-afogada-enquanto-tomava-banho-em-rio-com-familiares-no-to-diz-policia.ghtml",
-      "hora": "Mon, 19 Oct 2026 23:19:41 -0000",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/20/video-mulher-tem-carro-roubado-enquanto-estacionava-para-ir-em-consulta-medica-em-uberlandia.ghtml",
+      "hora": "Tue, 20 Oct 2026 14:21:40 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Pai e filhos de 6 e 11 anos ficam feridos em capotamento em Uberlândia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/20/pai-e-filhos-de-6-e-11-anos-ficam-feridos-em-capotamento-em-uberlandia.ghtml",
+      "hora": "Tue, 20 Oct 2026 14:20:58 -0000",
       "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Hospital Unimed Teresina promove ação sobre alimentação saudável",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pi/piaui/especial-publicitario/unimed-teresina/sos-unimed/noticia/2026/10/20/hospital-unimed-teresina-promove-acao-sobre-alimentacao-saudavel.ghtml",
+      "hora": "Tue, 20 Oct 2026 14:19:59 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
@@ -240,42 +240,41 @@
       "resumo": null
     },
     {
-      "titulo": "Como Flávio Bolsonaro aplicou o 'manual Trump' contra Lula no debate da Band",
+      "titulo": "Efeito BYD: como Brasil virou 'laboratório' de empresas chinesas",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvx2872eyk2do?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 19 Oct 2026 21:36:24 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c8g47z0dg0ywo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 20 Oct 2026 07:22:59 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Quem ganhou e quem perdeu no primeiro debate entre Lula e Flávio Bolsonaro",
+      "titulo": "Flávio à frente de Lula, Meta responde ao TSE e debates: as últimas notícias da eleição ao vivo",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmd7qyplwzzpo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 19 Oct 2026 18:32:54 GMT",
+      "link": "https://www.bbc.co.uk/portuguese/live/c98rzv56p3g0t?at_medium=RSS&at_campaign=rss",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Debate da Band: os momentos mais marcantes",
+      "titulo": "Quem está à frente nas pesquisas, Lula ou Flávio? Confira no agregador da BBC",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqjdvd8dk29eo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 19 Oct 2026 04:56:00 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 19 Oct 2026 16:41:16 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "O que Flávio e Lula propõem sobre reajuste do salário mínimo e aposentadorias",
+      "titulo": "Padre morre ao ser atingido por crucifixo em missa transmitida ao vivo",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6x2qwd9jx8zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 19 Oct 2026 08:38:22 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm0e0z952lp9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 20 Oct 2026 07:41:44 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Como incluir dezenas de frutas e vegetais na sua dieta semanal - e é menos difícil do que parece",
+      "titulo": "'O gado está morrendo': o impacto do El Niño na América Central",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6kg7lnn849vo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 19 Oct 2026 18:53:49 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/crq5xnxqw29lo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 20 Oct 2026 09:15:20 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -288,19 +287,19 @@
       "resumo": null
     },
     {
-      "titulo": "'Caótico' e 'tenso': o que imprensa internacional disse sobre debate",
+      "titulo": "O que Flávio Bolsonaro e Lula propõem sobre o Bolsa Família",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwm241rer242o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 19 Oct 2026 08:53:53 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c84g120zwq1zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 20 Oct 2026 12:41:53 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Debate da Band: o que aconteceu no primeiro confronto entre Lula e Flávio Bolsonaro",
+      "titulo": "Geração Z: como 10 jovens decidiram em quem votar nas eleições 2026",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crgqw4y4e07vo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 19 Oct 2026 20:14:47 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cr4g197e8l52o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 20 Oct 2026 00:39:07 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -312,6 +311,14 @@
       "resumo": null
     },
     {
+      "titulo": "Como Flávio Bolsonaro aplicou o 'manual Trump' contra Lula no debate da Band",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cvx2872eyk2do?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 19 Oct 2026 21:36:24 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "Debate Flávio Bolsonaro X Lula na Globo: data, horário e como assistir",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/ckreyvyvell8o?at_medium=RSS&at_campaign=rss",
@@ -320,15 +327,15 @@
       "resumo": null
     },
     {
-      "titulo": "Quem está à frente nas pesquisas para presidente no 2º turno das Eleições 2026?",
+      "titulo": "'Alberta mais forte em Canadá unido': província vota para seguir sendo parte do país",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 19 Oct 2026 16:41:16 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq203eem703do?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 20 Oct 2026 09:46:15 GMT",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Quanto a província de Alberta gera de riqueza para o Canadá e o que aconteceria se ela conquistasse a independência?",
+      "titulo": "O que aconteceria se a rica província de Alberta se separasse do Canadá?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cv62y0prwzpwo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 19 Oct 2026 14:18:44 GMT",
@@ -336,7 +343,7 @@
       "resumo": null
     },
     {
-      "titulo": "Protestos na França ampliam pressão sobre governo Macron; premiê autoriza toque de recolher parcial",
+      "titulo": "Após saques e violência em protestos, Macron autoriza toque de recolher parcial",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cwy8l5zm10vzo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 19 Oct 2026 15:55:02 GMT",
@@ -348,14 +355,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cw8dz7m0vp74o?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 19 Oct 2026 21:07:50 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Cindy Crawford fala pela primeira vez sobre morte do filho: 'Estou arrasada'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c862y72v7x21o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 19 Oct 2026 13:39:03 GMT",
       "tema": "mundo",
       "resumo": null
     }
