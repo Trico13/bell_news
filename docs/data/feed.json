@@ -1,121 +1,129 @@
 {
-  "gerado_em": "2026-10-21T14:50:56.225Z",
+  "gerado_em": "2026-10-21T19:06:27.412Z",
   "modo": "palavras-chave",
   "clima": {
     "max": 25.5,
     "min": 13.6,
-    "chuva": 31
+    "chuva": 26
   },
   "noticias": [
     {
-      "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais ",
+      "titulo": "Habite-se e conclusão de obra sem intervenção viária: Veja o histórico de irregularidades na liberação de condomínios em Uberlândia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
-      "hora": "Wed, 21 Oct 2026 14:41:17 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Operação contra venda de medicamentos proibidos pela Anvisa cumpre 11 mandados em bairros de Piracicaba; veja locais",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/21/operacao-contra-venda-de-medicamentos-proibidos-pela-anvisa-cumpre-11-mandados-em-bairros-de-piracicaba-veja-locais.ghtml",
-      "hora": "Wed, 21 Oct 2026 14:41:01 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
-      "hora": "Wed, 21 Oct 2026 14:40:58 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem é atropelado e fica prensado entre dois carros no DF; motorista foge do local",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/21/homem-e-atropelado-e-fica-prensado-entre-dois-carros-no-df-motorista-foge-do-local.ghtml",
-      "hora": "Wed, 21 Oct 2026 14:40:21 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Aplicativo permite acompanhar ônibus em tempo real em Santarém; veja como usar",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/21/aplicativo-permite-acompanhar-onibus-em-tempo-real-em-santarem-veja-como-usar.ghtml",
-      "hora": "Wed, 21 Oct 2026 14:38:13 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Feira de Santana amplia fiscalização de caminhões e carretas em ruas da cidade",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/21/feira-de-santana-amplia-fiscalizacao-de-caminhoes-e-carretas-em-ruas-da-cidade.ghtml",
-      "hora": "Wed, 21 Oct 2026 14:37:48 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Reunião entre Trump, Xi e Putin está sendo preparada, diz Rússia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/21/reuniao-entre-trump-xi-e-putin-esta-sendo-preparada-diz-russia.ghtml",
-      "hora": "Wed, 21 Oct 2026 14:36:19 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Dados sobre a qualidade do ar em Santarém passam a integrar boletins divulgados pela Prefeitura",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/21/dados-sobre-a-qualidade-do-ar-em-santarem-passam-a-integrar-boletins-divulgados-pela-prefeitura.ghtml",
-      "hora": "Wed, 21 Oct 2026 14:35:51 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "PM da reserva pula do próprio carro de aplicativo em movimento após ser feito refém na Serra",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/21/pm-da-reserva-pula-do-proprio-carro-de-aplicativo-em-movimento-apos-ser-feito-refem-na-serra.ghtml",
-      "hora": "Wed, 21 Oct 2026 14:35:43 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Redondo da Araguaia: prédio inacabado há cerca de 25 anos pode ser implodido caso projeto não seja executado, diz prefeito",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/10/21/redondo-da-araguaia-predio-inacabado-ha-cerca-de-25-anos-pode-ser-implodido-caso-projeto-nao-seja-executado-diz-prefeito.ghtml",
-      "hora": "Wed, 21 Oct 2026 14:35:03 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "AO VIVO: Assista ao GR1",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/ao-vivo/ao-vivo-assista-ao-gr1.ghtml",
-      "hora": "Wed, 21 Oct 2026 14:34:28 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Assista ao Link Vanguarda ao vivo no g1",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/assista-ao-link-vanguarda-ao-vivo-no-g1.ghtml",
-      "hora": "Wed, 21 Oct 2026 14:32:29 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Eleição acirrada vira palco de promessas que aumentam pressão sobre as contas públicas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/21/eleicao-acirrada-vira-palco-de-promessas-que-aumentam-pressao-sobre-as-contas-publicas.ghtml",
-      "hora": "Wed, 21 Oct 2026 14:31:51 -0000",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/21/habite-se-e-conclusao-de-obra-sem-intervencao-viaria-veja-o-historico-de-irregularidades-na-liberacao-de-condominios-em-uberlandia.ghtml",
+      "hora": "Wed, 21 Oct 2026 19:03:01 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Tiros em Botafogo provocam interdição parcial da Rua São Clemente",
+      "titulo": "Jovem de 21 anos desaparece junto com namorado em São José, na Grande Florianópolis",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/21/tiros-em-botafogo.ghtml",
-      "hora": "Wed, 21 Oct 2026 14:31:43 -0000",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/21/jovem-21-anos-desaparece-namorado-sao-jose-grande-florianopolis.ghtml",
+      "hora": "Wed, 21 Oct 2026 19:02:34 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem é preso suspeito de invadir casa e executar rival na frente da família em Santana",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/10/21/homem-e-preso-suspeito-de-invadir-casa-e-executar-rival-na-frente-da-familia-em-santana.ghtml",
+      "hora": "Wed, 21 Oct 2026 19:02:31 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Conheça novo bispo de Guajará-Mirim, RO, nomeado pelo papa Leão XIV",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ro/rondonia/noticia/2026/10/21/conheca-novo-bispo-de-guajara-mirim-ro-nomeado-pelo-papa-leao-xiv.ghtml",
+      "hora": "Wed, 21 Oct 2026 19:01:56 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Mulher morre após passar mal enquanto pilotava moto em RO",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ro/rondonia/noticia/2026/10/21/mulher-morre-apos-passar-mal-enquanto-pilotava-moto-em-ro.ghtml",
+      "hora": "Wed, 21 Oct 2026 19:00:54 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem investigado por três roubos a pedestres é preso em Araruama",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/10/21/homem-investigado-por-tres-roubos-a-pedestres-e-preso-em-araruama.ghtml",
+      "hora": "Wed, 21 Oct 2026 18:59:50 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleições 2026: Sistema para consultar filas de votação volta no 2º turno no PI",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/eleicoes-sistema-kiwi-filas.ghtml",
+      "hora": "Wed, 21 Oct 2026 18:58:56 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "EUA se preparam para retirar funcionários de embaixadas no Oriente Médio diante de possível retomada na guerra, diz agência",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/21/eua-se-preparam-para-retirar-funcionarios-de-embaixadas-no-oriente-medio-diante-de-possivel-retomada-na-guerra-diz-agencia.ghtml",
+      "hora": "Wed, 21 Oct 2026 18:58:54 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Depoimento de Fabiano Zettel à PF previsto para esta quarta-feira é cancelado",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/21/depoimento-de-fabiano-zettel-a-pf-previsto-para-esta-quarta-feira-e-cancelado.ghtml",
+      "hora": "Wed, 21 Oct 2026 18:57:37 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Justiça Federal manda soltar sócio da PixBet, preso em operação contra suposto esquema de lavagem de dinheiro na Paraíba",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/21/justica-federal-manda-soltar-socio-pixbet-preso-operacao-suposto-esquema-lavagem-dinheiro-paraiba.ghtml",
+      "hora": "Wed, 21 Oct 2026 18:57:00 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Ônibus e vans terão transporte gratuito no segundo turno das eleições em Campos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/10/21/onibus-e-vans-terao-transporte-gratuito-no-segundo-turno-das-eleicoes-em-campos.ghtml",
+      "hora": "Wed, 21 Oct 2026 18:56:04 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Modelo Dandara Couto fala pela 1ª vez após desaparecimento em São Paulo: 'Dias turbulentos'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/21/modelo-dandara-couto-fala-pela-1a-vez-apos-desaparecimento-em-sao-paulo-dias-turbulentos.ghtml",
+      "hora": "Wed, 21 Oct 2026 18:53:31 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "IEL abre 76 vagas de estágio no Maranhão com bolsas de até R$ 1.518; veja como se inscrever",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ma/maranhao/concursos-e-emprego/noticia/2026/10/21/iel-abre-76-vagas-de-estagio-no-maranhao-com-bolsas-de-ate-r-1518-veja-como-se-inscrever.ghtml",
+      "hora": "Wed, 21 Oct 2026 18:53:30 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEO: Barco naufraga em Santarém e passageiros são resgatados do rio",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/21/video-barco-naufraga-em-santarem-e-passageiros-sao-resgatados-do-rio.ghtml",
+      "hora": "Wed, 21 Oct 2026 18:49:46 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Filho morre ao cair dentro do túmulo do próprio pai em cemitério de Linhares, no ES",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/10/21/filho-morre-ao-cair-dentro-do-tumulo-do-pai-em-cemiterio-de-linhares-no-es.ghtml",
+      "hora": "Wed, 21 Oct 2026 18:48:50 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -240,6 +248,14 @@
       "resumo": null
     },
     {
+      "titulo": "Como Fernanda Bolsonaro ganhou destaque na campanha de Flávio para tentar atrair voto feminino",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmly0lnpn9ewo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 21 Oct 2026 17:41:02 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
       "titulo": "Mesmo com 'Exército' de Janones, esquerda não tem força digital do bolsonarismo, diz Marcos Nobre",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cw99z4pj1mr4o?at_medium=RSS&at_campaign=rss",
@@ -263,10 +279,10 @@
       "resumo": null
     },
     {
-      "titulo": "Análise: quem está por trás dos tumultos na França e quem pode se beneficiar deles?",
+      "titulo": "Análise: quem está por trás dos protestos violentos na França e quem pode se beneficiar deles?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c6x29lmmmexno?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 21 Oct 2026 10:37:50 GMT",
+      "hora": "Wed, 21 Oct 2026 15:35:08 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -308,14 +324,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cm4g1x5ng0jko?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 21 Oct 2026 09:09:09 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "As pesquisas na reta final do 2º turno — o que diziam em 2018, 2022 e o que mostram agora",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm8xzrr0gz82o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 20 Oct 2026 18:44:33 GMT",
-      "tema": "brasil",
       "resumo": null
     },
     {
