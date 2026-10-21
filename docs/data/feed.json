@@ -1,122 +1,122 @@
 {
-  "gerado_em": "2026-10-20T23:37:03.953Z",
+  "gerado_em": "2026-10-21T14:50:56.225Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 23.4,
-    "min": 13.8,
-    "chuva": 0
+    "max": 25.5,
+    "min": 13.6,
+    "chuva": 31
   },
   "noticias": [
     {
-      "titulo": "VÍDEOS: GR2 de terça-feira, 20 de Outubro de 2026",
+      "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/playlist/videos-gr2-de-terca-feira-20-de-outubro-de-2026.ghtml",
-      "hora": "Tue, 20 Oct 2026 23:25:19 -0000",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
+      "hora": "Wed, 21 Oct 2026 14:41:17 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "AO VIVO: assista à programação da NSC TV",
+      "titulo": "Operação contra venda de medicamentos proibidos pela Anvisa cumpre 11 mandados em bairros de Piracicaba; veja locais",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/ao-vivo/assista-ao-vivo-aos-telejornais-da-nsc.ghtml",
-      "hora": "Tue, 20 Oct 2026 23:24:14 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Moradores protestam contra corte de árvores para ampliação do Aeroporto de Congonhas ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/20/moradores-protestam-contra-corte-de-arvores-para-ampliacao-do-aeroporto-de-congonhas.ghtml",
-      "hora": "Tue, 20 Oct 2026 23:21:23 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: NE2 de terça-feira, 20 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/videos-ne2/playlist/videos-ne2-de-terca-feira-20-de-outubro-de-2026.ghtml",
-      "hora": "Tue, 20 Oct 2026 23:16:38 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Motorista morre e duas crianças ficam feridas em batida entre carro e caminhão em Macatuba",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/20/motorista-morre-e-duas-criancas-ficam-feridas-em-batida-entre-carro-e-caminhao-em-macatuba.ghtml",
-      "hora": "Tue, 20 Oct 2026 23:14:23 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Presa no Egito, Malévola já foi detida por desacato e lesão corporal em SP neste ano",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/20/presa-no-egito-malevola-ja-foi-detida-por-desacato-e-lesao-corporal-em-sp-neste-ano.ghtml",
-      "hora": "Tue, 20 Oct 2026 23:13:27 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Jacundá decreta situação de emergência por incêndios florestais e efeitos da fumaça, no PA",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/10/20/jacunda-decreta-situacao-de-emergencia-por-incendios-florestais-e-efeitos-da-fumaca-no-pa.ghtml",
-      "hora": "Tue, 20 Oct 2026 23:13:25 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Bebê de 11 meses internado em UTI no Acre está livre do sarampo, mas segue em estado grave, diz Saúde",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/10/20/bebe-de-11-meses-internado-em-uti-no-acre-esta-livre-do-sarampo-mas-segue-em-estado-grave-diz-saude.ghtml",
-      "hora": "Tue, 20 Oct 2026 23:13:19 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "STF extingue mandado de segurança que buscava garantir mandato de Michel Magul para vaga de Aava Santiago",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/10/20/stf-extingue-mandado-de-seguranca-que-buscava-garantir-mandato-de-michel-magul-para-vaga-de-aava-santiago.ghtml",
-      "hora": "Tue, 20 Oct 2026 23:11:53 -0000",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/21/operacao-contra-venda-de-medicamentos-proibidos-pela-anvisa-cumpre-11-mandados-em-bairros-de-piracicaba-veja-locais.ghtml",
+      "hora": "Wed, 21 Oct 2026 14:41:01 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: DF2 de terça-feira, 20 de outubro de 2026",
+      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
       "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/videos-df2/playlist/videos-df2-de-terca-feira-20-de-outubro-de-2026.ghtml",
-      "hora": "Tue, 20 Oct 2026 23:09:40 -0000",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
+      "hora": "Wed, 21 Oct 2026 14:40:58 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Livre de peste suína, Amapá quer liberar comércio de carne para outros estados e países",
+      "titulo": "Homem é atropelado e fica prensado entre dois carros no DF; motorista foge do local",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/10/20/livre-de-peste-suina-amapa-quer-liberar-comercio-de-carne-para-outros-estados-e-paises.ghtml",
-      "hora": "Tue, 20 Oct 2026 23:07:39 -0000",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/21/homem-e-atropelado-e-fica-prensado-entre-dois-carros-no-df-motorista-foge-do-local.ghtml",
+      "hora": "Wed, 21 Oct 2026 14:40:21 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Assessor de deputado é exonerado da Alems após ser flagrado com R$ 127 mil na campanha eleitoral",
+      "titulo": "Aplicativo permite acompanhar ônibus em tempo real em Santarém; veja como usar",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/20/assessor-de-deputado-e-exonerado-da-alems-apos-ser-flagrado-com-r-127-mil-na-campanha-eleitoral.ghtml",
-      "hora": "Tue, 20 Oct 2026 23:05:31 -0000",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/21/aplicativo-permite-acompanhar-onibus-em-tempo-real-em-santarem-veja-como-usar.ghtml",
+      "hora": "Wed, 21 Oct 2026 14:38:13 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Feira de Santana amplia fiscalização de caminhões e carretas em ruas da cidade",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/21/feira-de-santana-amplia-fiscalizacao-de-caminhoes-e-carretas-em-ruas-da-cidade.ghtml",
+      "hora": "Wed, 21 Oct 2026 14:37:48 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Reunião entre Trump, Xi e Putin está sendo preparada, diz Rússia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/21/reuniao-entre-trump-xi-e-putin-esta-sendo-preparada-diz-russia.ghtml",
+      "hora": "Wed, 21 Oct 2026 14:36:19 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Dados sobre a qualidade do ar em Santarém passam a integrar boletins divulgados pela Prefeitura",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/21/dados-sobre-a-qualidade-do-ar-em-santarem-passam-a-integrar-boletins-divulgados-pela-prefeitura.ghtml",
+      "hora": "Wed, 21 Oct 2026 14:35:51 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "PM da reserva pula do próprio carro de aplicativo em movimento após ser feito refém na Serra",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/21/pm-da-reserva-pula-do-proprio-carro-de-aplicativo-em-movimento-apos-ser-feito-refem-na-serra.ghtml",
+      "hora": "Wed, 21 Oct 2026 14:35:43 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Redondo da Araguaia: prédio inacabado há cerca de 25 anos pode ser implodido caso projeto não seja executado, diz prefeito",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/10/21/redondo-da-araguaia-predio-inacabado-ha-cerca-de-25-anos-pode-ser-implodido-caso-projeto-nao-seja-executado-diz-prefeito.ghtml",
+      "hora": "Wed, 21 Oct 2026 14:35:03 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "AO VIVO: Assista ao GR1",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/petrolina-regiao/ao-vivo/ao-vivo-assista-ao-gr1.ghtml",
+      "hora": "Wed, 21 Oct 2026 14:34:28 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Assista ao Link Vanguarda ao vivo no g1",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/assista-ao-link-vanguarda-ao-vivo-no-g1.ghtml",
+      "hora": "Wed, 21 Oct 2026 14:32:29 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleição acirrada vira palco de promessas que aumentam pressão sobre as contas públicas",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/21/eleicao-acirrada-vira-palco-de-promessas-que-aumentam-pressao-sobre-as-contas-publicas.ghtml",
+      "hora": "Wed, 21 Oct 2026 14:31:51 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Adélia Prado vence prêmio de poesia da Biblioteca Nacional: 'Extrema alegria', diz filha",
+      "titulo": "Tiros em Botafogo provocam interdição parcial da Rua São Clemente",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/10/20/adelia-prado-vence-premio-de-poesia-da-biblioteca-nacional-extrema-alegria-diz-filha.ghtml",
-      "hora": "Tue, 20 Oct 2026 23:03:41 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "7ª Feira de Empregabilidade oferece 200 vagas em Santos; veja como participar",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/20/7a-feira-de-empregabilidade-oferece-200-vagas-em-santos-veja-como-participar.ghtml",
-      "hora": "Tue, 20 Oct 2026 23:00:00 -0000",
-      "tema": "sp",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/21/tiros-em-botafogo.ghtml",
+      "hora": "Wed, 21 Oct 2026 14:31:43 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -240,34 +240,33 @@
       "resumo": null
     },
     {
-      "titulo": "Eleição no Brasil é a mais importante para o mundo fora dos EUA em 2026, diz Daron Acemoglu",
+      "titulo": "Mesmo com 'Exército' de Janones, esquerda não tem força digital do bolsonarismo, diz Marcos Nobre",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckvg74ve4371o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 20 Oct 2026 20:25:22 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cw99z4pj1mr4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 21 Oct 2026 06:51:39 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Por que ajuste fiscal do novo presidente do Chile leva a crise com desemprego recorde",
+      "titulo": "Resultado da Quaest, agenda de Flávio e Lula e outras notícias desta quarta-feira; siga",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmewenzeklk8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 20 Oct 2026 18:57:14 GMT",
+      "link": "https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "'Comecei a usar cetamina aos 14 anos e aos 22 precisei de fraldas'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm8xz1llkr54o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 21 Oct 2026 12:33:30 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Mensagens de Vorcaro mostram comparação entre banqueiro e Jeffrey Epstein: 'Jeff tá amador demais'",
+      "titulo": "Análise: quem está por trás dos tumultos na França e quem pode se beneficiar deles?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck4g18721rv2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 20 Oct 2026 21:19:11 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "O que J.R.R. Tolkien dizia sobre 'o momento mais trágico' de 'O Senhor dos Anéis'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm0reljzj2jjo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 20 Oct 2026 22:19:39 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c6x29lmmmexno?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 21 Oct 2026 10:37:50 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -288,22 +287,31 @@
       "resumo": null
     },
     {
-      "titulo": "Comitê da Meta vê falhas da empresa sobre atuação eleitoral no Brasil; siga as notícias do 2º turno",
+      "titulo": "BBC News Brasil faz transmissão AO VIVO para você acompanhar apuração e resultados do 2º turno",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/c98rzv56p3g0t?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.com/portuguese/articles/cwrkyjpv5p7no?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 21 Oct 2026 12:58:14 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "O que Flávio Bolsonaro e Lula propõem sobre o Bolsa Família",
+      "titulo": "Eleição no Brasil é a mais importante para o mundo fora dos EUA em 2026, diz Daron Acemoglu",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c84g120zwq1zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 20 Oct 2026 12:41:53 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/ckvg74ve4371o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 20 Oct 2026 20:25:22 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "As pesquisas para presidente na reta final do 2º turno — o que diziam em 2018, 2022 e o que mostram agora",
+      "titulo": "O que faz um vice-presidente quando o presidente está no cargo?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm4g1x5ng0jko?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 21 Oct 2026 09:09:09 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "As pesquisas na reta final do 2º turno — o que diziam em 2018, 2022 e o que mostram agora",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm8xzrr0gz82o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 20 Oct 2026 18:44:33 GMT",
@@ -311,18 +319,26 @@
       "resumo": null
     },
     {
-      "titulo": "Debate Flávio Bolsonaro X Lula na Globo: data, horário e como assistir",
+      "titulo": "Mensagens de Vorcaro mostram comparação entre banqueiro e Jeffrey Epstein: 'Jeff tá amador demais'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckreyvyvell8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 19 Oct 2026 10:05:06 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck4g18721rv2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 20 Oct 2026 21:19:11 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Coreia do Norte publica fotos de Kim Jong-un: por que boatos sobre sua morte continuam surgindo?",
+      "titulo": "Por que ajuste fiscal do novo presidente do Chile leva a crise com desemprego recorde",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm1wvgzd4y4po?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 20 Oct 2026 16:18:58 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmewenzeklk8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 20 Oct 2026 18:57:14 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "A faísca que fez protestos na França explodirem",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cj4g1q6z7799o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 20 Oct 2026 09:28:24 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -332,22 +348,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c8g47z0dg0ywo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 20 Oct 2026 16:12:58 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "'O gado está morrendo': o impacto do El Niño na América Central",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crq5xnxqw29lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 20 Oct 2026 09:15:20 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Alberta mais forte em Canadá unido': província vota para seguir sendo parte do país",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq203eem703do?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 20 Oct 2026 09:46:15 GMT",
-      "tema": "cultura",
       "resumo": null
     }
   ]
