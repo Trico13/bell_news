@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-22T19:02:47.187Z",
+  "gerado_em": "2026-10-22T23:53:08.385Z",
   "modo": "palavras-chave",
   "clima": {
     "max": 24.5,
@@ -8,90 +8,114 @@
   },
   "noticias": [
     {
-      "titulo": "STF toma decisão sobre pagamento de horas extras a policiais penais de SC; entenda o que muda",
+      "titulo": "Globo entrevista Leandro Grass, candidato ao governo do DF, nesta quinta; g1 transmite",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/22/stf-horas-extras-pagamento-policiais-penais-sc-entenda-o-que-muda.ghtml",
-      "hora": "Thu, 22 Oct 2026 18:53:10 -0000",
+      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/globo-fara-debate-entre-candidatos-ao-governo-do-df-no-segundo-turno-nesta-quinta-g1-transmite.ghtml",
+      "hora": "Thu, 22 Oct 2026 23:45:28 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Debate com Lorenzo Pazolini e Ricardo Ferraço para governo do ES na TV Gazeta",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/debate-lorenzo-pazolini-ricardo-ferraco-governo-espirito-santo.ghtml",
+      "hora": "Thu, 22 Oct 2026 23:41:34 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Com Planetário móvel, 'Ciência Show' e oficinas, AP realiza 23ª Semana de Ciência e Tecnologia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/10/22/com-planetario-movel-ciencia-show-e-oficinas-ap-realiza-23a-semana-de-ciencia-e-tecnologia.ghtml",
+      "hora": "Thu, 22 Oct 2026 23:39:43 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Whindersson Nunes, gastronomia, shows e Halloween: o que fazer no fim de semana na região de Ribeirão e Franca",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/em-cena/noticia/2026/10/22/whindersson-nunes-gastronomia-shows-e-halloween-o-que-fazer-no-fim-de-semana-na-regiao-de-ribeirao-e-franca.ghtml",
+      "hora": "Thu, 22 Oct 2026 23:36:52 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Inter TV promove debate entre os candidatos ao governo do RN Allyson e Cadu de Lula",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/ao-vivo/debate-allyson-cadu-de-lula-governo-rn.ghtml",
+      "hora": "Thu, 22 Oct 2026 23:36:40 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Jovem de 18 anos morre e irmão fica ferido em acidente de moto no PI; polícia investiga prática de \"grau\"",
+      "titulo": "VÍDEOS: Jornal do Acre 2ª Edição desta quinta-feira, 22 de outubro de 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/10/22/jovem-morre-pi.ghtml",
-      "hora": "Thu, 22 Oct 2026 18:52:47 -0000",
+      "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quinta-feira-22-de-outubro-de-2026.ghtml",
+      "hora": "Thu, 22 Oct 2026 23:36:03 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Ivete Sangalo é anunciada como atração do réveillon de Fortaleza",
+      "titulo": "Debate com Professora Dorinha e Vicentinho Júnior para o governo do TO na TV Anhanguera",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/10/22/ivete-sangalo-e-anunciada-como-atracao-do-reveillon-de-fortaleza.ghtml",
-      "hora": "Thu, 22 Oct 2026 18:51:08 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem condenado a mais de seis anos por roubo e porte ilegal de arma é preso em Timon, no MA",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/10/22/homem-condenado-a-mais-de-seis-anos-por-roubo-e-porte-ilegal-de-arma-e-preso-em-timon-no-ma.ghtml",
-      "hora": "Thu, 22 Oct 2026 18:46:45 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "PF paralisa extração ilegal de areia em Ibiraci; degradação chega a 12 hectares ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/22/pf-paralisa-extracao-ilegal-de-areia-em-ibiraci-degradacao-chega-a-12-hectares.ghtml",
-      "hora": "Thu, 22 Oct 2026 18:45:59 -0000",
+      "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/ao-vivo/debate-professora-dorinha-vicentinho-junior-governo-tocantins.ghtml",
+      "hora": "Thu, 22 Oct 2026 23:35:50 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Mongaguá terá Zona Azul com tarifa de R$ 2 por hora; veja como vai funcionar",
+      "titulo": "Eleições 2026: transporte entre Cotijuba e Icoaraci tem passagem gratuita em Belém",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/22/mongagua-tera-zona-azul-com-tarifa-de-r-2-por-hora-veja-como-vai-funcionar.ghtml",
-      "hora": "Thu, 22 Oct 2026 18:45:42 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem condenado a 8 anos por sequestro ligado a dívida de drogas é preso em Timon, no MA",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/10/22/homem-condenado-a-8-anos-por-sequestro-ligado-a-divida-de-drogas-e-preso-em-timon-no-ma.ghtml",
-      "hora": "Thu, 22 Oct 2026 18:43:57 -0000",
+      "link": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/22/eleicoes-2026-transporte-entre-cotijuba-e-icoaraci-tem-passagem-gratuita-em-belem.ghtml",
+      "hora": "Thu, 22 Oct 2026 23:35:05 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Adolescente de 13 anos morre e irmã fica ferida após moto bater em ônibus escolar na BR-230, em Marabá",
+      "titulo": "Estudantes da PUC, Uninove, Belas Artes, ESPM, FGV e FAPCOM fazem atos pela democracia em diversos pontos de SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/10/22/adolescente-de-13-anos-morre-e-irma-fica-ferida-apos-moto-bater-em-onibus-escolar-na-br-230-em-maraba.ghtml",
-      "hora": "Thu, 22 Oct 2026 18:43:37 -0000",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/22/estudantes-da-puc-uninove-belas-artes-espm-fgv-e-fapcom-fazem-atos-pela-democracia-em-diversos-pontos-de-sp.ghtml",
+      "hora": "Thu, 22 Oct 2026 23:33:06 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Caso Daniella Rooth: Local alterado impede perícia de apontar causa de acidente que matou nutricionista",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/22/caso-daniella-rooth-local-alterado-impede-pericia-de-apontar-causa-de-acidente-que-matou-nutricionista.ghtml",
+      "hora": "Thu, 22 Oct 2026 23:31:23 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Ex-gerente é suspeito de desvio de mais de 2,3 mil bois em golpe de R$ 11 milhões no RS",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/22/suspeito-desvio-mil-bois-golpe-r-11-milhoes-rs.ghtml",
+      "hora": "Thu, 22 Oct 2026 23:31:17 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Aeroporto Leite Lopes tem operação de voos afetada por causa de furto de fios em Ribeirão Preto, SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/22/aeroporto-leite-lopes-tem-operacao-de-voos-afetada-por-causa-de-furtos-de-fios-em-ribeirao-preto-sp.ghtml",
+      "hora": "Thu, 22 Oct 2026 23:30:15 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Quase um ano e meio após desabamento, muro às margens do Rio Paquequer em Teresópolis segue sem solução",
+      "titulo": "VÍDEOS: MG2 de quinta-feira, 22 de outubro de 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/22/quase-um-ano-e-meio-apos-desabamento-muro-as-margens-do-rio-paquequer-em-teresopolis-segue-sem-solucao.ghtml",
-      "hora": "Thu, 22 Oct 2026 18:42:01 -0000",
-      "tema": "cultura",
+      "link": "https://g1.globo.com/mg/minas-gerais/videos-mg2/playlist/videos-mg2-de-quinta-feira-22-de-outubro-de-2026.ghtml",
+      "hora": "Thu, 22 Oct 2026 23:28:40 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Empresa de Alfenas é reconhecida como integradora oficial de app de mensagens",
+      "titulo": "Lula diz que Meta vai ter que ser reinventada e que empresa não pode enganar a humanidade 'todo tempo'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/sul-de-minas/especial-publicitario/z-pro-multi-atendimento/noticia/2026/10/22/empresa-de-alfenas-e-reconhecida-como-integradora-oficial-de-app-de-mensagens.ghtml",
-      "hora": "Thu, 22 Oct 2026 18:40:40 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "No Acre, cemitérios públicos são organizados para receber visitantes no Dia dos Finados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/10/22/no-acre-cemiterios-publicos-sao-organizados-para-receber-visitantes-no-dia-dos-finados.ghtml",
-      "hora": "Thu, 22 Oct 2026 18:40:07 -0000",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/lula-diz-que-meta-vai-ter-que-ser-reinventada-e-que-empresa-nao-pode-enganar-a-humanidade-todo-tempo.ghtml",
+      "hora": "Thu, 22 Oct 2026 23:25:06 -0000",
       "tema": "brasil",
       "resumo": null
     },
@@ -219,8 +243,15 @@
       "titulo": "Como Daniel Vorcaro foi envolvido no sumiço de obra de Tarsila do Amaral de R$ 250 milhões",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmvgxd8z7vygo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 22 Oct 2026 18:40:23 GMT",
+      "hora": "Thu, 22 Oct 2026 21:52:47 GMT",
       "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Nunes Marques dá 24h para Meta detalhar atuação do 'Exército do Lula'; as últimas notícias antes do 2º turno",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -240,17 +271,10 @@
       "resumo": null
     },
     {
-      "titulo": "Novo Datafolha, preparação para debate da Globo e as últimas notícias antes do 2º turno",
+      "titulo": "O que devemos comer para ter a pele mais jovem",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Call of Duty imagina Coreia do Norte invadindo o Sul, mas qual a chance de isso realmente acontecer?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqkgk1n52k74o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 22 Oct 2026 16:45:57 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cjvgxqerp95ro?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 22 Oct 2026 22:56:30 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -271,10 +295,10 @@
       "resumo": null
     },
     {
-      "titulo": "A batalha de Flávio e Lula pelo voto grisalho: por que eleitores 70+ podem decidir eleição para presidente",
+      "titulo": "Flávio x Lula: o grupo de eleitores que pode decidir a eleição para presidente",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cj62yn475xrwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 22 Oct 2026 09:26:02 GMT",
+      "hora": "Thu, 22 Oct 2026 23:06:54 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -295,11 +319,27 @@
       "resumo": null
     },
     {
-      "titulo": "Lula pode ser 'varrido' em breve por onda de direita na América Latina, diz revista americana",
+      "titulo": "Como saber se seu local de votação mudou no 2º turno",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqpvg10x8mgzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 22 Oct 2026 02:07:13 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq1j3zl8npr8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 19 Oct 2026 16:33:20 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que Austrália quer 'desligar o algoritmo' da Meta e outras redes sociais",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm5yn9rj2dl2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 22 Oct 2026 23:10:33 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Call of Duty imagina Coreia do Norte invadindo o Sul, mas qual a chance de isso realmente acontecer?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqkgk1n52k74o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 22 Oct 2026 16:45:57 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -315,22 +355,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cqzjxp10r901o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 22 Oct 2026 10:28:36 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Como a figura de Maduro vai se apagando na nova Venezuela de Delcy Rodríguez: 'Não há intenção de manter viva sua memória'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm8ezxdpkg63o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 22 Oct 2026 12:47:44 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "O que leva pessoas comuns obedecerem ordens imorais — e como resistir",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cke8r0jzvlgeo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 22 Oct 2026 14:29:55 GMT",
       "tema": "mundo",
       "resumo": null
     }
