@@ -1,113 +1,121 @@
 {
-  "gerado_em": "2026-10-21T23:53:51.728Z",
+  "gerado_em": "2026-10-22T14:52:18.238Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 25.2,
-    "min": 13.6,
-    "chuva": 4
+    "max": 25.8,
+    "min": 16.1,
+    "chuva": 92
   },
   "noticias": [
     {
-      "titulo": "Defesa Civil coloca Baixada Santista e Vale do Ribeira em estado de atenção para três dias de chuva ",
+      "titulo": "Assista ao JRO1 desta quinta-feira, 22",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/21/defesa-civil-coloca-baixada-santista-e-vale-do-ribeira-em-estado-de-atencao-para-tres-dias-de-chuva.ghtml",
-      "hora": "Wed, 21 Oct 2026 23:46:02 -0000",
-      "tema": "sp",
+      "link": "https://g1.globo.com/ro/rondonia/ao-vivo/assista-ao-jro2-desta-quinta-feira-22.ghtml",
+      "hora": "Thu, 22 Oct 2026 14:48:46 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "CNBB prega respeito ao resultado das urnas e encoraja voto: 'Atentos aos pobres, aos ameaçados e aos que trabalham pela Justiça'",
+      "titulo": "Exposição imersiva revela bastidores dos figurinos de Carnaval, teatro e grandes artistas em SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/21/cnbb-prega-respeito-ao-resultado-da-eleicao-e-encoraja-ida-as-urnas-atentos-aos-pobres-aos-ameacados-e-aos-que-trabalham-pela-justica.ghtml",
-      "hora": "Wed, 21 Oct 2026 23:41:13 -0000",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/10/22/exposicao-imersiva-revela-bastidores-dos-figurinos-de-carnaval-teatro-e-grandes-artistas-em-sp.ghtml",
+      "hora": "Thu, 22 Oct 2026 14:48:36 -0000",
+      "tema": "entretenimento",
+      "resumo": null
+    },
+    {
+      "titulo": "Mulher é presa ao tentar entrar em presídio com droga escondida em cadeira de rodas, em João Pessoa",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/22/mulher-e-presa-ao-tentar-entrar-em-presidio-com-droga-escondida-em-cadeira-de-rodas-em-joao-pessoa.ghtml",
+      "hora": "Thu, 22 Oct 2026 14:48:28 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Rapper é morto em ação da polícia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/10/22/rapper-e-morto-em-acao-da-policia.ghtml",
+      "hora": "Thu, 22 Oct 2026 14:48:11 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Terremoto atinge o Tibete",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/22/terremoto-atinge-o-tibete.ghtml",
+      "hora": "Thu, 22 Oct 2026 14:47:47 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Assista ao JAP1 desta quinta (22)",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ap/ao-vivo/assista-ao-bom-dia-amapa-desta-quarta-21.ghtml",
+      "hora": "Thu, 22 Oct 2026 14:47:45 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Assista ao Gazeta Meio Dia - edição regional",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-gazeta-meio-dia-edicao-regional.ghtml",
+      "hora": "Thu, 22 Oct 2026 14:47:36 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Liberal",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
+      "hora": "Thu, 22 Oct 2026 14:47:24 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Assista ao Gazeta Meio Dia ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-gazeta-meio-dia.ghtml",
+      "hora": "Thu, 22 Oct 2026 14:47:09 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Campanha de Lula intensifica busca de votos entre beneficiários do Bolsa Família que ainda votam em Flávio Bolsonaro",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/22/campanha-de-lula-intensifica-busca-de-votos-entre-beneficiarios-do-bolsa-familia-que-ainda-votam-em-flavio-bolsonaro.ghtml",
+      "hora": "Thu, 22 Oct 2026 14:46:32 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Mulher é morta a tiros no interior da Bahia; companheiro é suspeito de cometer o crime",
+      "titulo": "Justiça concede liberdade provisória a mulher suspeita de esfaquear homem em Campina Grande",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/21/mulher-e-morta-a-tiros-em-santo-antonio-de-jesus.ghtml",
-      "hora": "Wed, 21 Oct 2026 23:39:38 -0000",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/22/justica-concede-liberdade-provisoria-a-mulher-suspeita-de-esfaquear-homem-em-campina-grande.ghtml",
+      "hora": "Thu, 22 Oct 2026 14:46:16 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Professora é afastada após fazer comentários sobre regime fascista e discriminatórios em sala de aula; vídeo  ",
+      "titulo": "Equipamentos públicos do Acre são apreendidos a caminho do Peru; VÍDEO",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/21/professora-e-afastada-de-escola-em-potirendaba.ghtml",
-      "hora": "Wed, 21 Oct 2026 23:36:48 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Entenda polêmica entre Richarlison, Flávio Bolsonaro e Willer Tomaz sobre posse de ilha em Angra",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/21/entenda-polemica-entre-richarlison-flavio-bolsonaro-e-willer-tomaz-ilha-em-angra.ghtml",
-      "hora": "Wed, 21 Oct 2026 23:36:47 -0000",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/10/22/equipamentos-publicos-do-acre-sao-apreendidos-a-caminho-do-peru-video.ghtml",
+      "hora": "Thu, 22 Oct 2026 14:44:39 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de quarta-feira, 21 de outubro de 2026",
+      "titulo": "Mulher morta a tiros na Bahia era enfermeira e deixa filha adolescente; empresário é suspeito",
       "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-quarta-feira-21-de-outubro-de-2026.ghtml",
-      "hora": "Wed, 21 Oct 2026 23:33:39 -0000",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/22/mulher-morta-a-tiros-na-bahia.ghtml",
+      "hora": "Thu, 22 Oct 2026 14:44:20 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "PF encontra sala secreta e suspeita que ela era usada pelo advogado Willer Tomaz para guardar dinheiro vivo no aeroporto de Brasília",
+      "titulo": "Jovem é executado dentro de carro e colega escapa de ataque em Colatina",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/21/pf-encontra-sala-secreta-e-suspeita-que-ela-era-usada-pelo-advogado-willer-tomaz-para-guardar-dinheiro-vivo-no-aeroporto-de-brasilia.ghtml",
-      "hora": "Wed, 21 Oct 2026 23:31:56 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Mais de 2,3 mil bois somem de propriedades de idoso de 91 anos e prejuízo pode superar R$ 11 milhões no RS",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/21/bois-propriedades-idoso-prejuizo-milhoes-rs.ghtml",
-      "hora": "Wed, 21 Oct 2026 23:31:18 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Casal suspeito de matar jovem dada como desaparecida na Grande BH é levado à delegacia e presta depoimento",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/21/casal-suspeito-de-matar-matar-jovem-dada-como-desaparecida-na-grande-bh-e-levado-a-delegacia-e-presta-depoimento.ghtml",
-      "hora": "Wed, 21 Oct 2026 23:27:01 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Gilmar Mendes critica atropelo da Justiça sobre criação de cursos de medicina e pede novo julgamento ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/21/gilmar-mendes-critica-atropelo-da-justica-sobre-criacao-de-cursos-de-medicina-e-pede-novo-julgamento.ghtml",
-      "hora": "Wed, 21 Oct 2026 23:25:11 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Presidente do TSE derruba 20 postagens contra Lula e proíbe que Flávio e aliados republiquem conteúdo ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/presidente-do-tse-derruba-20-postagens-contra-lula-e-proibe-que-flavio-e-aliados-republiquem-conteudo.ghtml",
-      "hora": "Wed, 21 Oct 2026 23:25:08 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: DF2 de quarta-feira, 21 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/df2/playlist/videos-df2-de-quarta-feira-21-de-outubro-de-2026.ghtml",
-      "hora": "Wed, 21 Oct 2026 23:22:15 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: DF1 de quarta-feira, 21 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-quarta-feira-21-de-outubro-de-2026.ghtml",
-      "hora": "Wed, 21 Oct 2026 23:21:23 -0000",
+      "link": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/10/22/jovem-e-executado-dentro-de-carro-e-colega-escapa-de-ataque-em-colatina.ghtml",
+      "hora": "Thu, 22 Oct 2026 14:42:19 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -232,41 +240,41 @@
       "resumo": null
     },
     {
-      "titulo": "Como Fernanda Bolsonaro ganhou destaque na campanha de Flávio para tentar atrair voto feminino",
+      "titulo": "A batalha de Flávio e Lula pelo voto grisalho: por que eleitores 70+ podem decidir eleição para presidente",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmly0lnpn9ewo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 21 Oct 2026 17:41:02 GMT",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Mesmo com 'Exército' de Janones, esquerda não tem força digital do bolsonarismo, diz Marcos Nobre",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw99z4pj1mr4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 21 Oct 2026 06:51:39 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cj62yn475xrwo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 22 Oct 2026 09:26:02 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Flávio diz que abrirá sigilos se Marcola fizer o mesmo, e Lula diz aceitar exigências; siga notícias dessa quarta",
+      "titulo": "Lulinha, Luchsinger e Lava Jato: o que realmente pesa contra Lula?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqvgrm11kkk8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 22 Oct 2026 11:51:50 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Willer Tomaz, Vorcaro e milícia: o que realmente pesa contra Flávio?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqx2vj8l321wo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 22 Oct 2026 11:46:56 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Novo Datafolha, preparação para debate da Globo e as últimas notícias antes do 2º turno",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Sites em vários países são desativados após IA detectar falhas graves de segurança",
+      "titulo": "O que é PHP e a falha grave de segurança detectada por IA que tirou sites do ar",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c620rexwqw4wo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 21 Oct 2026 20:34:50 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Tenho uma doença da qual as pessoas têm muita vergonha de falar'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqdr866z4xvmo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 21 Oct 2026 20:54:19 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cqzjxp10r901o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 22 Oct 2026 10:28:36 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -279,6 +287,14 @@
       "resumo": null
     },
     {
+      "titulo": "Economist questiona se Lula, 'agora azarão', ainda tem 'uma última carta na manga'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq98znj6rgk8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 22 Oct 2026 09:59:41 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "Quem está à frente nas pesquisas, Lula ou Flávio? Confira no agregador da BBC",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
@@ -287,58 +303,50 @@
       "resumo": null
     },
     {
-      "titulo": "BBC News Brasil faz transmissão AO VIVO para você acompanhar apuração e resultados do 2º turno",
+      "titulo": "Lula pode ser 'varrido' em breve por onda de direita na América Latina, diz revista americana",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwrkyjpv5p7no?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 21 Oct 2026 12:58:14 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cqpvg10x8mgzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 22 Oct 2026 02:07:13 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Eleição no Brasil é a mais importante para o mundo fora dos EUA em 2026, diz Daron Acemoglu",
+      "titulo": "Como Fernanda Bolsonaro ganhou destaque na campanha de Flávio para tentar atrair voto feminino",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckvg74ve4371o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 20 Oct 2026 20:25:22 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmly0lnpn9ewo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 21 Oct 2026 17:41:02 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "A água-viva imortal que pode inspirar tratamentos para doenças ligadas ao envelhecimento",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmp3gqwe13wzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 22 Oct 2026 13:51:01 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "O que faz um vice-presidente quando o presidente está no cargo?",
+      "titulo": "Como a figura de Maduro vai se apagando na nova Venezuela de Delcy Rodríguez: 'Não há intenção de manter viva sua memória'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm4g1x5ng0jko?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 21 Oct 2026 09:09:09 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cm8ezxdpkg63o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 22 Oct 2026 12:47:44 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Às vésperas de eleição para o Congresso, como está a economia dos EUA sob comando de Trump?",
+      "titulo": "O que leva pessoas comuns obedecerem ordens imorais — e como resistir",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cv62y53g12dzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 21 Oct 2026 21:15:38 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Análise: quem está por trás dos protestos violentos na França e quem pode se beneficiar deles?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6x29lmmmexno?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 21 Oct 2026 15:35:08 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cke8r0jzvlgeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 22 Oct 2026 14:29:55 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "'Comecei a usar cetamina aos 14 anos e aos 22 precisei de fraldas'",
+      "titulo": "Sites em vários países são desativados após IA detectar falhas graves de segurança",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm8xz1llkr54o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 21 Oct 2026 12:33:30 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Mensagens de Vorcaro mostram comparação entre banqueiro e Jeffrey Epstein: 'Jeff tá amador demais'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck4g18721rv2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 20 Oct 2026 21:19:11 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c620rexwqw4wo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 21 Oct 2026 20:34:50 GMT",
       "tema": "mundo",
       "resumo": null
     }
