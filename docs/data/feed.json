@@ -1,145 +1,145 @@
 {
-  "gerado_em": "2026-10-23T18:53:06.518Z",
+  "gerado_em": "2026-10-23T23:44:37.046Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 23.2,
+    "max": 23.7,
     "min": 17.6,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "GCM apreende 27 aves silvestres em bairro de Santa Isabel",
+      "titulo": "LOGO MAIS: Globo realiza debate entre Flávio Bolsonaro (PL) e Lula (PT)",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/10/23/gcm-apreende-27-aves-silvestres-em-bairro-de-santa-isabel.ghtml",
-      "hora": "Fri, 23 Oct 2026 18:46:10 -0000",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/debate-globo-segundo-turno.ghtml",
+      "hora": "Fri, 23 Oct 2026 23:33:28 -0000",
+      "tema": "entretenimento",
+      "resumo": null
+    },
+    {
+      "titulo": "Calor intenso no AP: médico orienta sobre sinais de desidratação e riscos à saúde; veja cuidados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/10/23/calor-intenso-no-ap-medico-orienta-sobre-sinais-de-desidratacao-e-riscos-a-saude-veja-cuidados.ghtml",
+      "hora": "Fri, 23 Oct 2026 23:31:57 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Bahia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+      "hora": "Fri, 23 Oct 2026 23:24:41 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Japão vai simular ataques hackers com IA após falha no PHP tirar sites do ar em vários países",
+      "titulo": "Jovem se esconde embaixo de ônibus após ser atacada com faca pelo ex em Campo Grande",
       "fonte": "G1",
-      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/23/japao-vai-simular-ataques-hackers-com-ia-apos-falha-no-php-tirar-sites-do-ar-em-varios-paises.ghtml",
-      "hora": "Fri, 23 Oct 2026 18:45:42 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Segundo turno das eleições altera funcionamento de feiras livres em Caruaru e Garanhuns",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/caruaru-regiao/eleicoes/2026/noticia/2026/10/23/segundo-turno-das-eleicoes-altera-funcionamento-de-feiras-livres-em-caruaru-e-garanhuns.ghtml",
-      "hora": "Fri, 23 Oct 2026 18:45:34 -0000",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/23/agredida-pelo-ex-jovem-se-esconde-embaixo-de-onibus-para-escapar-de-ataque-com-faca-em-campo-grande.ghtml",
+      "hora": "Fri, 23 Oct 2026 23:24:17 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "OFEBAS transforma saudade em música na 6ª ação especial de Finados",
+      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de sexta-feira, 23 de outubro de 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/especial-publicitario/ofebas/noticia/2026/10/23/ofebas-transforma-saudade-em-musica-na-6a-acao-especial-de-finados.ghtml",
-      "hora": "Fri, 23 Oct 2026 18:45:15 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Alceu Valença repudia uso da música 'Anunciação' em vídeo pró-Flávio Bolsonaro",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/23/alceu-valenca-repudia-uso-da-musica-anunciacao-em-video-pro-flavio-bolsonaro.ghtml",
-      "hora": "Fri, 23 Oct 2026 18:45:00 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Casal encontrado carbonizado foi assassinado por causa de R$ 60 em Montes Claros, diz polícia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/23/casal-encontrado-carbonizado-foi-assassinado-por-causa-de-r-60-em-montes-claros-diz-policia.ghtml",
-      "hora": "Fri, 23 Oct 2026 18:43:13 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Eleições 2026: ônibus intermunicipais terão passe livre no domingo de 2º turno no interior de SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/bauru-marilia/eleicoes/2026/noticia/2026/10/23/eleicoes-2026-onibus-intermunicipais-terao-passe-livre-no-domingo-de-2o-turno-no-interior-de-sp.ghtml",
-      "hora": "Fri, 23 Oct 2026 18:42:24 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Descomplicando Carreiras: da realização de exames à atuação em UTI",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/caruaru-regiao/especial-publicitario/colegio-sagrado-coracao/aprova-com-o-sagrado/noticia/2026/10/23/descomplicando-carreiras-da-realizacao-de-exames-a-atuacao-em-uti.ghtml",
-      "hora": "Fri, 23 Oct 2026 18:40:00 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Motorista bêbado atropela sargento da PM na faixa de pedestres e foge no ES; veja VÍDEO",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/10/23/motorista-bebado-atropela-sargento-da-pm-na-faixa-de-pedestres-e-foge-no-es-veja-video.ghtml",
-      "hora": "Fri, 23 Oct 2026 18:39:35 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: Jornal do Acre 1ª Edição desta sexta-feira, 23 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-sexta-feira-23-de-outubro-de-2026.ghtml",
-      "hora": "Fri, 23 Oct 2026 18:38:03 -0000",
+      "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-sexta-feira-23-de-outubro-de-2026.ghtml",
+      "hora": "Fri, 23 Oct 2026 23:23:11 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: JL1 de sexta-feira, 23 de outubro de 2026",
+      "titulo": "Após perder cinco bebês, mãe se emociona ao ter gêmeas: 'Sempre tive o sonho'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/edicao/2026/10/23/videos-jl1-de-sexta-feira-23-de-outubro-de-2026.ghtml",
-      "hora": "Fri, 23 Oct 2026 18:37:11 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Prefeitura de São José facilita consulta de horários de ônibus pelo WhatsApp",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-sao-jose-dos-campos/minha-sao-jose/noticia/2026/10/23/prefeitura-de-sao-jose-facilita-consulta-de-horarios-de-onibus-pelo-whatsapp.ghtml",
-      "hora": "Fri, 23 Oct 2026 18:36:42 -0000",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/10/23/apos-perder-cinco-bebes-mae-se-emociona-ao-ter-gemeas-sempre-tive-o-sonho-de-ser-mae.ghtml",
+      "hora": "Fri, 23 Oct 2026 23:21:17 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Vazamento químico em laboratório de faculdade mobiliza Bombeiros em BH",
+      "titulo": "PRF apreende cerca de 2 toneladas de maconha na Via Dutra, em Piraí",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/23/vazamento-quimico-em-laboratorio-de-faculdade-mobiliza-bombeiros-em-bh.ghtml",
-      "hora": "Fri, 23 Oct 2026 18:35:17 -0000",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/23/prf-apreende-cerca-de-2-toneladas-de-maconha-na-via-dutra-em-pirai.ghtml",
+      "hora": "Fri, 23 Oct 2026 23:20:59 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Idoso de 62 anos morre engasgado com pedaço de carne e farofa no interior de SP",
+      "titulo": "Sete PMs são denunciados pela morte de agricultor a tiros dentro de casa durante operação no RS",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/23/idoso-de-62-anos-morre-engasgado-com-pedaco-de-carne-e-farofa-no-interior-de-sp.ghtml",
-      "hora": "Fri, 23 Oct 2026 18:33:39 -0000",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/23/pms-denunciados-morte-agricultor-operacao-pelotas-rs.ghtml",
+      "hora": "Fri, 23 Oct 2026 23:19:00 -0000",
       "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Ministério Público apura se van de prefeitura do PR abandonou pessoas em situação de vulnerabilidade em SC",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/23/mp-apura-van-prefeitura-pr-abandonou-pessoas-situacao-vulnerabilidade-sc.ghtml",
+      "hora": "Fri, 23 Oct 2026 23:16:13 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem esfaqueia a ex-mulher na frente do filho de 8 anos e envia áudio ao irmão da vítima: 'Tenta socorrer lá! Não sei se matei'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/10/23/tenta-socorrer-la-nao-sei-se-matei-homem-envia-audio-apos-esfaquear-ex-mulher-na-frente-do-filho-no-rj.ghtml",
+      "hora": "Fri, 23 Oct 2026 23:14:00 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Liberal",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
+      "hora": "Fri, 23 Oct 2026 23:12:22 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem é esfaqueado no pescoço em casa abandonada em Uberlândia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/23/homem-e-esfaqueado-no-pescoco-em-casa-abandonada-em-uberlandia.ghtml",
+      "hora": "Fri, 23 Oct 2026 23:12:08 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Dupla é presa suspeita de extorquir vítimas após empréstimo em Tatuí",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/23/dupla-e-presa-suspeita-de-extorquir-vitimas-apos-emprestimo-em-tatui.ghtml",
+      "hora": "Fri, 23 Oct 2026 23:08:48 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Apoiadores de Lula fazem passeata pelo Centro de Divinópolis",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/centro-oeste/eleicoes/2026/noticia/2026/10/23/apoiadores-de-lula-fazem-passeata-pelo-centro-de-divinopolis.ghtml",
+      "hora": "Fri, 23 Oct 2026 23:07:52 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Debate na Globo: Lula e Flávio Bolsonaro se enfrentam antes do 2º turno",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.co.uk/portuguese/live/cwrkylzdlpr3t?at_medium=RSS&at_campaign=rss",
+      "tema": "brasil",
       "resumo": null
     },
     {
       "titulo": "O número que pode definir vitória de Lula ou de Flávio Bolsonaro no 2º turno",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c8wy9k5640xdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 17:32:26 GMT",
+      "hora": "Fri, 23 Oct 2026 22:58:03 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "TSE nega ter mandado tirar canais do WhatsApp do ar, e a preparação para debate; siga",
+      "titulo": "Como o Rio Grande do Sul foi de reduto da esquerda a bastião do agronegócio",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Debate da Globo: regras, horário e checagem do último embate entre Lula e Flávio",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cx8dzrn1j54po?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 18:13:37 GMT",
-      "tema": "checagem",
+      "link": "https://www.bbc.com/portuguese/articles/cwnv02eg0807o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 23 Oct 2026 21:08:01 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -175,7 +175,31 @@
       "resumo": null
     },
     {
-      "titulo": "Flávio x Lula: o grupo de eleitores que pode decidir a eleição",
+      "titulo": "O que pesa contra Flávio Bolsonaro na eleição?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm0ld9kpnwk2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 23 Oct 2026 18:48:11 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O que pesa contra Lula na eleição?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cxp8gzj34d79o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 23 Oct 2026 22:47:34 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "BBC News Brasil faz transmissão AO VIVO para você acompanhar apuração e resultados do 2º turno",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwrkyjpv5p7no?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 21 Oct 2026 12:58:14 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Flávio x Lula: o grupo de eleitores que pode decidir a eleição para presidente",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cj62yn475xrwo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 22 Oct 2026 23:06:54 GMT",
@@ -191,51 +215,27 @@
       "resumo": null
     },
     {
-      "titulo": "Willer Tomaz, Vorcaro e milícia: o que realmente pesa contra Flávio?",
+      "titulo": "Como justificar caso você não possa votar e o que acontece se você não votar",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqx2vj8l321wo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 22 Oct 2026 11:46:56 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Lulinha, Luchsinger e Lava Jato: o que realmente pesa contra Lula?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqvgrm11kkk8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 22 Oct 2026 11:51:50 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Mapa das Eleições 2026: veja o resultado para presidente e governador no 2º turno",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c61m430mdek2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 10:14:06 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c35y79jr2q87o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 23 Oct 2026 22:57:06 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Quem não votou no primeiro turno pode votar no segundo? ",
+      "titulo": "Ônibus e metrô de graça no dia da eleição: o que diz a regra e o que mais você precisa saber para votar",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c75gxk1vlnqo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 23 Oct 2026 22:48:42 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Quem não votou no 1º turno pode votar no 2º turno? Veja o que você precisa levar",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c875pvze4w6zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 10:15:12 GMT",
+      "hora": "Fri, 23 Oct 2026 22:53:58 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Como saber se seu local de votação mudou no 2º turno",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq1j3zl8npr8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 19 Oct 2026 16:33:20 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Quando os resultados da eleição serão anunciados e como acompanhá-los?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqm26v3llpgdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 08:47:10 GMT",
-      "tema": "brasil",
       "resumo": null
     }
   ]
