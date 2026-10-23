@@ -1,136 +1,152 @@
 {
-  "gerado_em": "2026-10-23T14:39:56.640Z",
+  "gerado_em": "2026-10-23T18:53:06.518Z",
   "modo": "palavras-chave",
   "clima": {
     "max": 23.2,
     "min": 17.6,
-    "chuva": 98
+    "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Segundo turno das eleições 2026 em Sergipe",
+      "titulo": "GCM apreende 27 aves silvestres em bairro de Santa Isabel",
       "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/eleicoes/2026/ao-vivo/segundo-turno-das-eleicoes-2026-em-sergipe.ghtml",
-      "hora": "Fri, 23 Oct 2026 14:28:02 -0000",
+      "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/10/23/gcm-apreende-27-aves-silvestres-em-bairro-de-santa-isabel.ghtml",
+      "hora": "Fri, 23 Oct 2026 18:46:10 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Incêndio florestal na AM-254 é extinto; vídeos mostram fogo se alastrando rapidamente",
+      "titulo": "Japão vai simular ataques hackers com IA após falha no PHP tirar sites do ar em vários países",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/23/incendio-florestal-na-am-254-e-extinto-videos-mostram-fogo-se-alastrando-rapidamente.ghtml",
-      "hora": "Fri, 23 Oct 2026 14:24:18 -0000",
+      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/23/japao-vai-simular-ataques-hackers-com-ia-apos-falha-no-php-tirar-sites-do-ar-em-varios-paises.ghtml",
+      "hora": "Fri, 23 Oct 2026 18:45:42 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Segundo turno das eleições altera funcionamento de feiras livres em Caruaru e Garanhuns",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/caruaru-regiao/eleicoes/2026/noticia/2026/10/23/segundo-turno-das-eleicoes-altera-funcionamento-de-feiras-livres-em-caruaru-e-garanhuns.ghtml",
+      "hora": "Fri, 23 Oct 2026 18:45:34 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "OFEBAS transforma saudade em música na 6ª ação especial de Finados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/especial-publicitario/ofebas/noticia/2026/10/23/ofebas-transforma-saudade-em-musica-na-6a-acao-especial-de-finados.ghtml",
+      "hora": "Fri, 23 Oct 2026 18:45:15 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Alceu Valença repudia uso da música 'Anunciação' em vídeo pró-Flávio Bolsonaro",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/23/alceu-valenca-repudia-uso-da-musica-anunciacao-em-video-pro-flavio-bolsonaro.ghtml",
+      "hora": "Fri, 23 Oct 2026 18:45:00 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Casal encontrado carbonizado foi assassinado por causa de R$ 60 em Montes Claros, diz polícia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/23/casal-encontrado-carbonizado-foi-assassinado-por-causa-de-r-60-em-montes-claros-diz-policia.ghtml",
+      "hora": "Fri, 23 Oct 2026 18:43:13 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleições 2026: ônibus intermunicipais terão passe livre no domingo de 2º turno no interior de SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/bauru-marilia/eleicoes/2026/noticia/2026/10/23/eleicoes-2026-onibus-intermunicipais-terao-passe-livre-no-domingo-de-2o-turno-no-interior-de-sp.ghtml",
+      "hora": "Fri, 23 Oct 2026 18:42:24 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Descomplicando Carreiras: da realização de exames à atuação em UTI",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/caruaru-regiao/especial-publicitario/colegio-sagrado-coracao/aprova-com-o-sagrado/noticia/2026/10/23/descomplicando-carreiras-da-realizacao-de-exames-a-atuacao-em-uti.ghtml",
+      "hora": "Fri, 23 Oct 2026 18:40:00 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Motorista bêbado atropela sargento da PM na faixa de pedestres e foge no ES; veja VÍDEO",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/10/23/motorista-bebado-atropela-sargento-da-pm-na-faixa-de-pedestres-e-foge-no-es-veja-video.ghtml",
+      "hora": "Fri, 23 Oct 2026 18:39:35 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: Jornal do Acre 1ª Edição desta sexta-feira, 23 de outubro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-sexta-feira-23-de-outubro-de-2026.ghtml",
+      "hora": "Fri, 23 Oct 2026 18:38:03 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: JL1 de sexta-feira, 23 de outubro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pa/para/edicao/2026/10/23/videos-jl1-de-sexta-feira-23-de-outubro-de-2026.ghtml",
+      "hora": "Fri, 23 Oct 2026 18:37:11 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Prefeitura de São José facilita consulta de horários de ônibus pelo WhatsApp",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-sao-jose-dos-campos/minha-sao-jose/noticia/2026/10/23/prefeitura-de-sao-jose-facilita-consulta-de-horarios-de-onibus-pelo-whatsapp.ghtml",
+      "hora": "Fri, 23 Oct 2026 18:36:42 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Vazamento químico em laboratório de faculdade mobiliza Bombeiros em BH",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/23/vazamento-quimico-em-laboratorio-de-faculdade-mobiliza-bombeiros-em-bh.ghtml",
+      "hora": "Fri, 23 Oct 2026 18:35:17 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Idoso de 62 anos morre engasgado com pedaço de carne e farofa no interior de SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/23/idoso-de-62-anos-morre-engasgado-com-pedaco-de-carne-e-farofa-no-interior-de-sp.ghtml",
+      "hora": "Fri, 23 Oct 2026 18:33:39 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "O número que pode definir vitória de Lula ou de Flávio Bolsonaro no 2º turno",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c8wy9k5640xdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 23 Oct 2026 17:32:26 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Suspeitos atiram contra a PM durante fuga e adolescente é apreendido com granada e drogas em Resende",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/23/adolescente-e-apreendido-com-grande-quantidade-de-droga-em-resende.ghtml",
-      "hora": "Fri, 23 Oct 2026 14:23:53 -0000",
+      "titulo": "TSE nega ter mandado tirar canais do WhatsApp do ar, e a preparação para debate; siga",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Lei reconhece Praça da Mandioca e Parque Tia Nair como patrimônios culturais de Cuiabá",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/23/lei-reconhece-praca-da-mandioca-e-parque-tia-nair-como-patrimonios-culturais-de-cuiaba.ghtml",
-      "hora": "Fri, 23 Oct 2026 14:23:13 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Nando Reis leva turnê romântica a Jundiaí e relembra 'relação muito forte' com a cidade",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/23/nando-reis-leva-turne-romantica-a-jundiai-e-relembra-relacao-muito-forte-com-a-cidade.ghtml",
-      "hora": "Fri, 23 Oct 2026 14:19:51 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem é morto a tiros após ser rendido por falso policial em São José dos Campos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/23/homem-e-morto-a-tiros-apos-ser-rendido-por-falso-policial-em-sao-jose-dos-campos.ghtml",
-      "hora": "Fri, 23 Oct 2026 14:18:03 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Microsoft diz que sua IA superou médicos em testes de diagnóstico",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/23/microsoft-diz-que-sua-ia-superou-medicos-em-testes-de-diagnostico.ghtml",
-      "hora": "Fri, 23 Oct 2026 14:16:03 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Mais de 1,5 tonelada de drogas é incinerada no Acre",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/10/23/mais-de-15-tonelada-de-drogas-e-incinerada-no-acre.ghtml",
-      "hora": "Fri, 23 Oct 2026 14:11:41 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Prefeita de cidade da Bahia volta atrás e cancela nomeação da própria filha para chefe de gabinete",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/23/prefeita-de-cidade-da-bahia-torna-sem-efeito-nomeacao-da-propria-filha-para-chefe-de-gabinete.ghtml",
-      "hora": "Fri, 23 Oct 2026 14:11:17 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Cabelos humanos furtados no Paraguai são encontrados em casa em Campo Grande",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/23/cabelos-humanos-furtados-no-paraguai-sao-encontrados-em-casa-em-campo-grande.ghtml",
-      "hora": "Fri, 23 Oct 2026 14:11:07 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Adolescente de 15 anos morre após bater moto em cerca no ES",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/10/23/adolescente-de-15-anos-morre-apos-bater-moto-em-cerca-no-es.ghtml",
-      "hora": "Fri, 23 Oct 2026 14:09:56 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Jovem morre após passar mal em motel de Goiás, diz polícia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/10/23/jovem-morre-em-motel-de-goias.ghtml",
-      "hora": "Fri, 23 Oct 2026 14:09:29 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Jovem que matou a mãe e baleou o pai obrigou irmã de 12 anos a matá-lo a tiros no Pará, diz polícia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/23/jovem-que-matou-a-mae-e-baleou-o-pai-obrigou-irma-de-12-anos-a-mata-lo-a-tiros-no-para-diz-policia.ghtml",
-      "hora": "Fri, 23 Oct 2026 14:08:45 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Assista ao EPTV1",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv1.ghtml",
-      "hora": "Fri, 23 Oct 2026 14:08:06 -0000",
-      "tema": "mundo",
+      "titulo": "Debate da Globo: regras, horário e checagem do último embate entre Lula e Flávio",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cx8dzrn1j54po?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 23 Oct 2026 18:13:37 GMT",
+      "tema": "checagem",
       "resumo": null
     },
     {
       "titulo": "Os sinais preocupantes da economia em 2027 e o que Flávio e Lula propõem para eles",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm20v1y71kweo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 08:07:19 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "TSE pede explicações à Meta e ao X, Flávio e Lula na Globo; as últimas notícias antes do 2º turno  ",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/cqly3dejgzplt?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 23 Oct 2026 17:40:57 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -140,14 +156,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cjy56grn51zzo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 23 Oct 2026 13:49:24 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Debate da Globo: regras, horário e checagem do último embate entre Lula e Flávio",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cx8dzrn1j54po?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 11:25:13 GMT",
-      "tema": "checagem",
       "resumo": null
     },
     {
@@ -167,7 +175,7 @@
       "resumo": null
     },
     {
-      "titulo": "Flávio x Lula: o grupo de eleitores que pode decidir a eleição para presidente",
+      "titulo": "Flávio x Lula: o grupo de eleitores que pode decidir a eleição",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cj62yn475xrwo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 22 Oct 2026 23:06:54 GMT",
@@ -183,7 +191,7 @@
       "resumo": null
     },
     {
-      "titulo": "Willer Tomaz, Vorcaro e milícia: o que realmente pesa contra Flávio Bolsonaro?",
+      "titulo": "Willer Tomaz, Vorcaro e milícia: o que realmente pesa contra Flávio?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cqx2vj8l321wo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 22 Oct 2026 11:46:56 GMT",
