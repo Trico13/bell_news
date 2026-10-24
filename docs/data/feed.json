@@ -1,153 +1,34 @@
 {
-  "gerado_em": "2026-10-23T23:44:37.046Z",
+  "gerado_em": "2026-10-24T13:49:48.170Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 23.7,
-    "min": 17.6,
-    "chuva": 100
+    "max": 25,
+    "min": 17.1,
+    "chuva": 49
   },
   "noticias": [
     {
-      "titulo": "LOGO MAIS: Globo realiza debate entre Flávio Bolsonaro (PL) e Lula (PT)",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/debate-globo-segundo-turno.ghtml",
-      "hora": "Fri, 23 Oct 2026 23:33:28 -0000",
-      "tema": "entretenimento",
-      "resumo": null
-    },
-    {
-      "titulo": "Calor intenso no AP: médico orienta sobre sinais de desidratação e riscos à saúde; veja cuidados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/10/23/calor-intenso-no-ap-medico-orienta-sobre-sinais-de-desidratacao-e-riscos-a-saude-veja-cuidados.ghtml",
-      "hora": "Fri, 23 Oct 2026 23:31:57 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Bahia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
-      "hora": "Fri, 23 Oct 2026 23:24:41 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Jovem se esconde embaixo de ônibus após ser atacada com faca pelo ex em Campo Grande",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/23/agredida-pelo-ex-jovem-se-esconde-embaixo-de-onibus-para-escapar-de-ataque-com-faca-em-campo-grande.ghtml",
-      "hora": "Fri, 23 Oct 2026 23:24:17 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de sexta-feira, 23 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-sexta-feira-23-de-outubro-de-2026.ghtml",
-      "hora": "Fri, 23 Oct 2026 23:23:11 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Após perder cinco bebês, mãe se emociona ao ter gêmeas: 'Sempre tive o sonho'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/10/23/apos-perder-cinco-bebes-mae-se-emociona-ao-ter-gemeas-sempre-tive-o-sonho-de-ser-mae.ghtml",
-      "hora": "Fri, 23 Oct 2026 23:21:17 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "PRF apreende cerca de 2 toneladas de maconha na Via Dutra, em Piraí",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/23/prf-apreende-cerca-de-2-toneladas-de-maconha-na-via-dutra-em-pirai.ghtml",
-      "hora": "Fri, 23 Oct 2026 23:20:59 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Sete PMs são denunciados pela morte de agricultor a tiros dentro de casa durante operação no RS",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/23/pms-denunciados-morte-agricultor-operacao-pelotas-rs.ghtml",
-      "hora": "Fri, 23 Oct 2026 23:19:00 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Ministério Público apura se van de prefeitura do PR abandonou pessoas em situação de vulnerabilidade em SC",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/23/mp-apura-van-prefeitura-pr-abandonou-pessoas-situacao-vulnerabilidade-sc.ghtml",
-      "hora": "Fri, 23 Oct 2026 23:16:13 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem esfaqueia a ex-mulher na frente do filho de 8 anos e envia áudio ao irmão da vítima: 'Tenta socorrer lá! Não sei se matei'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/10/23/tenta-socorrer-la-nao-sei-se-matei-homem-envia-audio-apos-esfaquear-ex-mulher-na-frente-do-filho-no-rj.ghtml",
-      "hora": "Fri, 23 Oct 2026 23:14:00 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Liberal",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
-      "hora": "Fri, 23 Oct 2026 23:12:22 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem é esfaqueado no pescoço em casa abandonada em Uberlândia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/23/homem-e-esfaqueado-no-pescoco-em-casa-abandonada-em-uberlandia.ghtml",
-      "hora": "Fri, 23 Oct 2026 23:12:08 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Dupla é presa suspeita de extorquir vítimas após empréstimo em Tatuí",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/23/dupla-e-presa-suspeita-de-extorquir-vitimas-apos-emprestimo-em-tatui.ghtml",
-      "hora": "Fri, 23 Oct 2026 23:08:48 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Apoiadores de Lula fazem passeata pelo Centro de Divinópolis",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/centro-oeste/eleicoes/2026/noticia/2026/10/23/apoiadores-de-lula-fazem-passeata-pelo-centro-de-divinopolis.ghtml",
-      "hora": "Fri, 23 Oct 2026 23:07:52 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Debate na Globo: Lula e Flávio Bolsonaro se enfrentam antes do 2º turno",
+      "titulo": "Quem ganhou e quem perdeu no último debate entre Lula e Flávio Bolsonaro?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/cwrkylzdlpr3t?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.com/portuguese/articles/cmx2351xpe2lo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 24 Oct 2026 11:30:13 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "O número que pode definir vitória de Lula ou de Flávio Bolsonaro no 2º turno",
+      "titulo": "Como Geraldo Alckmin foi de rival a 'companheiro' e candidato a vice-presidente de Lula",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c8wy9k5640xdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 22:58:03 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cr86z5exqn91o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 24 Oct 2026 13:28:11 GMT",
+      "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Como o Rio Grande do Sul foi de reduto da esquerda a bastião do agronegócio",
+      "titulo": "Em quais estados haverá eleição para governador no 2º turno e quais são os candidatos?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwnv02eg0807o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 21:08:01 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmrryjz1dy48o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 24 Oct 2026 10:47:12 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Os sinais preocupantes da economia em 2027 e o que Flávio e Lula propõem para eles",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm20v1y71kweo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 17:40:57 GMT",
-      "tema": "brasil",
       "resumo": null
     },
     {
@@ -167,26 +48,34 @@
       "resumo": null
     },
     {
-      "titulo": "Nem Lula, nem Flávio Bolsonaro 'têm estômago' para reforma que Brasil precisa, diz Economist",
+      "titulo": "Os principais momentos do debate entre Lula e Flávio na Globo",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwzd6gynz1r2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 14:22:49 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cjly03x90ky4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 24 Oct 2026 06:15:59 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "O que pesa contra Flávio Bolsonaro na eleição?",
+      "titulo": "O número que pode definir vitória de Lula ou de Flávio Bolsonaro no 2º turno",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm0ld9kpnwk2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 18:48:11 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c8wy9k5640xdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 23 Oct 2026 22:58:03 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "O que pesa contra Lula na eleição?",
+      "titulo": "A batalha política no berço do MST no Rio Grande do Sul",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cxp8gzj34d79o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 22:47:34 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cwnv02eg0807o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 24 Oct 2026 00:00:00 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Os sinais preocupantes da economia em 2027 e o que Flávio e Lula propõem para eles",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm20v1y71kweo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 23 Oct 2026 17:40:57 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -195,14 +84,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cwrkyjpv5p7no?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 21 Oct 2026 12:58:14 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Flávio x Lula: o grupo de eleitores que pode decidir a eleição para presidente",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cj62yn475xrwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 22 Oct 2026 23:06:54 GMT",
       "tema": "brasil",
       "resumo": null
     },
