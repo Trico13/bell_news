@@ -1,18 +1,146 @@
 {
-  "gerado_em": "2026-10-24T13:49:48.170Z",
+  "gerado_em": "2026-10-24T17:49:44.545Z",
   "modo": "palavras-chave",
   "clima": {
     "max": 25,
     "min": 17.1,
-    "chuva": 49
+    "chuva": 70
   },
   "noticias": [
+    {
+      "titulo": "\nApós chuva, moradores reclamam de carros atolados e lama em obra da Sabesp em Monte Mor",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/24/apos-chuva-moradores-reclamam-de-carros-atolados-e-lama-em-obra-da-sabesp-em-monte-mor.ghtml",
+      "hora": "Sat, 24 Oct 2026 17:32:24 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: RJ1 de sábado, 24 de outubro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/videos-rj1/playlist/videos-rj1-de-sabado-24-de-outubro-de-2026.ghtml",
+      "hora": "Sat, 24 Oct 2026 17:31:08 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Teresópolis implanta novos sistemas de monitoramento e segurança",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/24/teresopolis-implanta-novos-sistemas-de-monitoramento-e-seguranca.ghtml",
+      "hora": "Sat, 24 Oct 2026 17:30:13 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'Barato da Cozinha': aprenda a fazer salpicão de frango",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/24/barato-da-cozinha-aprenda-a-fazer-salpicao-de-frango.ghtml",
+      "hora": "Sat, 24 Oct 2026 17:28:50 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Arrombamento de carro em BH termina em perseguição e trio preso",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/24/arrombamento-de-carro-em-bh-termina-em-perseguicao-e-trio-preso.ghtml",
+      "hora": "Sat, 24 Oct 2026 17:26:05 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Motociclista morre em acidente em trecho da BR-101 no Litoral Norte da Paraíba",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/24/motociclista-morre-em-acidente-em-trecho-da-br-101-no-litoral-norte-da-paraiba.ghtml",
+      "hora": "Sat, 24 Oct 2026 17:21:56 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleições 2026: veja as últimas pesquisas de intenção de voto para presidente",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/eleicoes-2026-veja-as-ultimas-pesquisas-de-intencao-de-voto-para-presidente.ghtml",
+      "hora": "Sat, 24 Oct 2026 17:21:02 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Justiça manda Supermercado Zona Sul enviar mensagem a funcionários sobre voto livre e proíbe comunicados políticos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/24/justica-supermercado-zona-sul-mensagem-funcionarios.ghtml",
+      "hora": "Sat, 24 Oct 2026 17:19:15 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Caminhonete que acompanhava transporte de urnas eletrônicas tomba no Sul do PI e deixa PM ferido",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/10/24/caminhonete-sul-pi.ghtml",
+      "hora": "Sat, 24 Oct 2026 17:10:16 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: DF1 de sábado, 24 de outubro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-sabado-24-de-outubro-de-2026.ghtml",
+      "hora": "Sat, 24 Oct 2026 17:09:53 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Chef transforma sobras de coquetéis em pratos e sobremesas no litoral de SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/culinaria-013/noticia/2026/10/24/chef-transforma-sobras-de-coqueteis-em-pratos-e-sobremesas-no-litoral-de-sp.ghtml",
+      "hora": "Sat, 24 Oct 2026 17:06:27 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "TikTok deve devolver conta invadida de neuropsicopedagoga e pagar R$ 10 mil em danos morais em MG",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/24/tiktok-deve-devolver-conta-invadida-de-neuropsicopedagoga-e-pagar-r-10-mil-em-danos-morais-em-mg.ghtml",
+      "hora": "Sat, 24 Oct 2026 17:05:49 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Motociclista de 26 anos morre após bater contra poste em Rio Branco",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/10/24/motociclista-de-26-anos-morre-apos-bater-contra-poste-em-rio-branco.ghtml",
+      "hora": "Sat, 24 Oct 2026 17:04:12 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Cidade conhecida como 'Orlando brasileira' cancela réveillon para adequar despesas públicas",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/24/cidade-conhecida-como-orlando-brasileira-cancela-reveillon-para-adequar-despesas-publicas.ghtml",
+      "hora": "Sat, 24 Oct 2026 17:01:43 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que duelo entre Lula e Flávio é crucial para a América Latina — e para Trump",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm62yvnkdwk7o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 24 Oct 2026 15:59:34 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
     {
       "titulo": "Quem ganhou e quem perdeu no último debate entre Lula e Flávio Bolsonaro?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmx2351xpe2lo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 24 Oct 2026 11:30:13 GMT",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Asssista aos melhores momentos do último confronto antes da eleição",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cvx28exwg57no?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 24 Oct 2026 14:09:01 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -24,22 +152,6 @@
       "resumo": null
     },
     {
-      "titulo": "Em quais estados haverá eleição para governador no 2º turno e quais são os candidatos?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmrryjz1dy48o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 24 Oct 2026 10:47:12 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Derruba esse site': como Vorcaro tentava controlar sua imagem e a de aliados na internet",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjy56grn51zzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 13:49:24 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
       "titulo": "Clique aqui",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
@@ -48,11 +160,11 @@
       "resumo": null
     },
     {
-      "titulo": "Os principais momentos do debate entre Lula e Flávio na Globo",
+      "titulo": "Em quais estados haverá eleição para governador no 2º turno e quais são os candidatos?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjly03x90ky4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 24 Oct 2026 06:15:59 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmrryjz1dy48o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 24 Oct 2026 10:47:12 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
