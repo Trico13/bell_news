@@ -1,121 +1,137 @@
 {
-  "gerado_em": "2026-10-24T17:49:44.545Z",
+  "gerado_em": "2026-10-24T22:53:29.003Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 25,
+    "max": 25.8,
     "min": 17.1,
     "chuva": 70
   },
   "noticias": [
     {
-      "titulo": "\nApós chuva, moradores reclamam de carros atolados e lama em obra da Sabesp em Monte Mor",
+      "titulo": "Homem é morto a golpes de facão após briga por dívida de R$ 1 mil no ES",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/24/apos-chuva-moradores-reclamam-de-carros-atolados-e-lama-em-obra-da-sabesp-em-monte-mor.ghtml",
-      "hora": "Sat, 24 Oct 2026 17:32:24 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: RJ1 de sábado, 24 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/videos-rj1/playlist/videos-rj1-de-sabado-24-de-outubro-de-2026.ghtml",
-      "hora": "Sat, 24 Oct 2026 17:31:08 -0000",
+      "link": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/10/24/homem-e-morto-a-golpes-de-facao-apos-briga-por-divida-de-r-1-mil-no-es.ghtml",
+      "hora": "Sat, 24 Oct 2026 22:43:23 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Teresópolis implanta novos sistemas de monitoramento e segurança",
+      "titulo": "Quaest no Acre, votos válidos: Mailza Assis, 62%; Alan Rick, 38% ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/24/teresopolis-implanta-novos-sistemas-de-monitoramento-e-seguranca.ghtml",
-      "hora": "Sat, 24 Oct 2026 17:30:13 -0000",
+      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/24/quaest-ac-governador-segundo-turno-24-outubro.ghtml",
+      "hora": "Sat, 24 Oct 2026 22:43:06 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "'Barato da Cozinha': aprenda a fazer salpicão de frango",
+      "titulo": "Eleições 2026: acompanhe a cobertura do 2º turno de votação no Acre",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/24/barato-da-cozinha-aprenda-a-fazer-salpicao-de-frango.ghtml",
-      "hora": "Sat, 24 Oct 2026 17:28:50 -0000",
+      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/ao-vivo/ao-vivo-cobertura-apuracao-votacao-2-turno-acre-ghtml.ghtml",
+      "hora": "Sat, 24 Oct 2026 22:41:14 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Arrombamento de carro em BH termina em perseguição e trio preso",
+      "titulo": "TRE manda governo garantir retorno gratuito no transporte intermunicipal sem exigência de bilhete de ida",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/24/arrombamento-de-carro-em-bh-termina-em-perseguicao-e-trio-preso.ghtml",
-      "hora": "Sat, 24 Oct 2026 17:26:05 -0000",
+      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/24/tre-manda-governo-garantir-retorno-gratuito-no-transporte-intermunicipal-sem-exigencia-de-bilhete-de-ida.ghtml",
+      "hora": "Sat, 24 Oct 2026 22:41:12 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: GR2 de sábado, 24 de Outubro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/petrolina-regiao/edicao/2026/10/24/videos-gr2-de-sabado-24-de-outubro-de-2026.ghtml",
+      "hora": "Sat, 24 Oct 2026 22:40:47 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEO: Motocarreata em apoio a Flávio Bolsonaro reúne eleitores em Teresina antes do 2º turno",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/10/24/manifestacao-flavio-bolsonaro-piaui.ghtml",
+      "hora": "Sat, 24 Oct 2026 22:36:17 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Motociclista morre em acidente em trecho da BR-101 no Litoral Norte da Paraíba",
+      "titulo": "Quaest no Amazonas, votos válidos: Omar Aziz, 59%; Professora Maria do Carmo, 41% ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/24/motociclista-morre-em-acidente-em-trecho-da-br-101-no-litoral-norte-da-paraiba.ghtml",
-      "hora": "Sat, 24 Oct 2026 17:21:56 -0000",
+      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/24/quaest-amazonas-governador-segundo-turno-24-outubro.ghtml",
+      "hora": "Sat, 24 Oct 2026 22:35:45 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Eleições 2026: veja as últimas pesquisas de intenção de voto para presidente",
+      "titulo": "Eleições 2026 no Amapá: veja quais documentos levar para votar neste domingo (25)",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/eleicoes-2026-veja-as-ultimas-pesquisas-de-intencao-de-voto-para-presidente.ghtml",
-      "hora": "Sat, 24 Oct 2026 17:21:02 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Justiça manda Supermercado Zona Sul enviar mensagem a funcionários sobre voto livre e proíbe comunicados políticos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/24/justica-supermercado-zona-sul-mensagem-funcionarios.ghtml",
-      "hora": "Sat, 24 Oct 2026 17:19:15 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Caminhonete que acompanhava transporte de urnas eletrônicas tomba no Sul do PI e deixa PM ferido",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/10/24/caminhonete-sul-pi.ghtml",
-      "hora": "Sat, 24 Oct 2026 17:10:16 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: DF1 de sábado, 24 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-sabado-24-de-outubro-de-2026.ghtml",
-      "hora": "Sat, 24 Oct 2026 17:09:53 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Chef transforma sobras de coquetéis em pratos e sobremesas no litoral de SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/culinaria-013/noticia/2026/10/24/chef-transforma-sobras-de-coqueteis-em-pratos-e-sobremesas-no-litoral-de-sp.ghtml",
-      "hora": "Sat, 24 Oct 2026 17:06:27 -0000",
+      "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/24/eleicoes-2026-no-amapa-veja-quais-documentos-levar-para-votar-neste-domingo-25.ghtml",
+      "hora": "Sat, 24 Oct 2026 22:30:55 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "TikTok deve devolver conta invadida de neuropsicopedagoga e pagar R$ 10 mil em danos morais em MG",
+      "titulo": "Quaest no Tocantins, votos válidos: Vicentinho Júnior, 59%; Professora Dorinha, 41%",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/24/tiktok-deve-devolver-conta-invadida-de-neuropsicopedagoga-e-pagar-r-10-mil-em-danos-morais-em-mg.ghtml",
-      "hora": "Sat, 24 Oct 2026 17:05:49 -0000",
+      "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/24/quaest-tocantins-governador-segundo-turno-24-outubro.ghtml",
+      "hora": "Sat, 24 Oct 2026 22:28:38 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "TRE sorteia 43 urnas que passarão por auditoria no 2º turno das eleições no RJ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/24/tre-sorteia-43-urnas-que-passarao-por-auditoria-no-2o-turno-das-eleicoes-no-rj.ghtml",
+      "hora": "Sat, 24 Oct 2026 22:27:05 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Motociclista de 26 anos morre após bater contra poste em Rio Branco",
+      "titulo": "Protesto em Barcelona termina com 100 presos, lojas saqueadas e incêndios",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/10/24/motociclista-de-26-anos-morre-apos-bater-contra-poste-em-rio-branco.ghtml",
-      "hora": "Sat, 24 Oct 2026 17:04:12 -0000",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/24/protesto-em-barcelona-termina-com-presos-lojas-saqueadas-e-incendios.ghtml",
+      "hora": "Sat, 24 Oct 2026 22:25:48 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Cidade conhecida como 'Orlando brasileira' cancela réveillon para adequar despesas públicas",
+      "titulo": "Apoiadores de Flávio Bolsonaro e Celina Leão fazem ato no centro de Brasília na véspera do 2º turno",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/24/cidade-conhecida-como-orlando-brasileira-cancela-reveillon-para-adequar-despesas-publicas.ghtml",
-      "hora": "Sat, 24 Oct 2026 17:01:43 -0000",
+      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/apoiadores-de-flavio-bolsonaro-e-celina-leao-fazem-ato-no-centro-de-brasilia-na-vespera-do-2o-turno.ghtml",
+      "hora": "Sat, 24 Oct 2026 22:25:32 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Apoiadores de Lula e Leandro Grass fazem ato no centro de Brasília na véspera do 2º turno",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/apoiadores-de-lula-e-leandro-grass-fazem-ato-no-centro-de-brasilia-na-vespera-do-2o-turno.ghtml",
+      "hora": "Sat, 24 Oct 2026 22:25:26 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Internações por doenças intestinais sobem 66% em nove anos na região de Campinas; médico alerta para fatores de risco",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/24/internacoes-por-doencas-intestinais-sobem-66percent-em-nove-anos-na-regiao-de-campinas-medico-alerta-para-fatores-de-risco.ghtml",
+      "hora": "Sat, 24 Oct 2026 22:23:02 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
+      "hora": "Sat, 24 Oct 2026 22:22:41 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "As pesquisas para presidente na véspera do 2º turno — o que diziam em 2018, 2022 e o que mostram agora",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ckvgd18g287jo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 24 Oct 2026 22:23:03 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -128,19 +144,11 @@
       "resumo": null
     },
     {
-      "titulo": "Quem ganhou e quem perdeu no último debate entre Lula e Flávio Bolsonaro?",
+      "titulo": "Flávio gasta 6 vezes o valor de Lula em anúncios na última semana de campanha",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmx2351xpe2lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 24 Oct 2026 11:30:13 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cq5yn91y2wwlo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 24 Oct 2026 18:29:39 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Asssista aos melhores momentos do último confronto antes da eleição",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvx28exwg57no?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 24 Oct 2026 14:09:01 GMT",
-      "tema": "mundo",
       "resumo": null
     },
     {
@@ -168,26 +176,26 @@
       "resumo": null
     },
     {
-      "titulo": "O número que pode definir vitória de Lula ou de Flávio Bolsonaro no 2º turno",
+      "titulo": "Quem ganhou e quem perdeu no último debate entre Lula e Flávio Bolsonaro?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c8wy9k5640xdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 22:58:03 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmx2351xpe2lo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 24 Oct 2026 11:30:13 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "A batalha política no berço do MST no Rio Grande do Sul",
+      "titulo": "Vai votar em outra cidade? Veja regras de como usar o transporte gratuito no seu Estado",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwnv02eg0807o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 24 Oct 2026 00:00:00 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/ckpqgyzlwdj7o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 24 Oct 2026 20:10:17 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Os sinais preocupantes da economia em 2027 e o que Flávio e Lula propõem para eles",
+      "titulo": "O número que pode definir vitória de Lula ou de Flávio Bolsonaro no 2º turno",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm20v1y71kweo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 17:40:57 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c8wy9k5640xdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 23 Oct 2026 22:58:03 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -200,6 +208,14 @@
       "resumo": null
     },
     {
+      "titulo": "A batalha política no berço do MST no Rio Grande do Sul",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwnv02eg0807o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 24 Oct 2026 00:00:00 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Quem está à frente nas pesquisas, Lula ou Flávio? Confira no agregador da BBC",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
@@ -208,26 +224,18 @@
       "resumo": null
     },
     {
+      "titulo": "Os sinais preocupantes da economia em 2027 e o que Flávio e Lula propõem para eles",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm20v1y71kweo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 23 Oct 2026 17:40:57 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "Como justificar caso você não possa votar e o que acontece se você não votar",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c35y79jr2q87o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 23 Oct 2026 22:57:06 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Ônibus e metrô de graça no dia da eleição: o que diz a regra e o que mais você precisa saber para votar",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c75gxk1vlnqo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 22:48:42 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem não votou no 1º turno pode votar no 2º turno? Veja o que você precisa levar",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c875pvze4w6zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 22:53:58 GMT",
       "tema": "mundo",
       "resumo": null
     }
