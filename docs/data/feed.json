@@ -1,129 +1,152 @@
 {
-  "gerado_em": "2026-10-24T22:53:29.003Z",
+  "gerado_em": "2026-10-25T14:05:50.997Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 25.8,
-    "min": 17.1,
-    "chuva": 70
+    "max": 23.4,
+    "min": 16.1,
+    "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Homem é morto a golpes de facão após briga por dívida de R$ 1 mil no ES",
+      "titulo": "Mais de 1 milhão de eleitores justificam ausência pelo e-Título até as 9h, diz TSE",
       "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/10/24/homem-e-morto-a-golpes-de-facao-apos-briga-por-divida-de-r-1-mil-no-es.ghtml",
-      "hora": "Sat, 24 Oct 2026 22:43:23 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Quaest no Acre, votos válidos: Mailza Assis, 62%; Alan Rick, 38% ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/24/quaest-ac-governador-segundo-turno-24-outubro.ghtml",
-      "hora": "Sat, 24 Oct 2026 22:43:06 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Eleições 2026: acompanhe a cobertura do 2º turno de votação no Acre",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/ao-vivo/ao-vivo-cobertura-apuracao-votacao-2-turno-acre-ghtml.ghtml",
-      "hora": "Sat, 24 Oct 2026 22:41:14 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "TRE manda governo garantir retorno gratuito no transporte intermunicipal sem exigência de bilhete de ida",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/24/tre-manda-governo-garantir-retorno-gratuito-no-transporte-intermunicipal-sem-exigencia-de-bilhete-de-ida.ghtml",
-      "hora": "Sat, 24 Oct 2026 22:41:12 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: GR2 de sábado, 24 de Outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/edicao/2026/10/24/videos-gr2-de-sabado-24-de-outubro-de-2026.ghtml",
-      "hora": "Sat, 24 Oct 2026 22:40:47 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEO: Motocarreata em apoio a Flávio Bolsonaro reúne eleitores em Teresina antes do 2º turno",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/10/24/manifestacao-flavio-bolsonaro-piaui.ghtml",
-      "hora": "Sat, 24 Oct 2026 22:36:17 -0000",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/mais-de-1-milhao-de-eleitores-justificam-ausencia-pelo-e-titulo-ate-as-9h-diz-tse.ghtml",
+      "hora": "Sun, 25 Oct 2026 13:46:17 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Quaest no Amazonas, votos válidos: Omar Aziz, 59%; Professora Maria do Carmo, 41% ",
+      "titulo": "Rio Piracicaba atinge 4,96 metros e extravasa após chuvas intensas; veja pontos de risco",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/24/quaest-amazonas-governador-segundo-turno-24-outubro.ghtml",
-      "hora": "Sat, 24 Oct 2026 22:35:45 -0000",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/25/rio-piracicaba-atinge-496-metros-e-extravasa-apos-chuvas-intensas-veja-pontos-de-risco.ghtml",
+      "hora": "Sun, 25 Oct 2026 13:45:25 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Eleições 2026 no Amapá: veja quais documentos levar para votar neste domingo (25)",
+      "titulo": "Veja fotos do 2º turno das eleições 2026 em Ribeirão Preto e Franca",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/eleicoes/2026/noticia/2026/10/24/eleicoes-2026-no-amapa-veja-quais-documentos-levar-para-votar-neste-domingo-25.ghtml",
-      "hora": "Sat, 24 Oct 2026 22:30:55 -0000",
-      "tema": "cultura",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/10/25/veja-fotos-do-2o-turno-das-eleicoes-2026-em-ribeirao-preto-e-franca.ghtml",
+      "hora": "Sun, 25 Oct 2026 13:45:23 -0000",
+      "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Quaest no Tocantins, votos válidos: Vicentinho Júnior, 59%; Professora Dorinha, 41%",
+      "titulo": "Dilma Rousseff vota no Colégio Santa Marcelina, em BH",
       "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/24/quaest-tocantins-governador-segundo-turno-24-outubro.ghtml",
-      "hora": "Sat, 24 Oct 2026 22:28:38 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "TRE sorteia 43 urnas que passarão por auditoria no 2º turno das eleições no RJ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/24/tre-sorteia-43-urnas-que-passarao-por-auditoria-no-2o-turno-das-eleicoes-no-rj.ghtml",
-      "hora": "Sat, 24 Oct 2026 22:27:05 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Protesto em Barcelona termina com 100 presos, lojas saqueadas e incêndios",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/24/protesto-em-barcelona-termina-com-presos-lojas-saqueadas-e-incendios.ghtml",
-      "hora": "Sat, 24 Oct 2026 22:25:48 -0000",
+      "link": "https://g1.globo.com/mg/minas-gerais/ao-vivo/cobertura-apuracao-votacao-2-turno-mg.ghtml",
+      "hora": "Sun, 25 Oct 2026 13:42:52 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Apoiadores de Flávio Bolsonaro e Celina Leão fazem ato no centro de Brasília na véspera do 2º turno",
+      "titulo": "Governador Elmano de Freitas vota em Caucaia, na Grande Fortaleza; acompanhe em tempo real",
       "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/apoiadores-de-flavio-bolsonaro-e-celina-leao-fazem-ato-no-centro-de-brasilia-na-vespera-do-2o-turno.ghtml",
-      "hora": "Sat, 24 Oct 2026 22:25:32 -0000",
+      "link": "https://g1.globo.com/ce/ceara/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-ceara.ghtml",
+      "hora": "Sun, 25 Oct 2026 13:42:20 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Apoiadores de Lula e Leandro Grass fazem ato no centro de Brasília na véspera do 2º turno",
+      "titulo": "Chuva forte causa alagamentos e deslizamentos de terra em Poços de Caldas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/apoiadores-de-lula-e-leandro-grass-fazem-ato-no-centro-de-brasilia-na-vespera-do-2o-turno.ghtml",
-      "hora": "Sat, 24 Oct 2026 22:25:26 -0000",
+      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/25/chuva-sul-de-minas.ghtml",
+      "hora": "Sun, 25 Oct 2026 13:42:15 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Leandro Grass (PT) vota no Guará, no DF",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/leandro-grass-pt-vota-no-guara-no-df.ghtml",
+      "hora": "Sun, 25 Oct 2026 13:40:59 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleições presidenciais: quem venceu cada disputa desde a redemocratização?",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/eleicoes-presidenciais-quem-venceu-cada-disputa-desde-a-redemocratizacao.ghtml",
+      "hora": "Sun, 25 Oct 2026 13:40:47 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "MP de Alagoas fiscaliza rodoviária após denúncias de cobrança e ameaça a eleitores",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/10/25/mp-de-alagoas-fiscaliza-rodoviaria-apos-denuncias-de-cobranca-e-ameaca-a-eleitores.ghtml",
+      "hora": "Sun, 25 Oct 2026 13:39:08 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Internações por doenças intestinais sobem 66% em nove anos na região de Campinas; médico alerta para fatores de risco",
+      "titulo": "‘Entregar todo o poder aos Bolsonaro ou dar última vitória a Lula’: imprensa mundial repercute votação no 2º turno",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/24/internacoes-por-doencas-intestinais-sobem-66percent-em-nove-anos-na-regiao-de-campinas-medico-alerta-para-fatores-de-risco.ghtml",
-      "hora": "Sat, 24 Oct 2026 22:23:02 -0000",
-      "tema": "cultura",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/25/repercute-internacional-votacao-2o-turno-eleicoes-lula-flavio-bolsonaro.ghtml",
+      "hora": "Sun, 25 Oct 2026 13:37:27 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
+      "titulo": "Chuva causa alagamento e interdições em Ribeirão Preto, SP, durante manhã de votação",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
-      "hora": "Sat, 24 Oct 2026 22:22:41 -0000",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/25/chuva-causa-alagamento-e-interdicoes-em-ribeirao-preto-sp-durante-manha-de-votacao.ghtml",
+      "hora": "Sun, 25 Oct 2026 13:36:24 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Balanço Eleições 2026: 15 urnas eletrônicas são substituídas na Bahia até 9h; estado não registra prisões",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/25/balanco-eleicoes-2026-ba.ghtml",
+      "hora": "Sun, 25 Oct 2026 13:35:37 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem é morto e outro fica ferido a tiros durante carreata política em Bonito; veja vídeo",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/25/briga-durante-carreata-politica-deixa-um-homem-morto-e-outro-ferido-a-tiros-em-bonito-veja-video.ghtml",
+      "hora": "Sun, 25 Oct 2026 13:34:34 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Ônibus são retidos em garagem de Salvador durante o 2º turno das eleições",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/25/onibus-sao-retidos-em-garagem-de-salvador-durante-o-2o-turno-das-eleicoes.ghtml",
+      "hora": "Sun, 25 Oct 2026 13:34:17 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Allyson Bezerra (União Brasil) vota em Mossoró",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/25/allyson-bezerra-uniao-brasil-vota-em-mossoro.ghtml",
+      "hora": "Sun, 25 Oct 2026 13:34:14 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleições 2026: últimas notícias de Flávio Bolsonaro e Lula e a votação no Brasil e no exterior no 2º turno ",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "BBC News Brasil terá transmissão AO VIVO com apuração e resultados",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwrkyjpv5p7no?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 21 Oct 2026 12:58:14 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Votos do Nordeste demoram mais para chegar ao TSE? Tudo sobre a apuração",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmvg9v4v8kwgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 25 Oct 2026 12:32:02 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -131,32 +154,16 @@
       "titulo": "As pesquisas para presidente na véspera do 2º turno — o que diziam em 2018, 2022 e o que mostram agora",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/ckvgd18g287jo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 24 Oct 2026 22:23:03 GMT",
+      "hora": "Sun, 25 Oct 2026 10:49:40 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Por que duelo entre Lula e Flávio é crucial para a América Latina — e para Trump",
+      "titulo": "Flávio Bolsonaro x Lula após Datafolha e Quaest: o que mostra o Agregador de Pesquisas da BBC?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm62yvnkdwk7o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 24 Oct 2026 15:59:34 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cvrly555knx9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 25 Oct 2026 12:18:43 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Flávio gasta 6 vezes o valor de Lula em anúncios na última semana de campanha",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq5yn91y2wwlo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 24 Oct 2026 18:29:39 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Como Geraldo Alckmin foi de rival a 'companheiro' e candidato a vice-presidente de Lula",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr86z5exqn91o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 24 Oct 2026 13:28:11 GMT",
-      "tema": "sp",
       "resumo": null
     },
     {
@@ -168,19 +175,11 @@
       "resumo": null
     },
     {
-      "titulo": "Em quais estados haverá eleição para governador no 2º turno e quais são os candidatos?",
+      "titulo": "Guia das Eleições 2026: ônibus e metrô de graça para votar e tudo o que você precisa saber no 2º turno",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmrryjz1dy48o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 24 Oct 2026 10:47:12 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c8ly033zpr1wo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 25 Oct 2026 12:50:39 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem ganhou e quem perdeu no último debate entre Lula e Flávio Bolsonaro?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmx2351xpe2lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 24 Oct 2026 11:30:13 GMT",
-      "tema": "brasil",
       "resumo": null
     },
     {
@@ -192,51 +191,51 @@
       "resumo": null
     },
     {
-      "titulo": "O número que pode definir vitória de Lula ou de Flávio Bolsonaro no 2º turno",
+      "titulo": "Como Geraldo Alckmin foi de rival a 'companheiro' e candidato a vice-presidente de Lula",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c8wy9k5640xdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 22:58:03 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cr86z5exqn91o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 25 Oct 2026 11:52:03 GMT",
+      "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "BBC News Brasil faz transmissão AO VIVO para você acompanhar apuração e resultados do 2º turno",
+      "titulo": "Quem não votou no 1º turno pode votar no 2º turno? Veja o que você precisa levar",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwrkyjpv5p7no?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 21 Oct 2026 12:58:14 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "A batalha política no berço do MST no Rio Grande do Sul",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwnv02eg0807o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 24 Oct 2026 00:00:00 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c875pvze4w6zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 23 Oct 2026 22:53:58 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Quem está à frente nas pesquisas, Lula ou Flávio? Confira no agregador da BBC",
+      "titulo": "Mapa das Eleições 2026: veja o resultado para presidente e governador no 2º turno",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 19 Oct 2026 16:41:16 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Os sinais preocupantes da economia em 2027 e o que Flávio e Lula propõem para eles",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm20v1y71kweo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 17:40:57 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Como justificar caso você não possa votar e o que acontece se você não votar",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c35y79jr2q87o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 22:57:06 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c61m430mdek2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 23 Oct 2026 10:14:06 GMT",
       "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Flávio gasta 6 vezes o valor de Lula em anúncios na última semana de campanha",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq5yn91y2wwlo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 24 Oct 2026 18:29:39 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Como saber se seu local de votação mudou no 2º turno",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq1j3zl8npr8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 25 Oct 2026 12:35:20 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Quando os resultados da eleição serão anunciados e como acompanhá-los?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqm26v3llpgdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 25 Oct 2026 13:00:52 GMT",
+      "tema": "brasil",
       "resumo": null
     }
   ]
