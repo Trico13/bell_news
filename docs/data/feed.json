@@ -1,144 +1,184 @@
 {
-  "gerado_em": "2026-10-25T18:08:00.245Z",
+  "gerado_em": "2026-10-25T23:00:47.902Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 23.4,
-    "min": 16.1,
+    "max": 22.1,
+    "min": 16.5,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Votação têm tecla de urna colada, prisão e eleitor flagrado filmando o voto",
+      "titulo": "Resultado das eleições 2026 em Novo Acordo (TO): como foi a votação no 2º turno",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/ao-vivo/ao-vivo-cobertura-apuracao-votacao-segundo-turno-mato-grosso-do-sul.ghtml",
-      "hora": "Sun, 25 Oct 2026 17:56:50 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Polícia Civil investiga três jovens por apologia ao nazismo no Maranhão ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/10/25/policia-civil-investiga-tres-jovens-por-apologia-ao-nazismo-no-maranhao.ghtml",
-      "hora": "Sun, 25 Oct 2026 17:56:31 -0000",
+      "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-novo-acordo-to-como-foi-a-votacao-no-2o-turno.ghtml",
+      "hora": "Sun, 25 Oct 2026 22:40:51 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Prefeitura de Salvador diz que secretário está em missão oficial na França e se apresentará às autoridades nesta segunda-feira (26) ",
+      "titulo": "Resultado das eleições 2026 em Condado (PB): como foi a votação no 2º turno",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/25/prefeitura-de-salvador-diz-que-secretario-esta-em-missao-oficial-na-franca-e-se-apresentara-as-autoridades-nesta-segunda-feira-26.ghtml",
-      "hora": "Sun, 25 Oct 2026 17:55:23 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Eleitores indígenas do Vale do Javari reclamam de falta de assistência durante votação, no AM",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-amazonas.ghtml",
-      "hora": "Sun, 25 Oct 2026 17:52:45 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "RJ tem 132 urnas substituídas no 2º turno, segundo balanço do TRE-RJ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/25/rj-tem-urnas-substituidas-no-2o-turno-segundo-balanco-do-tre-rj.ghtml",
-      "hora": "Sun, 25 Oct 2026 17:51:02 -0000",
+      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-condado-pb-como-foi-a-votacao-no-2o-turno.ghtml",
+      "hora": "Sun, 25 Oct 2026 22:40:44 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Eleições 2026: goteiras atrapalham eleitores, chuva molha urna e motiva troca de equipamento no interior de SP",
+      "titulo": "Resultado das eleições 2026 em Tacuru (MS): como foi a votação no 2º turno",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-goteiras-atrapalham-eleitores-chuva-molha-urna-e-motiva-troca-de-equipamento-no-interior-de-sp.ghtml",
-      "hora": "Sun, 25 Oct 2026 17:45:30 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Urnas eletrônicas são substituídas após falhas em cidades da região de Ribeirão Preto e Franca, SP, no 2º turno",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/10/25/urnas-eletronicas-sao-substituidas-apos-falhas-em-cidades-da-regiao-de-ribeirao-preto-e-franca-sp-no-2o-turno.ghtml",
-      "hora": "Sun, 25 Oct 2026 17:44:12 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "'Tenho prazer de votar enquanto estiver viva', diz eleitora de 90 anos no Amazonas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/25/tenho-prazer-de-votar-enquanto-estiver-viva-diz-eleitora-de-90-anos-no-amazonas.ghtml",
-      "hora": "Sun, 25 Oct 2026 17:43:50 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Eleições 2026: PM registra sete ocorrências e cinco pessoas são detidas em SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/25/eleicoes-2026-pm-registra-sete-ocorrencias-e-cinco-pessoas-sao-detidas-em-sp.ghtml",
-      "hora": "Sun, 25 Oct 2026 17:42:52 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Eleições 2026: entenda quem precisa assinar o caderno de votação ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-entenda-quem-precisa-assinar-o-caderno-de-votacao.ghtml",
-      "hora": "Sun, 25 Oct 2026 17:41:52 -0000",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-tacuru-ms-como-foi-a-votacao-no-2o-turno.ghtml",
+      "hora": "Sun, 25 Oct 2026 22:40:40 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Hugo Motta exalta urnas eletrônicas; Alcolumbre faz apelo por 'pacificação'",
+      "titulo": "Resultado das eleições 2026 em Itaporã do Tocantins (TO): como foi a votação no 2º turno",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/hugo-motta-exalta-urnas-eletronicas-alcolumbre-faz-apelo-por-pacificacao.ghtml",
-      "hora": "Sun, 25 Oct 2026 17:39:46 -0000",
+      "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-itapora-do-tocantins-to-como-foi-a-votacao-no-2o-turno.ghtml",
+      "hora": "Sun, 25 Oct 2026 22:40:39 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Eleições 2026: acompanhe a cobertura do 2º turno de votação em Cabo Frio e outras cidades da Região dos Lagos",
+      "titulo": "Resultado das eleições 2026 em Reserva do Cabaçal (MT): como foi a votação no 2º turno",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-cabo-frio-buzios-marica-cidades-regiao-dos-lagos.ghtml",
-      "hora": "Sun, 25 Oct 2026 17:39:21 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-reserva-do-cabacal-mt-como-foi-a-votacao-no-2o-turno.ghtml",
+      "hora": "Sun, 25 Oct 2026 22:40:39 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Mulher morre e companheiro fica ferido em acidente na GO-320 ",
+      "titulo": "Resultado das eleições 2026 em Caturité (PB): como foi a votação no 2º turno",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/transito/noticia/2026/10/25/mulher-morre-e-motorista-fica-ferido-em-acidente-na-go-320.ghtml",
-      "hora": "Sun, 25 Oct 2026 17:38:46 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-caturite-pb-como-foi-a-votacao-no-2o-turno.ghtml",
+      "hora": "Sun, 25 Oct 2026 22:40:24 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Motociclista morre em acidente e motorista bêbado e sem CNH é preso em Colatina",
+      "titulo": "Resultado das eleições 2026 em Barra de Santana (PB): como foi a votação no 2º turno",
       "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/10/25/motociclista-morre-em-acidente-e-motorista-bebado-e-sem-cnh-e-preso-em-colatina.ghtml",
-      "hora": "Sun, 25 Oct 2026 17:37:06 -0000",
-      "tema": "cultura",
+      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-barra-de-santana-pb-como-foi-a-votacao-no-2o-turno.ghtml",
+      "hora": "Sun, 25 Oct 2026 22:40:10 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Urna eletrônica tem as teclas '2' e '3' coladas e é trocada em Gravataí",
+      "titulo": "Resultado das eleições 2026 em Serra da Raiz (PB): como foi a votação no 2º turno",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/25/urna-trocada-gravatai.ghtml",
-      "hora": "Sun, 25 Oct 2026 17:35:33 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-serra-da-raiz-pb-como-foi-a-votacao-no-2o-turno.ghtml",
+      "hora": "Sun, 25 Oct 2026 22:40:09 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Eleições 2026: Mais de 2,5 milhões de ausentes, denúncias no transporte e os primeiros resultado no exterior; siga",
+      "titulo": "Resultado das eleições 2026 em Porto Alegre do Tocantins (TO): como foi a votação no 2º turno",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-porto-alegre-do-tocantins-to-como-foi-a-votacao-no-2o-turno.ghtml",
+      "hora": "Sun, 25 Oct 2026 22:40:04 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultado das eleições 2026 em Virmond (PR): como foi a votação no 2º turno",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-virmond-pr-como-foi-a-votacao-no-2o-turno.ghtml",
+      "hora": "Sun, 25 Oct 2026 22:40:02 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultado das eleições 2026 em Ponte Branca (MT): como foi a votação no 2º turno",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-ponte-branca-mt-como-foi-a-votacao-no-2o-turno.ghtml",
+      "hora": "Sun, 25 Oct 2026 22:40:01 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultado das eleições 2026 em Paranapoema (PR): como foi a votação no 2º turno",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-paranapoema-pr-como-foi-a-votacao-no-2o-turno.ghtml",
+      "hora": "Sun, 25 Oct 2026 22:40:00 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultado das eleições 2026 em Cabaceiras (PB): como foi a votação no 2º turno",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-cabaceiras-pb-como-foi-a-votacao-no-2o-turno.ghtml",
+      "hora": "Sun, 25 Oct 2026 22:39:59 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultado das eleições 2026 em São Mamede (PB): como foi a votação no 2º turno",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-sao-mamede-pb-como-foi-a-votacao-no-2o-turno.ghtml",
+      "hora": "Sun, 25 Oct 2026 22:39:58 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultado das eleições 2026 em Alto Paraíso (PR): como foi a votação no 2º turno",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/25/resultado-das-eleicoes-2026-em-alto-paraiso-pr-como-foi-a-votacao-no-2o-turno.ghtml",
+      "hora": "Sun, 25 Oct 2026 22:39:56 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleições 2026 ao vivo: Com mais de 13% das urnas apuradas, Flávio tem 50,01%,4% e Lula, 49,99%; siga",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss",
       "tema": "brasil",
       "resumo": null
     },
     {
+      "titulo": "Mapa das Eleições 2026: veja o resultado para presidente e governador no 2º turno",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c61m430mdek2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 25 Oct 2026 22:18:32 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'Só consegui votar com carona': eleitores esperam horas por transporte público e recorrem a redes sociais e até 40 km de bicicleta para chegar às urnas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmly0zplj298o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 25 Oct 2026 22:27:22 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Voto no exterior: veja os resultados por país e a apuração de Lula x Flávio no 2º turno das eleições 2026",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cw5yn34exenno?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 25 Oct 2026 17:04:21 GMT",
+      "hora": "Sun, 25 Oct 2026 18:17:50 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O que se sabe sobre as denúncias sobre falta de ônibus pelo Brasil?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm93z1wyl706o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 25 Oct 2026 22:34:34 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Clique aqui",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c61m430mdek2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 04 Oct 2026 19:15:47 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "BBC News Brasil faz transmissão AO VIVO para você acompanhar apuração e resultados do 2º turno",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwrkyjpv5p7no?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 21 Oct 2026 12:58:14 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -167,46 +207,6 @@
       "resumo": null
     },
     {
-      "titulo": "Clique aqui",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 04 Oct 2026 19:15:47 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "BBC News Brasil faz transmissão AO VIVO para você acompanhar apuração e resultados do 2º turno",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwrkyjpv5p7no?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 21 Oct 2026 12:58:14 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Votos do Nordeste demoram mais para chegar ao TSE? Tudo para acompanhar a apuração",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmvg9v4v8kwgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 25 Oct 2026 12:32:02 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Como a vitória da direita radical na Colômbia provocou mudanças na campanha de Lula no 2º turno",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c617kxp8l79jo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 25 Oct 2026 15:08:48 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Mapa das Eleições 2026: veja o resultado para presidente e governador no 2º turno",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c61m430mdek2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 23 Oct 2026 10:14:06 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
       "titulo": "Como justificar seu voto no segundo turno e o que acontece se você não votar",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c9e8lz52dg70o?at_medium=RSS&at_campaign=rss",
@@ -218,7 +218,7 @@
       "titulo": "Que horas saem os resultados do 2º turno das eleições e como acompanhar a apuração?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cqm26v3llpgdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 25 Oct 2026 15:51:05 GMT",
+      "hora": "Sun, 25 Oct 2026 20:42:07 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -234,7 +234,7 @@
       "titulo": "Quem está à frente nas pesquisas para presidente no 2º turno das Eleições 2026? Veja Lula x Flávio Bolsonaro no agregador da BBC",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cvrly555knx9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 25 Oct 2026 12:18:43 GMT",
+      "hora": "Sun, 25 Oct 2026 18:43:10 GMT",
       "tema": "brasil",
       "resumo": null
     },
