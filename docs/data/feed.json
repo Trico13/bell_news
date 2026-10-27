@@ -1,160 +1,192 @@
 {
-  "gerado_em": "2026-10-26T16:29:30.476Z",
+  "gerado_em": "2026-10-27T00:13:53.208Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 17.8,
-    "min": 12.3,
+    "max": 17.4,
+    "min": 13,
     "chuva": 75
   },
   "noticias": [
     {
-      "titulo": "Esquerda x direita: veja como está o mapa da América do Sul após a reeleição de Lula",
+      "titulo": "Homem esfaqueado morre após sofrer acidente enquanto se deslocava para unidade de saúde no interior da Bahia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/26/esquerda-x-direita-veja-mapa-america-do-sul-reeleicao-lula.ghtml",
-      "hora": "Mon, 26 Oct 2026 16:18:08 -0000",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/26/homem-esfaqueado-morre-apos-sofrer-um-acidente-em-cruz-das-almas.ghtml",
+      "hora": "Mon, 26 Oct 2026 23:59:54 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Ministério da Justiça pede esclarecimentos à PM, Secretaria e MP sobre atropelamento de motociclista em SC",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/26/ministerio-justica-pede-esclarecimentos-atropelamento-motociclista-florianopolis.ghtml",
+      "hora": "Mon, 26 Oct 2026 23:53:47 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "AO VIVO: Assista ao JAC1 com Melícia Moura",
+      "titulo": "Conservatório de Uberlândia abre inscrições para novos alunos em 2027; veja como participar",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/ao-vivo/ao-vivo-assista-ao-jac1-com-melicia-moura.ghtml",
-      "hora": "Mon, 26 Oct 2026 16:17:58 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Polícia ouve testemunhas e tenta marcar depoimento de mulher filmada fazendo saudação nazista após votar no Rio",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/26/policia-testemunha-mulher-gesto-nazista-votacao.ghtml",
-      "hora": "Mon, 26 Oct 2026 16:17:55 -0000",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/26/conservatorio-de-uberlandia-abre-inscricoes-para-novos-alunos-em-2027-veja-como-participar.ghtml",
+      "hora": "Mon, 26 Oct 2026 23:49:32 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Três pessoas morrem após carro invadir pista contrária e atingir moto em rodovia no TO, diz SSP",
+      "titulo": "Resultados das Loterias Caixa",
       "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/10/26/tres-pessoas-morrem-apos-carro-invadir-pista-contraria-e-atingir-moto-em-rodovia-no-to-diz-ssp.ghtml",
-      "hora": "Mon, 26 Oct 2026 16:17:38 -0000",
+      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "hora": "Mon, 26 Oct 2026 23:49:04 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "VÍDEO: Macaco é resgatado em quintal de residência e solto em área de mata no Sul do Piauí ",
+      "titulo": "Rio Verde registrou dois casos de agressão no domingo de eleições, e prefeitura alerta para 'sensação artificial de insegurança' após falsas ocorrências viralizarem",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/10/26/macaco-resgatado-piaui.ghtml",
-      "hora": "Mon, 26 Oct 2026 16:15:15 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Eleito no 2º turno, Lula teve maioria em somente 4 das 46 cidades do Vale e região bragantina",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/eleicoes/2026/noticia/2026/10/26/eleito-no-2o-turno-lula-teve-maioria-em-somente-4-das-46-cidades-do-vale-e-regiao-bragantina.ghtml",
-      "hora": "Mon, 26 Oct 2026 16:09:58 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Tamoios recebe carreta para mamografias e ultrassonografias a partir desta terça-feira",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/10/26/tamoios-recebe-carreta-para-mamografias-e-ultrassonografias-a-partir-desta-terca-feira.ghtml",
-      "hora": "Mon, 26 Oct 2026 16:09:20 -0000",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/10/26/rio-verde-registrou-dois-casos-de-agressao-no-domingo-de-eleicoes-e-prefeitura-alerta-para-sensacao-artificial-de-inseguranca-apos-falsas-ocorrencias-viralizarem.ghtml",
+      "hora": "Mon, 26 Oct 2026 23:49:01 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Tenente aposentado da PM é preso após ameaçar a ex e tentar arrombar o  portão da casa dela em Cariacica",
+      "titulo": "Reeleito presidente, Lula tem encontros para discutir os desafios do quarto mandato",
       "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/26/tenente-aposentado-da-pm-e-preso-apos-ameacar-a-ex-e-tentar-arrombar-o-portao-da-casa-dela-em-cariacica.ghtml",
-      "hora": "Mon, 26 Oct 2026 16:09:02 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/26/reeleito-presidente-lula-tem-encontros-para-discutir-os-desafios-do-quarto-mandato.ghtml",
+      "hora": "Mon, 26 Oct 2026 23:38:30 -0000",
+      "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Homem morre após ficar preso em máquina de triturar gelo de empresa na Grande BH",
+      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de segunda-feira, 26 de outubro de 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/26/homem-morre-apos-ficar-preso-em-maquina-de-triturar-gelo-de-empresa-na-grande-bh.ghtml",
-      "hora": "Mon, 26 Oct 2026 16:08:17 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-segunda-feira-26-de-outubro-de-2026.ghtml",
+      "hora": "Mon, 26 Oct 2026 23:31:26 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Resolv chega a 10 mil funcionários e investe no desenvolvimento de talentos",
+      "titulo": "Temporais colocam 69 cidades de MT sob alerta nesta semana; veja lista",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/especial-publicitario/resolv-resolv-30-anos/noticia/2026/10/26/resolv-chega-a-10-mil-funcionarios-e-investe-no-desenvolvimento-de-talentos.ghtml",
-      "hora": "Mon, 26 Oct 2026 16:07:13 -0000",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/26/temporais-colocam-69-cidades-de-mt-sob-alerta-nesta-semana-veja-lista.ghtml",
+      "hora": "Mon, 26 Oct 2026 23:30:15 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Preparação Enem: professor explica como fazer o uso de palavras em Espanhol",
+      "titulo": "Omar Aziz diz que vai preparar brigadas e reforçar fiscalização para combater queimadas no AM",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/preparacao-enem/noticia/2026/10/26/preparacao-enem-professor-explica-como-fazer-o-uso-de-palavras-em-espanhol.ghtml",
-      "hora": "Mon, 26 Oct 2026 16:07:03 -0000",
+      "link": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/26/omar-aziz-diz-que-vai-preparar-brigadas-e-reforcar-fiscalizacao-para-combater-queimadas-no-am.ghtml",
+      "hora": "Mon, 26 Oct 2026 23:27:56 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: MG2 de segunda-feira, 26 de outubro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/minas-gerais/videos-mg2/playlist/videos-mg2-de-segunda-feira-26-de-outubro-de-2026.ghtml",
+      "hora": "Mon, 26 Oct 2026 23:27:50 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Assista ao Gazeta Meio Dia - edição regional",
+      "titulo": "Ebony, Black Pantera e Gang do Eletro fazem shows gratuitos no Festival Quebramar em Macapá",
       "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-gazeta-meio-dia-edicao-regional.ghtml",
-      "hora": "Mon, 26 Oct 2026 16:06:31 -0000",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/10/26/ebony-black-pantera-e-gang-do-eletro-fazem-shows-gratuitos-no-festival-quebramar-em-macapa.ghtml",
+      "hora": "Mon, 26 Oct 2026 23:27:32 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Funcionária é agredida por acompanhante de paciente em unidade de saúde de Presidente Prudente",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/26/funcionaria-e-agredida-por-acompanhante-de-paciente-em-unidade-de-saude-de-presidente-prudente.ghtml",
+      "hora": "Mon, 26 Oct 2026 23:26:15 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Duas pessoas ficam feridas e uma morre em acidente na BR-361, no Sertão da Paraíba",
+      "titulo": "Com ajuda de helicóptero, quatro são presos com drogas na MGC-497, em Uberlândia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/26/duas-pessoas-ficam-feridas-e-uma-morre-em-acidente-na-br-361-no-sertao-da-paraiba.ghtml",
-      "hora": "Mon, 26 Oct 2026 16:05:17 -0000",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/26/com-ajuda-de-helicoptero-quatro-sao-presos-com-drogas-na-mgc-497-em-uberlandia.ghtml",
+      "hora": "Mon, 26 Oct 2026 23:22:36 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Justiça determina que PF investigue possível redução de mais de 50% da frota de ônibus de Salvador no 2º turno das eleições",
+      "titulo": "VÍDEO: marido faz mulher de refém e é morto em confronto com a PM em MT",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/26/justica-determina-que-pf-investigue-possivel-reducao-da-frota-de-onibus-de-salvador-no-2o-turno-das-eleicoes.ghtml",
-      "hora": "Mon, 26 Oct 2026 16:04:22 -0000",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/26/video-marido-faz-mulher-de-refem-e-e-morto-em-confronto-com-a-pm-em-mt.ghtml",
+      "hora": "Mon, 26 Oct 2026 23:20:48 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Embarcação naufraga e tripulantes são resgatados por navio mercante no litoral de SP; VÍDEO",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2026/10/26/embarcacao-naufraga-e-tripulantes-sao-resgatados-por-navio-mercante-no-litoral-de-sp.ghtml",
+      "hora": "Mon, 26 Oct 2026 23:20:48 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "BBC identifica 33,8 mil votos durante prorrogação ordenada por Zanin, menos de 0,03% dos votos totais",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crp3g2ynkp1xo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 26 Oct 2026 20:12:03 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Assista ao Gazeta Meio Dia ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-gazeta-meio-dia.ghtml",
-      "hora": "Mon, 26 Oct 2026 16:03:50 -0000",
-      "tema": "mundo",
+      "titulo": "Flávio muda a rota e agora diz que vai pedir ao TSE cassação da chapa Lula-Alckmin",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cr9dzne66j1go?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 26 Oct 2026 22:54:11 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Bovespa cai após acionar 'circuit braker', e dólar dispara após vitória de Lula; siga",
+      "titulo": "O que Lula propõe para enfrentar os sinais preocupantes da economia que terá no 4º mandato",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6wyd8djjzv4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 26 Oct 2026 21:20:58 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Trump diz que eleição no Brasil 'pareceu ter fraude', mas afirma gostar de Lula",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Como Janones montou um exército digital na campanha de Lula — e qual espaço pode ter no novo governo",
+      "titulo": "Centrão será peça-chave para contrapor oposição fortalecida no Congresso, dizem especialistas",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c678pegn3krmo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 26 Oct 2026 11:03:47 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cr5ynvyx0ev9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 26 Oct 2026 21:54:20 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "O que silêncio de Trump sobre vitória de Lula diz sobre relação entre Brasil e EUA",
+      "titulo": "Quem estava ao lado de Lula durante discurso da vitória na eleição",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm86zyl320eeo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 26 Oct 2026 11:50:35 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c893zwq6947zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 26 Oct 2026 19:37:39 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Putin, China e europeus parabenizam Lula; Milei e Trump silenciam",
+      "titulo": "Como governo Lula avalia declaração de Trump sobre eleição brasileira",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c679prgnn48qo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 26 Oct 2026 15:29:59 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cm5ynv92xkzwo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 26 Oct 2026 20:42:37 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Partidos aliados de Flávio reconhecem a vitória de Lula; Zema fala em golpe",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmvgx3k00d5yo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 26 Oct 2026 17:23:17 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -167,34 +199,34 @@
       "resumo": null
     },
     {
-      "titulo": "Lula conquista virada inédita e terá quarto mandato como presidente do Brasil: 'Vamos ter que regular as plataformas digitais'",
+      "titulo": "O que vai acontecer com dólar e juros após derrocada dos mercados financeiros com vitória de Lula",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cx8dzrgq569go?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 26 Oct 2026 11:29:12 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cr20wjpvye31o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 26 Oct 2026 21:58:26 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Os números que mostram de onde vieram os 10 milhões de votos que deram virada histórica a Lula",
+      "titulo": "Como Janones montou um exército digital na campanha de Lula — e qual espaço pode ter no novo governo",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqe8rekpg9lxo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 26 Oct 2026 12:17:27 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c678pegn3krmo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 26 Oct 2026 11:03:47 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Chances de anulação ou 'terceiro turno' a pedido de Flávio são remotas, veem especialistas",
+      "titulo": "Virada de Lula aponta caminho para a esquerda voltar a vencer, diz pesquisador americano",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqdjvnppkdnyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 26 Oct 2026 04:51:25 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/ckg5jg59dn27o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 26 Oct 2026 19:59:22 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "'Sobrevivente', 'estadista', 'ressaca à vista': a vitória de Lula na imprensa internacional",
+      "titulo": "Lula conquista a 1ª vitória da esquerda na América Latina desde que Trump voltou ao poder; veja mapa ",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cxly4g78zlg5o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 26 Oct 2026 11:08:24 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/ck5ynlp6qq57o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 26 Oct 2026 04:13:49 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -212,38 +244,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c61m430mdek2o?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 04 Oct 2026 19:15:47 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Derrota de Flávio enfraquece os Bolsonaro, mas não ofusca nova força da direita com eleições",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm93zvwkgd1zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 26 Oct 2026 01:58:40 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Abstenção tem a maior queda entre turnos desde a redemocratização",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmq8n4pn08p4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 26 Oct 2026 12:21:19 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Lula conquista a 1ª vitória da esquerda na América Latina desde que Trump voltou ao poder; veja mapa ",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck5ynlp6qq57o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 26 Oct 2026 04:13:49 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Os argumentos de Flávio para pedir anulação da eleição — e o que dizem especialistas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crkg7ywjj8l0o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 26 Oct 2026 04:22:03 GMT",
-      "tema": "mundo",
       "resumo": null
     }
   ]
