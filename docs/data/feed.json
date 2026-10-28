@@ -1,177 +1,313 @@
 {
-  "gerado_em": "2026-10-28T00:14:40.987Z",
+  "gerado_em": "2026-10-28T16:25:58.273Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 21.8,
-    "min": 12.5,
-    "chuva": 0
+    "max": 23.3,
+    "min": 13.9,
+    "chuva": 60
   },
   "noticias": [
     {
-      "titulo": "Justiça revoga prisão preventiva de Gabriel Spalone, preso em Guarulhos por suspeita de extorsão",
+      "titulo": "Comunidade terapêutica é interditada por suspeita de maus-tratos contra internos, em Campina Grande ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/27/justica-revoga-prisao-preventiva-de-gabriel-spalone-preso-em-guarulhos-por-suspeita-de-extorsao.ghtml",
-      "hora": "Wed, 28 Oct 2026 00:00:24 -0000",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/28/comunidade-terapeutica-e-interditada-por-suspeita-de-maus-tratos-contra-internos-em-campina-grande.ghtml",
+      "hora": "Wed, 28 Oct 2026 16:16:49 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Morador em situação de rua é baleado no pescoço em Santos; VÍDEO",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/28/morador-em-situacao-de-rua-e-baleado-no-pescoco-em-santos-video.ghtml",
+      "hora": "Wed, 28 Oct 2026 16:14:12 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Falta de água: falha elétrica afeta abastecimento de 40% de cidade do interior de SP; veja bairros",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/28/falta-de-agua-falha-eletrica-afeta-abastecimento-de-40percent-de-cidade-do-interior-de-sp-veja-locais.ghtml",
+      "hora": "Wed, 28 Oct 2026 16:12:59 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Listas de boicote a comércios e ameaças de demissões após eleições geram reação do Ministério do Trabalho e da OAB",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/28/listas-de-boicote-a-comercios-e-ameacas-de-demissoes-apos-eleicoes-gera-reacao.ghtml",
+      "hora": "Wed, 28 Oct 2026 16:12:42 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Homem é morto a facadas após briga no interior da Bahia",
+      "titulo": "Polícia apreende mais de 2 mil porções de drogas em Cabo Frio",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/27/homem-e-morto-a-facadas-apos-briga-em-valente.ghtml",
-      "hora": "Tue, 27 Oct 2026 23:59:48 -0000",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/10/28/policia-apreende-mais-de-2-mil-porcoes-de-drogas-em-cabo-frio.ghtml",
+      "hora": "Wed, 28 Oct 2026 16:12:26 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Ônibus escolar pega fogo em assentamento de Candeias do Jamari, RO",
+      "titulo": "Motociclista espera 12 horas para ser  internado depois de sofrer acidente em Ribeirão Preto, SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ro/rondonia/noticia/2026/10/27/onibus-escolar-pega-fogo-em-assentamento-de-candeias-do-jamari-ro.ghtml",
-      "hora": "Tue, 27 Oct 2026 23:57:17 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/28/motociclista-espera-12-horas-para-ser-internado-depois-de-sofrer-acidente-em-ribeirao-preto-sp.ghtml",
+      "hora": "Wed, 28 Oct 2026 16:09:40 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Resultados das Loterias Caixa",
+      "titulo": "TSE decide que federação PSOL-Rede cumpriu cláusula de barreira",
       "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-      "hora": "Tue, 27 Oct 2026 23:49:47 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Xuxa comenta caso de pastor agredido por estar com camiseta vermelha no dia da eleição em Goiânia: 'Que ódio... meu Deus'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/27/xuxa-comenta-caso-de-pastor-agredido-por-estar-com-camiseta-vermelha-no-dia-da-eleicao-em-goiania-que-odio-meu-deus.ghtml",
-      "hora": "Tue, 27 Oct 2026 23:49:08 -0000",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/28/tse-decide-que-federacao-psol-rede-cumpriu-clausula-de-barreira.ghtml",
+      "hora": "Wed, 28 Oct 2026 16:09:06 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Motociclista de 21 anos morre após ser atingido por carro na contramão na Zona Sul de SP",
+      "titulo": "Falso delegado é preso por abastecer carro sem pagar no Rio",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/27/motociclista-de-21-anos-morre-apos-ser-atingido-por-carro-na-contramao-na-zona-sul-de-sp.ghtml",
-      "hora": "Tue, 27 Oct 2026 23:46:38 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Festival internacional de jazz anuncia show de Amaro Freitas, Juliana Linhares e Thomas Strønen em Belém",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/10/27/festival-internacional-de-jazz-anuncia-show-de-amaro-freitas-juliana-linhares-e-thomas-stronen-em-belem.ghtml",
-      "hora": "Tue, 27 Oct 2026 23:46:03 -0000",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/28/falso-delegado-e-preso-no-rio.ghtml",
+      "hora": "Wed, 28 Oct 2026 16:07:06 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Mais de 360 kg de carne estragada são apreendidos em escolas no interior do Acre",
+      "titulo": "Teatro Amazonas e Ponte Rio Negro recebem iluminação roxa em homenagem ao grupo sul-coreano BTS",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/10/27/mais-de-360-kg-de-carne-estragada-sao-apreendidos-em-escolas-no-interior-do-acre.ghtml",
-      "hora": "Tue, 27 Oct 2026 23:44:18 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Comerciantes do interior de SP vão à polícia após entrarem em 'listas de boicote' político",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/27/denuncia-lista-boicote-comercios-interior-de-sp.ghtml",
-      "hora": "Tue, 27 Oct 2026 23:42:39 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: AB2 desta terça-feira, 27 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/caruaru-regiao/playlist/videos-ab2-desta-terca-feira-27-de-outubro-de-2026.ghtml",
-      "hora": "Tue, 27 Oct 2026 23:41:32 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Mais da metade dos radares fixos já opera em Ribeirão Preto; veja locais",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/27/mais-da-metade-dos-radares-fixos-ja-opera-em-ribeirao-preto-veja-locais.ghtml",
-      "hora": "Tue, 27 Oct 2026 23:40:00 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: AB1 desta terça-feira, 27 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/caruaru-regiao/playlist/videos-ab1-desta-terca-feira-27-de-outubro-de-2026.ghtml",
-      "hora": "Tue, 27 Oct 2026 23:37:59 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Feira de Imóveis de Caruaru oferece 2,1 mil unidades pelo Morar Bem Pernambuco",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/10/27/feira-de-imoveis-de-caruaru-oferece-21-mil-unidades-pelo-morar-bem-pernambuco.ghtml",
-      "hora": "Tue, 27 Oct 2026 23:34:20 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Cães farejadores encontram mais de 17 kg de drogas em casa abandonada em Volta Redonda",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/27/caes-farejadores-encontram-mais-de-17-kg-de-drogas-em-casa-abandonada-em-volta-redonda.ghtml",
-      "hora": "Tue, 27 Oct 2026 23:33:40 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Mato Grosso anuncia novos quartéis para PM e Bombeiros em 22 cidades",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/27/mato-grosso-anuncia-novos-quarteis-para-pm-e-bombeiros-em-22-cidades.ghtml",
-      "hora": "Tue, 27 Oct 2026 23:32:59 -0000",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/28/teatro-amazonas-e-ponte-rio-negro-recebem-iluminacao-roxa-em-homenagem-ao-grupo-sul-coreano-bts.ghtml",
+      "hora": "Wed, 28 Oct 2026 16:06:15 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Governo Trump diz que dará visto a Flávio Bolsonaro e permitirá entrada dele e família nos EUA",
+      "titulo": "Três pescadores são multados em R$ 9 mil ao serem flagrados com 26 kg de peixe em área proibida no interior de SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/28/tres-pescadores-sao-multados-em-r-9-mil-ao-serem-flagrados-com-26-kg-de-peixe-em-area-proibida-no-interior-de-sp.ghtml",
+      "hora": "Wed, 28 Oct 2026 16:05:09 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "‘Merenda Chef’: cozinheiros disputam concurso para ter receita no cardápio da Faetec",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/28/cozinheiros-disputam-concurso-para-ter-receita-no-cardapio-da-faetec.ghtml",
+      "hora": "Wed, 28 Oct 2026 16:04:39 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Governo do RN: Fátima Bezerra e Cadu Xavier anunciam primeiros nomes da equipe de transição",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/28/governo-do-rn-fatima-bezerra-e-cadu-xavier-primeiros-nomes-equipe-transicao.ghtml",
+      "hora": "Wed, 28 Oct 2026 16:04:19 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Idosa morre durante assalto a residência na zona rural de Pedralva, MG",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/28/idosa-morre-durante-assalto-a-residencia-na-zona-rural-de-pedralva-mg.ghtml",
+      "hora": "Wed, 28 Oct 2026 16:03:34 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Subaé",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
+      "hora": "Wed, 28 Oct 2026 16:03:30 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Festival de bikes na Zona Sul de SP tem competição de manobras radicais e atividades pra criançada",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sao-paulo/blog/o-que-fazer-em-sao-paulo/post/festival-de-bikes-na-zona-sul-de-sp-tem-competicao-de-manobras-radicais-e-atividades-pra-criancada.html",
+      "hora": "Sat, 25 Aug 2018 19:34:19 -0300",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Desempregado pedala 20 km e passa 12 horas em fila para concorrer a emprego no interior de SP",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2018/07/23/desempregado-pedala-20-km-e-passa-12-horas-em-fila-para-concorrer-a-emprego-no-interior-de-sp.ghtml",
+      "hora": "Mon, 23 Jul 2018 11:10:52 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "'Não foi uma fatalidade', diz viúva de homem morto em acidente no Beach Park",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2018/07/23/nao-foi-uma-fatalidade-diz-viuva-de-homem-morto-em-acidente-no-beach-park.ghtml",
+      "hora": "Mon, 23 Jul 2018 00:24:35 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Zé Ramalho lembra sucessos e 'invoca' Raul Seixas na Festa Junina de Sorocaba ",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2018/07/22/ze-ramalho-lembra-sucessos-e-invoca-raul-seixas-na-festa-junina-de-sorocaba.ghtml",
+      "hora": "Sun, 22 Jul 2018 19:08:18 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "PRF apreende em MS maconha que era levada para SP em carreta",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ms/sul-e-leste/noticia/2018/07/21/prf-apreende-em-ms-maconha-que-era-levada-para-sp-em-carreta.ghtml",
+      "hora": "Sat, 21 Jul 2018 18:07:55 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Jundiaí recebe 3ª edição da Festa Junina Canina neste sábado",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/mundo-pet/noticia/2018/07/21/jundiai-recebe-3a-edicao-da-festa-junina-canina-neste-sabado.ghtml",
+      "hora": "Sat, 21 Jul 2018 15:32:46 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Maior Baile do Mundo, com Anitta e MCs, espera 35 mil pessoas em SP para 10 horas de shows  ",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/pop-arte/musica/noticia/2018/07/21/maior-baile-do-mundo-com-anitta-e-mcs-espera-35-mil-pessoas-em-sp-para-10-horas-de-shows.ghtml",
+      "hora": "Sat, 21 Jul 2018 09:00:48 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "PSTU oficializa Vera Lúcia para disputa da Presidência da República  ",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/07/20/pstu-oficializa-vera-lucia-para-disputa-da-presidencia-da-republica.ghtml",
+      "hora": "Fri, 20 Jul 2018 23:57:09 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Feira da construção civil é realizada até este domingo em Jundiaí",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/mercado-imobiliario-do-interior/noticia/2018/07/20/feira-da-construcao-civil-e-realizada-ate-este-domingo-em-jundiai.ghtml",
+      "hora": "Fri, 20 Jul 2018 19:32:29 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Caso Vitória: trio acusado de envolvimento no crime é transferido para Tremembé",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2018/07/20/caso-vitoria-trio-acusado-de-envolvimento-no-crime-e-transferido-para-tremembe.ghtml",
+      "hora": "Fri, 20 Jul 2018 18:44:51 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Concurso da prefeitura de Tabapuã tem inscrições abertas até 31 de julho",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/concursos-e-emprego/noticia/2018/07/20/concurso-da-prefeitura-de-tabapua-tem-inscricoes-abertas-ate-31-de-julho.ghtml",
+      "hora": "Fri, 20 Jul 2018 14:21:56 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Morador de rua é alvo de ladrões e boletim de ocorrência permite reencontro com família 37 anos depois; VÍDEO",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2018/07/20/longe-da-familia-por-37-anos-homem-em-situacao-de-rua-em-campinas-reencontra-pais-e-irmaos-nao-imaginava.ghtml",
+      "hora": "Fri, 20 Jul 2018 11:51:53 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Chefe de facção que atua dentro e fora dos presídios brasileiros é transferido da PF em Foz do Iguaçu",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2018/07/20/chefe-de-faccao-que-atua-dentro-e-fora-dos-presidios-brasileiros-e-transferido-da-pf-em-foz-do-iguacu.ghtml",
+      "hora": "Fri, 20 Jul 2018 10:55:41 -0000",
+      "tema": "checagem",
+      "resumo": null
+    },
+    {
+      "titulo": "Pai de monsenhor morre em acidente dias antes do filho ser ordenado bispo em Itapetininga",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2018/07/20/motorista-morto-em-acidente-e-pai-do-padre-de-itapetininga-que-sera-ordenado-bispo.ghtml",
+      "hora": "Fri, 20 Jul 2018 10:33:48 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Beach Park diz que checa peso e altura dos visitantes nos brinquedos; testemunha nega",
+      "fonte": "G1 São Paulo",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2018/07/19/beach-park-diz-que-checa-peso-e-altura-dos-visitantes-nos-brinquedos-testemunha-nega.ghtml",
+      "hora": "Thu, 19 Jul 2018 21:48:36 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Flávio desembarca nos EUA, apontam imagens; governo Trump diz que dará visto a senador e família",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "EUA dizem que darão visto a Flávio Bolsonaro: relação entre Trump e Lula pode azedar mais?",
+      "titulo": "Flávio Bolsonaro desembarca na Flórida",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm3vq700565wo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 27 Oct 2026 23:03:05 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c98rz4k7kzvno?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 28 Oct 2026 14:18:55 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Se Flávio estiver fora do país, pode ser considerado foragido?",
+      "titulo": "Ao menos 68 pessoas morreram e dezenas ficaram feridas em acidente com trem de alta velocidade na Espanha",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c875peypvy6eo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 27 Oct 2026 18:46:20 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmly074jvgglo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 28 Oct 2026 15:43:08 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Quais seriam os caminhos possíveis para Flávio Bolsonaro ficar legalmente nos EUA",
+      "titulo": "O que se sabe sobre saída de Flávio Bolsonaro do Brasil",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c617k8y8zw1lo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 28 Oct 2026 14:57:37 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Lula critica Flávio, e aliados falam em 'perseguição'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm3vq7q59ne6o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 28 Oct 2026 11:56:52 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O mapa que revela avanço generalizado de Lula no 2º turno: petista só 'piorou' em quatro de 5.571 municípios",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crgqwgz43ppxo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 28 Oct 2026 12:05:19 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Relação entre Trump e Lula pode azedar mais?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm3vq700565wo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 28 Oct 2026 12:05:41 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Senador pode ser considerado foragido?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c875peypvy6eo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 28 Oct 2026 11:49:47 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Quais seriam os caminhos possíveis para Flávio ficar legalmente nos EUA",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmd6dz9ej226o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 27 Oct 2026 22:49:49 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Observadores internacionais elogiam organização das eleições brasileiras e Carter Center pede respeito ao resultado",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cxzd68mp8nmno?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 27 Oct 2026 21:23:08 GMT",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "O que pesa contra Flávio Bolsonaro e por que um dos inquéritos está nas mãos de Alexandre de Moraes",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm9qz18je091o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 27 Oct 2026 16:39:13 GMT",
-      "tema": "brasil",
       "resumo": null
     },
     {
@@ -183,19 +319,19 @@
       "resumo": null
     },
     {
+      "titulo": "Observadores internacionais elogiam organização das eleições brasileiras e Carter Center pede respeito ao resultado",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cxzd68mp8nmno?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 27 Oct 2026 21:23:08 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
       "titulo": "Michelle e Carlos não se gostam, mas vão tentar manter bolsonarismo vivo, aponta Sérgio Abranches",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmzxl3evpl2ko?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 27 Oct 2026 20:31:53 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Israel vai às urnas, e legado do 7 de outubro pode definir se Netanyahu terá seu sétimo mandato",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm4g1qpnkv11o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 27 Oct 2026 10:17:45 GMT",
-      "tema": "mundo",
       "resumo": null
     },
     {
@@ -210,32 +346,8 @@
       "titulo": "Por que Flávio Bolsonaro foi intimado a entregar os passaportes?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/ck054vvj66g5o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 27 Oct 2026 16:37:04 GMT",
+      "hora": "Wed, 28 Oct 2026 12:01:21 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem estava ao lado de Lula durante discurso da vitória na eleição",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c893zwq6947zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 26 Oct 2026 19:37:39 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Pesquisas erraram resultado da eleição? O que elas podem não ter captado, segundo especialistas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq073jg7v3xeo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 27 Oct 2026 15:16:52 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "A eleição de 2026 em gráficos: de onde veio a virada de Lula",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq4g10kx77dro?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 27 Oct 2026 09:05:06 GMT",
-      "tema": "brasil",
       "resumo": null
     },
     {
