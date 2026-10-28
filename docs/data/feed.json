@@ -1,129 +1,200 @@
 {
-  "gerado_em": "2026-10-27T15:43:30.911Z",
+  "gerado_em": "2026-10-28T00:14:40.987Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 21.9,
+    "max": 21.8,
     "min": 12.5,
     "chuva": 0
   },
   "noticias": [
     {
-      "titulo": "Mega-Sena 3075: aposta do interior de Sergipe acerta a quina e mais de 50 jogos levam a quadra ",
+      "titulo": "Justiça revoga prisão preventiva de Gabriel Spalone, preso em Guarulhos por suspeita de extorsão",
       "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/10/27/resultado-mega-sena-3075-em-sergipe.ghtml",
-      "hora": "Tue, 27 Oct 2026 15:31:19 -0000",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/27/justica-revoga-prisao-preventiva-de-gabriel-spalone-preso-em-guarulhos-por-suspeita-de-extorsao.ghtml",
+      "hora": "Wed, 28 Oct 2026 00:00:24 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem é morto a facadas após briga no interior da Bahia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/27/homem-e-morto-a-facadas-apos-briga-em-valente.ghtml",
+      "hora": "Tue, 27 Oct 2026 23:59:48 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Ônibus escolar pega fogo em assentamento de Candeias do Jamari, RO",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ro/rondonia/noticia/2026/10/27/onibus-escolar-pega-fogo-em-assentamento-de-candeias-do-jamari-ro.ghtml",
+      "hora": "Tue, 27 Oct 2026 23:57:17 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultados das Loterias Caixa",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "hora": "Tue, 27 Oct 2026 23:49:47 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Xuxa comenta caso de pastor agredido por estar com camiseta vermelha no dia da eleição em Goiânia: 'Que ódio... meu Deus'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/27/xuxa-comenta-caso-de-pastor-agredido-por-estar-com-camiseta-vermelha-no-dia-da-eleicao-em-goiania-que-odio-meu-deus.ghtml",
+      "hora": "Tue, 27 Oct 2026 23:49:08 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Homem se enrola em cobertor para não ser visto e furtar loja de celulares em Mato Grosso do Sul; VÍDEO",
+      "titulo": "Motociclista de 21 anos morre após ser atingido por carro na contramão na Zona Sul de SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/27/homem-se-enrola-em-cobertor-para-nao-ser-visto-e-furtar-loja-de-celulares-em-mato-grosso-do-sul-video.ghtml",
-      "hora": "Tue, 27 Oct 2026 15:28:28 -0000",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/27/motociclista-de-21-anos-morre-apos-ser-atingido-por-carro-na-contramao-na-zona-sul-de-sp.ghtml",
+      "hora": "Tue, 27 Oct 2026 23:46:38 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Festival internacional de jazz anuncia show de Amaro Freitas, Juliana Linhares e Thomas Strønen em Belém",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/10/27/festival-internacional-de-jazz-anuncia-show-de-amaro-freitas-juliana-linhares-e-thomas-stronen-em-belem.ghtml",
+      "hora": "Tue, 27 Oct 2026 23:46:03 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Mais de 360 kg de carne estragada são apreendidos em escolas no interior do Acre",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/10/27/mais-de-360-kg-de-carne-estragada-sao-apreendidos-em-escolas-no-interior-do-acre.ghtml",
+      "hora": "Tue, 27 Oct 2026 23:44:18 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Comerciantes do interior de SP vão à polícia após entrarem em 'listas de boicote' político",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/10/27/denuncia-lista-boicote-comercios-interior-de-sp.ghtml",
+      "hora": "Tue, 27 Oct 2026 23:42:39 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: AB2 desta terça-feira, 27 de outubro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/caruaru-regiao/playlist/videos-ab2-desta-terca-feira-27-de-outubro-de-2026.ghtml",
+      "hora": "Tue, 27 Oct 2026 23:41:32 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Mais da metade dos radares fixos já opera em Ribeirão Preto; veja locais",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/27/mais-da-metade-dos-radares-fixos-ja-opera-em-ribeirao-preto-veja-locais.ghtml",
+      "hora": "Tue, 27 Oct 2026 23:40:00 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: AB1 desta terça-feira, 27 de outubro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/caruaru-regiao/playlist/videos-ab1-desta-terca-feira-27-de-outubro-de-2026.ghtml",
+      "hora": "Tue, 27 Oct 2026 23:37:59 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Feira de Imóveis de Caruaru oferece 2,1 mil unidades pelo Morar Bem Pernambuco",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/10/27/feira-de-imoveis-de-caruaru-oferece-21-mil-unidades-pelo-morar-bem-pernambuco.ghtml",
+      "hora": "Tue, 27 Oct 2026 23:34:20 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Cães farejadores encontram mais de 17 kg de drogas em casa abandonada em Volta Redonda",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/27/caes-farejadores-encontram-mais-de-17-kg-de-drogas-em-casa-abandonada-em-volta-redonda.ghtml",
+      "hora": "Tue, 27 Oct 2026 23:33:40 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Mato Grosso anuncia novos quartéis para PM e Bombeiros em 22 cidades",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/27/mato-grosso-anuncia-novos-quarteis-para-pm-e-bombeiros-em-22-cidades.ghtml",
+      "hora": "Tue, 27 Oct 2026 23:32:59 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Governo Trump diz que dará visto a Flávio Bolsonaro e permitirá entrada dele e família nos EUA",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Essa Tal de Adolescência: veja episódios da série com Poliana Abritta",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/fantastico/playlist/essa-tal-de-adolescencia-veja-episodios-da-serie-com-poliana-abritta.ghtml",
-      "hora": "Tue, 27 Oct 2026 15:27:50 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: GR1 de terça-feira, 27 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/edicao/2026/10/27/videos-gr1-de-terca-feira-27-de-outubro-de-2026.ghtml",
-      "hora": "Tue, 27 Oct 2026 15:27:32 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Edital seleciona negócios sustentáveis para programa de aceleração na Amazônia; inscrições são gratuitas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/amazonia-negocios/noticia/2026/10/27/edital-seleciona-negocios-sustentaveis-para-programa-de-aceleracao-na-amazonia-inscricoes-sao-gratuitas.ghtml",
-      "hora": "Tue, 27 Oct 2026 15:26:38 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Enem 2026: como recuperar o acesso à conta gov.br e descobrir seu local de provas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/10/27/enem-2026-como-recuperar-o-acesso-a-conta-govbr-e-descobrir-seu-local-de-provas.ghtml",
-      "hora": "Tue, 27 Oct 2026 15:25:30 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem preso por fazer filha de 4 meses refém em Ribeirão Preto, SP, tentou enforcar bebê, diz polícia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/27/homem-preso-por-fazer-filha-de-4-meses-refem-em-ribeirao-preto-sp-tentou-enforcar-bebe-diz-policia.ghtml",
-      "hora": "Tue, 27 Oct 2026 15:25:29 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Local de prova do Enem 2026 é divulgado; saiba como consultar",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/10/27/local-de-prova-do-enem-2026-e-divulgado.ghtml",
-      "hora": "Tue, 27 Oct 2026 15:24:41 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Pai e filho suspeitos de matar homem e deixar outro ferido após carreata pró-Flávio seguem foragidos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/27/pai-e-filho-suspeitos-de-matar-homem-e-deixar-outro-ferido-apos-carreata-pro-flavio-seguem-foragidos.ghtml",
-      "hora": "Tue, 27 Oct 2026 15:24:31 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Vazamento de gás mobiliza bombeiros e interdita trecho de avenida em Jacareí; suspeita é de dano durante obra",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/27/vazamento-de-gas-mobiliza-bombeiros-e-interdita-trecho-de-avenida-em-jacarei-suspeita-e-de-dano-durante-obra.ghtml",
-      "hora": "Tue, 27 Oct 2026 15:24:25 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Comissão da Alerj vota proposta orçamentária do RJ para 2027 que prevê rombo de R$ 14 bilhões",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/27/comissao-da-alerj-vota-proposta-orcamentaria-do-rj-para-2027.ghtml",
-      "hora": "Tue, 27 Oct 2026 15:20:36 -0000",
+      "titulo": "EUA dizem que darão visto a Flávio Bolsonaro: relação entre Trump e Lula pode azedar mais?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm3vq700565wo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 27 Oct 2026 23:03:05 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "MPT-RN apura assédio eleitoral de empresária da Grande Natal: 'Se você é petista, não me mande currículo'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/27/mpt-apura-assedio-eleitoral-de-empresaria-da-grande-natal-se-voce-e-petista-nao-me-mande-curriculo.ghtml",
-      "hora": "Tue, 27 Oct 2026 15:16:53 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem é morto dentro de casa em Ji-Paraná, RO",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ro/rondonia/noticia/2026/10/27/homem-e-morto-dentro-de-casa-em-ro.ghtml",
-      "hora": "Tue, 27 Oct 2026 15:15:26 -0000",
+      "titulo": "Se Flávio estiver fora do país, pode ser considerado foragido?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c875peypvy6eo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 27 Oct 2026 18:46:20 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Polícia Civil abre inquérito para investigar acidente com seis mortos e 15 feridos na PB",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/10/27/policia-civil-abre-inquerito-para-investigar-acidente-com-seis-mortos-e-14-feridos-na-pb.ghtml",
-      "hora": "Tue, 27 Oct 2026 15:15:17 -0000",
+      "titulo": "Quais seriam os caminhos possíveis para Flávio Bolsonaro ficar legalmente nos EUA",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmd6dz9ej226o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 27 Oct 2026 22:49:49 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Observadores internacionais elogiam organização das eleições brasileiras e Carter Center pede respeito ao resultado",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cxzd68mp8nmno?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 27 Oct 2026 21:23:08 GMT",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Acidente entre dois ônibus deixa seis feridos em São João del Rei",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/27/acidente-entre-dois-onibus-deixa-seis-feridos-em-sao-joao-del-rei.ghtml",
-      "hora": "Tue, 27 Oct 2026 15:11:31 -0000",
+      "titulo": "O que pesa contra Flávio Bolsonaro e por que um dos inquéritos está nas mãos de Alexandre de Moraes",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm9qz18je091o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 27 Oct 2026 16:39:13 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "TSE registrou 34 mil votos durante prorrogação ordenada por Zanin, menos de 0,03% dos votos totais",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crp3g2ynkp1xo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 27 Oct 2026 18:46:18 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Michelle e Carlos não se gostam, mas vão tentar manter bolsonarismo vivo, aponta Sérgio Abranches",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmzxl3evpl2ko?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 27 Oct 2026 20:31:53 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Israel vai às urnas, e legado do 7 de outubro pode definir se Netanyahu terá seu sétimo mandato",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm4g1qpnkv11o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 27 Oct 2026 10:17:45 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -136,9 +207,18 @@
       "resumo": null
     },
     {
-      "titulo": "Flávio Bolsonaro intimado a entregar passaportes e as reações pós vitória de Lula no 2º turno; siga",
+      "titulo": "Por que Flávio Bolsonaro foi intimado a entregar os passaportes?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.com/portuguese/articles/ck054vvj66g5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 27 Oct 2026 16:37:04 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Quem estava ao lado de Lula durante discurso da vitória na eleição",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c893zwq6947zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 26 Oct 2026 19:37:39 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -151,90 +231,10 @@
       "resumo": null
     },
     {
-      "titulo": "Por que Flávio Bolsonaro foi intimado a entregar os passaportes?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck054vvj66g5o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 27 Oct 2026 15:30:08 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Como Harry Kane ganhou a Bola de Ouro sem conquistar os principais títulos da temporada",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm98zgj972d4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 27 Oct 2026 14:00:13 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Israel vai às urnas, e legado do 7 de outubro pode definir se Netanyahu terá seu sétimo mandato",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm4g1qpnkv11o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 27 Oct 2026 10:17:45 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Lula precisará transformar partidos bolsonaristas em aliados para conseguir governar, aponta Sérgio Abranches",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmzxl3evpl2ko?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 27 Oct 2026 12:19:50 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "O hino composto por dom Pedro 1º que Lula transformou em canção da vitória",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjkge16rnzpqo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 27 Oct 2026 14:18:19 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "BBC identifica 33,8 mil votos durante prorrogação ordenada por Zanin, menos de 0,03% dos votos totais",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crp3g2ynkp1xo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 26 Oct 2026 20:12:03 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "A declaração de Trump sobre as eleições brasileiras – e a avaliação no governo Lula",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm5ynv92xkzwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 26 Oct 2026 20:42:37 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Flávio muda a rota e agora diz que vai pedir ao TSE cassação da chapa Lula-Alckmin",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr9dzne66j1go?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 26 Oct 2026 22:54:11 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "O que Lula propõe para enfrentar os sinais preocupantes da economia que terá no 4º mandato",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6wyd8djjzv4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 26 Oct 2026 21:20:58 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
       "titulo": "A eleição de 2026 em gráficos: de onde veio a virada de Lula",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cq4g10kx77dro?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 27 Oct 2026 09:05:06 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem estava ao lado de Lula durante discurso da vitória na eleição",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c893zwq6947zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 26 Oct 2026 19:37:39 GMT",
       "tema": "brasil",
       "resumo": null
     },
