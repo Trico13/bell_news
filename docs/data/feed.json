@@ -1,130 +1,114 @@
 {
-  "gerado_em": "2026-10-29T00:35:58.352Z",
+  "gerado_em": "2026-10-29T16:35:26.381Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 22.4,
-    "min": 13.9,
-    "chuva": 75
+    "max": 20.3,
+    "min": 16.3,
+    "chuva": 98
   },
   "noticias": [
     {
-      "titulo": "MPT pode acionar Justiça e exigir reintegração de quem foi prejudicado por assédio eleitoral; MTE apura denúncias em MT",
+      "titulo": "Prefeituras do Sul de MG fecham nesta sexta e só voltam a ter expediente na terça; veja o que abre e o que fecha no feriado",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/28/mpt-pode-acionar-justica-e-exigir-reintegracao-de-quem-foi-prejudicado-por-assedio-eleitoral-mte-apura-denuncias-em-mt.ghtml",
-      "hora": "Thu, 29 Oct 2026 00:22:22 -0000",
+      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/29/prefeituras-do-sul-de-mg-fecham-nesta-sexta-e-so-voltam-a-ter-expediente-na-terca-veja-o-que-abre-e-o-que-fecha-no-feriado.ghtml",
+      "hora": "Thu, 29 Oct 2026 16:28:55 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Caminhão tomba sobre van em rodovia no interior de SP",
+      "titulo": "Campanha leva vacinas a escolas dos 79 municípios de MS em novembro",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/28/acidente-em-rodovia-da-regiao-de-olimpia.ghtml",
-      "hora": "Thu, 29 Oct 2026 00:16:31 -0000",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/29/campanha-leva-vacinas-a-escolas-dos-79-municipios-de-ms-em-novembro.ghtml",
+      "hora": "Thu, 29 Oct 2026 16:28:46 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Fotojornalista denuncia derrubada de acácia-amarela cultivada por quase 7 anos no Acre",
+      "titulo": "Rafael Fonteles confirma permanência de Dirceu Campelo na Secretaria de Saúde do Piauí",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/10/28/fotojornalista-denuncia-derrubada-de-acacia-amarela-cultivada-por-quase-7-anos-no-acre.ghtml",
-      "hora": "Thu, 29 Oct 2026 00:16:04 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Ex-presidente do STF reage à carta de Flávio Bolsonaro: 'legitimidade não nasce da convicção pessoal de um candidato vencido' ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/28/ex-presidente-do-stf-reage-a-carta-de-flavio-bolsonaro-legitimidade-nao-nasce-da-conviccao-pessoal-de-um-candidato-vencido.ghtml",
-      "hora": "Thu, 29 Oct 2026 00:15:12 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem morre após ser atingido por raio no oeste da Bahia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/28/homem-morre-apos-ser-atingido-por-raio-em-barra.ghtml",
-      "hora": "Thu, 29 Oct 2026 00:12:43 -0000",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/10/29/dirceu-campelo-piaui.ghtml",
+      "hora": "Thu, 29 Oct 2026 16:25:39 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Nos EUA, Flávio Bolsonaro publica carta em tom golpista e chega a se autoproclamar presidente eleito do Brasil",
+      "titulo": "Operação prende três policiais e informante suspeitos de integrar organização criminosa no Ceará",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/28/nos-eua-flavio-bolsonaro-publica-carta-em-tom-golpista-e-chega-a-se-autoproclamar-presidente-eleito-do-brasil.ghtml",
-      "hora": "Thu, 29 Oct 2026 00:10:53 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Comissão do 1º concurso da Amprev é criada no AP; veja quais os próximos passos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/10/28/comissao-do-1o-concurso-da-amprev-e-criada-no-ap-veja-quais-os-proximos-passos.ghtml",
-      "hora": "Thu, 29 Oct 2026 00:08:32 -0000",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/10/29/operacao-prende-tres-policiais-e-informante-suspeitos-de-integrar-organizacao-criminosa-no-ceara.ghtml",
+      "hora": "Thu, 29 Oct 2026 16:24:07 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Vice-presidente da OAB-GO pede desculpas após comentário em vídeo de manifestação de petistas: ‘Se colocar tudo no saco e jogar no rio, o prejuízo é a perda do saco’",
+      "titulo": "Como presidente do TCE-MT e servidores presos pela PF sacaram R$ 15 milhões em banco dentro do órgão",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/10/28/vice-presidente-da-oab-go-pede-desculpas-apos-comentario-em-video-de-manifestacao-de-petistas-se-colocar-tudo-no-saco-e-jogar-no-rio-o-prejuizo-e-a-perda-do-saco.ghtml",
-      "hora": "Thu, 29 Oct 2026 00:05:36 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Mega-Sena 3077 sorteia maior prêmio da história de um concurso regular; confira os números ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/28/mega-sena-3077-sorteia-maior-premio-da-historia-de-um-concurso-regular-confira-os-numeros.ghtml",
-      "hora": "Thu, 29 Oct 2026 00:04:41 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Denúncia de xenofobia contra nordestinos em grupo de condomínio no Eusébio é investigada pelo MP ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/10/28/denuncia-de-xenofobia-contra-nordestinos-em-grupo-de-condominio-no-eusebio-e-investigado-pelo-mp.ghtml",
-      "hora": "Wed, 28 Oct 2026 23:58:38 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Chuva alaga corredores de Santa Casa e causa enchentes em Sertãozinho, SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/28/chuva-forte-alaga-corredores-de-santa-casa-e-causa-enchentes-em-sertaozinho-sp.ghtml",
-      "hora": "Wed, 28 Oct 2026 23:58:19 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Resumão diário do JN: Flávio Bolsonaro chega aos EUA, divulga carta em tom golpista e, sem provas, alega fraude nas eleições; presidente do TSE afirma que pleito respeitou normas legais",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/28/resumao-diario-do-jn-flavio-bolsonaro-chega-aos-eua-divulga-carta-em-tom-golpista-e-sem-provas-alega-fraude-nas-eleicoes-presidente-do-tse-afirma-que-pleito-respeitou-normas-legais.ghtml",
-      "hora": "Wed, 28 Oct 2026 23:57:31 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição de quarta-feira, 28 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/playlist/videos-jornal-anhanguera-2-edicao-de-quarta-feira-28-de-outubro-de-2026.ghtml",
-      "hora": "Wed, 28 Oct 2026 23:55:37 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Dia de Finados em Belém: veja o que abre e o que fecha no feriadão",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/10/28/dia-de-finados-em-belem-veja-o-que-abre-e-o-que-fecha-no-feriadao.ghtml",
-      "hora": "Wed, 28 Oct 2026 23:54:32 -0000",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/29/como-presidente-do-tce-mt-e-servidores-presos-pela-pf-sacaram-r-15-milhoes-em-banco-dentro-do-orgao.ghtml",
+      "hora": "Thu, 29 Oct 2026 16:23:44 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Boa Vista do Ramos entra em emergência por seca dos rios; sobe para 47 municípios do AM na lista",
+      "titulo": "Ação em alusão à campanha 'Outubro Rosa' promove atendimentos de saúde e cidadania em Rio Branco",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/28/boa-vista-do-ramos-entra-em-emergencia-por-seca-dos-rios-sobe-para-47-municipios-do-am-na-lista.ghtml",
-      "hora": "Wed, 28 Oct 2026 23:53:04 -0000",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/10/29/acao-em-alusao-a-campanha-outubro-rosa-promove-atendimentos-de-saude-e-cidadania-em-rio-branco.ghtml",
+      "hora": "Thu, 29 Oct 2026 16:23:23 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "PUC-Campinas é 1º lugar em Sustentabilidade no CSC Innovation Day 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/puc-campinas/puc-campinas/noticia/2026/10/29/puc-campinas-e-1o-lugar-em-sustentabilidade-no-csc-innovation-day-2026.ghtml",
+      "hora": "Thu, 29 Oct 2026 16:20:46 -0000",
       "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Justiça determina liberação do banho no Rio da Prata em Japaratuba após suspensão por risco de choque elétrico ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/se/sergipe/noticia/2026/10/29/justica-determina-liberacao-do-banho-no-rio-da-prata-em-japaratuba-apos-suspensao-por-risco-de-choque-eletrico.ghtml",
+      "hora": "Thu, 29 Oct 2026 16:19:19 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Listas que associam comerciantes a supostas posições políticas e incentivam boicote viram caso de polícia no Oeste Paulista",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/29/listas-que-associam-comerciantes-a-supostas-posicoes-politicas-e-incentivam-boicote-viram-caso-de-policia-no-oeste-paulista.ghtml",
+      "hora": "Thu, 29 Oct 2026 16:19:16 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "'Em dois anos, toda a indústria será robôs': marcas de roupa querem substituir modelos por imagens de IA",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/29/em-dois-anos-toda-a-industria-sera-robos-marcas-de-roupa-querem-substituir-modelos-por-imagens-de-ia.ghtml",
+      "hora": "Thu, 29 Oct 2026 16:17:23 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Enem 2026: aulões gratuitos preparam estudantes para a prova no Grande Rio",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/29/auloes-gratuitos-preparam-estudantes-para-o-enem-rj.ghtml",
+      "hora": "Thu, 29 Oct 2026 16:17:00 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Grávida dá à luz em carro de aplicativo após trânsito atrapalhar chegada a hospital no TO: 'Grande susto'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/10/29/gravida-da-a-luz-em-carro-de-aplicativo-apos-transito-atrapalhar-chegada-ao-hospital-grande-susto.ghtml",
+      "hora": "Thu, 29 Oct 2026 16:12:21 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Coreia do Norte lança cerca de 10 mísseis balísticos em direção ao mar na costa leste, afirma Seul",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/29/coreia-do-norte-lanca-cerca-de-10-misseis-balisticos-em-direcao-ao-mar-na-costa-leste-afirma-seul.ghtml",
+      "hora": "Thu, 29 Oct 2026 16:10:09 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
@@ -248,42 +232,58 @@
       "resumo": null
     },
     {
-      "titulo": "'Direita terá que decidir se desembarca do bolsonarismo', diz pesquisador de Harvard",
+      "titulo": "Qual o futuro do bolsonarismo após Flávio Bolsonaro ir para os EUA?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crx23wv1100ko?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 28 Oct 2026 19:30:11 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cw98zmy9gnj8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 29 Oct 2026 10:05:44 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Após se declarar 'verdadeiro presidente do Brasil', Flávio muda carta e se diz 'líder do Brasil'; siga",
+      "titulo": "Trump diz que Lula pediu para ele não tomar lado na eleição, mas que situação do Brasil é 'vergonhosa'; siga",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Netanyahu lidera eleição de Israel, mas não obtém maioria: como próximo governo será formado?",
+      "titulo": "Quem são Rui Barbosa, de Gaulle e outros líderes da América Latina citados por Flávio",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwr7y182ry0no?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 28 Oct 2026 16:44:14 GMT",
-      "tema": "cultura",
+      "link": "https://www.bbc.com/portuguese/articles/cmwyvkl9yjxeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 29 Oct 2026 13:32:02 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "O que pode ter causado colisão entre trens na Espanha",
+      "titulo": "Por que as eleições nos EUA e em Israel têm consequências globais",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckvg704vp1l2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 28 Oct 2026 20:19:48 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c59vzllvxwelo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 29 Oct 2026 15:42:51 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "As fãs de BTS que conheceram o grupo depois dos 60 anos: 'Morri de vergonha, mas fui'",
+      "titulo": "Os animais que você pode vencer em uma corrida — e os que são invencíveis",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c370pdnl9vx9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 28 Oct 2026 21:32:03 GMT",
-      "tema": "cultura",
+      "link": "https://www.bbc.com/portuguese/articles/c893zxr9z179o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 29 Oct 2026 11:12:12 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "As propostas do presidente Lula para o seu quarto mandato em 8 áreas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm2ke83x1785o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 29 Oct 2026 08:58:41 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "'Direita terá que decidir se desembarca do bolsonarismo', diz pesquisador de Harvard",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crx23wv1100ko?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 28 Oct 2026 19:30:11 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -303,26 +303,10 @@
       "resumo": null
     },
     {
-      "titulo": "Flávio Bolsonaro nos EUA: o que se sabe sobre a saída do senador do Brasil",
+      "titulo": "Flávio nos EUA: o que se sabe sobre saída do senador do Brasil",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c617k8y8zw1lo?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 28 Oct 2026 14:57:37 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que Flávio Bolsonaro foi intimado a entregar os passaportes?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck054vvj66g5o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 28 Oct 2026 12:01:21 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Senador pode ser considerado foragido?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c875peypvy6eo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 28 Oct 2026 11:49:47 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -332,6 +316,22 @@
       "link": "https://www.bbc.com/portuguese/articles/c61m430mdek2o?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 04 Oct 2026 19:15:47 GMT",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Flávio Bolsonaro pode ser considerado foragido?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c875peypvy6eo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 28 Oct 2026 11:49:47 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que Flávio Bolsonaro foi intimado a entregar os passaportes?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck054vvj66g5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 28 Oct 2026 12:01:21 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -348,22 +348,6 @@
       "link": "https://www.bbc.com/portuguese/articles/crp3g2ynkp1xo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 27 Oct 2026 18:46:18 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Ian Bremmer: 'Se Lula não agir rápido na economia, o mercado vai castigá-lo duramente'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvglw5x8760ro?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 27 Oct 2026 08:50:44 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Observadores internacionais elogiam organização das eleições brasileiras e Carter Center pede respeito ao resultado",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cxzd68mp8nmno?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 27 Oct 2026 21:23:08 GMT",
-      "tema": "cultura",
       "resumo": null
     }
   ]
