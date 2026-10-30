@@ -1,105 +1,129 @@
 {
-  "gerado_em": "2026-10-30T00:36:40.721Z",
+  "gerado_em": "2026-10-30T16:31:46.863Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 19.8,
-    "min": 16.3,
+    "max": 25,
+    "min": 16.4,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição de quinta-feira, 29 de outubro de 2026",
+      "titulo": "Venda de ingressos para o Planeta Atlântida 2027 começa na terça-feira (3)",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/playlist/videos-jornal-anhanguera-2-edicao-de-quinta-feira-29-de-outubro-de-2026.ghtml",
-      "hora": "Fri, 30 Oct 2026 00:22:50 -0000",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/planeta-atlantida/noticia/2026/10/30/venda-de-ingressos-para-o-planeta-atlantida-2027-inicio.ghtml",
+      "hora": "Fri, 30 Oct 2026 16:27:13 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Acidente grave entre caminhões e caminhonete é registrado na BR-153 no TO",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/10/30/acidente-grave-entre-caminhoes-e-caminhonete-e-registrado-na-br-153-no-to.ghtml",
+      "hora": "Fri, 30 Oct 2026 16:25:16 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "76ª edição da Festa de São Judas Tadeu terá programação gratuita, gastronomia e atrações culturais em Petrópolis",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/30/76a-edicao-da-festa-de-sao-judas-tadeu-tera-programacao-gratuita-gastronomia-e-atracoes-culturais-em-petropolis.ghtml",
+      "hora": "Fri, 30 Oct 2026 16:25:06 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Ex-coordenador da Saúde condenado por bater ponto e atender em consultório justificou atendimentos por salário ser menor do que o valor da pensão que pagava, diz juiz",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/10/30/ex-coordenador-da-saude-condenado-por-bater-ponto-e-atender-em-consultorio-justificou-atendimentos-por-salario-ser-menor-do-que-o-valor-da-pensao-que-pagava-diz-juiz.ghtml",
+      "hora": "Fri, 30 Oct 2026 16:24:47 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "'Querida Mamãe': espetáculo com Sirlea Aleixo terá sessões gratuitas em Rio das Ostras",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/10/30/querida-mamae-espetaculo-com-sirlea-aleixo-tera-sessoes-gratuitas-em-rio-das-ostras.ghtml",
+      "hora": "Fri, 30 Oct 2026 16:21:49 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Meta faz acordo com adolescente em processo que alega que redes sociais causaram depressão e transtornos alimentares",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/30/meta-faz-acordo-com-adolescente-em-processo-que-alega-que-redes-sociais-causaram-depressao-e-transtornos-alimentares.ghtml",
+      "hora": "Fri, 30 Oct 2026 16:20:59 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Rodovias do Sul de MG devem receber mais de 1,3 milhão de veículos durante feriadão de Finados; veja horários de pico",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/30/rodovias-do-sul-de-mg-devem-receber-mais-de-13-milhao-de-veiculos-durante-feriadao-de-finados-veja-horarios-de-pico.ghtml",
+      "hora": "Fri, 30 Oct 2026 16:20:48 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Sobe para 69 o número de mortos no acidente entre dois trens na Espanha",
+      "titulo": "Contêineres avaliados em R$ 41,5 mil são recuperados após roubo com ajuda de rastreador",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/29/sobe-para-69-o-numero-de-mortos-no-acidente-entre-dois-trens-na-espanha.ghtml",
-      "hora": "Fri, 30 Oct 2026 00:20:04 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Jornal Nacional viaja por estados que serão decisivos na eleição do novo Congresso americano",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/29/jornal-nacional-viaja-por-estados-que-serao-decisivos-na-eleicao-do-novo-congresso-americano.ghtml",
-      "hora": "Fri, 30 Oct 2026 00:11:36 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Seca do Rio Negro dificulta transporte em Manaus e ribeirinhos enfrentam caminhadas de até 2 km",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/29/seca-do-rio-negro-dificulta-transporte-em-manaus-e-ribeirinhos-enfrentam-caminhadas-de-ate-2-km.ghtml",
-      "hora": "Fri, 30 Oct 2026 00:07:43 -0000",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/30/conteineres-avaliados-em-r-415-mil-sao-recuperados-apos-roubo-com-ajuda-de-rastreador-no-litoral-de-sp.ghtml",
+      "hora": "Fri, 30 Oct 2026 16:18:51 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Construtora abre seleção para mais de 60 vagas em Fortaleza e região metropolitana; veja oportunidades",
+      "titulo": "VÍDEO: Fernando Sastre admite que bebeu antes de acidente com Porsche e pede perdão às vítimas durante julgamento",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/suachance/noticia/2026/10/29/construtora-abre-selecao-vagas-em-fortaleza-e-regiao-metropolitana.ghtml",
-      "hora": "Fri, 30 Oct 2026 00:05:31 -0000",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/30/video-fernando-sastre-admite-que-bebeu-antes-de-acidente-com-porsche-e-pede-perdao-as-vitimas-durante-julgamento.ghtml",
+      "hora": "Fri, 30 Oct 2026 16:18:36 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Mega-Sena, concurso 3078: confira os números sorteados",
+      "titulo": "Homem morre após ser esfaqueado na zona rural de Paranapanema",
       "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/29/mega-sena-concurso-3078-confira-os-numeros-sorteados.ghtml",
-      "hora": "Fri, 30 Oct 2026 00:04:18 -0000",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/30/homem-morre-apos-ser-esfaqueado-na-zona-rural-de-paranapanema.ghtml",
+      "hora": "Fri, 30 Oct 2026 16:17:37 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'História do Crime': Moïse fugiu da guerra no Congo e foi morto a pauladas em quiosque no Rio",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/30/historia-do-crime-moise-fugiu-da-guerra-no-congo-e-foi-morto-a-pauladas-em-quiosque-no-rio.ghtml",
+      "hora": "Fri, 30 Oct 2026 16:16:46 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Suspeito de matar compadre a tiros no Maranhão é preso no interior de SP; VÍDEO",
+      "titulo": "Júri dos EUA decide a favor da Bayer em ação sobre câncer ligado a agrotóxico",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/29/suspeito-de-matar-compadre-a-tiros-no-maranhao-e-preso-no-interior-de-sp-video.ghtml",
-      "hora": "Fri, 30 Oct 2026 00:01:26 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Clientes relatam prejuízos e cobram reembolso após cancelamento de festa de flashback em Ribeirão Preto, SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/29/clientes-relatam-prejuizos-e-cobram-reembolso-apos-cancelamento-de-festa-de-flashback-em-ribeirao-preto-sp.ghtml",
-      "hora": "Thu, 29 Oct 2026 23:58:54 -0000",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/30/juri-dos-eua-decide-a-favor-da-bayer-em-acao-sobre-cancer-ligado-a-agrotoxico.ghtml",
+      "hora": "Fri, 30 Oct 2026 16:15:41 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Defesa diz que arquivos de celular de Vorcaro foram modificados após apreensão e questiona provas de investigação",
+      "titulo": "Suspeito de assassinar idoso com diversas facadas após discussão por bebida é preso no Norte do PI",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/29/defesa-diz-que-arquivos-de-celular-de-vorcaro-foram-modificados-apos-apreensao-e-questiona-provas-de-investigacao.ghtml",
-      "hora": "Thu, 29 Oct 2026 23:58:32 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/10/30/suspeito-morte-pi.ghtml",
+      "hora": "Fri, 30 Oct 2026 16:12:52 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Fachin decide devolver investigação do INSS a Mendonça; presidente do STF mantém sob sua responsabilidade caso Master",
+      "titulo": "Menina de 9 anos cai de parede de escalada de 5 metros em festa infantil no Rio",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/29/fachin-decide-devolver-investigacao-do-inss-a-mendonca-presidente-do-stf-mantem-sob-sua-responsabilidade-caso-master.ghtml",
-      "hora": "Thu, 29 Oct 2026 23:56:55 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/30/menina-queda-parede-escalada-festa-infantil.ghtml",
+      "hora": "Fri, 30 Oct 2026 16:12:05 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Presidente do PL diz que não aprova carta em tom golpista publicada por Flávio Bolsonaro",
+      "titulo": "VÍDEO: caixa d'água se rompe e alaga apartamentos em condomínio de Valinhos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/29/presidente-do-pl-diz-que-nao-aprova-carta-em-tom-golpista-publicada-por-flavio-bolsonaro.ghtml",
-      "hora": "Thu, 29 Oct 2026 23:55:19 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-      "hora": "Thu, 29 Oct 2026 23:51:39 -0000",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/30/caixa-dagua-se-rompe-e-alaga-apartamentos-em-condominio-de-valinhos.ghtml",
+      "hora": "Fri, 30 Oct 2026 16:10:11 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -224,6 +248,38 @@
       "resumo": null
     },
     {
+      "titulo": "Petista 'liberal'? Como governador Rafael Fonteles entrou no radar de Lula para comandar a economia do Brasil ",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cx1l37yrndmro?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 30 Oct 2026 09:58:05 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Binance sofre ataque hacker de US$ 6,3 bilhões: quem pode estar por trás do possível maior roubo da história das criptomoedas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c820v2x0zvqko?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 30 Oct 2026 13:59:12 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Estouro da bolha de IA? Por que ações da Alphabet, dona da Google, tiveram maior queda da história",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmy0r2wrwwxlo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 30 Oct 2026 15:17:38 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "5 gráficos que mostram impacto do 2º mandato de Trump sobre a imigração nos EUA",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm0rl2wwp7pno?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 30 Oct 2026 14:36:35 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Pragmatismo x ideologia: como Trump vai de fato lidar com as declarações de Flávio Bolsonaro sobre o Brasil?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c64g18gdvqwjo?at_medium=RSS&at_campaign=rss",
@@ -232,10 +288,17 @@
       "resumo": null
     },
     {
-      "titulo": "Os negócios 'petistas' alvo de boicote após vitória de Lula: 'Virei o pior cabeleireiro do mundo por ser de esquerda'",
+      "titulo": "É crime fazer listas de negócios 'petistas' para promover boicote? 'Virei o pior cabeleireiro do mundo por ser de esquerda'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cw78pr842gk5o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 29 Oct 2026 21:33:58 GMT",
+      "hora": "Fri, 30 Oct 2026 11:00:34 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Governo Lula descarta escalar crise com Trump por Flávio Bolsonaro",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss",
       "tema": "brasil",
       "resumo": null
     },
@@ -248,37 +311,6 @@
       "resumo": null
     },
     {
-      "titulo": "Governo Lula descarta escalar crise com Trump por Flávio Bolsonaro; siga",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Ícone de 'X-Men' e 'Star Trek', ator Patrick Stewart morre aos 86 anos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3zxj9x201g2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 29 Oct 2026 21:12:21 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "As propostas do presidente Lula para o seu quarto mandato em 8 áreas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm2ke83x1785o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 29 Oct 2026 08:58:41 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Qual o futuro do bolsonarismo após Flávio Bolsonaro ir para os EUA?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw98zmy9gnj8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 29 Oct 2026 10:05:44 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
       "titulo": "'Ele achou que já estava eleito': os erros da campanha de Flávio Bolsonaro no segundo turno apontados por analistas",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmrryxg991d8o?at_medium=RSS&at_campaign=rss",
@@ -287,18 +319,10 @@
       "resumo": null
     },
     {
-      "titulo": "Quem são Rui Barbosa, de Gaulle, Guaidó e outros líderes citados por Flávio",
+      "titulo": "Qual o futuro do bolsonarismo após Flávio Bolsonaro ir para os EUA?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmwyvkl9yjxeo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 29 Oct 2026 13:32:02 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "O mapa que revela avanço generalizado de Lula no 2º turno: petista só 'piorou' em quatro de 5.571 municípios",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crgqwgz43ppxo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 28 Oct 2026 12:05:19 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cw98zmy9gnj8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 29 Oct 2026 10:05:44 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -311,34 +335,34 @@
       "resumo": null
     },
     {
-      "titulo": "'Direita terá que decidir se desembarca do bolsonarismo', diz pesquisador de Harvard",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crx23wv1100ko?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 28 Oct 2026 19:30:11 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Flávio Bolsonaro pode ser considerado foragido?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c875peypvy6eo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 28 Oct 2026 11:49:47 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Flávio nos EUA: o que se sabe sobre saída do senador do Brasil",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c617k8y8zw1lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 28 Oct 2026 14:57:37 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
       "titulo": "Janones: de cobrador de ônibus a estrategista digital número 1 da esquerda brasileira",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/watch/cw1l325g5lyqo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 29 Oct 2026 22:44:38 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "As propostas do presidente Lula para o seu quarto mandato em 8 áreas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm2ke83x1785o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 29 Oct 2026 08:58:41 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Carta de Flávio: quem são Rui Barbosa, de Gaulle, Guaidó e outros líderes da América Latina citados",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmwyvkl9yjxeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 29 Oct 2026 13:32:02 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "'Direita terá que decidir se desembarca do bolsonarismo', diz pesquisador de Harvard",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crx23wv1100ko?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 28 Oct 2026 19:30:11 GMT",
       "tema": "brasil",
       "resumo": null
     }
