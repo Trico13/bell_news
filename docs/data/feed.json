@@ -1,130 +1,122 @@
 {
-  "gerado_em": "2026-10-31T00:22:22.706Z",
+  "gerado_em": "2026-10-31T15:36:21.044Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 24.6,
-    "min": 16.3,
-    "chuva": 100
+    "max": 26.4,
+    "min": 15.5,
+    "chuva": 98
   },
   "noticias": [
     {
-      "titulo": "Hackers invadem a maior corretora de criptomoedas do mundo e roubam mais de US$ 6 bilhões em 20 minutos",
+      "titulo": "Feriado de Finados: veja o que abre e o que fecha em cidades do interior de SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/30/hackers-invadem-a-maior-corretora-de-criptomoedas-do-mundo-e-roubam-mais-de-us-6-bilhoes-em-20-minutos.ghtml",
-      "hora": "Sat, 31 Oct 2026 00:12:58 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Fazenda de 101 hectares vai a leilão em MT com lance inicial de R$ 10,5 milhões",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/30/fazenda-de-101-hectares-vai-a-leilao-em-mt-com-lance-inicial-de-r-105-milhoes.ghtml",
-      "hora": "Sat, 31 Oct 2026 00:10:54 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição de sexta-feira, 30 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/edicao/2026/10/30/videos-jornal-anhanguera-2-edicao-de-sexta-feira-30-de-outubro-de-2026.ghtml",
-      "hora": "Sat, 31 Oct 2026 00:07:07 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Mega-Sena, concurso 3079: confira os números sorteados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/30/mega-sena-concurso-3079-confira-os-numeros-sorteados.ghtml",
-      "hora": "Sat, 31 Oct 2026 00:05:24 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Primeiro dia da Oktoberfest Manaus tem música, cervejas e gastronomia alemã",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/10/30/primeiro-dia-da-oktoberfest-manaus-tem-musica-cervejas-e-gastronomia-alema.ghtml",
-      "hora": "Sat, 31 Oct 2026 00:05:09 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "A cada hora, 5 motoristas são flagrados usando telefone enquanto dirigem nas rodovias federais, diz PRF",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/30/a-cada-hora-5-motoristas-sao-flagrados-usando-telefone-enquanto-dirigem-nas-rodovias-federais-diz-prf.ghtml",
-      "hora": "Sat, 31 Oct 2026 00:04:35 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Suspeito de matar e esquartejar homem é preso em Palmas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/10/30/suspeito-de-matar-e-esquartejar-homem-e-preso-em-palmas.ghtml",
-      "hora": "Sat, 31 Oct 2026 00:02:57 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem que matou motorista de aplicativo é condenado a mais de 17 anos de prisão",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/30/homem-que-matou-motorista-de-aplicativo-e-condenado-a-mais-de-17-anos-de-prisao.ghtml",
-      "hora": "Fri, 30 Oct 2026 23:58:19 -0000",
+      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/31/feriado-de-finados-veja-o-que-abre-e-fecha-em-cidades-do-interior-de-sp.ghtml",
+      "hora": "Sat, 31 Oct 2026 15:24:19 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Porto de Santos bate recorde de movimentação de cargas nos nove primeiros meses de 2026",
+      "titulo": "Supermaratona para o Enem 2026: g1 MT transmite aulas ao vivo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2026/10/30/porto-de-santos-bate-recorde-de-movimentacao-de-cargas-nos-nove-primeiros-meses-de-2026.ghtml",
-      "hora": "Fri, 30 Oct 2026 23:57:03 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-      "hora": "Fri, 30 Oct 2026 23:50:40 -0000",
+      "link": "https://g1.globo.com/mt/mato-grosso/ao-vivo/supermaratona-para-o-enem-2026-g1-mt-transmite-aulas-ao-vivo.ghtml",
+      "hora": "Sat, 31 Oct 2026 15:20:02 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Motorista de ônibus sofre infarto fulminante e provoca o engavetamento de 22 veículos",
+      "titulo": "Ronaldo Prado é eleito presidente da Câmara de Parnaíba para 2027-2028",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/30/motorista-de-onibus-sofre-infarto-fulminante-e-provoca-o-engavetamento-de-22-veiculos.ghtml",
-      "hora": "Fri, 30 Oct 2026 23:48:15 -0000",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/10/31/camara-parnaiba.ghtml",
+      "hora": "Sat, 31 Oct 2026 15:18:36 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "O teste simples de fitness que prevê o seu risco de morte",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/saude/noticia/2026/10/31/o-teste-simples-de-fitness-que-preve-o-seu-risco-de-morte.ghtml",
+      "hora": "Sat, 31 Oct 2026 15:17:59 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: Jornal do Acre 2ª Edição desta sexta-feira, 30 de outubro de 2026",
+      "titulo": "Gerente relata susto após carro desgovernado invadir loja em São José dos Campos: 'Fugir pra não bater na gente'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-sexta-feira-30-de-outubro-de-2026.ghtml",
-      "hora": "Fri, 30 Oct 2026 23:46:38 -0000",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/31/gerente-relata-susto-apos-carro-desgovernado-invadir-loja-em-sao-jose-dos-campos-fugir-pra-nao-bater-na-gente.ghtml",
+      "hora": "Sat, 31 Oct 2026 15:16:09 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Domingo Aéreo: acompanhe aqui a transmissão ao vivo da Esquadrilha da Fumaça ",
+      "titulo": "Segurança é morto a tiros pelo pai de jovem agredido durante baile em SC",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-carlos-regiao/ao-vivo/domingo-aereo-g1-transmite-ao-vivo-a-apresentacao-da-esquadrilha-da-fumaca.ghtml",
-      "hora": "Fri, 30 Oct 2026 23:46:34 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Porsche: namorada de condenado por morte de motorista é multada por tumultuar júri e deve ser denunciada por falso testemunho",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/30/porsche-namorada-de-condenado-por-morte-de-motorista-e-multada-por-tumultuar-juri-e-deve-ser-denunciada-por-falso-testemunho.ghtml",
-      "hora": "Fri, 30 Oct 2026 23:42:19 -0000",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/31/seguranca-morto-tiros-pai-jovem-agredido-baile-sc.ghtml",
+      "hora": "Sat, 31 Oct 2026 15:15:27 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "MP diz que votos de partido e federação que se unirem após eleições podem ser somados para cumprir cláusula de barreira; parecer foi criticado",
+      "titulo": "Assista ao Link Vanguarda ao vivo no g1",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/10/30/mp-diz-que-votos-do-avante-podem-ser-considerados-para-federacao-que-o-partido-fara-parte-cumpra-clausula-de-barreira-parecer-foi-criticado.ghtml",
-      "hora": "Fri, 30 Oct 2026 23:34:19 -0000",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/assista-ao-link-vanguarda-ao-vivo-no-g1.ghtml",
+      "hora": "Sat, 31 Oct 2026 15:14:43 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Passageira de moto fica em estado grave após ser atingida por carro na BR-401; motorista fugiu",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/10/31/passageira-de-moto-fica-em-estado-grave-apos-ser-atingida-por-carro-na-br-401-motorista-fugiu.ghtml",
+      "hora": "Sat, 31 Oct 2026 15:13:35 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Assista ao JRO1 deste sábado, 31",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ro/rondonia/ao-vivo/assista-ao-jro1-deste-sabado-31.ghtml",
+      "hora": "Sat, 31 Oct 2026 15:11:17 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Período de Piracema começa neste domingo e restringe pesca em rios do Oeste Paulista",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/10/31/periodo-de-piracema-comeca-neste-domingo-e-restringe-pesca-em-rios-do-oeste-paulista.ghtml",
+      "hora": "Sat, 31 Oct 2026 15:05:45 -0000",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "EPTV 1 Piracicaba ao vivo",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/ao-vivo/eptv-1-piracicaba-ao-vivo.ghtml",
+      "hora": "Sat, 31 Oct 2026 15:04:58 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Bom Dia Sábado de 31 de outubro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/am/amazonas/playlist/bom-dia-sabado-de-31-de-outubro-de-2026.ghtml",
+      "hora": "Sat, 31 Oct 2026 15:04:22 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Assista ao JAP1 deste sábado (31)",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ap/ao-vivo/assista-ao-jap1-deste-sabado-31.ghtml",
+      "hora": "Sat, 31 Oct 2026 15:04:15 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Prefeitura abre seleção com 43 vagas e salários de até R$ 5,1 mil em RO; veja como participar",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ro/rondonia/noticia/2026/10/31/prefeitura-abre-selecao-com-43-vagas-e-salarios-de-ate-r-51-mil-em-ro-veja-como-participar.ghtml",
+      "hora": "Sat, 31 Oct 2026 15:02:39 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -248,11 +240,27 @@
       "resumo": null
     },
     {
-      "titulo": "Médicos são acusados de perseguir colegas e sugerir boicote a pacientes por posicionamento político: 'Senti um alvo na minha cabeça'",
+      "titulo": "Como 'método Janones' está inspirando a esquerda fora do Brasil",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c63el2njn4zko?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 30 Oct 2026 20:03:15 GMT",
-      "tema": "cultura",
+      "link": "https://www.bbc.com/portuguese/articles/cm62yj7vzv48o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 31 Oct 2026 10:26:01 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O teste simples de fitness que prevê o seu risco de morte",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqx287ern61jo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 31 Oct 2026 14:54:42 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "O teste simples de fitness que prevê o seu risco de morte",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqx287ern61jo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 31 Oct 2026 14:54:42 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -280,11 +288,11 @@
       "resumo": null
     },
     {
-      "titulo": "Detenta americana Christa Pike afirma ter acordado 'confusa e com dores' após tentativa fracassada de execução",
+      "titulo": "Médicos são acusados de perseguir colegas e sugerir boicote a pacientes por posicionamento político: 'Senti um alvo na minha cabeça'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqwy728wwky3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 30 Oct 2026 17:16:39 GMT",
-      "tema": "mundo",
+      "link": "https://www.bbc.com/portuguese/articles/c63el2njn4zko?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 31 Oct 2026 02:24:43 GMT",
+      "tema": "cultura",
       "resumo": null
     },
     {
@@ -308,22 +316,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c6d93v3jy8qwo?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 29 Oct 2026 21:05:13 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "'Ele achou que já estava eleito': os erros da campanha de Flávio Bolsonaro no segundo turno apontados por analistas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmrryxg991d8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 29 Oct 2026 18:21:19 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Qual o futuro do bolsonarismo após Flávio Bolsonaro ir para os EUA?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw98zmy9gnj8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 29 Oct 2026 10:05:44 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -356,14 +348,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/crx23wv1100ko?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 28 Oct 2026 19:30:11 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "O mapa que revela avanço generalizado de Lula no 2º turno: petista só 'piorou' em quatro de 5.571 municípios",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crgqwgz43ppxo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 28 Oct 2026 12:05:19 GMT",
       "tema": "brasil",
       "resumo": null
     }
