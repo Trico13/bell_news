@@ -1,130 +1,130 @@
 {
-  "gerado_em": "2026-10-30T16:31:46.863Z",
+  "gerado_em": "2026-10-31T00:22:22.706Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 25,
-    "min": 16.4,
+    "max": 24.6,
+    "min": 16.3,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Venda de ingressos para o Planeta Atlântida 2027 começa na terça-feira (3)",
+      "titulo": "Hackers invadem a maior corretora de criptomoedas do mundo e roubam mais de US$ 6 bilhões em 20 minutos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/planeta-atlantida/noticia/2026/10/30/venda-de-ingressos-para-o-planeta-atlantida-2027-inicio.ghtml",
-      "hora": "Fri, 30 Oct 2026 16:27:13 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Acidente grave entre caminhões e caminhonete é registrado na BR-153 no TO",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/10/30/acidente-grave-entre-caminhoes-e-caminhonete-e-registrado-na-br-153-no-to.ghtml",
-      "hora": "Fri, 30 Oct 2026 16:25:16 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "76ª edição da Festa de São Judas Tadeu terá programação gratuita, gastronomia e atrações culturais em Petrópolis",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/30/76a-edicao-da-festa-de-sao-judas-tadeu-tera-programacao-gratuita-gastronomia-e-atracoes-culturais-em-petropolis.ghtml",
-      "hora": "Fri, 30 Oct 2026 16:25:06 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Ex-coordenador da Saúde condenado por bater ponto e atender em consultório justificou atendimentos por salário ser menor do que o valor da pensão que pagava, diz juiz",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/10/30/ex-coordenador-da-saude-condenado-por-bater-ponto-e-atender-em-consultorio-justificou-atendimentos-por-salario-ser-menor-do-que-o-valor-da-pensao-que-pagava-diz-juiz.ghtml",
-      "hora": "Fri, 30 Oct 2026 16:24:47 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "'Querida Mamãe': espetáculo com Sirlea Aleixo terá sessões gratuitas em Rio das Ostras",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/10/30/querida-mamae-espetaculo-com-sirlea-aleixo-tera-sessoes-gratuitas-em-rio-das-ostras.ghtml",
-      "hora": "Fri, 30 Oct 2026 16:21:49 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Meta faz acordo com adolescente em processo que alega que redes sociais causaram depressão e transtornos alimentares",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/30/meta-faz-acordo-com-adolescente-em-processo-que-alega-que-redes-sociais-causaram-depressao-e-transtornos-alimentares.ghtml",
-      "hora": "Fri, 30 Oct 2026 16:20:59 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Rodovias do Sul de MG devem receber mais de 1,3 milhão de veículos durante feriadão de Finados; veja horários de pico",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/10/30/rodovias-do-sul-de-mg-devem-receber-mais-de-13-milhao-de-veiculos-durante-feriadao-de-finados-veja-horarios-de-pico.ghtml",
-      "hora": "Fri, 30 Oct 2026 16:20:48 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Contêineres avaliados em R$ 41,5 mil são recuperados após roubo com ajuda de rastreador",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/30/conteineres-avaliados-em-r-415-mil-sao-recuperados-apos-roubo-com-ajuda-de-rastreador-no-litoral-de-sp.ghtml",
-      "hora": "Fri, 30 Oct 2026 16:18:51 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEO: Fernando Sastre admite que bebeu antes de acidente com Porsche e pede perdão às vítimas durante julgamento",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/30/video-fernando-sastre-admite-que-bebeu-antes-de-acidente-com-porsche-e-pede-perdao-as-vitimas-durante-julgamento.ghtml",
-      "hora": "Fri, 30 Oct 2026 16:18:36 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem morre após ser esfaqueado na zona rural de Paranapanema",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/30/homem-morre-apos-ser-esfaqueado-na-zona-rural-de-paranapanema.ghtml",
-      "hora": "Fri, 30 Oct 2026 16:17:37 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'História do Crime': Moïse fugiu da guerra no Congo e foi morto a pauladas em quiosque no Rio",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/30/historia-do-crime-moise-fugiu-da-guerra-no-congo-e-foi-morto-a-pauladas-em-quiosque-no-rio.ghtml",
-      "hora": "Fri, 30 Oct 2026 16:16:46 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Júri dos EUA decide a favor da Bayer em ação sobre câncer ligado a agrotóxico",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/30/juri-dos-eua-decide-a-favor-da-bayer-em-acao-sobre-cancer-ligado-a-agrotoxico.ghtml",
-      "hora": "Fri, 30 Oct 2026 16:15:41 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/30/hackers-invadem-a-maior-corretora-de-criptomoedas-do-mundo-e-roubam-mais-de-us-6-bilhoes-em-20-minutos.ghtml",
+      "hora": "Sat, 31 Oct 2026 00:12:58 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Suspeito de assassinar idoso com diversas facadas após discussão por bebida é preso no Norte do PI",
+      "titulo": "Fazenda de 101 hectares vai a leilão em MT com lance inicial de R$ 10,5 milhões",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/10/30/suspeito-morte-pi.ghtml",
-      "hora": "Fri, 30 Oct 2026 16:12:52 -0000",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/30/fazenda-de-101-hectares-vai-a-leilao-em-mt-com-lance-inicial-de-r-105-milhoes.ghtml",
+      "hora": "Sat, 31 Oct 2026 00:10:54 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Menina de 9 anos cai de parede de escalada de 5 metros em festa infantil no Rio",
+      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição de sexta-feira, 30 de outubro de 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/30/menina-queda-parede-escalada-festa-infantil.ghtml",
-      "hora": "Fri, 30 Oct 2026 16:12:05 -0000",
+      "link": "https://g1.globo.com/go/goias/edicao/2026/10/30/videos-jornal-anhanguera-2-edicao-de-sexta-feira-30-de-outubro-de-2026.ghtml",
+      "hora": "Sat, 31 Oct 2026 00:07:07 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Mega-Sena, concurso 3079: confira os números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/30/mega-sena-concurso-3079-confira-os-numeros-sorteados.ghtml",
+      "hora": "Sat, 31 Oct 2026 00:05:24 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "VÍDEO: caixa d'água se rompe e alaga apartamentos em condomínio de Valinhos",
+      "titulo": "Primeiro dia da Oktoberfest Manaus tem música, cervejas e gastronomia alemã",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/30/caixa-dagua-se-rompe-e-alaga-apartamentos-em-condominio-de-valinhos.ghtml",
-      "hora": "Fri, 30 Oct 2026 16:10:11 -0000",
+      "link": "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/10/30/primeiro-dia-da-oktoberfest-manaus-tem-musica-cervejas-e-gastronomia-alema.ghtml",
+      "hora": "Sat, 31 Oct 2026 00:05:09 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "A cada hora, 5 motoristas são flagrados usando telefone enquanto dirigem nas rodovias federais, diz PRF",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/30/a-cada-hora-5-motoristas-sao-flagrados-usando-telefone-enquanto-dirigem-nas-rodovias-federais-diz-prf.ghtml",
+      "hora": "Sat, 31 Oct 2026 00:04:35 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Suspeito de matar e esquartejar homem é preso em Palmas",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/10/30/suspeito-de-matar-e-esquartejar-homem-e-preso-em-palmas.ghtml",
+      "hora": "Sat, 31 Oct 2026 00:02:57 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem que matou motorista de aplicativo é condenado a mais de 17 anos de prisão",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/30/homem-que-matou-motorista-de-aplicativo-e-condenado-a-mais-de-17-anos-de-prisao.ghtml",
+      "hora": "Fri, 30 Oct 2026 23:58:19 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Porto de Santos bate recorde de movimentação de cargas nos nove primeiros meses de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2026/10/30/porto-de-santos-bate-recorde-de-movimentacao-de-cargas-nos-nove-primeiros-meses-de-2026.ghtml",
+      "hora": "Fri, 30 Oct 2026 23:57:03 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultados das Loterias Caixa",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "hora": "Fri, 30 Oct 2026 23:50:40 -0000",
       "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Motorista de ônibus sofre infarto fulminante e provoca o engavetamento de 22 veículos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/30/motorista-de-onibus-sofre-infarto-fulminante-e-provoca-o-engavetamento-de-22-veiculos.ghtml",
+      "hora": "Fri, 30 Oct 2026 23:48:15 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: Jornal do Acre 2ª Edição desta sexta-feira, 30 de outubro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-sexta-feira-30-de-outubro-de-2026.ghtml",
+      "hora": "Fri, 30 Oct 2026 23:46:38 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Domingo Aéreo: acompanhe aqui a transmissão ao vivo da Esquadrilha da Fumaça ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-carlos-regiao/ao-vivo/domingo-aereo-g1-transmite-ao-vivo-a-apresentacao-da-esquadrilha-da-fumaca.ghtml",
+      "hora": "Fri, 30 Oct 2026 23:46:34 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Porsche: namorada de condenado por morte de motorista é multada por tumultuar júri e deve ser denunciada por falso testemunho",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/30/porsche-namorada-de-condenado-por-morte-de-motorista-e-multada-por-tumultuar-juri-e-deve-ser-denunciada-por-falso-testemunho.ghtml",
+      "hora": "Fri, 30 Oct 2026 23:42:19 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "MP diz que votos de partido e federação que se unirem após eleições podem ser somados para cumprir cláusula de barreira; parecer foi criticado",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/30/mp-diz-que-votos-do-avante-podem-ser-considerados-para-federacao-que-o-partido-fara-parte-cumpra-clausula-de-barreira-parecer-foi-criticado.ghtml",
+      "hora": "Fri, 30 Oct 2026 23:34:19 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -248,6 +248,14 @@
       "resumo": null
     },
     {
+      "titulo": "Médicos são acusados de perseguir colegas e sugerir boicote a pacientes por posicionamento político: 'Senti um alvo na minha cabeça'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c63el2njn4zko?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 30 Oct 2026 20:03:15 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
       "titulo": "Petista 'liberal'? Como governador Rafael Fonteles entrou no radar de Lula para comandar a economia do Brasil ",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cx1l37yrndmro?at_medium=RSS&at_campaign=rss",
@@ -256,7 +264,31 @@
       "resumo": null
     },
     {
-      "titulo": "Binance sofre ataque hacker de US$ 6,3 bilhões: quem pode estar por trás do possível maior roubo da história das criptomoedas",
+      "titulo": "Brasil diz ter convocado diplomata argentina para cobrar explicações sobre viagem de Flávio Bolsonaro",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck3r52z8zwlqo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 30 Oct 2026 23:37:12 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Quem chega, quem fica e quem sai: quais são os nomes cotados para o governo Lula 4",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmde858pg81zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 30 Oct 2026 19:03:39 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Detenta americana Christa Pike afirma ter acordado 'confusa e com dores' após tentativa fracassada de execução",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqwy728wwky3o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 30 Oct 2026 17:16:39 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Binance sofre ataque hacker de US$ 6,3 bilhões: por que Coreia do Norte pode estar por trás do possível maior roubo da história das criptomoedas",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c820v2x0zvqko?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 30 Oct 2026 13:59:12 GMT",
@@ -264,42 +296,11 @@
       "resumo": null
     },
     {
-      "titulo": "Estouro da bolha de IA? Por que ações da Alphabet, dona da Google, tiveram maior queda da história",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmy0r2wrwwxlo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 30 Oct 2026 15:17:38 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "5 gráficos que mostram impacto do 2º mandato de Trump sobre a imigração nos EUA",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm0rl2wwp7pno?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 30 Oct 2026 14:36:35 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Pragmatismo x ideologia: como Trump vai de fato lidar com as declarações de Flávio Bolsonaro sobre o Brasil?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c64g18gdvqwjo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 29 Oct 2026 20:01:00 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "É crime fazer listas de negócios 'petistas' para promover boicote? 'Virei o pior cabeleireiro do mundo por ser de esquerda'",
+      "titulo": "É crime fazer listas de negócios 'petistas' para promover boicote?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cw78pr842gk5o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 30 Oct 2026 11:00:34 GMT",
+      "hora": "Fri, 30 Oct 2026 17:25:18 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Governo Lula descarta escalar crise com Trump por Flávio Bolsonaro",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/c6x2v49yvrygt?at_medium=RSS&at_campaign=rss",
-      "tema": "brasil",
       "resumo": null
     },
     {
@@ -323,14 +324,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cw98zmy9gnj8o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 29 Oct 2026 10:05:44 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Clique aqui",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c61m430mdek2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 04 Oct 2026 19:15:47 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -363,6 +356,14 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/crx23wv1100ko?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 28 Oct 2026 19:30:11 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O mapa que revela avanço generalizado de Lula no 2º turno: petista só 'piorou' em quatro de 5.571 municípios",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crgqwgz43ppxo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 28 Oct 2026 12:05:19 GMT",
       "tema": "brasil",
       "resumo": null
     }
