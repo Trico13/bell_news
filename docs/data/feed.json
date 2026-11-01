@@ -1,121 +1,129 @@
 {
-  "gerado_em": "2026-10-31T23:56:36.535Z",
+  "gerado_em": "2026-11-01T16:34:49.120Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 26.1,
-    "min": 15.5,
+    "max": 26.7,
+    "min": 16.3,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Vaquejada com R$ 120 mil em prêmios e shows de Zé Vaqueiro e Nattan acontece neste sábado em Manaus",
+      "titulo": "Resultado da Lotofácil 3819: duas apostas de MT acertam 14 números e ganham mais de 3 mil reais",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/31/vaquejada-com-r-120-mil-em-premios-e-shows-de-ze-vaqueiro-e-nattan-acontece-neste-sabado-em-manaus.ghtml",
-      "hora": "Sat, 31 Oct 2026 23:37:22 -0000",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/01/resultado-da-lotofacil-3819-duas-apostas-de-mt-acertam-14-numeros-e-ganham-mais-de-3-mil-reais.ghtml",
+      "hora": "Sun, 01 Nov 2026 16:26:54 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Acompanhe a Supermaratona para o Enem com aulas gratuitas ao vivo",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/to/tocantins/ao-vivo/supermaratona-enem-tocantins.ghtml",
+      "hora": "Sun, 01 Nov 2026 16:24:32 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Corpo de Bombeiros diz que implosão da sobre o Estreito dos Mosquitos, na BR-135, ocorreu dentro do previsto",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/01/corpo-de-bombeiros-diz-que-implosao-da-sobre-o-estreito-dos-mosquitos-na-saida-de-sao-luis-ocorreu-dentro-do-previsto.ghtml",
+      "hora": "Sun, 01 Nov 2026 16:22:09 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Cadastro eleitoral para emissão de título e regularização reabre no PI na terça (3); confira documentos",
+      "titulo": "Polícia Civil investiga morte por arma branca em Novo Hamburgo, no RS",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/10/31/cadastro-eleitoral-emissao-titulo-pi.ghtml",
-      "hora": "Sat, 31 Oct 2026 23:33:50 -0000",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/01/policia-civil-investiga-morte-arma-branca-novo-hamburgo.ghtml",
+      "hora": "Sun, 01 Nov 2026 16:22:07 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Veja como foi a Supermaratona para o Enem 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/ao-vivo/supermaratona-para-o-enem-2026.ghtml",
+      "hora": "Sun, 01 Nov 2026 16:21:36 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Supermaratona para o Enem 2026: g1 MT transmite o segundo dia de aulas ao vivo",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/ao-vivo/supermaratona-para-o-enem-2026-g1-mt-transmite-aulas-ao-vivo.ghtml",
+      "hora": "Sun, 01 Nov 2026 16:20:44 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEO: jaguatirica é flagrada em primeiras imagens interagindo com câmera de monitoramento em MT",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/01/video-jaguatirica-e-flagrada-em-primeiras-imagens-interagindo-com-camera-de-monitoramento-em-mt.ghtml",
+      "hora": "Sun, 01 Nov 2026 16:17:32 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Motociclista é preso suspeito de fazer 'grau' perto de delegacia em Italva",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/01/motociclista-e-preso-suspeito-de-fazer-grau-perto-de-delegacia-em-italva.ghtml",
+      "hora": "Sun, 01 Nov 2026 16:17:31 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: NE2 de sábado, 31 de outubro de 2026",
+      "titulo": "Dia de Finados: veja horários de missas em cemitérios e igrejas de Juiz de Fora",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/videos-ne2/playlist/videos-ne2-de-sabado-31-de-outubro-de-2026.ghtml",
-      "hora": "Sat, 31 Oct 2026 23:30:08 -0000",
+      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/01/dia-de-finados-veja-horarios-de-missas-em-cemiterios-e-igrejas-de-juiz-de-fora.ghtml",
+      "hora": "Sun, 01 Nov 2026 16:14:11 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: GR2 de sábado, 31 de outubro ",
+      "titulo": "Apostas de Florianópolis e Lages 'batem na trave' na Mega-Sena deste domingo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/playlist/videos-gr2-de-sabado-31-de-outubro-de-2026.ghtml",
-      "hora": "Sat, 31 Oct 2026 23:19:13 -0000",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/01/mega-sena-3080-teve-vencedor-em-santa-catarina-lages-florianopolis.ghtml",
+      "hora": "Sun, 01 Nov 2026 16:07:48 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
+      "titulo": "Polícia apreende arma de fogo escondida em caixa d’água de residência em Fortaleza",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
-      "hora": "Sat, 31 Oct 2026 23:18:20 -0000",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/01/policia-apreende-arma-de-fogo-escondida-em-caixa-dagua-de-residencia-em-fortaleza.ghtml",
+      "hora": "Sun, 01 Nov 2026 16:07:20 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais ",
+      "titulo": "Influenciador que atropelou lavrador com Porsche em Teresópolis\né condenado por dois crimes de trânsito",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml",
-      "hora": "Sat, 31 Oct 2026 23:18:05 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
-      "hora": "Sat, 31 Oct 2026 23:17:52 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
-      "hora": "Sat, 31 Oct 2026 23:17:37 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "FIGA 2026 leva culinária cabocla ao Centro de Convenções Vasco Vasques, em Manaus",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/10/31/figa-2026-leva-culinaria-cabocla-ao-centro-de-convencoes-vasco-vasques-em-manaus.ghtml",
-      "hora": "Sat, 31 Oct 2026 23:12:18 -0000",
+      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/11/01/influenciador-que-atropelou-lavrador-com-porshe-em-teresopolis-e-condenado-por-dois-crimes-de-transito.ghtml",
+      "hora": "Sun, 01 Nov 2026 16:04:37 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Assista aos telejornais da TV Liberal",
+      "titulo": "Busca por parto humanizado fez russa escolher João Pessoa: 'na Rússia não existe essa veneração às grávidas'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
-      "hora": "Sat, 31 Oct 2026 23:12:18 -0000",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/01/busca-por-parto-humanizado-fez-russa-escolher-joao-pessoa-na-russia-nao-existe-essa-veneracao-as-gravidas.ghtml",
+      "hora": "Sun, 01 Nov 2026 16:03:17 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Batida entre carretas deixa dois motoristas feridos e interdita BR-251 em MG",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/01/batida-entre-carretas-deixa-dois-motoristas-feridos-e-interdita-br-251-em-mg.ghtml",
+      "hora": "Sun, 01 Nov 2026 16:02:59 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Manifestação homenageia engenheiro morto após ser roubado e agredido no litoral de SP",
+      "titulo": "Empresário de 21 anos morre após acidente com caminhonete em Goiás; vídeo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/31/manifestacao-homenageia-engenheiro-morto-apos-ser-roubado-e-agredido-no-litoral-de-sp.ghtml",
-      "hora": "Sat, 31 Oct 2026 23:11:25 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Médica brasileira que morreu na Espanha após correr em meia maratona sofreu morte súbita, aponta laudo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/31/medica-brasileira-morreu-espanha-correr-meia-maratona-sofreu-morte-subita-aponta-laudo.ghtml",
-      "hora": "Sat, 31 Oct 2026 23:07:43 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "ONG de Araçatuba promove Halloween solidário com mansão mal-assombrada e distribuição de doces",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/10/31/ong-de-aracatuba-promove-halloween-solidario-com-mansao-mal-assombrada-e-distribuicao-de-doces.ghtml",
-      "hora": "Sat, 31 Oct 2026 23:07:23 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: RJ2 de sábado, 31 de outubro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/videos-rj2/playlist/videos-rj2-de-sabado-31-de-outubro-de-2026.ghtml",
-      "hora": "Sat, 31 Oct 2026 23:06:41 -0000",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/11/01/jovem-morre-em-acidente-com-caminhonete-em-goias-video.ghtml",
+      "hora": "Sun, 01 Nov 2026 16:02:57 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -240,6 +248,38 @@
       "resumo": null
     },
     {
+      "titulo": "A crise de identidade que ameaça ambição dos democratas em eleição crucial para Trump",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck87zqyqqdjlo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 01 Nov 2026 12:16:10 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "A Ilha de Coiba, a brutal prisão a céu aberto que se tornou um paraíso natural e para onde o Panamá está enviando prisioneiros novamente",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwm247vgdnkro?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 01 Nov 2026 16:02:28 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que Trump enfrenta o mesmo problema econômico que derrubou Biden",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmjweg1zl87eo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 01 Nov 2026 14:19:30 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que os alemães não pagam rodadas de cerveja para a mesa toda",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwj34gnv7d2do?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 01 Nov 2026 12:43:31 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar futuro de Trump?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
@@ -256,26 +296,10 @@
       "resumo": null
     },
     {
-      "titulo": "'Bolsonarismo não está derrotado, está disseminado. Basta ver os patrões demitindo funcionários que votaram no Lula', diz filósofo Renato Lessa",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwzd679v845vo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 31 Oct 2026 17:03:32 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
       "titulo": "As famílias que trocaram de parceiros e de casas após passar férias juntas: 'Isso nos destruiu'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c60rlyw0ljkdo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 31 Oct 2026 15:20:33 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que uma desavença entre matemáticos alimenta temores de que a IA prejudica a ciência",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5wyrdm4xkmko?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 31 Oct 2026 20:06:00 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -288,35 +312,19 @@
       "resumo": null
     },
     {
+      "titulo": "Por que uma desavença entre matemáticos alimenta temores de que a IA prejudica a ciência",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c5wyrdm4xkmko?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 31 Oct 2026 20:06:00 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Médicos são acusados de perseguir colegas e sugerir boicote a pacientes por posicionamento político: 'Senti um alvo na minha cabeça'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c63el2njn4zko?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 31 Oct 2026 02:24:43 GMT",
       "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "A luta para salvar cidade canadense ameaçada pelas tarifas de Trump",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckn8wq7jeg7yo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 31 Oct 2026 22:51:07 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem chega, quem fica e quem sai: quais são os nomes cotados para o governo Lula 4",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmde858pg81zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 30 Oct 2026 19:03:39 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "'Tenho 96 anos e o TikTok paga minhas contas': as 'vovós' que estão dominando as redes sociais",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqly0d3mgr47o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 31 Oct 2026 19:23:10 GMT",
-      "tema": "mundo",
       "resumo": null
     },
     {
