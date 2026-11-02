@@ -1,130 +1,130 @@
 {
-  "gerado_em": "2026-11-02T00:13:17.324Z",
+  "gerado_em": "2026-11-02T19:58:01.313Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 27.5,
-    "min": 16.3,
-    "chuva": 99
+    "max": 24.9,
+    "min": 18.7,
+    "chuva": 84
   },
   "noticias": [
     {
-      "titulo": "Tráfico internacional de ovos de aves nativas do Brasil movimentou R$ 90 milhões, diz PF",
+      "titulo": "Acidente entre dois carros deixa três feridos na MG-188",
       "fonte": "G1",
-      "link": "https://g1.globo.com/fantastico/noticia/2026/11/01/trafico-internacional-de-ovos-de-aves-nativas-do-brasil-movimentou-r-90-milhoes-diz-pf.ghtml",
-      "hora": "Mon, 02 Nov 2026 00:04:30 -0000",
+      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/02/acidente-entre-dois-carros-deixa-tres-feridos-na-mg-188.ghtml",
+      "hora": "Mon, 02 Nov 2026 19:50:13 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Homem tem orelha dilacerada por mordida durante agressão em Contagem; suspeitos são presos",
+      "titulo": "Enem 2026: Mais de 26 mil pessoas devem fazer o exame no Acre; veja horários e datas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/01/homem-tem-orelha-dilacerada-por-mordida-durante-agressao-em-contagem-suspeitos-sao-presos.ghtml",
-      "hora": "Mon, 02 Nov 2026 00:03:21 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'É perigoso acontecer de novo': acidentes com traves de futebol expõem falhas de segurança em espaços esportivos no Brasil",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/fantastico/noticia/2026/11/01/acidentes-traves-fantastico.ghtml",
-      "hora": "Sun, 01 Nov 2026 23:55:18 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem é preso por tentativa de homicídio após atacar vítima com golpes de machado em Nova Iguaçu",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/01/homem-e-preso-por-tentativa-de-homicidio-apos-atacar-vitima-com-golpes-de-machado-em-nova-iguacu.ghtml",
-      "hora": "Sun, 01 Nov 2026 23:46:33 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Julgamento expõe contradições de condenado por matar motorista de aplicativo em acidente com Porsche",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/fantastico/noticia/2026/11/01/imagens-julgamento-fernando-sastre.ghtml",
-      "hora": "Sun, 01 Nov 2026 23:44:26 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Ciara Mageean, ex-campeã europeia de atletismo, morre aos 34 anos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/01/ciara-mageean-ex-campea-europeia-de-atletismo-morre-aos-34-anos.ghtml",
-      "hora": "Sun, 01 Nov 2026 23:31:48 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Gabriel O Pensador lança álbum ao vivo gravado há um ano em show no Rio com Ben Jor, Jota.Pê, Mano Brown e Rael",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/01/gabriel-o-pensador-lanca-album-ao-vivo-gravado-ha-um-ano-em-show-no-rio-com-ben-jor-jotape-mano-brown-e-rael.ghtml",
-      "hora": "Sun, 01 Nov 2026 23:23:07 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Servidor é flagrado espiando mulheres em banheiro de unidade de saúde no PI",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/01/servidor-espiando-mulheres.ghtml",
-      "hora": "Sun, 01 Nov 2026 23:18:05 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem morre após ser baleado em rua no litoral de SP; polícia investiga",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/01/homem-morre-apos-ser-baleado-rua-no-litoral-de-sp-policia-investiga.ghtml",
-      "hora": "Sun, 01 Nov 2026 23:15:41 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Fuvest 2027 cobra interpretação, repertório e conexão entre diferentes áreas do conhecimento, avaliam professores",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/educacao/noticia/2026/11/01/fuvest-2027-cobra-interpretacao-repertorio-e-conexao-entre-diferentes-areas-do-conhecimento-avaliam-professores.ghtml",
-      "hora": "Sun, 01 Nov 2026 23:14:38 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem procurado pela Justiça se entrega à Guarda Municipal durante evento na Savassi, em BH",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/01/homem-procurado-pela-justica-se-entrega-a-guarda-municipal-durante-evento-na-savassi-em-bh.ghtml",
-      "hora": "Sun, 01 Nov 2026 23:09:41 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "PM salva bebê de um mês engasgada durante amamentação em Vitória da Conquista",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/01/pm-salva-bebe-de-um-mes-engasgada-durante-amamentacao-em-vitoria-da-conquista.ghtml",
-      "hora": "Sun, 01 Nov 2026 23:00:13 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Apoiadores de Lula fazem ato em comemoração à reeleição do presidente, em Goiânia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/11/01/apoiadores-de-lula-fazem-ato-em-comemoracao-a-reeleicao-do-presidente-em-goiania.ghtml",
-      "hora": "Sun, 01 Nov 2026 22:48:58 -0000",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/02/enem-2026-mais-de-26-mil-pessoas-devem-fazer-o-exame-no-acre-veja-horarios-e-datas.ghtml",
+      "hora": "Mon, 02 Nov 2026 19:47:23 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Farinhada une gerações e preserva tradição em cidade do Piauí",
+      "titulo": "Fenamilho 2027 terá Nattan, Diego e Victor Hugo e Zezé di Camargo entre atrações; veja como comprar o passaporte",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/01/farinhada-geracoes-tradicao-piaui.ghtml",
-      "hora": "Sun, 01 Nov 2026 22:36:02 -0000",
+      "link": "https://g1.globo.com/mg/triangulo-mineiro/agronegocios/noticia/2026/11/02/fenamilho-2027-tera-nattan-diego-e-victor-hugo-e-zeze-di-camargo-entre-atracoes-veja-como-comprar-o-passaporte.ghtml",
+      "hora": "Mon, 02 Nov 2026 19:47:13 -0000",
+      "tema": "entretenimento",
+      "resumo": null
+    },
+    {
+      "titulo": "Cachorro vira companhia em lar de idosos e conquista moradores de cidade no interior de SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/02/cachorro-vira-companhia-em-lar-de-idosos-e-conquista-moradores-de-cidade-no-interior-de-sp.ghtml",
+      "hora": "Mon, 02 Nov 2026 19:43:47 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Incêndio atinge residência na Zona Sul de SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/02/incendio-atinge-predio-na-zona-sul-de-sp.ghtml",
+      "hora": "Mon, 02 Nov 2026 19:41:01 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Trabalhador e sorridente: quem era Rafael Garcia, auxiliar de produção morto em grave acidente em SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/11/02/trabalhador-e-sorridente-quem-era-rafael-garcia-auxiliar-de-producao-morto-em-grave-acidente-em-sp.ghtml",
+      "hora": "Mon, 02 Nov 2026 19:40:19 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Motorista atropela grupo que socorria motociclista acidentado e joga mulher de cima de viaduto em Fortaleza",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/02/motorista-atropela-grupo-que-socorria-motociclista-acidentado-e-joga-mulher-de-cima-de-viaduto-em-fortaleza.ghtml",
+      "hora": "Mon, 02 Nov 2026 19:38:16 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Balsa com contêineres, caminhões e motos afunda em frente a Santarém, no Pará",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/02/balsa-com-conteineres-caminhoes-e-motos-afunda-em-frente-a-santarem-no-para.ghtml",
+      "hora": "Mon, 02 Nov 2026 19:34:01 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Asa-delta fez curva a baixa altura antes de bater em São Conrado, diz vice-presidente de clube de voo livre; 2 morreram",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/02/acidente-asa-delta-depoimento-vice-presidente-de-clube-sao-conrado-rio.ghtml",
+      "hora": "Mon, 02 Nov 2026 19:33:25 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Submetralhadora e drogas são apreendidas pela PM em Plataforma; dois suspeitos são conduzidos à delegacia",
+      "titulo": "Ponte na Zona Norte de São José é interditada para obras a partir desta terça-feira (3)",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/01/submetralhadora-e-drogas-sao-apreendidas-pela-pm-em-plataforma-dois-suspeitos-sao-conduzidos-a-delegacia.ghtml",
-      "hora": "Sun, 01 Nov 2026 22:35:49 -0000",
-      "tema": "sp",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/02/ponte-na-zona-norte-de-sao-jose-e-interditada-para-obras-a-partir-desta-terca-feira-3.ghtml",
+      "hora": "Mon, 02 Nov 2026 19:32:45 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Corpo de homem que desapareceu em cachoeira de Lassance é encontrado; local foi interditado temporariamente",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/02/corpo-de-homem-que-desapareceu-em-cachoeira-de-lassance-e-encontrado-local-foi-interditado-temporariamente.ghtml",
+      "hora": "Mon, 02 Nov 2026 19:32:29 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'Propostas como tabelar os juros ou queimar reservas cambiais não estão em avaliação', diz Durigan",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/02/propostas-como-tabelar-os-juros-ou-queimar-reservas-cambiais-nao-estao-em-avaliacao-diz-durigan.ghtml",
+      "hora": "Mon, 02 Nov 2026 19:31:51 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Queima de fogos durante a madrugada chama atenção e reacende debate sobre lei em Itaperuna",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/02/queima-de-fogos-durante-a-madrugada-chama-atencao-e-reacende-debate-sobre-lei-em-itaperuna.ghtml",
+      "hora": "Mon, 02 Nov 2026 19:30:15 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Berta Lúcia: conheça a história da 'menina santa' que viveu há mais de 80 anos em Presidente Prudente",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/02/berta-lucia-conheca-a-historia-da-menina-santa-que-viveu-ha-mais-de-80-anos-em-presidente-prudente.ghtml",
+      "hora": "Mon, 02 Nov 2026 19:30:07 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que mangas de cemitério despertam curiosidade no Acre? Especialistas explicam",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/02/por-que-mangas-de-cemiterio-despertam-curiosidade-no-acre-especialistas-explicam.ghtml",
+      "hora": "Mon, 02 Nov 2026 19:29:38 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
@@ -248,82 +248,82 @@
       "resumo": null
     },
     {
-      "titulo": "Como a falta de perspectiva de futuro alimenta protestos de jovens na Europa",
+      "titulo": "Filha de brasileiros era copilota do avião que caiu na Flórida e deixou 9 mortos; o que se sabe",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckpqgxp29vlxo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 01 Nov 2026 18:09:35 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm9qz2289dvyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 01 Nov 2026 22:18:48 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Os eleitores hispânicos ajudaram a eleger Trump. Isso pode estar mudando agora no Texas?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crz65819g97po?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 01 Nov 2026 21:14:51 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Esqueci segredos de Estado em um trem: sou a prova de que é possível se recuperar do maior erro da sua vida'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm9dz6wz244wo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 01 Nov 2026 19:54:39 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "A Ilha de Coiba, a brutal prisão a céu aberto que se tornou um paraíso natural e para onde o Panamá está enviando prisioneiros novamente",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwm247vgdnkro?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 01 Nov 2026 16:02:28 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar futuro de Trump?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 31 Oct 2026 20:33:05 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Protestos contra o custo de vida na Alemanha terminam em violência e lojas saqueadas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq62y113zz5po?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 01 Nov 2026 21:59:48 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "As famílias que trocaram de parceiros e de casas após passar férias juntas: 'Isso nos destruiu'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c60rlyw0ljkdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 31 Oct 2026 15:20:33 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Recebemos Flávio, mas não o ajudamos a sair do Brasil, diz secretário dos EUA",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/watch/crgqwj0gn3g3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 31 Oct 2026 22:21:45 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cqe8rl260ep2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 02 Nov 2026 19:55:15 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Por que Trump enfrenta o mesmo problema econômico que derrubou Biden",
+      "titulo": "Os detalhes do acidente com um avião particular na Flórida",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmjweg1zl87eo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 01 Nov 2026 14:19:30 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cm9qz2289dvyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 02 Nov 2026 19:20:29 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Como eleições nos EUA devem selar destino de Trump e futuro da relação com o Brasil em 4º mandato de Lula",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cw80z10renkzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 02 Nov 2026 10:36:42 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "No centro do capitalismo mundial, movimento socialista cresce e cria dilema para os democratas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm87zn0xz155o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 02 Nov 2026 17:53:22 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que os EUA têm tantos políticos idosos e poucos jovens disputando eleições",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6ly39vk8kvmo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 02 Nov 2026 14:53:03 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar o futuro de Trump?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 02 Nov 2026 14:53:58 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Vídeo mostra queda de avião na Flórida",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/watch/c8p3grww23y2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 02 Nov 2026 15:02:41 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Pesquisas indicam vantagem dos democratas nas eleições americanas, mas estão corretas?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c8zxledvzd3qo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 02 Nov 2026 12:12:20 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Como é a vida das crianças em Gaza que tentam sobreviver após cessar-fogo",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/watch/cmd6dp3v5362o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 02 Nov 2026 13:47:24 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Como um piloto de 20 anos, em sua segunda temporada na F1, fez história como o mais jovem campeão do esporte",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cr78pgwy7weno?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 02 Nov 2026 17:27:18 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -360,11 +360,11 @@
       "resumo": null
     },
     {
-      "titulo": "As propostas do presidente Lula para o seu quarto mandato em 8 áreas",
+      "titulo": "O que documentos inéditos podem revelar sobre a morte de Tancredo Neves",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm2ke83x1785o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 29 Oct 2026 08:58:41 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/clyl1njl3vxo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 02 Nov 2026 10:11:36 GMT",
+      "tema": "mundo",
       "resumo": null
     }
   ]
