@@ -1,121 +1,121 @@
 {
-  "gerado_em": "2026-11-03T02:45:40.612Z",
+  "gerado_em": "2026-11-03T17:32:24.561Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 24.9,
-    "min": 18.4,
-    "chuva": 100
+    "max": 28.1,
+    "min": 17.4,
+    "chuva": 15
   },
   "noticias": [
     {
-      "titulo": "Eleições nos EUA 2026: acompanhe as últimas notícias sobre as midterms",
+      "titulo": "Gabarito provisório do concurso da Saúde do TO é divulgado; confira",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/03/gabarito-provisorio-do-concurso-da-saude-do-to-e-divulgado-confira.ghtml",
+      "hora": "Tue, 03 Nov 2026 17:15:58 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Nova fase da Artideias aposta em inovação e atendimento personalizado",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/especial-publicitario/artideias/noticia/2026/11/03/nova-fase-da-artideias-aposta-em-inovacao-e-atendimento-personalizado.ghtml",
+      "hora": "Tue, 03 Nov 2026 17:15:56 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Prefeitura de Ilhabela alerta para golpes com links falsos de pagamento da taxa ambiental",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/03/prefeitura-de-ilhabela-alerta-para-golpes-com-links-falsos-de-pagamento-da-taxa-ambiental.ghtml",
+      "hora": "Tue, 03 Nov 2026 17:14:11 -0000",
+      "tema": "checagem",
+      "resumo": null
+    },
+    {
+      "titulo": "Samu Natal retoma serviço de atendimento por motolâncias após 12 anos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/03/samu-natal-retoma-servico-de-atendimento-por-motolancias-apos-12-anos.ghtml",
+      "hora": "Tue, 03 Nov 2026 17:13:36 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Assédio, violência e conflitos: o que a empresa precisa prevenir e documentar",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/corpmed-saude-no-trabalho-gestao-prevencao-e-futuro/noticia/2026/11/03/assedio-violencia-e-conflitos-o-que-a-empresa-precisa-prevenir-e-documentar.ghtml",
+      "hora": "Tue, 03 Nov 2026 17:11:32 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: Jornal do Almoço Florianópolis de terça-feira, 3 de novembro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sc/santa-catarina/edicao/2026/11/03/videos-jornal-do-almoco-florianopolis-de-terca-feira-3-de-novembro-de-2026.ghtml",
+      "hora": "Tue, 03 Nov 2026 17:07:18 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Organização do trabalho: a prevenção do adoecimento começa na gestão",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/corpmed-saude-no-trabalho-gestao-prevencao-e-futuro/noticia/2026/11/03/organizacao-do-trabalho-a-prevencao-do-adoecimento-comeca-na-gestao.ghtml",
+      "hora": "Tue, 03 Nov 2026 17:07:06 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Rã levanta as patas enquanto 'canta' em cachoeira no litoral de SP; entenda comportamento curioso",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/11/03/ra-levanta-as-patas-enquanto-canta-em-cachoeira-no-litoral-de-sp-entenda-comportamento-curioso.ghtml",
+      "hora": "Tue, 03 Nov 2026 17:05:21 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Da universidade à indústria: como pesquisas viram soluções reais para o mercado",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sc/santa-catarina/techsc/especial-publicitario/feesc/noticia/2026/11/03/da-universidade-a-industria-como-pesquisas-viram-solucoes-reais-para-o-mercado.ghtml",
+      "hora": "Tue, 03 Nov 2026 17:04:53 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleições nos EUA: urnas estão abertas em todo o país; SIGA",
       "fonte": "G1",
       "link": "https://g1.globo.com/mundo/ao-vivo/eleicoes-nos-eua-2026-acompanhe-as-ultimas-noticias-sobre-as-midterms.ghtml",
-      "hora": "Tue, 03 Nov 2026 02:29:52 -0000",
+      "hora": "Tue, 03 Nov 2026 17:04:12 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Tribunal Penal Internacional acusa governo Trump de tentar obstruir Justiça internacional",
+      "titulo": "Saúde mental no PCMSO: vigilância clínica sem invadir o papel do PGR",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/02/tribunal-penal-internacional-acusa-governo-trump-de-tentar-obstruir-justica-internacional.ghtml",
-      "hora": "Tue, 03 Nov 2026 02:11:58 -0000",
+      "link": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/corpmed-saude-no-trabalho-gestao-prevencao-e-futuro/noticia/2026/11/03/saude-mental-no-pcmso-vigilancia-clinica-sem-invadir-o-papel-do-pgr.ghtml",
+      "hora": "Tue, 03 Nov 2026 17:00:40 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Conheça a história do inglês que voltou para casa depois de dar a volta ao mundo a pé durante 28 anos",
+      "titulo": "VÍDEO: Jovem motociclista morre após bater na lateral de carreta em cruzamento de Porto Velho",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/02/conheca-a-historia-do-ingles-que-voltou-volta-para-casa-depois-de-dar-a-volta-ao-mundo-a-pe-durante-28-anos.ghtml",
-      "hora": "Tue, 03 Nov 2026 01:48:22 -0000",
+      "link": "https://g1.globo.com/ro/rondonia/noticia/2026/11/03/video-jovem-motociclista-morre-apos-bater-na-lateral-de-carreta-em-cruzamento-de-porto-velho.ghtml",
+      "hora": "Tue, 03 Nov 2026 17:00:16 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Hackers usaram entrevista de emprego falsa para invadir sistema e roubar US$6,3 bi da Binance",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/03/hackers-binance-entrevista-de-emprego.ghtml",
+      "hora": "Tue, 03 Nov 2026 16:58:54 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Empresa de Mogi das Cruzes, na Grande São Paulo, constrói duas unidades do papamóvel que serão usadas por Leão XIV",
+      "titulo": "Simaria emociona ao cantar com criança em cadeira de rodas, em bar de Goiânia; vídeo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/02/empresa-de-mogi-das-cruzes-na-grande-sao-paulo-constroi-duas-unidades-do-papamovel-que-serao-usadas-por-leao-xiv.ghtml",
-      "hora": "Tue, 03 Nov 2026 01:36:53 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Morador descreve medo diante de violência de ladrões contra pais idosos mantidos reféns dentro de casa em SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/02/morador-relata-violencia-de-ladroes-contra-pais-idosos-mantidos-refens-dentro-de-casa-por-causa-de-joias.ghtml",
-      "hora": "Tue, 03 Nov 2026 01:31:49 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Motociclista morre após colisão com carro no bairro Aldeia, em Santarém",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/02/motociclista-morre-apos-colisao-com-carro-no-bairro-aldeia-em-santarem.ghtml",
-      "hora": "Tue, 03 Nov 2026 01:27:51 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Tampas de plástico transformam a vida de crianças que fazem tratamento contra o câncer",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/02/tampas-de-plastico-transformam-a-vida-de-criancas-que-fazem-tratamento-contra-o-cancer.ghtml",
-      "hora": "Tue, 03 Nov 2026 01:26:58 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "MPF apura se obra no porto pode ser a causa do aumento da poluição no mar do Recife",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/02/mpf-apura-se-obra-no-porto-pode-ser-a-causa-do-aumento-da-poluicao-no-mar-do-recife.ghtml",
-      "hora": "Tue, 03 Nov 2026 01:14:17 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Temporais com rajadas de vento que chegaram a quase 100 km/h provocam estragos em cidades de Santa Catarina e do Paraná",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/02/temporais-com-rajadas-de-vento-que-chegaram-a-quase-100-kmh-provocam-estragos-em-cidades-de-santa-catarina-e-do-parana.ghtml",
-      "hora": "Tue, 03 Nov 2026 01:04:40 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Fogo atinge área de mata na entrada de Cachoeira do Arari, no Marajó",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/02/fogo-atinge-area-de-mata-na-entrada-de-cachoeira-do-arari-no-marajo.ghtml",
-      "hora": "Tue, 03 Nov 2026 01:04:26 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "EUA atacaram a ilha de Qeshm, no Irã, diz jornal",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/02/eua-atacaram-a-ilha-de-qeshm-no-ira-diz-jornal.ghtml",
-      "hora": "Tue, 03 Nov 2026 00:56:58 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Brasil tem cerca de 10 milhões de postes em estado crítico",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/02/brasil-tem-cerca-de-10-milhoes-de-postes-em-estado-critico.ghtml",
-      "hora": "Tue, 03 Nov 2026 00:56:44 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Professora da rede municipal morre em acidente de moto, em Senador Sá",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/02/professora-da-rede-municipal-morre-acidente-senador-sa.ghtml",
-      "hora": "Tue, 03 Nov 2026 00:54:54 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Veja motivos que fazem conta de luz no Brasil ser mais cara do que a de outros países com o mesmo perfil de geração de energia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/02/veja-motivos-que-fazem-conta-de-luz-no-brasil-ser-mais-cara-do-que-a-de-outros-paises-com-o-mesmo-perfil-de-geracao-de-energia.ghtml",
-      "hora": "Tue, 03 Nov 2026 00:44:15 -0000",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/11/03/simaria-emociona-ao-cantar-com-crianca-em-cadeira-de-rodas-em-bar-de-goiania-video.ghtml",
+      "hora": "Tue, 03 Nov 2026 16:57:43 -0000",
       "tema": "cultura",
       "resumo": null
     },
@@ -240,18 +240,73 @@
       "resumo": null
     },
     {
+      "titulo": "Quem vai ganhar as midterms? Os gráficos que mostram como a eleição dos EUA será decidida",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crlyklw8xxnyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 03 Nov 2026 10:51:38 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleições de meio de mandato nos EUA: o que está em jogo para o governo de Donald Trump",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.co.uk/portuguese/live/c6073r14jp7gt?at_medium=RSS&at_campaign=rss",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "A vida dupla de homem acusado de drogar e estuprar esposa com estranhos",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c5n49nvj7897o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 03 Nov 2026 15:29:04 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Quem é Jesus de Miguel, jogador de futebol espanhol que morreu após choque com goleiro em partida",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cv1j3177ren3o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 03 Nov 2026 14:39:04 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Filha de brasileiros era copilota do avião que caiu na Flórida e deixou 9 mortos; o que se sabe",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cqe8rl260ep2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 02 Nov 2026 19:55:15 GMT",
+      "hora": "Tue, 03 Nov 2026 09:18:50 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Os detalhes do acidente com um avião particular na Flórida",
+      "titulo": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar o futuro de Trump?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm9qz2289dvyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 02 Nov 2026 19:20:29 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 03 Nov 2026 16:20:58 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleições nos EUA: como apoio a Israel e guerra em Gaza afetam disputa ao Senado",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqx29rkmp87ro?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 03 Nov 2026 09:35:49 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que a disputa pelo Senado no Texas pode ser decisiva nas eleições dos EUA",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ckg5jlz270g8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 03 Nov 2026 10:04:52 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Eleições nos EUA: como fortalecimento do socialismo criou dilema para os democratas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm87zn0xz155o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 02 Nov 2026 17:53:22 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -264,14 +319,6 @@
       "resumo": null
     },
     {
-      "titulo": "No centro do capitalismo mundial, movimento socialista cresce e cria dilema para os democratas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm87zn0xz155o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 02 Nov 2026 17:53:22 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
       "titulo": "Como foi o El Niño histórico de 1877, quando passagem do fenômeno se tornou um desastre global",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/watch/cr9dz8gvn0j4o?at_medium=RSS&at_campaign=rss",
@@ -280,82 +327,34 @@
       "resumo": null
     },
     {
-      "titulo": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar o futuro de Trump?",
+      "titulo": "De onde vêm os símbolos e cores dos partidos dos EUA?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 02 Nov 2026 14:53:58 GMT",
+      "link": "https://www.bbc.com/portuguese/watch/c6x2wd41lx21o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 03 Nov 2026 11:50:32 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Vídeo mostra queda de avião na Flórida",
+      "titulo": "Os detalhes do acidente com avião particular na Flórida",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/watch/c8p3grww23y2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 02 Nov 2026 15:02:41 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cm9qz2289dvyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 03 Nov 2026 09:08:13 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Pesquisas indicam vantagem dos democratas nas eleições americanas, mas estão corretas?",
+      "titulo": "Em áudio | 'Um dos grandes mistérios da ciência': o que a anestesia geral revela sobre o cérebro",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c8zxledvzd3qo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 02 Nov 2026 12:12:20 GMT",
+      "link": "https://www.bbc.com/portuguese/listen/c9203j2djm61o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 03 Nov 2026 12:09:34 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Em áudio | 'Não reconheci meu namorado quando o encontrei no supermercado': como descobri que tinha cegueira facial",
+      "titulo": "EUA lançam ataque contra ilha no Irã na véspera de eleições",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/listen/cr1ex1z4x2y0o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 02 Nov 2026 15:12:15 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Como um piloto de 20 anos, em sua segunda temporada na F1, fez história como o mais jovem campeão do esporte",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr78pgwy7weno?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 02 Nov 2026 17:27:18 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar o futuro de Trump?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 02 Nov 2026 14:53:58 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Vídeo mostra queda de avião na Flórida",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/watch/c8p3grww23y2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 02 Nov 2026 15:02:41 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Eleições nos EUA: pesquisas indicam vantagem dos democratas, mas estão corretas?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c8zxledvzd3qo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 02 Nov 2026 12:12:20 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Em áudio | 'Não reconheci meu namorado quando o encontrei no supermercado': como descobri que tinha cegueira facial",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/listen/cr1ex1z4x2y0o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 02 Nov 2026 15:12:15 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Como um piloto de 20 anos, em sua segunda temporada na F1, fez história como o mais jovem campeão do esporte",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr78pgwy7weno?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 02 Nov 2026 17:27:18 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cwnv0n61q72vo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 03 Nov 2026 10:06:31 GMT",
       "tema": "mundo",
       "resumo": null
     }
