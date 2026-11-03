@@ -1,129 +1,121 @@
 {
-  "gerado_em": "2026-11-02T19:58:01.313Z",
+  "gerado_em": "2026-11-03T02:45:40.612Z",
   "modo": "palavras-chave",
   "clima": {
     "max": 24.9,
-    "min": 18.7,
-    "chuva": 84
+    "min": 18.4,
+    "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Acidente entre dois carros deixa três feridos na MG-188",
+      "titulo": "Eleições nos EUA 2026: acompanhe as últimas notícias sobre as midterms",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/02/acidente-entre-dois-carros-deixa-tres-feridos-na-mg-188.ghtml",
-      "hora": "Mon, 02 Nov 2026 19:50:13 -0000",
+      "link": "https://g1.globo.com/mundo/ao-vivo/eleicoes-nos-eua-2026-acompanhe-as-ultimas-noticias-sobre-as-midterms.ghtml",
+      "hora": "Tue, 03 Nov 2026 02:29:52 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Enem 2026: Mais de 26 mil pessoas devem fazer o exame no Acre; veja horários e datas",
+      "titulo": "Tribunal Penal Internacional acusa governo Trump de tentar obstruir Justiça internacional",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/02/enem-2026-mais-de-26-mil-pessoas-devem-fazer-o-exame-no-acre-veja-horarios-e-datas.ghtml",
-      "hora": "Mon, 02 Nov 2026 19:47:23 -0000",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/02/tribunal-penal-internacional-acusa-governo-trump-de-tentar-obstruir-justica-internacional.ghtml",
+      "hora": "Tue, 03 Nov 2026 02:11:58 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Conheça a história do inglês que voltou para casa depois de dar a volta ao mundo a pé durante 28 anos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/02/conheca-a-historia-do-ingles-que-voltou-volta-para-casa-depois-de-dar-a-volta-ao-mundo-a-pe-durante-28-anos.ghtml",
+      "hora": "Tue, 03 Nov 2026 01:48:22 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Empresa de Mogi das Cruzes, na Grande São Paulo, constrói duas unidades do papamóvel que serão usadas por Leão XIV",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/02/empresa-de-mogi-das-cruzes-na-grande-sao-paulo-constroi-duas-unidades-do-papamovel-que-serao-usadas-por-leao-xiv.ghtml",
+      "hora": "Tue, 03 Nov 2026 01:36:53 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Morador descreve medo diante de violência de ladrões contra pais idosos mantidos reféns dentro de casa em SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/02/morador-relata-violencia-de-ladroes-contra-pais-idosos-mantidos-refens-dentro-de-casa-por-causa-de-joias.ghtml",
+      "hora": "Tue, 03 Nov 2026 01:31:49 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Fenamilho 2027 terá Nattan, Diego e Victor Hugo e Zezé di Camargo entre atrações; veja como comprar o passaporte",
+      "titulo": "Motociclista morre após colisão com carro no bairro Aldeia, em Santarém",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/agronegocios/noticia/2026/11/02/fenamilho-2027-tera-nattan-diego-e-victor-hugo-e-zeze-di-camargo-entre-atracoes-veja-como-comprar-o-passaporte.ghtml",
-      "hora": "Mon, 02 Nov 2026 19:47:13 -0000",
-      "tema": "entretenimento",
-      "resumo": null
-    },
-    {
-      "titulo": "Cachorro vira companhia em lar de idosos e conquista moradores de cidade no interior de SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/02/cachorro-vira-companhia-em-lar-de-idosos-e-conquista-moradores-de-cidade-no-interior-de-sp.ghtml",
-      "hora": "Mon, 02 Nov 2026 19:43:47 -0000",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/02/motociclista-morre-apos-colisao-com-carro-no-bairro-aldeia-em-santarem.ghtml",
+      "hora": "Tue, 03 Nov 2026 01:27:51 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Incêndio atinge residência na Zona Sul de SP",
+      "titulo": "Tampas de plástico transformam a vida de crianças que fazem tratamento contra o câncer",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/02/incendio-atinge-predio-na-zona-sul-de-sp.ghtml",
-      "hora": "Mon, 02 Nov 2026 19:41:01 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/02/tampas-de-plastico-transformam-a-vida-de-criancas-que-fazem-tratamento-contra-o-cancer.ghtml",
+      "hora": "Tue, 03 Nov 2026 01:26:58 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Trabalhador e sorridente: quem era Rafael Garcia, auxiliar de produção morto em grave acidente em SP",
+      "titulo": "MPF apura se obra no porto pode ser a causa do aumento da poluição no mar do Recife",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/11/02/trabalhador-e-sorridente-quem-era-rafael-garcia-auxiliar-de-producao-morto-em-grave-acidente-em-sp.ghtml",
-      "hora": "Mon, 02 Nov 2026 19:40:19 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/02/mpf-apura-se-obra-no-porto-pode-ser-a-causa-do-aumento-da-poluicao-no-mar-do-recife.ghtml",
+      "hora": "Tue, 03 Nov 2026 01:14:17 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Motorista atropela grupo que socorria motociclista acidentado e joga mulher de cima de viaduto em Fortaleza",
+      "titulo": "Temporais com rajadas de vento que chegaram a quase 100 km/h provocam estragos em cidades de Santa Catarina e do Paraná",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/02/motorista-atropela-grupo-que-socorria-motociclista-acidentado-e-joga-mulher-de-cima-de-viaduto-em-fortaleza.ghtml",
-      "hora": "Mon, 02 Nov 2026 19:38:16 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Balsa com contêineres, caminhões e motos afunda em frente a Santarém, no Pará",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/02/balsa-com-conteineres-caminhoes-e-motos-afunda-em-frente-a-santarem-no-para.ghtml",
-      "hora": "Mon, 02 Nov 2026 19:34:01 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Asa-delta fez curva a baixa altura antes de bater em São Conrado, diz vice-presidente de clube de voo livre; 2 morreram",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/02/acidente-asa-delta-depoimento-vice-presidente-de-clube-sao-conrado-rio.ghtml",
-      "hora": "Mon, 02 Nov 2026 19:33:25 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/02/temporais-com-rajadas-de-vento-que-chegaram-a-quase-100-kmh-provocam-estragos-em-cidades-de-santa-catarina-e-do-parana.ghtml",
+      "hora": "Tue, 03 Nov 2026 01:04:40 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Ponte na Zona Norte de São José é interditada para obras a partir desta terça-feira (3)",
+      "titulo": "Fogo atinge área de mata na entrada de Cachoeira do Arari, no Marajó",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/02/ponte-na-zona-norte-de-sao-jose-e-interditada-para-obras-a-partir-desta-terca-feira-3.ghtml",
-      "hora": "Mon, 02 Nov 2026 19:32:45 -0000",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/11/02/fogo-atinge-area-de-mata-na-entrada-de-cachoeira-do-arari-no-marajo.ghtml",
+      "hora": "Tue, 03 Nov 2026 01:04:26 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Corpo de homem que desapareceu em cachoeira de Lassance é encontrado; local foi interditado temporariamente",
+      "titulo": "EUA atacaram a ilha de Qeshm, no Irã, diz jornal",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/02/corpo-de-homem-que-desapareceu-em-cachoeira-de-lassance-e-encontrado-local-foi-interditado-temporariamente.ghtml",
-      "hora": "Mon, 02 Nov 2026 19:32:29 -0000",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/02/eua-atacaram-a-ilha-de-qeshm-no-ira-diz-jornal.ghtml",
+      "hora": "Tue, 03 Nov 2026 00:56:58 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "'Propostas como tabelar os juros ou queimar reservas cambiais não estão em avaliação', diz Durigan",
+      "titulo": "Brasil tem cerca de 10 milhões de postes em estado crítico",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/02/propostas-como-tabelar-os-juros-ou-queimar-reservas-cambiais-nao-estao-em-avaliacao-diz-durigan.ghtml",
-      "hora": "Mon, 02 Nov 2026 19:31:51 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/02/brasil-tem-cerca-de-10-milhoes-de-postes-em-estado-critico.ghtml",
+      "hora": "Tue, 03 Nov 2026 00:56:44 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Queima de fogos durante a madrugada chama atenção e reacende debate sobre lei em Itaperuna",
+      "titulo": "Professora da rede municipal morre em acidente de moto, em Senador Sá",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/02/queima-de-fogos-durante-a-madrugada-chama-atencao-e-reacende-debate-sobre-lei-em-itaperuna.ghtml",
-      "hora": "Mon, 02 Nov 2026 19:30:15 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Berta Lúcia: conheça a história da 'menina santa' que viveu há mais de 80 anos em Presidente Prudente",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/02/berta-lucia-conheca-a-historia-da-menina-santa-que-viveu-ha-mais-de-80-anos-em-presidente-prudente.ghtml",
-      "hora": "Mon, 02 Nov 2026 19:30:07 -0000",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/02/professora-da-rede-municipal-morre-acidente-senador-sa.ghtml",
+      "hora": "Tue, 03 Nov 2026 00:54:54 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Por que mangas de cemitério despertam curiosidade no Acre? Especialistas explicam",
+      "titulo": "Veja motivos que fazem conta de luz no Brasil ser mais cara do que a de outros países com o mesmo perfil de geração de energia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/02/por-que-mangas-de-cemiterio-despertam-curiosidade-no-acre-especialistas-explicam.ghtml",
-      "hora": "Mon, 02 Nov 2026 19:29:38 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/02/veja-motivos-que-fazem-conta-de-luz-no-brasil-ser-mais-cara-do-que-a-de-outros-paises-com-o-mesmo-perfil-de-geracao-de-energia.ghtml",
+      "hora": "Tue, 03 Nov 2026 00:44:15 -0000",
       "tema": "cultura",
       "resumo": null
     },
@@ -280,10 +272,10 @@
       "resumo": null
     },
     {
-      "titulo": "Por que os EUA têm tantos políticos idosos e poucos jovens disputando eleições",
+      "titulo": "Como foi o El Niño histórico de 1877, quando passagem do fenômeno se tornou um desastre global",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6ly39vk8kvmo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 02 Nov 2026 14:53:03 GMT",
+      "link": "https://www.bbc.com/portuguese/watch/cr9dz8gvn0j4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 02 Nov 2026 22:46:46 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -312,10 +304,10 @@
       "resumo": null
     },
     {
-      "titulo": "Como é a vida das crianças em Gaza que tentam sobreviver após cessar-fogo",
+      "titulo": "Em áudio | 'Não reconheci meu namorado quando o encontrei no supermercado': como descobri que tinha cegueira facial",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/watch/cmd6dp3v5362o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 02 Nov 2026 13:47:24 GMT",
+      "link": "https://www.bbc.com/portuguese/listen/cr1ex1z4x2y0o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 02 Nov 2026 15:12:15 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -328,42 +320,42 @@
       "resumo": null
     },
     {
-      "titulo": "'Bolsonarismo não está derrotado, está disseminado. Basta ver os patrões demitindo funcionários que votaram no Lula', diz filósofo Renato Lessa",
+      "titulo": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar o futuro de Trump?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwzd679v845vo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 31 Oct 2026 17:03:32 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 02 Nov 2026 14:53:58 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Como 'método Janones' está inspirando a esquerda fora do Brasil",
+      "titulo": "Vídeo mostra queda de avião na Flórida",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm62yj7vzv48o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 31 Oct 2026 10:26:01 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/watch/c8p3grww23y2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 02 Nov 2026 15:02:41 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Petista 'liberal'? Como governador Rafael Fonteles entrou no radar de Lula para comandar a economia do Brasil ",
+      "titulo": "Eleições nos EUA: pesquisas indicam vantagem dos democratas, mas estão corretas?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cx1l37yrndmro?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 30 Oct 2026 09:58:05 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c8zxledvzd3qo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 02 Nov 2026 12:12:20 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Médicos são acusados de perseguir colegas e sugerir boicote a pacientes por posicionamento político: 'Senti um alvo na minha cabeça'",
+      "titulo": "Em áudio | 'Não reconheci meu namorado quando o encontrei no supermercado': como descobri que tinha cegueira facial",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c63el2njn4zko?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 31 Oct 2026 02:24:43 GMT",
-      "tema": "cultura",
+      "link": "https://www.bbc.com/portuguese/listen/cr1ex1z4x2y0o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 02 Nov 2026 15:12:15 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "O que documentos inéditos podem revelar sobre a morte de Tancredo Neves",
+      "titulo": "Como um piloto de 20 anos, em sua segunda temporada na F1, fez história como o mais jovem campeão do esporte",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/clyl1njl3vxo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 02 Nov 2026 10:11:36 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cr78pgwy7weno?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 02 Nov 2026 17:27:18 GMT",
       "tema": "mundo",
       "resumo": null
     }
