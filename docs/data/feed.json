@@ -1,130 +1,114 @@
 {
-  "gerado_em": "2026-11-04T01:02:07.788Z",
+  "gerado_em": "2026-11-04T17:44:57.190Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 29.2,
-    "min": 17.4,
-    "chuva": 18
+    "max": 31.4,
+    "min": 19.1,
+    "chuva": 25
   },
   "noticias": [
     {
-      "titulo": "Eleições nos EUA: primeiras urnas fecham em onze estados; ACOMPANHE",
+      "titulo": "Londrina realiza 4ª edição de Fórum de Gestão de Resíduos Sólidos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/ao-vivo/eleicoes-nos-eua-2026-acompanhe-as-ultimas-noticias-sobre-as-midterms.ghtml",
-      "hora": "Wed, 04 Nov 2026 00:47:17 -0000",
+      "link": "https://g1.globo.com/pr/norte-noroeste/especial-publicitario/anpea/noticia/2026/11/04/londrina-realiza-4a-edicao-de-forum-de-gestao-de-residuos-solidos.ghtml",
+      "hora": "Wed, 04 Nov 2026 17:32:56 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Resumão diário do JN: Nos EUA, americanos vão às urnas em eleição decisiva pelo controle do Congresso; plenário do Senado aprova a PEC da Segurança",
+      "titulo": "CNJ determina que certidões de óbito deverão trazer contexto da causa da morte em ação policial ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/03/resumao-diario-do-jn-nos-eua-americanos-vao-as-urnas-em-eleicao-decisiva-pelo-controle-do-congresso-plenario-do-senado-aprova-a-pec-da-seguranca.ghtml",
-      "hora": "Wed, 04 Nov 2026 00:45:12 -0000",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/04/cnj-determina-que-certidoes-de-obito-deverao-trazer-contexto-da-causa-da-morte-em-acao-policial.ghtml",
+      "hora": "Wed, 04 Nov 2026 17:32:54 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Apostas de 7 cidades de MT acertam 14 dezenas da Lotofácil 3820 e ganham R$ 1,9 mil",
+      "titulo": "Corrida da Serra fecha o calendários de provas 2026 no Paraná",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/03/apostas-de-7-cidades-de-mt-acertam-14-dezenas-da-lotofacil-3820-e-ganham-r-19-mil.ghtml",
-      "hora": "Wed, 04 Nov 2026 00:45:08 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Justiça manda prender motorista flagrado agredindo um idoso de muletas em SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/03/justica-manda-prender-motorista-flagrado-agredindo-um-idoso-de-muletas-em-sp.ghtml",
-      "hora": "Wed, 04 Nov 2026 00:39:40 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Dia de Sorte hoje: resultado do concurso 1338 e números sorteados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/11/03/dia-de-sorte-hoje-resultado-do-concurso-1338-e-numeros-sorteados.ghtml",
-      "hora": "Wed, 04 Nov 2026 00:35:57 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Timemania hoje: resultado do concurso 2463 e números sorteados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/timemania/noticia/2026/11/03/timemania-hoje-resultado-do-concurso-2463-e-numeros-sorteados.ghtml",
-      "hora": "Wed, 04 Nov 2026 00:35:50 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Lotofácil hoje: resultado do concurso 3820 e números sorteados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/lotofacil/noticia/2026/11/03/lotofacil-hoje-resultado-do-concurso-3820-e-numeros-sorteados.ghtml",
-      "hora": "Wed, 04 Nov 2026 00:35:47 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Quina hoje: resultado do concurso 7158 e números sorteados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/quina/noticia/2026/11/03/quina-hoje-resultado-do-concurso-7158-e-numeros-sorteados.ghtml",
-      "hora": "Wed, 04 Nov 2026 00:35:36 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "No Ceará, moradores fazem fila para comprar água depois de a venda ser interrompida por ameaças de criminosos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/03/no-ceara-moradores-fazem-fila-para-comprar-agua-depois-de-a-venda-ser-interrompida-por-ameacas-de-criminosos.ghtml",
-      "hora": "Wed, 04 Nov 2026 00:31:08 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-      "hora": "Wed, 04 Nov 2026 00:27:22 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Filha de Michael Jackson acusa espólio do pai de 'má gestão' e cobra R$ 3,2 bilhões na Justiça",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/noticia/2026/11/03/filha-de-michael-jackson-acusa-espolio-do-pai-de-ma-gestao-e-cobra-r-32-bilhoes-na-justica.ghtml",
-      "hora": "Wed, 04 Nov 2026 00:26:22 -0000",
+      "link": "https://g1.globo.com/pr/parana/especial-publicitario/serra-verde-express-turismo-trens-e-viagens/noticia/2026/11/04/corrida-da-serra-fecha-o-calendarios-de-provas-2026-no-parana.ghtml",
+      "hora": "Wed, 04 Nov 2026 17:30:40 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Justiça determina que parte dos ônibus volte a circular em Alagoinhas após paralisação",
+      "titulo": "Brasil cria 121,3 mil empregos formais em setembro, queda de 43% na comparação com mesmo mês de 2025",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/03/decisao-da-justica-sobre-onibus-em-alagoinhas.ghtml",
-      "hora": "Wed, 04 Nov 2026 00:23:52 -0000",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/04/brasil-cria-1213-mil-empregos-formais-em-setembro-queda-de-43percent-na-comparacao-com-mesmo-mes-de-2025.ghtml",
+      "hora": "Wed, 04 Nov 2026 17:30:01 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Alasca pode protagonizar uma das maiores derrotas de Donald Trump nas eleições",
+      "titulo": "MA tem 2,4 milhões de inadimplentes; Feirão Limpa Nome da Serasa oferece descontos de até 99% em dívidas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/03/alasca-pode-protagonizar-uma-das-maiores-derrotas-de-donald-trump-nas-eleicoes.ghtml",
-      "hora": "Wed, 04 Nov 2026 00:19:04 -0000",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/04/ma-tem-24-milhoes-de-inadimplentes-feirao-limpa-nome-da-serasa-oferece-descontos-de-ate-99percent-em-dividas.ghtml",
+      "hora": "Wed, 04 Nov 2026 17:28:39 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Alunos estão há mais de um mês sem merenda em escola no Acre, denuncia servidor",
+      "titulo": "É #FAKE vídeo de Lula dizendo 'para o povo trabalhador a prisão, para o bandido a proteção'; áudio foi editado",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/03/alunos-estao-ha-mais-de-um-mes-sem-merenda-em-escola-no-acre-denuncia-servidor.ghtml",
-      "hora": "Wed, 04 Nov 2026 00:13:41 -0000",
+      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/04/e-fake-video-de-lula-dizendo-para-o-povo-trabalhador-a-prisao-para-o-bandido-a-protecao-audio-foi-editado.ghtml",
+      "hora": "Wed, 04 Nov 2026 17:27:06 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEO: Imagens mostram momento em que jovem cai do 7º andar de hotel em São Luís",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/04/imagens-mostram-momento-em-que-jovem-cai-do-7o-andar-de-hotel-em-sao-luis.ghtml",
+      "hora": "Wed, 04 Nov 2026 17:24:05 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Homem é suspeito de burlar autoatendimento e retirar vários botijões de gás pagando por um em Santarém, no Pará",
+      "titulo": "VÍDEOS: EPTV 1 Sul de Minas de quarta-feira, 4 de novembro de 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/03/homem-e-suspeito-de-burlar-autoatendimento-e-retirar-varios-botijoes-de-gas-pagando-por-um-em-santarem-no-para.ghtml",
-      "hora": "Wed, 04 Nov 2026 00:13:18 -0000",
+      "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/11/04/videos-eptv-1-sul-de-minas-de-quarta-feira-4-de-novembro-de-2026.ghtml",
+      "hora": "Wed, 04 Nov 2026 17:20:41 -0000",
       "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Licitação do transporte público de Natal recebe propostas de sete empresas e consórcios; veja o que pode mudar",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/04/licitacao-do-transporte-publico-de-natal-recebe-propostas-de-sete-empresas-e-consorcios-veja-o-que-pode-mudar.ghtml",
+      "hora": "Wed, 04 Nov 2026 17:19:57 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Caminhoneiro é sequestrado na BR-262 e passa quatro dias em cativeiro em Cariacica",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/04/caminhoneiro-e-sequestrado-na-br-262-e-passa-quatro-dias-em-cativeiro-em-cariacica.ghtml",
+      "hora": "Wed, 04 Nov 2026 17:19:04 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Três homens são presos por violência doméstica no interior de SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/04/tres-homens-sao-presos-por-violencia-domestica-no-interior-de-sp.ghtml",
+      "hora": "Wed, 04 Nov 2026 17:18:13 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem é preso após tentativa de furto em relojoaria de shopping em Piracicaba, diz PM",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/04/homem-e-preso-apos-tentativa-de-furto-em-relojoaria-de-shopping-em-piracicaba-diz-pm.ghtml",
+      "hora": "Wed, 04 Nov 2026 17:12:11 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Pecuarista que morreu em batida entre carreta e caminhonete em MT é identificado",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/04/pecuarista-que-morreu-em-batida-entre-carreta-e-caminhonete-em-mt-e-identificado.ghtml",
+      "hora": "Wed, 04 Nov 2026 17:10:24 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -248,121 +232,121 @@
       "resumo": null
     },
     {
-      "titulo": "Eleições nos EUA: primeiras urnas fecham enquanto boca de urna mostra americanos descontentes com Trump; veja os resultados",
+      "titulo": "5 razões para o desastre do partido de Trump nas eleições nos EUA",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmd7q98x7944o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 04 Nov 2026 16:48:14 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Republicanos culpam Trump pela derrota no Congresso; veja os resultados",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.co.uk/portuguese/live/c6073r14jp7gt?at_medium=RSS&at_campaign=rss",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Quando sairão os resultados das eleições de meio de mandato nos EUA?",
+      "titulo": "Os gráficos e mapas que mostram a magnitude do triunfo democrata",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwm26g6x0r72o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 03 Nov 2026 20:11:24 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cvy0rzd2jr7jo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 04 Nov 2026 14:44:23 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar o futuro de Trump?",
+      "titulo": "Trump diz que vai reconhecer resultado da eleição, elogia democratas e critica republicanos",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 03 Nov 2026 16:20:58 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cw146dj0regko?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 04 Nov 2026 14:59:53 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Quem vai ganhar as midterms? Os gráficos que mostram como a eleição dos EUA será decidida",
+      "titulo": "Análise: 'Onda azul' que expõe perda de força de Trump pode levar a pedido de impeachment?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crlyklw8xxnyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 03 Nov 2026 10:51:38 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cr1ex57zlqj2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 04 Nov 2026 10:54:38 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Senado aprova PEC da Segurança sem redução da maioridade penal",
+      "titulo": "Quem é Abdul El-Sayed, primeiro muçulmano eleito senador nos EUA",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw4g13g56zljo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 04 Nov 2026 00:08:54 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "3 cenários possíveis para os resultados das eleições de meio de mandato nos EUA",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwj346dy3kplo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 03 Nov 2026 19:57:46 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c933xk7el2ggo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 04 Nov 2026 10:02:45 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Como eleições nos EUA devem selar relação com o Brasil em 4º mandato de Lula",
+      "titulo": "Quem é Gina Hinojosa, democrata de ascendência mexicana que será 1ª latina a governar o Texas",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw80z10renkzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 02 Nov 2026 10:36:42 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Eleições nos EUA: como apoio a Israel e guerra em Gaza afetam disputa ao Senado",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqx29rkmp87ro?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 03 Nov 2026 09:35:49 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/ckm23qjvm888o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 04 Nov 2026 11:35:54 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Por que a disputa pelo Senado no Texas pode ser decisiva nas eleições dos EUA",
+      "titulo": "Economia e democracia foram os temas mais importantes para americanos nas eleições, indica pesquisa",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckg5jlz270g8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 03 Nov 2026 10:04:52 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Do espaço, astronauta da Nasa vota nas eleições dos EUA",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/watch/c6lyl575z49yo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 03 Nov 2026 22:38:23 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem é Jesus de Miguel, jogador de futebol espanhol que morreu após choque com goleiro em partida",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cv1j3177ren3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 03 Nov 2026 14:39:04 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmg4795366kdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 04 Nov 2026 12:21:07 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Filha de brasileiros era copilota do avião que caiu na Flórida e deixou 9 mortos; o que se sabe",
+      "titulo": "Quem são os grandes vencedores das eleições americanas",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqe8rl260ep2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 03 Nov 2026 09:18:50 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "A vida dupla de homem acusado de drogar e estuprar esposa com estranhos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5n49nvj7897o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 03 Nov 2026 15:29:04 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 04 Nov 2026 15:41:22 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Como foi o El Niño histórico de 1877, quando passagem do fenômeno se tornou um desastre global",
+      "titulo": "Deb Haaland é eleita primeira mulher indígena governadora nos EUA",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/watch/cr9dz8gvn0j4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 02 Nov 2026 22:46:46 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c8vgxypwnpezo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 04 Nov 2026 12:04:05 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Em áudio | 'Um dos grandes mistérios da ciência': o que a anestesia geral revela sobre o cérebro",
+      "titulo": "As viradas democratas que mudaram a disputa pelo Senado nos EUA",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/listen/c9203j2djm61o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 03 Nov 2026 12:09:34 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/crn8wnw3eq0wo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 04 Nov 2026 07:58:57 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Republicanos da Flórida derrotam democratas e Estado elege primeiro governador negro",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm75p0lp5g1ro?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 04 Nov 2026 12:12:19 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "James Talarico se torna o primeiro democrata a conquistar uma cadeira no Senado pelo Texas desde 1988 ",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cjx23k27vdxzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 04 Nov 2026 04:34:48 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Carolina do Sul elege democrata para o Senado pela primeira vez em quase três décadas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmkgq8l44g02o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 04 Nov 2026 05:14:22 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Paraguai intervém em um dos maiores bancos do país e congela dinheiro de milhões de pessoas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cjy56zrrnn25o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 04 Nov 2026 14:49:05 GMT",
       "tema": "mundo",
       "resumo": null
     }
