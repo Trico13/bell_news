@@ -1,129 +1,113 @@
 {
-  "gerado_em": "2026-11-05T01:17:01.978Z",
+  "gerado_em": "2026-11-05T17:50:53.187Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 32.4,
-    "min": 19.1,
-    "chuva": 27
+    "max": 28,
+    "min": 20.2,
+    "chuva": 96
   },
   "noticias": [
     {
-      "titulo": "Apostas de duas cidades de MT acertam 14 números da Lotofácil 3821 e ganham R$ 2,2 mil; prêmio principal acumula",
+      "titulo": "Castração gratuita de cães e gatos tem inscrições abertas em cinco cidades do PI; veja como se inscrever",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/04/apostas-de-duas-cidades-de-mt-acertam-14-numeros-da-lotofacil-3821-e-ganham-r-22-mil-premio-principal-acumula.ghtml",
-      "hora": "Thu, 05 Nov 2026 01:02:23 -0000",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/05/castracao-gratuita-caes-e-gatos-inscricoes.ghtml",
+      "hora": "Thu, 05 Nov 2026 17:37:30 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "REFIS 2026 é prorrogado até 19 de novembro em Aparecida",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-aparecida/noticia/2026/11/05/refis-2026-e-prorrogado-ate-19-de-novembro-em-aparecida.ghtml",
+      "hora": "Thu, 05 Nov 2026 17:36:31 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "+Milionária hoje: resultado do concurso 404 e números sorteados",
+      "titulo": "Criminosos invadem unidade de saúde e tentam roubar arma de fogo de vigilante; VÍDEO",
       "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/milionaria/noticia/2026/11/04/milionaria-hoje-resultado-do-concurso-404-e-numeros-sorteados.ghtml",
-      "hora": "Thu, 05 Nov 2026 01:00:59 -0000",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/05/criminosos-invadem-unidade-de-saude-e-tentam-roubar-arma-de-fogo-de-vigilante-video.ghtml",
+      "hora": "Thu, 05 Nov 2026 17:33:58 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Super Sete hoje: resultado do concurso 918 e números sorteados",
+      "titulo": "Endometriose e desejo de engravidar: quando a cirurgia é necessária?",
       "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/super-sete/noticia/2026/11/04/super-sete-hoje-resultado-do-concurso-918-e-numeros-sorteados.ghtml",
-      "hora": "Thu, 05 Nov 2026 01:00:55 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Dia de Sorte hoje: resultado do concurso 1339 e números sorteados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/11/04/dia-de-sorte-hoje-resultado-do-concurso-1339-e-numeros-sorteados.ghtml",
-      "hora": "Thu, 05 Nov 2026 01:00:41 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Lotomania hoje: resultado do concurso 2995 e números sorteados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/lotomania/noticia/2026/11/04/lotomania-hoje-resultado-do-concurso-2995-e-numeros-sorteados.ghtml",
-      "hora": "Thu, 05 Nov 2026 01:00:33 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Dupla Sena hoje: resultado do concurso 3028 e números sorteados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/dupla-sena/noticia/2026/11/04/dupla-sena-hoje-resultado-do-concurso-3028-e-numeros-sorteados.ghtml",
-      "hora": "Thu, 05 Nov 2026 01:00:23 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Campeão da F1, Kimi Antonelli fala sobre futuro em entrevista ao Jornal Nacional",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/04/campeao-da-f1-kimi-antonelli-fala-sobre-futuro-em-entrevista-ao-jornal-nacional.ghtml",
-      "hora": "Thu, 05 Nov 2026 00:59:34 -0000",
+      "link": "https://g1.globo.com/pr/parana/especial-publicitario/clinica-dr-tiago-castilho-endometriose-profunda-dor-e-cirurgia/noticia/2026/11/05/endometriose-e-desejo-de-engravidar-quando-a-cirurgia-e-necessaria.ghtml",
+      "hora": "Thu, 05 Nov 2026 17:33:38 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Mulher é condenada por atropelar e matar criança indígena dois anos após ter primeiro júri anulado na BA",
+      "titulo": "IBGE oferece 387 vagas temporárias para recenseador em Sergipe; saiba como se inscrever",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/04/mulher-e-condenada-por-atropelar-e-matar-crianca-na-ba.ghtml",
-      "hora": "Thu, 05 Nov 2026 00:58:27 -0000",
+      "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/05/ibge-oferece-387-vagas-temporarias-para-recenseador-em-sergipe-saiba-como-se-inscrever.ghtml",
+      "hora": "Thu, 05 Nov 2026 17:32:56 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Concurso do IBGE tem mais de 200 vagas para Acre; salário pode chegar a R$ 4,3 mil",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/05/concurso-do-ibge-tem-vagas-para-acre-salario-pode-chegar-a-r-43-mil.ghtml",
+      "hora": "Thu, 05 Nov 2026 17:31:18 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Homem é preso com drogas e arma durante 'Operação Impacto' em Volta Redonda",
+      "titulo": "‘Imposto do pecado’: governo define regras para taxar carros; veja o que pesa no cálculo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/04/homem-e-preso-com-drogas-e-arma-durante-operacao-impacto-em-volta-redonda.ghtml",
-      "hora": "Thu, 05 Nov 2026 00:55:41 -0000",
+      "link": "https://g1.globo.com/carros/noticia/2026/11/05/imposto-do-pecado-governo-define-regras-para-taxar-carros-veja-o-que-pesa-no-calculo.ghtml",
+      "hora": "Thu, 05 Nov 2026 17:30:01 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Casal suspeito de matar americano desenvolvedor de jogos no Paraná é preso na Argentina",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/05/casal-suspeito-de-matar-americano-desenvolvedor-de-jogos-no-parana-e-preso-na-argentina.ghtml",
+      "hora": "Thu, 05 Nov 2026 17:28:30 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Congresso paraguaio aprova seguir com processo de impeachment do  presidente do Paraguai, mesmo após renúncia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/05/congresso-paraguaio-aprova-seguir-com-processo-impeachment-do-presidente-do-paraguai-mesmo-apos-renuncia.ghtml",
+      "hora": "Thu, 05 Nov 2026 17:28:08 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "É #FAKE que cena de pessoas pegando comida em caminhão de lixo ocorreu durante governo Lula; vídeo foi gravado em 2021",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/05/e-fake-que-cena-de-pessoas-pegando-comida-em-caminhao-de-lixo-ocorreu-durante-governo-lula-video-foi-gravado-em-2021.ghtml",
+      "hora": "Thu, 05 Nov 2026 17:26:45 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Apostas de 4 cidades de MT acertam cinco números da Mega-Sena 3081 e ganham R$ 26 mil; veja valor do prêmio acumulado",
+      "titulo": "Natal na Grande Vitória terá roda-gigante, patinação no gelo, desfiles, tobogã e até sala sensorial de graça; veja horários de visitação",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/04/apostas-de-4-cidades-de-mt-acertam-cinco-numeros-da-mega-sena-3081-e-ganham-r-26-mil-veja-valor-do-premio-acumulado.ghtml",
-      "hora": "Thu, 05 Nov 2026 00:55:31 -0000",
+      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/05/natal-tera-roda-gigante-patinacao-no-gelo-desfiles-toboga-e-ate-sala-sensorial-veja-horarios-de-visitacao-gratuita.ghtml",
+      "hora": "Thu, 05 Nov 2026 17:24:51 -0000",
+      "tema": "entretenimento",
+      "resumo": null
+    },
+    {
+      "titulo": "Mega-Sena 3081: 11 apostas do oeste do PA acertam a quadra; prêmio vai a R$ 55 milhões",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/05/mega-sena-3081-11-apostas-do-oeste-do-pa-acertam-a-quadra-premio-vai-a-r-55-milhoes.ghtml",
+      "hora": "Thu, 05 Nov 2026 17:24:30 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Lotofácil hoje: resultado do concurso 3821 e números sorteados",
+      "titulo": "Autor do vídeo que registrou arraia 'cortando onda' de surfista no Recreio conta que se surpreendeu: 'Um momento único'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/lotofacil/noticia/2026/11/04/lotofacil-hoje-resultado-do-concurso-3821-e-numeros-sorteados.ghtml",
-      "hora": "Thu, 05 Nov 2026 00:55:31 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-      "hora": "Thu, 05 Nov 2026 00:55:06 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Linha 5-Lilás do metrô tem circulação interrompida entre Capão Redondo e Campo Limpo após descarga elétrica",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/04/linha-5-lilas-do-metro-tem-circulacao-interrompida-entre-capao-redondo-e-campo-limpo-apos-descarga-eletrica.ghtml",
-      "hora": "Thu, 05 Nov 2026 00:53:35 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Quina hoje: resultado do concurso 7159 e números sorteados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/quina/noticia/2026/11/04/quina-hoje-resultado-do-concurso-7159-e-numeros-sorteados.ghtml",
-      "hora": "Thu, 05 Nov 2026 00:50:36 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "No Rio Grande do Sul, temporais causam estragos em mais de 100 municípios",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/04/no-rio-grande-do-sul-temporais-causam-estragos-em-mais-de-100-municipios.ghtml",
-      "hora": "Thu, 05 Nov 2026 00:47:44 -0000",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/05/autor-do-video-que-mostrou-arraia-cortando-onda-de-surfista-no-recreio-conta-que-se-surpreendeu-um-momento-unico.ghtml",
+      "hora": "Thu, 05 Nov 2026 17:22:45 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -248,50 +232,58 @@
       "resumo": null
     },
     {
-      "titulo": "Quem são os grandes vencedores e perdedores das eleições americanas",
+      "titulo": "Presidente do Paraguai renuncia em meio à crise de um dos maiores bancos do país, que congelou dinheiro de milhões; siga",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 04 Nov 2026 23:24:52 GMT",
-      "tema": "cultura",
+      "link": "https://www.bbc.co.uk/portuguese/live/cqwy7zykezl6t?at_medium=RSS&at_campaign=rss",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Democratas assumem controle do Congresso dos EUA e impõem derrota a Trump; veja cobertura da eleição minuto a minuto",
+      "titulo": "4 pontos para entender a crise de banco no Paraguai que derrubou Santiago Peña",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/c6073r14jp7gt?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.com/portuguese/articles/cmq8njl81978o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 05 Nov 2026 16:51:39 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "O estopim da crise que congelou o dinheiro de milhões no Paraguai",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cjy56zrrnn25o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 05 Nov 2026 17:28:06 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Ameaças de bomba obrigam voos na Europa a fazer pousos de emergência; o que se sabe",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm4g1vvlk83do?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 05 Nov 2026 13:45:26 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Pressão de Trump sobre governo Lula não deve ser aliviada com vitória democrata, dizem analistas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm78p04n78zno?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 05 Nov 2026 08:33:48 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Os gráficos e mapas que mostram a magnitude do triunfo democrata",
+      "titulo": "Cristiano Ronaldo se aposenta da seleção de Portugal: veja os momentos mais icônicos do jogador",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvy0rzd2jr7jo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 04 Nov 2026 14:44:23 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cq5ynjjjnxk9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 05 Nov 2026 15:14:23 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "5 razões para o desastre do partido de Trump nas eleições nos EUA",
+      "titulo": "Quem é o brasileiro eleito na Flórida que critica Flávio Bolsonaro e se inspira em Erika Hilton",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmd7q98x7944o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 04 Nov 2026 16:48:14 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Análise: 'Onda azul' que expõe perda de força de Trump pode levar a pedido de impeachment?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr1ex57zlqj2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 04 Nov 2026 10:54:38 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Paraguai intervém em um dos maiores bancos do país e congela dinheiro de milhões de pessoas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjy56zrrnn25o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 04 Nov 2026 14:49:05 GMT",
-      "tema": "mundo",
+      "link": "https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 05 Nov 2026 09:21:03 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -319,11 +311,35 @@
       "resumo": null
     },
     {
-      "titulo": "Partes do avião podem ter se desprendido no ar: quem são as 9 vítimas fatais do acidente aéreo na Flórida",
+      "titulo": "Quem são os grandes vencedores e perdedores das eleições americanas",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmvg7l75y321o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 04 Nov 2026 13:34:31 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 04 Nov 2026 23:24:52 GMT",
       "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Os gráficos e mapas que mostram a magnitude do triunfo democrata",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cvy0rzd2jr7jo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 04 Nov 2026 14:44:23 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "5 razões para o desastre do partido de Trump nas eleições nos EUA",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmd7q98x7944o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 04 Nov 2026 16:48:14 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Análise: 'Onda azul' que expõe perda de força de Trump pode levar a pedido de impeachment?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cr1ex57zlqj2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 04 Nov 2026 10:54:38 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -331,38 +347,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cw146dj0regko?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 04 Nov 2026 14:59:53 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Talarico, o religioso democrata que falou em Deus 'não binário' e arrasou no conservador Texas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjx23k27vdxzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 04 Nov 2026 21:34:29 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem é Abdul El-Sayed, primeiro muçulmano eleito senador nos EUA",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c933xk7el2ggo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 04 Nov 2026 10:02:45 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem é Gina Hinojosa, democrata de ascendência mexicana que será 1ª latina a governar o Texas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckm23qjvm888o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 04 Nov 2026 11:35:54 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Deb Haaland é eleita primeira mulher indígena governadora nos EUA",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c8vgxypwnpezo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 04 Nov 2026 12:04:05 GMT",
       "tema": "mundo",
       "resumo": null
     }
