@@ -1,113 +1,129 @@
 {
-  "gerado_em": "2026-11-05T17:50:53.187Z",
+  "gerado_em": "2026-11-06T01:22:16.806Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 28,
-    "min": 20.2,
+    "max": 26.9,
+    "min": 20.8,
     "chuva": 96
   },
   "noticias": [
     {
-      "titulo": "Castração gratuita de cães e gatos tem inscrições abertas em cinco cidades do PI; veja como se inscrever",
+      "titulo": "Operação mira bets ilegais que movimentaram mais de R$ 700 milhões só em 2026, mesmo após proibição das apostas online",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/05/castracao-gratuita-caes-e-gatos-inscricoes.ghtml",
-      "hora": "Thu, 05 Nov 2026 17:37:30 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/05/operacao-mira-bets-ilegais-que-movimentaram-mais-de-r-700-milhoes-so-em-2026-mesmo-apos-proibicao-das-apostas-online.ghtml",
+      "hora": "Fri, 06 Nov 2026 01:14:42 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Lula convoca área econômica para reunião após Banco Central interromper ciclo de corte de juros",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/05/lula-convoca-area-economica-para-reuniao-apos-banco-central-interromper-ciclo-de-corte-de-juros.ghtml",
+      "hora": "Fri, 06 Nov 2026 01:07:35 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "REFIS 2026 é prorrogado até 19 de novembro em Aparecida",
+      "titulo": "Veja o que fazer em Belém: Liniker, Eurodance Tour, aniversário de Manoel Cordeiro e Flávio Venturini",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/prefeitura-de-aparecida/noticia/2026/11/05/refis-2026-e-prorrogado-ate-19-de-novembro-em-aparecida.ghtml",
-      "hora": "Thu, 05 Nov 2026 17:36:31 -0000",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/11/05/veja-o-que-fazer-em-belem-liniker-eurodance-tour-aniversario-de-manoel-cordeiro-e-flavio-venturini.ghtml",
+      "hora": "Fri, 06 Nov 2026 01:03:37 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Enem 2026 em Salvador: operação de trânsito é montada para facilitar deslocamento de candidatos nos dias de prova",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/05/enem-2026-em-salvador-dias-de-prova-terao-operacao-de-transito.ghtml",
+      "hora": "Fri, 06 Nov 2026 00:56:12 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Criminosos invadem unidade de saúde e tentam roubar arma de fogo de vigilante; VÍDEO",
+      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de quinta-feira, 05 de novembro de 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/05/criminosos-invadem-unidade-de-saude-e-tentam-roubar-arma-de-fogo-de-vigilante-video.ghtml",
-      "hora": "Thu, 05 Nov 2026 17:33:58 -0000",
+      "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-quinta-feira-05-de-novembro-de-2026.ghtml",
+      "hora": "Fri, 06 Nov 2026 00:55:31 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Endometriose e desejo de engravidar: quando a cirurgia é necessária?",
+      "titulo": "Tripulantes são resgatados após embarcação afundar na rota Belém–Breves, diz empresa",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pr/parana/especial-publicitario/clinica-dr-tiago-castilho-endometriose-profunda-dor-e-cirurgia/noticia/2026/11/05/endometriose-e-desejo-de-engravidar-quando-a-cirurgia-e-necessaria.ghtml",
-      "hora": "Thu, 05 Nov 2026 17:33:38 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "IBGE oferece 387 vagas temporárias para recenseador em Sergipe; saiba como se inscrever",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/05/ibge-oferece-387-vagas-temporarias-para-recenseador-em-sergipe-saiba-como-se-inscrever.ghtml",
-      "hora": "Thu, 05 Nov 2026 17:32:56 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Concurso do IBGE tem mais de 200 vagas para Acre; salário pode chegar a R$ 4,3 mil",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/05/concurso-do-ibge-tem-vagas-para-acre-salario-pode-chegar-a-r-43-mil.ghtml",
-      "hora": "Thu, 05 Nov 2026 17:31:18 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "‘Imposto do pecado’: governo define regras para taxar carros; veja o que pesa no cálculo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/carros/noticia/2026/11/05/imposto-do-pecado-governo-define-regras-para-taxar-carros-veja-o-que-pesa-no-calculo.ghtml",
-      "hora": "Thu, 05 Nov 2026 17:30:01 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Casal suspeito de matar americano desenvolvedor de jogos no Paraná é preso na Argentina",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/05/casal-suspeito-de-matar-americano-desenvolvedor-de-jogos-no-parana-e-preso-na-argentina.ghtml",
-      "hora": "Thu, 05 Nov 2026 17:28:30 -0000",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/11/05/tripulantes-sao-resgatados-apos-embarcacao-correr-risco-de-afundar-na-rota-belem-breves-diz-empresa.ghtml",
+      "hora": "Fri, 06 Nov 2026 00:51:43 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Congresso paraguaio aprova seguir com processo de impeachment do  presidente do Paraguai, mesmo após renúncia",
+      "titulo": "MP-BA denuncia à Justiça suspeitos de sequestrar bebê na Bahia ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/05/congresso-paraguaio-aprova-seguir-com-processo-impeachment-do-presidente-do-paraguai-mesmo-apos-renuncia.ghtml",
-      "hora": "Thu, 05 Nov 2026 17:28:08 -0000",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/05/mp-ba-denuncia-suspeitos-de-sequestrar-bebe-na-bahia.ghtml",
+      "hora": "Fri, 06 Nov 2026 00:45:39 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Justiça bloqueia R$ 65,7 milhões do governo do TO e manda hospitais retomarem atendimentos a plano de saúde dos servidores públicos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/05/justica-bloqueia-r-657-milhoes-do-governo-do-to-e-manda-hospitais-retomarem-atendimentos-a-plano-dos-servidores-publicos.ghtml",
+      "hora": "Fri, 06 Nov 2026 00:43:19 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Apostas de 16 cidades de MT são premiadas na Lotofácil 3822; veja valores",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/05/apostas-de-16-cidades-de-mt-sao-premiadas-na-lotofacil-3822-veja-valores.ghtml",
+      "hora": "Fri, 06 Nov 2026 00:43:06 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Viagem de Leão XIV pela América Latina visa superar polarizações sociais e promover reconciliação, diz Vaticano",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/05/viagem-de-leao-xiv-pela-america-latina-visa-superar-polarizacoes-sociais-e-promover-reconciliacao-diz-vaticano.ghtml",
+      "hora": "Fri, 06 Nov 2026 00:41:13 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "É #FAKE que cena de pessoas pegando comida em caminhão de lixo ocorreu durante governo Lula; vídeo foi gravado em 2021",
+      "titulo": "GP de São Paulo de F1 terá shows, desfile de carros históricos e homenagem a Barrichello; veja a programação",
       "fonte": "G1",
-      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/05/e-fake-que-cena-de-pessoas-pegando-comida-em-caminhao-de-lixo-ocorreu-durante-governo-lula-video-foi-gravado-em-2021.ghtml",
-      "hora": "Thu, 05 Nov 2026 17:26:45 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Natal na Grande Vitória terá roda-gigante, patinação no gelo, desfiles, tobogã e até sala sensorial de graça; veja horários de visitação",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/05/natal-tera-roda-gigante-patinacao-no-gelo-desfiles-toboga-e-ate-sala-sensorial-veja-horarios-de-visitacao-gratuita.ghtml",
-      "hora": "Thu, 05 Nov 2026 17:24:51 -0000",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/05/gp-de-sao-paulo-de-f1-tera-shows-desfile-de-carros-historicos-e-homenagem-a-barrichello-veja-a-programacao.ghtml",
+      "hora": "Fri, 06 Nov 2026 00:39:28 -0000",
       "tema": "entretenimento",
       "resumo": null
     },
     {
-      "titulo": "Mega-Sena 3081: 11 apostas do oeste do PA acertam a quadra; prêmio vai a R$ 55 milhões",
+      "titulo": "Resumão diário do JN: Escândalo financeiro derruba presidente do Paraguai; em Brasília, governo define alíquotas do 'imposto do pecado'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/05/mega-sena-3081-11-apostas-do-oeste-do-pa-acertam-a-quadra-premio-vai-a-r-55-milhoes.ghtml",
-      "hora": "Thu, 05 Nov 2026 17:24:30 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/05/resumao-diario-do-jn-escandalo-financeiro-derruba-presidente-do-paraguai-em-brasilia-governo-define-aliquotas-do-imposto-do-pecado.ghtml",
+      "hora": "Fri, 06 Nov 2026 00:38:59 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Autor do vídeo que registrou arraia 'cortando onda' de surfista no Recreio conta que se surpreendeu: 'Um momento único'",
+      "titulo": "Timemania hoje: resultado do concurso 2464 e números sorteados",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/05/autor-do-video-que-mostrou-arraia-cortando-onda-de-surfista-no-recreio-conta-que-se-surpreendeu-um-momento-unico.ghtml",
-      "hora": "Thu, 05 Nov 2026 17:22:45 -0000",
+      "link": "https://g1.globo.com/loterias/timemania/noticia/2026/11/05/timemania-hoje-resultado-do-concurso-2464-e-numeros-sorteados.ghtml",
+      "hora": "Fri, 06 Nov 2026 00:36:10 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Lotofácil hoje: resultado do concurso 3822 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/lotofacil/noticia/2026/11/05/lotofacil-hoje-resultado-do-concurso-3822-e-numeros-sorteados.ghtml",
+      "hora": "Fri, 06 Nov 2026 00:36:03 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Dia de Sorte hoje: resultado do concurso 1340 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/11/05/dia-de-sorte-hoje-resultado-do-concurso-1340-e-numeros-sorteados.ghtml",
+      "hora": "Fri, 06 Nov 2026 00:36:00 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -232,14 +248,22 @@
       "resumo": null
     },
     {
-      "titulo": "Presidente do Paraguai renuncia em meio à crise de um dos maiores bancos do país, que congelou dinheiro de milhões; siga",
+      "titulo": "'Não falei com Lula nem tenho nada marcado. Isso foi plantado para queimar alguém que defendeu a proposta', diz economista André Lara Resende",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmly0jeq2q9no?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 05 Nov 2026 23:19:37 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Crise no Paraguai: Senado continuará análise de impeachment de Peña nessa 6ªf",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.co.uk/portuguese/live/cqwy7zykezl6t?at_medium=RSS&at_campaign=rss",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "4 pontos para entender a crise de banco no Paraguai que derrubou Santiago Peña",
+      "titulo": "'Caso Master do Paraguai':  entenda a crise de banco que derrubou o presidente Santiago Peña",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmq8njl81978o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 05 Nov 2026 16:51:39 GMT",
@@ -247,11 +271,35 @@
       "resumo": null
     },
     {
-      "titulo": "O estopim da crise que congelou o dinheiro de milhões no Paraguai",
+      "titulo": "'Quase todo meu dinheiro está preso no banco': brasileiros que foram para o Paraguai são afetados pela crise no país",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjy56zrrnn25o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 05 Nov 2026 17:28:06 GMT",
-      "tema": "mundo",
+      "link": "https://www.bbc.com/portuguese/articles/c804064l5ppyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 05 Nov 2026 18:24:40 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Flávio Bolsonaro diz ao NY Times que 'vai levar para o túmulo' como saiu do Brasil; jornal aponta ajuda dos EUA",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm70ppw2k0y3o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 05 Nov 2026 21:35:09 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Grandes empresas de IA deveriam ser fechadas, defende autor de livro sobre ameaça apocalíptica das máquinas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cred7d1z1x24o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 05 Nov 2026 21:01:33 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que Kim Kardashian voltou para o 'pior drama da história da TV'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqy0rz40zep0o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 05 Nov 2026 23:06:11 GMT",
+      "tema": "entretenimento",
       "resumo": null
     },
     {
@@ -260,14 +308,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cm4g1vvlk83do?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 05 Nov 2026 13:45:26 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Pressão de Trump sobre governo Lula não deve ser aliviada com vitória democrata, dizem analistas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm78p04n78zno?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 05 Nov 2026 08:33:48 GMT",
-      "tema": "brasil",
       "resumo": null
     },
     {
@@ -287,35 +327,27 @@
       "resumo": null
     },
     {
-      "titulo": "'Minha filha de 13 anos sofreu ofensas racistas, sexuais e religiosas após resultado das eleições'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6kg7ej7e73ko?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 04 Nov 2026 20:52:50 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Anvisa aprova versão da caneta Wegovy em comprimido:  o que falta para  chegar às farmácias?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjn5vdkk0gelo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 04 Nov 2026 18:00:26 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "O que é o zeptoverso descoberto por cientistas, mundo 100 bilhões de vezes menor que um átomo",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6lye81l3ezro?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 04 Nov 2026 09:30:45 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
       "titulo": "Quem são os grandes vencedores e perdedores das eleições americanas",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 04 Nov 2026 23:24:52 GMT",
       "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "4 dados que mostram o peso dos votos latinos na 'onda azul' das eleições nos EUA",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6x23z0n899zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 05 Nov 2026 20:28:04 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Pressão de Trump sobre governo Lula não deve ser aliviada com vitória democrata, dizem analistas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm78p04n78zno?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 05 Nov 2026 08:33:48 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -331,22 +363,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmd7q98x7944o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 04 Nov 2026 16:48:14 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Análise: 'Onda azul' que expõe perda de força de Trump pode levar a pedido de impeachment?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr1ex57zlqj2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 04 Nov 2026 10:54:38 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Trump diz que vai reconhecer resultado da eleição, elogia democratas e critica republicanos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw146dj0regko?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 04 Nov 2026 14:59:53 GMT",
       "tema": "mundo",
       "resumo": null
     }
