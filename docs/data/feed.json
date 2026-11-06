@@ -1,130 +1,130 @@
 {
-  "gerado_em": "2026-11-06T01:22:16.806Z",
+  "gerado_em": "2026-11-06T17:10:29.300Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 26.9,
-    "min": 20.8,
-    "chuva": 96
+    "max": 28.5,
+    "min": 19.4,
+    "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Operação mira bets ilegais que movimentaram mais de R$ 700 milhões só em 2026, mesmo após proibição das apostas online",
+      "titulo": "Câmara de Campo Grande instaura CPI do Tapa-Buraco e define integrantes; veja nomes",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/05/operacao-mira-bets-ilegais-que-movimentaram-mais-de-r-700-milhoes-so-em-2026-mesmo-apos-proibicao-das-apostas-online.ghtml",
-      "hora": "Fri, 06 Nov 2026 01:14:42 -0000",
-      "tema": "sp",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/06/camara-de-campo-grande-instaura-cpi-do-tapa-buraco-e-define-integrantes-veja-nomes.ghtml",
+      "hora": "Fri, 06 Nov 2026 17:02:50 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Lula convoca área econômica para reunião após Banco Central interromper ciclo de corte de juros",
+      "titulo": "Mãe de santo é presa suspeita de importunação sexual contra adolescente em Paulínia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/05/lula-convoca-area-economica-para-reuniao-apos-banco-central-interromper-ciclo-de-corte-de-juros.ghtml",
-      "hora": "Fri, 06 Nov 2026 01:07:35 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/06/mae-de-santo-e-presa-suspeita-de-importunacao-sexual-contra-adolescente-em-paulinia.ghtml",
+      "hora": "Fri, 06 Nov 2026 17:02:00 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Veja o que fazer em Belém: Liniker, Eurodance Tour, aniversário de Manoel Cordeiro e Flávio Venturini",
+      "titulo": "Moscas, dejetos, drogas e suspeita de pacientes dopados: como era clínica clandestina fechada por maus-tratos no interior de SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/05/veja-o-que-fazer-em-belem-liniker-eurodance-tour-aniversario-de-manoel-cordeiro-e-flavio-venturini.ghtml",
-      "hora": "Fri, 06 Nov 2026 01:03:37 -0000",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/06/moscas-dejetos-drogas-e-suspeita-de-pacientes-dopados-como-era-clinica-clandestina-fechada-por-maus-tratos-no-interior-de-sp.ghtml",
+      "hora": "Fri, 06 Nov 2026 17:01:14 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "É #FAKE que vídeo mostre postes explodindo e casa destelhada durante tornado em Chapecó; cena ocorreu nos EUA em 2024 ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/06/e-fake-que-video-mostre-postes-explodindo-e-casa-destelhada-durante-tornado-em-chapeco-cena-ocorreu-nos-eua-em-2024.ghtml",
+      "hora": "Fri, 06 Nov 2026 17:00:59 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Enem 2026 em Salvador: operação de trânsito é montada para facilitar deslocamento de candidatos nos dias de prova",
+      "titulo": "Irmãs realizam sonho de conhecer Roberto Carlos e tiram foto com cantor no Acre: 'Emoção sem tamanho'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/05/enem-2026-em-salvador-dias-de-prova-terao-operacao-de-transito.ghtml",
-      "hora": "Fri, 06 Nov 2026 00:56:12 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de quinta-feira, 05 de novembro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-quinta-feira-05-de-novembro-de-2026.ghtml",
-      "hora": "Fri, 06 Nov 2026 00:55:31 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Tripulantes são resgatados após embarcação afundar na rota Belém–Breves, diz empresa",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/05/tripulantes-sao-resgatados-apos-embarcacao-correr-risco-de-afundar-na-rota-belem-breves-diz-empresa.ghtml",
-      "hora": "Fri, 06 Nov 2026 00:51:43 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "MP-BA denuncia à Justiça suspeitos de sequestrar bebê na Bahia ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/05/mp-ba-denuncia-suspeitos-de-sequestrar-bebe-na-bahia.ghtml",
-      "hora": "Fri, 06 Nov 2026 00:45:39 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Justiça bloqueia R$ 65,7 milhões do governo do TO e manda hospitais retomarem atendimentos a plano de saúde dos servidores públicos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/05/justica-bloqueia-r-657-milhoes-do-governo-do-to-e-manda-hospitais-retomarem-atendimentos-a-plano-dos-servidores-publicos.ghtml",
-      "hora": "Fri, 06 Nov 2026 00:43:19 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Apostas de 16 cidades de MT são premiadas na Lotofácil 3822; veja valores",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/05/apostas-de-16-cidades-de-mt-sao-premiadas-na-lotofacil-3822-veja-valores.ghtml",
-      "hora": "Fri, 06 Nov 2026 00:43:06 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Viagem de Leão XIV pela América Latina visa superar polarizações sociais e promover reconciliação, diz Vaticano",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/05/viagem-de-leao-xiv-pela-america-latina-visa-superar-polarizacoes-sociais-e-promover-reconciliacao-diz-vaticano.ghtml",
-      "hora": "Fri, 06 Nov 2026 00:41:13 -0000",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/06/irmas-realizam-sonho-de-conhecer-roberto-carlos-e-tiram-foto-com-cantor-no-acre-emocao-sem-tamanho.ghtml",
+      "hora": "Fri, 06 Nov 2026 17:00:27 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "GP de São Paulo de F1 terá shows, desfile de carros históricos e homenagem a Barrichello; veja a programação",
+      "titulo": "Auditor que chefiava combate a fraudes fiscais é exonerado sob suspeita de beneficiar empresas de fachada",
       "fonte": "G1",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/05/gp-de-sao-paulo-de-f1-tera-shows-desfile-de-carros-historicos-e-homenagem-a-barrichello-veja-a-programacao.ghtml",
-      "hora": "Fri, 06 Nov 2026 00:39:28 -0000",
-      "tema": "entretenimento",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/06/auditor-que-chefiava-combate-a-fraudes-fiscais-e-exonerado-sob-suspeita-de-beneficiar-empresas-de-fachada.ghtml",
+      "hora": "Fri, 06 Nov 2026 16:58:55 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Resumão diário do JN: Escândalo financeiro derruba presidente do Paraguai; em Brasília, governo define alíquotas do 'imposto do pecado'",
+      "titulo": "Secretário e fiscais cobravam propina de R$ 3 mil para liberar alvarás em São José, diz polícia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/05/resumao-diario-do-jn-escandalo-financeiro-derruba-presidente-do-paraguai-em-brasilia-governo-define-aliquotas-do-imposto-do-pecado.ghtml",
-      "hora": "Fri, 06 Nov 2026 00:38:59 -0000",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/06/secretario-municipal-fiscais-propina-liberar-alvaras-sao-jose-diz-policia.ghtml",
+      "hora": "Fri, 06 Nov 2026 16:58:54 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Fernando de Noronha começa a distribuir autotestes gratuitos de HIV",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/11/06/fernando-de-noronha-comeca-a-distribuir-autotestes-gratuitos-de-hiv.ghtml",
+      "hora": "Fri, 06 Nov 2026 16:58:34 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Timemania hoje: resultado do concurso 2464 e números sorteados",
+      "titulo": "Mãe que assassinou filhos transportou crianças mortas no carro até outra cidade para que familiares pudessem recolher corpos, diz delegado",
       "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/timemania/noticia/2026/11/05/timemania-hoje-resultado-do-concurso-2464-e-numeros-sorteados.ghtml",
-      "hora": "Fri, 06 Nov 2026 00:36:10 -0000",
+      "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/06/mae-assassinato-filhos-parana-cometeu-crime-em-outra-cidade.ghtml",
+      "hora": "Fri, 06 Nov 2026 16:54:22 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Resumão diário #2220: Justiça autoriza três bets a voltar a funcionar em SP; Temores com IA derrubam mercados globais nesta sexta-feira e mais",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/11/06/resumao-diario-2220-justica-autoriza-tres-bets-a-voltar-a-funcionar-em-sp-temores-com-ia-derrubam-mercados-globais-nesta-sexta-feira-e-mais.ghtml",
+      "hora": "Fri, 06 Nov 2026 16:54:13 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: Jornal do Almoço Florianópolis de sexta-feira, 6 de novembro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sc/santa-catarina/edicao/2026/11/06/videos-jornal-do-almoco-florianopolis-de-sexta-feira-6-de-novembro-de-2026.ghtml",
+      "hora": "Fri, 06 Nov 2026 16:53:45 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Lotofácil hoje: resultado do concurso 3822 e números sorteados",
+      "titulo": "Estudante de Petrópolis supera 195 concorrentes e vence concurso cultural sobre a importância da água: 'Minha reação foi de chorar'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/lotofacil/noticia/2026/11/05/lotofacil-hoje-resultado-do-concurso-3822-e-numeros-sorteados.ghtml",
-      "hora": "Fri, 06 Nov 2026 00:36:03 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/11/06/estudante-de-petropolis-supera-195-concorrentes-e-vence-concurso-cultural-sobre-a-importancia-da-agua-minha-reacao-foi-de-chorar.ghtml",
+      "hora": "Fri, 06 Nov 2026 16:51:38 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Dia de Sorte hoje: resultado do concurso 1340 e números sorteados",
+      "titulo": "Entenda como corpo de jovem que sofreu golpe e gravou vídeo chorando foi identificado pela falange",
       "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/11/05/dia-de-sorte-hoje-resultado-do-concurso-1340-e-numeros-sorteados.ghtml",
-      "hora": "Fri, 06 Nov 2026 00:36:00 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/06/entenda-como-corpo-de-jovem-que-sofreu-golpe-e-gravou-video-chorando-foi-identificado-pela-falange.ghtml",
+      "hora": "Fri, 06 Nov 2026 16:51:05 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Operação da PF bloqueia mais de R$ 1 milhão de quadrilha suspeita de tráfico internacional e exploração sexual de mulheres",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/06/operacao-da-pf-bloqueia-r-1-milhao-de-quadrilha-investigada-por-trafico-internacional-de-mulheres.ghtml",
+      "hora": "Fri, 06 Nov 2026 16:48:30 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Encontro reúne mais de 500 pastores de 50 países em São José dos Campos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/06/encontro-reune-mais-de-500-pastores-de-50-paises-em-sao-jose-dos-campos.ghtml",
+      "hora": "Fri, 06 Nov 2026 16:47:59 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
@@ -248,6 +248,14 @@
       "resumo": null
     },
     {
+      "titulo": "'Meu medo é o governo Lula buscar atalhos e brigar com o mercado': por que professor de Cambridge defende ajuste fiscal 'suave'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqglww4xw40do?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 06 Nov 2026 10:14:09 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "'Não falei com Lula nem tenho nada marcado. Isso foi plantado para queimar alguém que defendeu a proposta', diz economista André Lara Resende",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmly0jeq2q9no?at_medium=RSS&at_campaign=rss",
@@ -256,17 +264,10 @@
       "resumo": null
     },
     {
-      "titulo": "Crise no Paraguai: Senado continuará análise de impeachment de Peña nessa 6ªf",
+      "titulo": "Santiago Peña sofrerá impeachment após renunciar no Paraguai? Entenda os próximos passos",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.co.uk/portuguese/live/cqwy7zykezl6t?at_medium=RSS&at_campaign=rss",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Caso Master do Paraguai':  entenda a crise de banco que derrubou o presidente Santiago Peña",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmq8njl81978o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 05 Nov 2026 16:51:39 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 06 Nov 2026 15:31:47 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -274,16 +275,24 @@
       "titulo": "'Quase todo meu dinheiro está preso no banco': brasileiros que foram para o Paraguai são afetados pela crise no país",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c804064l5ppyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 05 Nov 2026 18:24:40 GMT",
+      "hora": "Fri, 06 Nov 2026 01:56:13 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Flávio Bolsonaro diz ao NY Times que 'vai levar para o túmulo' como saiu do Brasil; jornal aponta ajuda dos EUA",
+      "titulo": "'Fiz um teste para saber se minha vida seria curta — e isso me transformou'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm70ppw2k0y3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 05 Nov 2026 21:35:09 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwe8lekndk1mo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 06 Nov 2026 08:34:52 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'Cara de ferritina': é possível detectar a falta de ferro no organismo pelo rosto?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crly0vp21e9no?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 06 Nov 2026 08:54:23 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -303,19 +312,11 @@
       "resumo": null
     },
     {
-      "titulo": "Ameaças de bomba obrigam voos na Europa a fazer pousos de emergência; o que se sabe",
+      "titulo": "Pressão de Trump sobre governo Lula não deve ser aliviada com vitória democrata, dizem analistas",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm4g1vvlk83do?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 05 Nov 2026 13:45:26 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Cristiano Ronaldo se aposenta da seleção de Portugal: veja os momentos mais icônicos do jogador",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq5ynjjjnxk9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 05 Nov 2026 15:14:23 GMT",
-      "tema": "mundo",
+      "link": "https://www.bbc.com/portuguese/articles/cm78p04n78zno?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 05 Nov 2026 08:33:48 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -343,26 +344,10 @@
       "resumo": null
     },
     {
-      "titulo": "Pressão de Trump sobre governo Lula não deve ser aliviada com vitória democrata, dizem analistas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm78p04n78zno?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 05 Nov 2026 08:33:48 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
       "titulo": "Os gráficos e mapas que mostram a magnitude do triunfo democrata",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cvy0rzd2jr7jo?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 04 Nov 2026 14:44:23 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "5 razões para o desastre do partido de Trump nas eleições nos EUA",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmd7q98x7944o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 04 Nov 2026 16:48:14 GMT",
       "tema": "mundo",
       "resumo": null
     }
