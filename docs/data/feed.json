@@ -1,130 +1,122 @@
 {
-  "gerado_em": "2026-11-06T17:10:29.300Z",
+  "gerado_em": "2026-11-07T00:37:00.402Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 28.5,
+    "max": 26.4,
     "min": 19.4,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Câmara de Campo Grande instaura CPI do Tapa-Buraco e define integrantes; veja nomes",
+      "titulo": "Mega-Sena, concurso 3082: confira os números sorteados",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/06/camara-de-campo-grande-instaura-cpi-do-tapa-buraco-e-define-integrantes-veja-nomes.ghtml",
-      "hora": "Fri, 06 Nov 2026 17:02:50 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Mãe de santo é presa suspeita de importunação sexual contra adolescente em Paulínia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/06/mae-de-santo-e-presa-suspeita-de-importunacao-sexual-contra-adolescente-em-paulinia.ghtml",
-      "hora": "Fri, 06 Nov 2026 17:02:00 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Moscas, dejetos, drogas e suspeita de pacientes dopados: como era clínica clandestina fechada por maus-tratos no interior de SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/06/moscas-dejetos-drogas-e-suspeita-de-pacientes-dopados-como-era-clinica-clandestina-fechada-por-maus-tratos-no-interior-de-sp.ghtml",
-      "hora": "Fri, 06 Nov 2026 17:01:14 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "É #FAKE que vídeo mostre postes explodindo e casa destelhada durante tornado em Chapecó; cena ocorreu nos EUA em 2024 ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/06/e-fake-que-video-mostre-postes-explodindo-e-casa-destelhada-durante-tornado-em-chapeco-cena-ocorreu-nos-eua-em-2024.ghtml",
-      "hora": "Fri, 06 Nov 2026 17:00:59 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Irmãs realizam sonho de conhecer Roberto Carlos e tiram foto com cantor no Acre: 'Emoção sem tamanho'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/06/irmas-realizam-sonho-de-conhecer-roberto-carlos-e-tiram-foto-com-cantor-no-acre-emocao-sem-tamanho.ghtml",
-      "hora": "Fri, 06 Nov 2026 17:00:27 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Auditor que chefiava combate a fraudes fiscais é exonerado sob suspeita de beneficiar empresas de fachada",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/06/auditor-que-chefiava-combate-a-fraudes-fiscais-e-exonerado-sob-suspeita-de-beneficiar-empresas-de-fachada.ghtml",
-      "hora": "Fri, 06 Nov 2026 16:58:55 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Secretário e fiscais cobravam propina de R$ 3 mil para liberar alvarás em São José, diz polícia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/06/secretario-municipal-fiscais-propina-liberar-alvaras-sao-jose-diz-policia.ghtml",
-      "hora": "Fri, 06 Nov 2026 16:58:54 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Fernando de Noronha começa a distribuir autotestes gratuitos de HIV",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/11/06/fernando-de-noronha-comeca-a-distribuir-autotestes-gratuitos-de-hiv.ghtml",
-      "hora": "Fri, 06 Nov 2026 16:58:34 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Mãe que assassinou filhos transportou crianças mortas no carro até outra cidade para que familiares pudessem recolher corpos, diz delegado",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/06/mae-assassinato-filhos-parana-cometeu-crime-em-outra-cidade.ghtml",
-      "hora": "Fri, 06 Nov 2026 16:54:22 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Resumão diário #2220: Justiça autoriza três bets a voltar a funcionar em SP; Temores com IA derrubam mercados globais nesta sexta-feira e mais",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/11/06/resumao-diario-2220-justica-autoriza-tres-bets-a-voltar-a-funcionar-em-sp-temores-com-ia-derrubam-mercados-globais-nesta-sexta-feira-e-mais.ghtml",
-      "hora": "Fri, 06 Nov 2026 16:54:13 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: Jornal do Almoço Florianópolis de sexta-feira, 6 de novembro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/edicao/2026/11/06/videos-jornal-do-almoco-florianopolis-de-sexta-feira-6-de-novembro-de-2026.ghtml",
-      "hora": "Fri, 06 Nov 2026 16:53:45 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Estudante de Petrópolis supera 195 concorrentes e vence concurso cultural sobre a importância da água: 'Minha reação foi de chorar'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/11/06/estudante-de-petropolis-supera-195-concorrentes-e-vence-concurso-cultural-sobre-a-importancia-da-agua-minha-reacao-foi-de-chorar.ghtml",
-      "hora": "Fri, 06 Nov 2026 16:51:38 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Entenda como corpo de jovem que sofreu golpe e gravou vídeo chorando foi identificado pela falange",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/06/entenda-como-corpo-de-jovem-que-sofreu-golpe-e-gravou-video-chorando-foi-identificado-pela-falange.ghtml",
-      "hora": "Fri, 06 Nov 2026 16:51:05 -0000",
+      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/06/mega-sena-concurso-3082-confira-os-numeros-sorteados.ghtml",
+      "hora": "Sat, 07 Nov 2026 00:26:25 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Operação da PF bloqueia mais de R$ 1 milhão de quadrilha suspeita de tráfico internacional e exploração sexual de mulheres",
+      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de sexta-feira, 06 de novembro de 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/06/operacao-da-pf-bloqueia-r-1-milhao-de-quadrilha-investigada-por-trafico-internacional-de-mulheres.ghtml",
-      "hora": "Fri, 06 Nov 2026 16:48:30 -0000",
+      "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-sexta-feira-06-de-novembro-de-2026.ghtml",
+      "hora": "Sat, 07 Nov 2026 00:18:44 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem vai registrar BO em delegacia e acaba preso em SC",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/06/homem-registrar-bo-delegacia-acaba-preso-nova-erechim.ghtml",
+      "hora": "Sat, 07 Nov 2026 00:17:57 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Nova onda de ameaças de bomba espalha tensão pela Europa",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/06/nova-onda-de-ameacas-de-bomba-espalha-tensao-pela-europa.ghtml",
+      "hora": "Sat, 07 Nov 2026 00:15:52 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultados das Loterias Caixa",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "hora": "Sat, 07 Nov 2026 00:14:01 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: Jornal do Acre 2ª Edição desta sexta-feira, 6 de novembro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-sexta-feira-6-de-novembro-de-2026.ghtml",
+      "hora": "Sat, 07 Nov 2026 00:05:30 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'Minha alma saiu e voltou pro corpo', diz carregador que estava em prédio que desabou no Brás, em SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/06/minha-alma-saiu-e-voltou-pro-corpo-diz-carregador-que-estava-em-predio-que-desabou-no-bras-em-sp.ghtml",
+      "hora": "Sat, 07 Nov 2026 00:04:33 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Milhares de brasileiros que vivem no Paraguai enfrentam as consequências do fim das atividades do Ueno Bank",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/06/milhares-de-brasileiros-que-vivem-no-paraguai-enfrentam-as-consequencias-do-fim-das-atividades-do-ueno-bank.ghtml",
+      "hora": "Fri, 06 Nov 2026 23:58:49 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEO: motociclista morre atropelada por táxi após batida em cruzamento na Bahia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/06/motociclista-morre-na-bahia.ghtml",
+      "hora": "Fri, 06 Nov 2026 23:58:23 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Familiares de médica assassinada protestam em frente de hospital onde procurador está internado no Acre",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/06/familiares-de-medica-assassinada-protestam-em-frente-de-hospital-onde-procurador-esta-internado-no-acre.ghtml",
+      "hora": "Fri, 06 Nov 2026 23:56:54 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Presidente destituído do Paraguai, Santiago Peña é preso em Assunção",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/06/presidente-destituido-do-paraguai-santiago-pena-e-preso-em-assuncao.ghtml",
+      "hora": "Fri, 06 Nov 2026 23:49:17 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Encontro reúne mais de 500 pastores de 50 países em São José dos Campos",
+      "titulo": "Motorista de carro de luxo morre após veículo sair da pista e bater em árvores em Florianópolis",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/06/encontro-reune-mais-de-500-pastores-de-50-paises-em-sao-jose-dos-campos.ghtml",
-      "hora": "Fri, 06 Nov 2026 16:47:59 -0000",
-      "tema": "cultura",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/06/motorista-carro-luxo-morre-sair-pista-bater-arvores-florianopolis.ghtml",
+      "hora": "Fri, 06 Nov 2026 23:44:14 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Com 80 vagas, Ufac divulga edital do vestibular de medicina 2027; VEJA regras",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/06/com-80-vagas-ufac-divulga-edital-do-vestibular-de-medicina-2027-veja-regras.ghtml",
+      "hora": "Fri, 06 Nov 2026 23:34:30 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem é preso após ameaçar estudantes com canivete em frente a escola no litoral de SP  ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/06/homem-e-preso-apos-ameacar-estudantes-com-canivete-em-frente-a-escola-no-litoral-de-sp.ghtml",
+      "hora": "Fri, 06 Nov 2026 23:20:23 -0000",
+      "tema": "sp",
       "resumo": null
     },
     {
@@ -248,11 +240,43 @@
       "resumo": null
     },
     {
+      "titulo": "Congresso do Paraguai aprova impeachment de Santiago Peña após crise com banco digital",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 07 Nov 2026 00:10:58 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "'Meu medo é o governo Lula buscar atalhos e brigar com o mercado': por que professor de Cambridge defende ajuste fiscal 'suave'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cqglww4xw40do?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 06 Nov 2026 10:14:09 GMT",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Bets voltaram? Entenda as decisões da Justiça sobre as casas de apostas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq99zz57d872o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 06 Nov 2026 23:43:32 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O que diz a ação no TSE que pede cassação da chapa de Lula e Alckmin",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm2kee89j7p1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 06 Nov 2026 20:22:09 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Papa no Uruguai, Argentina e Peru: como a Igreja Católica tem se posicionado na América Latina?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cv0ldd4dj27po?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 06 Nov 2026 22:44:20 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -264,10 +288,10 @@
       "resumo": null
     },
     {
-      "titulo": "Santiago Peña sofrerá impeachment após renunciar no Paraguai? Entenda os próximos passos",
+      "titulo": "O erro mais comum na redação do Enem e como evitar que ele derrube sua nota",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 06 Nov 2026 15:31:47 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c639887442yyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 06 Nov 2026 18:11:06 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -277,38 +301,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c804064l5ppyo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 06 Nov 2026 01:56:13 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "'Fiz um teste para saber se minha vida seria curta — e isso me transformou'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwe8lekndk1mo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 06 Nov 2026 08:34:52 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Cara de ferritina': é possível detectar a falta de ferro no organismo pelo rosto?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crly0vp21e9no?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 06 Nov 2026 08:54:23 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Grandes empresas de IA deveriam ser fechadas, defende autor de livro sobre ameaça apocalíptica das máquinas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cred7d1z1x24o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 05 Nov 2026 21:01:33 GMT",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que Kim Kardashian voltou para o 'pior drama da história da TV'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqy0rz40zep0o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 05 Nov 2026 23:06:11 GMT",
-      "tema": "entretenimento",
       "resumo": null
     },
     {
