@@ -1,106 +1,122 @@
 {
-  "gerado_em": "2026-11-09T00:32:27.822Z",
+  "gerado_em": "2026-11-09T20:24:10.032Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 19.4,
-    "min": 14,
-    "chuva": 100
+    "max": 17.2,
+    "min": 13,
+    "chuva": 16
   },
   "noticias": [
     {
-      "titulo": "Lula diz que reforma política e do Judiciário é urgente: 'Hora da Justiça brasileira recuperar a sua credibilidade'",
+      "titulo": "Dupla é presa após 'dar grau' e tentar fugir da PM em MT",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/08/lula-diz-que-reforma-politica-e-do-judiciario-e-urgente-hora-da-justica-brasileira-recuperar-a-sua-credibilidade.ghtml",
-      "hora": "Mon, 09 Nov 2026 00:07:02 -0000",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/09/dupla-e-presa-apos-dar-grau-e-tentar-fugir-da-pm-em-mt.ghtml",
+      "hora": "Mon, 09 Nov 2026 20:06:23 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: Correção do Enem 2026 - Redação, Inglês, Espanhol, História, Filosofia, Sociologia, Geografia",
+      "titulo": "Anthropic, criadora do Claude, lança IA mais potente e barata a uma semana de possível estreia na bolsa",
       "fonte": "G1",
-      "link": "https://g1.globo.com/educacao/enem/2026/playlist/videos-correcao-do-enem-2026-redacao-ingles-espanhol-historia-filosofia-sociologia-geografia.ghtml",
-      "hora": "Mon, 09 Nov 2026 00:02:34 -0000",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/09/anthropic-lanca-ia-bolsa.ghtml",
+      "hora": "Mon, 09 Nov 2026 20:05:55 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Candidatos do Enem em Manaus relatam nervosismo, estudos em jornadas noturnas e sonho de ingressar em curso superior",
+      "titulo": "VÍDEO: transporte de aeronave em carreta até aeroporto chama atenção em avenida de Sorocaba",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/08/candidatos-do-enem-em-manaus-relatam-nervosismo-estudos-em-jornadas-noturnas-e-sonho-de-ingressar-em-curso-superior.ghtml",
-      "hora": "Sun, 08 Nov 2026 23:47:53 -0000",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/09/transporte-de-aeronave-em-carreta-ate-aeroporto-chama-atencao-em-avenida-de-sorocaba.ghtml",
+      "hora": "Mon, 09 Nov 2026 20:04:34 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Lei determina que lojas do MA mantenham telas dos caixas visíveis aos consumidores",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/09/lei-determina-que-lojas-do-ma-mantenham-telas-dos-caixas-visiveis-aos-consumidores.ghtml",
+      "hora": "Mon, 09 Nov 2026 20:04:30 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "'Eu estava só brincando', diz Trump sobre convite a presidente do UFC para cargo na Casa Branca",
+      "titulo": "Rubio sai em defesa do chefe do Pentágono após pedido de impeachment: 'Acho injusto'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/08/trump-estava-brincando-convite-presidente-ufc-dana-white-cargo-casa-branca.ghtml",
-      "hora": "Sun, 08 Nov 2026 23:33:29 -0000",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/09/rubio-comenta-pedido-de-impeachment-contra-chefe-do-pentagono-acho-injusto.ghtml",
+      "hora": "Mon, 09 Nov 2026 20:04:19 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Lula diz que se preocupa com dívida pública e juros e reafirma responsabilidade fiscal",
+      "titulo": "Corte do Carnaval 2027 de Juiz de Fora é eleita: veja os vencedores",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/08/lula-fala-em-pronunciamento-em-rede-nacional-de-radio-e-tv.ghtml",
-      "hora": "Sun, 08 Nov 2026 23:30:43 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/09/corte-do-carnaval-2027-de-juiz-de-fora-e-eleita-veja-os-vencedores.ghtml",
+      "hora": "Mon, 09 Nov 2026 20:03:16 -0000",
+      "tema": "entretenimento",
       "resumo": null
     },
     {
-      "titulo": "Isso é Fantástico — Manila Norte: o cemitério dos vivos",
+      "titulo": "Secretário de Turismo de Santa Cruz do Rio Pardo pede exoneração após denúncia sobre uso de verba pública",
       "fonte": "G1",
-      "link": "https://g1.globo.com/fantastico/podcast/isso-e-fantastico/noticia/2026/11/08/isso-e-fantastico-manila-norte-o-cemiterio-dos-vivos.ghtml",
-      "hora": "Sun, 08 Nov 2026 23:18:26 -0000",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/09/secretario-de-turismo-de-santa-cruz-do-rio-pardo-pede-exoneracao-apos-denuncia-sobre-uso-de-verba-publica.ghtml",
+      "hora": "Mon, 09 Nov 2026 20:03:14 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "'Povo começou a se desesperar', diz candidato do Enem após interrupção de prova por risco de incêndio no Amapá",
+      "titulo": "Quando sai o gabarito oficial do Enem? E a nota da redação? ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/08/povo-comecou-a-se-desesperar-diz-candidato-do-enem-apos-interrupcao-de-prova-por-risco-de-incendio-no-amapa.ghtml",
-      "hora": "Sun, 08 Nov 2026 23:08:13 -0000",
+      "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/09/quando-sai-o-gabarito-oficial-do-enem-e-a-nota-da-redacao.ghtml",
+      "hora": "Mon, 09 Nov 2026 20:02:44 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Cratera aumenta de tamanho após chuva e atinge canteiro central em frente à Prefeitura de Itapeva",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/09/cratera-aumenta-de-tamanho-apos-chuva-e-atinge-canteiro-central-em-frente-a-prefeitura-de-itapeva.ghtml",
+      "hora": "Mon, 09 Nov 2026 20:01:50 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Enem 2026: reaplicação é prevista em 39 locais após falta de luz",
+      "titulo": "Estudantes do interior de Rondônia aprendem a transformar desenhos em animações em oficina de cinema",
       "fonte": "G1",
-      "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/08/enem-2026-balanco-primeiro-dia.ghtml",
-      "hora": "Sun, 08 Nov 2026 23:08:03 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "'Não me lembro de nada', diz PM que atirou contra grupo de amigos e matou mulher no DF; veja VÍDEO",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/08/nao-me-lembro-de-nada-diz-pm-que-atirou-contra-grupo-de-amigos-e-matou-mulher-veja-video.ghtml",
-      "hora": "Sun, 08 Nov 2026 23:03:43 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Ave rosa com bico de colher vence eleição e vira símbolo de cidade do litoral de SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/08/ave-rosa-com-bico-de-colher-vence-eleicao-e-vira-simbolo-de-cidade-do-litoral-de-sp.ghtml",
-      "hora": "Sun, 08 Nov 2026 23:00:01 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Gabarito Enem 2026 1º dia prova verde extraoficial e correção das provas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/08/gabarito-enem-2026-1o-dia-prova-verde-extraoficial-e-correcao-das-provas.ghtml",
-      "hora": "Sun, 08 Nov 2026 22:53:34 -0000",
+      "link": "https://g1.globo.com/ro/rondonia/noticia/2026/11/09/estudantes-do-interior-de-rondonia-aprendem-a-transformar-desenhos-em-animacoes-em-oficina-de-cinema.ghtml",
+      "hora": "Mon, 09 Nov 2026 20:01:44 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Gabarito prova amarela Enem 2026 extraoficial e correção das provas",
+      "titulo": "Saiba os bairros, dias e horários do racionamento de água na Grande Aracaju",
       "fonte": "G1",
-      "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/08/gabarito-prova-amarela-enem-2026-extraoficial-e-correcao-das-provas.ghtml",
-      "hora": "Sun, 08 Nov 2026 22:51:32 -0000",
+      "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/09/dias-horarios-racionamento-de-agua-grande-aracaju.ghtml",
+      "hora": "Mon, 09 Nov 2026 20:00:01 -0000",
       "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "TV 3.0: Proeletronic explica o que muda para o consumidor e como se preparar",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/proeletronic-proeletronic-tecnologia-e-inovacao/noticia/2026/11/09/tv-30-proeletronic-explica-o-que-muda-para-o-consumidor-e-como-se-preparar.ghtml",
+      "hora": "Mon, 09 Nov 2026 20:00:00 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição-TO de segunda-feira, 09 de novembro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-1-edicao-to-de-segunda-feira-09-de-novembro-de-2026.ghtml",
+      "hora": "Mon, 09 Nov 2026 19:59:35 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Grupo Marbor consolida empreendimentos como referências em Mogi das Cruzes",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/especial-publicitario/marbor/noticia/2026/11/09/grupo-marbor-consolida-empreendimentos-como-referencias-em-mogi-das-cruzes.ghtml",
+      "hora": "Mon, 09 Nov 2026 19:58:29 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
@@ -224,43 +240,91 @@
       "resumo": null
     },
     {
-      "titulo": "4 investigações que os democratas podem lançar contra Trump após conquistar o controle do Congresso",
+      "titulo": "'Quanto mais estudei a Bíblia, menos consegui acreditar': os teólogos que perderam a fé e se tornaram ateus",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqj34d80l1z4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 08 Nov 2026 17:29:21 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmd79wy45093o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 09 Nov 2026 16:36:14 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "As disputas internas no Partido Republicano após a derrota de Trump nas eleições de meio de mandato",
+      "titulo": "França acusa Irã pelos ataques hacker em refrigeradores de supermercados",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjzxl9zr6e36o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 09 Nov 2026 00:04:23 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c893z3ldzpz3o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 09 Nov 2026 16:58:10 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Nvidia abre investigação após relatos de que CEO teve caso com suposta espiã chinesa",
+      "titulo": "Fux suspende processos sobre proibição de bets em todo país; o que acontece agora",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/crwyq8zxew0no?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 08 Nov 2026 22:28:08 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c6n8d8x9ee17o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 09 Nov 2026 12:27:15 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O que se sabe sobre suposta espiã chinesa suspeita de ter affair com o CEO da Nvidia",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6g7x7r3399do?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 09 Nov 2026 19:36:32 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "'Meus pais escolheram morrer juntos — e eu fiquei sozinho com o luto'",
+      "titulo": "'Você está sendo anestesiado para ficar 9 horas por dia no celular', diz Ronaldo Lemos",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck5yn1lqv3xvo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 08 Nov 2026 19:45:39 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cw8rzlme6y1lo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 09 Nov 2026 17:40:34 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "COP31 começa sob alerta de que 2026 pode ser ano mais quente da história",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwgkvk10rpk3o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 09 Nov 2026 16:17:24 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Por que o corpo humano pode estar esfriando",
+      "titulo": "'Bolsa Rentista desequilibra contas, não o Bolsa Família'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqn8d3nd2pj8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 08 Nov 2026 20:39:29 GMT",
+      "link": "https://www.bbc.com/portuguese/watch/cwzd6dn6jvj6o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 09 Nov 2026 14:03:46 GMT",
       "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Como estouro de bolha da IA pode revelar os nossos segredos mais bem guardados",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6m24r3mj98ko?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 09 Nov 2026 09:58:57 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Cientistas descobrem planta gigante na Amazônia",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/watch/cqde8elj1pp9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 09 Nov 2026 13:51:26 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "O avanço do bolsonarismo no lugar onde o MST nasceu",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6pwg9950wxko?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 09 Nov 2026 09:00:54 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "O que acontece com o bolsonarismo com Flávio nos EUA?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/watch/c83vqv960zzyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 09 Nov 2026 19:28:02 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -272,75 +336,19 @@
       "resumo": null
     },
     {
-      "titulo": "As aves comedoras de crianças que moldaram nossa evolução na Idade da Pedra",
+      "titulo": "O que os números mostram sobre as alegações de fraude nas eleições",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c68xznw58znxo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 08 Nov 2026 18:58:01 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "A chilena obrigada a esperar que sua filha morresse no ventre: 'Você se sente como se fosse um carrasco'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c8ly0qde34kno?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 08 Nov 2026 18:19:44 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Queda do presidente do Paraguai acende alerta para direita na America Latina?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cj4g11ven5rpo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 08 Nov 2026 13:43:16 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Gadi Eisenkot: Quem é o principal rival de Netanyahu que pode se tornar novo primeiro-ministro de Israel?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cxe8r9gmj699o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 08 Nov 2026 12:00:43 GMT",
+      "link": "https://www.bbc.com/portuguese/watch/ck5ynyp4nj6wo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 09 Nov 2026 19:40:33 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Pressão de Trump sobre governo Lula não deve ser aliviada com vitória democrata, dizem analistas",
+      "titulo": "A escritora brasileira que virou sensação com romance sobre neandertais",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm78p04n78zno?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 05 Nov 2026 08:33:48 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem é o brasileiro eleito na Flórida que critica Flávio Bolsonaro e se inspira em Erika Hilton",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 05 Nov 2026 09:21:03 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem são os grandes vencedores e perdedores das eleições americanas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmd7q9ep09z8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 04 Nov 2026 23:24:52 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cwm24k534kr4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 07 Nov 2026 14:52:29 GMT",
       "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "4 dados que mostram o peso dos votos latinos na 'onda azul' das eleições nos EUA",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6x23z0n899zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 05 Nov 2026 20:28:04 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Os gráficos e mapas que mostram a magnitude do triunfo democrata",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvy0rzd2jr7jo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 04 Nov 2026 14:44:23 GMT",
-      "tema": "mundo",
       "resumo": null
     }
   ]
