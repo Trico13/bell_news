@@ -1,130 +1,106 @@
 {
-  "gerado_em": "2026-11-08T16:30:08.453Z",
+  "gerado_em": "2026-11-09T00:32:27.822Z",
   "modo": "palavras-chave",
   "clima": {
     "max": 19.4,
-    "min": 13.8,
+    "min": 14,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Entre a estreia e o recomeço, jovens de Petrolina enfrentam o primeiro dia do Enem 2026",
+      "titulo": "Lula diz que reforma política e do Judiciário é urgente: 'Hora da Justiça brasileira recuperar a sua credibilidade'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/11/08/enem-2026-petrolina-historias-candidatos-primeiro-dia.ghtml",
-      "hora": "Sun, 08 Nov 2026 16:21:54 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Mãe se emociona ao abraçar e desejar boa sorte para filha no Enem em Florianópolis: 'Esforço diário de 5 anos de cursinho'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/08/mae-se-emociona-abracar-desejar-boa-sorte-filha-enem-florianopolis.ghtml",
-      "hora": "Sun, 08 Nov 2026 16:19:58 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Vídeo: candidato corre e entra para fazer o Enem um minuto antes do fechamento dos portões em Teresina",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/ingresso-universitario/noticia/2026/11/08/video-candidato-corre-local-prova-enem.ghtml",
-      "hora": "Sun, 08 Nov 2026 16:19:05 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Mãe de Oruam deixa presídio e passa para prisão domiciliar por decisão do STF",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/08/mae-de-oruam-deixa-presidio-e-passa-para-prisao-domiciliar.ghtml",
-      "hora": "Sun, 08 Nov 2026 16:14:27 -0000",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/08/lula-diz-que-reforma-politica-e-do-judiciario-e-urgente-hora-da-justica-brasileira-recuperar-a-sua-credibilidade.ghtml",
+      "hora": "Mon, 09 Nov 2026 00:07:02 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Cinco pessoas morreram em ocorrências violentas entre sábado e domingo em Salvador",
+      "titulo": "VÍDEOS: Correção do Enem 2026 - Redação, Inglês, Espanhol, História, Filosofia, Sociologia, Geografia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/08/cinco-pessoas-morreram-em-ocorrencias-violentas-entre-sabado-e-domingo-em-salvador.ghtml",
-      "hora": "Sun, 08 Nov 2026 16:13:37 -0000",
+      "link": "https://g1.globo.com/educacao/enem/2026/playlist/videos-correcao-do-enem-2026-redacao-ingles-espanhol-historia-filosofia-sociologia-geografia.ghtml",
+      "hora": "Mon, 09 Nov 2026 00:02:34 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Mega-Sena 3083: Aposta simples de Aracaju acerta quina e fatura R$ 23 mil",
+      "titulo": "Candidatos do Enem em Manaus relatam nervosismo, estudos em jornadas noturnas e sonho de ingressar em curso superior",
       "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/08/mega-sena-3083-aposta-simples-de-aracaju-acerta-quina-e-fatura-r-23-mil.ghtml",
-      "hora": "Sun, 08 Nov 2026 16:12:36 -0000",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/08/candidatos-do-enem-em-manaus-relatam-nervosismo-estudos-em-jornadas-noturnas-e-sonho-de-ingressar-em-curso-superior.ghtml",
+      "hora": "Sun, 08 Nov 2026 23:47:53 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "'Eu estava só brincando', diz Trump sobre convite a presidente do UFC para cargo na Casa Branca",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/08/trump-estava-brincando-convite-presidente-ufc-dana-white-cargo-casa-branca.ghtml",
+      "hora": "Sun, 08 Nov 2026 23:33:29 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Lula diz que se preocupa com dívida pública e juros e reafirma responsabilidade fiscal",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/08/lula-fala-em-pronunciamento-em-rede-nacional-de-radio-e-tv.ghtml",
+      "hora": "Sun, 08 Nov 2026 23:30:43 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Mãe retira três filhos de casa após desabamento em Arraial do Cabo: 'Tudo desmoronando e eu tentando salvar meus filhos'",
+      "titulo": "Isso é Fantástico — Manila Norte: o cemitério dos vivos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/08/mae-retira-tres-filhos-de-casa-apos-desabamento-em-arraial-do-cabo-tudo-desmoronando-e-eu-tentando-salvar-meus-filhos.ghtml",
-      "hora": "Sun, 08 Nov 2026 16:12:16 -0000",
+      "link": "https://g1.globo.com/fantastico/podcast/isso-e-fantastico/noticia/2026/11/08/isso-e-fantastico-manila-norte-o-cemiterio-dos-vivos.ghtml",
+      "hora": "Sun, 08 Nov 2026 23:18:26 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Cegonheira e caminhão pegam fogo após acidente na Fernão Dias; rodovia foi interditada",
+      "titulo": "'Povo começou a se desesperar', diz candidato do Enem após interrupção de prova por risco de incêndio no Amapá",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/08/batida-incendio-fernao-dias-mg.ghtml",
-      "hora": "Sun, 08 Nov 2026 16:10:29 -0000",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/08/povo-comecou-a-se-desesperar-diz-candidato-do-enem-apos-interrupcao-de-prova-por-risco-de-incendio-no-amapa.ghtml",
+      "hora": "Sun, 08 Nov 2026 23:08:13 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Inmet emite alerta de baixa umidade do ar para quase 150 cidades da Paraíba; veja locais sob risco",
+      "titulo": "Enem 2026: reaplicação é prevista em 39 locais após falta de luz",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/08/inmet-emite-alerta-de-baixa-umidade-do-ar-para-quase-150-cidades-da-paraiba-veja-locais-sob-risco.ghtml",
-      "hora": "Sun, 08 Nov 2026 16:09:22 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/08/enem-2026-balanco-primeiro-dia.ghtml",
+      "hora": "Sun, 08 Nov 2026 23:08:03 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "‘Medo de ficar com fome’: adolescente leva oito lanches, energético e água para prova do Enem no PI",
+      "titulo": "'Não me lembro de nada', diz PM que atirou contra grupo de amigos e matou mulher no DF; veja VÍDEO",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/ingresso-universitario/noticia/2026/11/08/lanches-energetico-e-agua-enem-no-pi.ghtml",
-      "hora": "Sun, 08 Nov 2026 16:07:59 -0000",
-      "tema": "cultura",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/08/nao-me-lembro-de-nada-diz-pm-que-atirou-contra-grupo-de-amigos-e-matou-mulher-veja-video.ghtml",
+      "hora": "Sun, 08 Nov 2026 23:03:43 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Mãe acompanha filho autista que faz Enem para tentar vaga na universidade em Belém",
+      "titulo": "Ave rosa com bico de colher vence eleição e vira símbolo de cidade do litoral de SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/08/mae-acompanha-filho-autista-que-faz-enem-para-tentar-vaga-na-universidade-em-belem.ghtml",
-      "hora": "Sun, 08 Nov 2026 16:07:22 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Alagoana de 86 anos faz Enem para realizar sonho de cursar Direito e ser delegada",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/al/alagoas/noticia/2026/11/08/alagoana-de-86-anos-faz-enem-para-realizar-sonho-de-cursar-direito-e-ser-delegada.ghtml",
-      "hora": "Sun, 08 Nov 2026 16:06:56 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Asfalto cede e cratera 'engole' carro de motorista de aplicativo em Bauru",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/08/asfalto-cede-e-cratera-engole-carro-de-motorista-de-aplicativo-em-bauru.ghtml",
-      "hora": "Sun, 08 Nov 2026 16:06:07 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Falso policial ambiental é condenado por golpes de mais de R$ 100 mil no interior de SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/08/falso-policial-ambiental-e-condenado-por-golpes-de-mais-de-r-100-mil-no-interior-de-sp.ghtml",
-      "hora": "Sun, 08 Nov 2026 16:04:55 -0000",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/08/ave-rosa-com-bico-de-colher-vence-eleicao-e-vira-simbolo-de-cidade-do-litoral-de-sp.ghtml",
+      "hora": "Sun, 08 Nov 2026 23:00:01 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Menina de 3 anos morre após ser baleada pela irmã de 5 em Guaratiba, na Zona Oeste do Rio",
+      "titulo": "Gabarito Enem 2026 1º dia prova verde extraoficial e correção das provas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/08/menina-morre-apos-ser-baleada-em-guaratiba.ghtml",
-      "hora": "Sun, 08 Nov 2026 16:03:11 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/08/gabarito-enem-2026-1o-dia-prova-verde-extraoficial-e-correcao-das-provas.ghtml",
+      "hora": "Sun, 08 Nov 2026 22:53:34 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Gabarito prova amarela Enem 2026 extraoficial e correção das provas",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/08/gabarito-prova-amarela-enem-2026-extraoficial-e-correcao-das-provas.ghtml",
+      "hora": "Sun, 08 Nov 2026 22:51:32 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -248,11 +224,67 @@
       "resumo": null
     },
     {
+      "titulo": "4 investigações que os democratas podem lançar contra Trump após conquistar o controle do Congresso",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqj34d80l1z4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 08 Nov 2026 17:29:21 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "As disputas internas no Partido Republicano após a derrota de Trump nas eleições de meio de mandato",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cjzxl9zr6e36o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 09 Nov 2026 00:04:23 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Nvidia abre investigação após relatos de que CEO teve caso com suposta espiã chinesa",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crwyq8zxew0no?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 08 Nov 2026 22:28:08 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'Meus pais escolheram morrer juntos — e eu fiquei sozinho com o luto'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck5yn1lqv3xvo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 08 Nov 2026 19:45:39 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que o corpo humano pode estar esfriando",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqn8d3nd2pj8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 08 Nov 2026 20:39:29 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Por que mulheres podem estar por trás da vitória de Lula nas eleições",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c3pwg9x8r947o?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 08 Nov 2026 09:22:52 GMT",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "As aves comedoras de crianças que moldaram nossa evolução na Idade da Pedra",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c68xznw58znxo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 08 Nov 2026 18:58:01 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "A chilena obrigada a esperar que sua filha morresse no ventre: 'Você se sente como se fosse um carrasco'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c8ly0qde34kno?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 08 Nov 2026 18:19:44 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -269,62 +301,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cxe8r9gmj699o?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 08 Nov 2026 12:00:43 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Futuro de refúgio de Hitler incendiado gera debate na Alemanha sobre o passado nazista",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c9gkvl8g1z0ko?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 08 Nov 2026 15:11:02 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Fomos abandonados em sacolas quando éramos bebês e descobrimos, décadas depois, que éramos irmãos'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmlyk0zldgxdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 08 Nov 2026 16:13:32 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Atirador deixa 6 mortos e vários feridos em praça no centro de Cracóvia, na Polônia; o que se sabe",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm5yn1gyv07no?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 08 Nov 2026 09:27:54 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Como é o bairro humilde abalado pela violência visitado pelo papa Leão 14 na capital do Uruguai",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6m2dlk7z4rjo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 08 Nov 2026 01:05:11 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Eu não sabia que tinha deficiência de vitamina D até desmaiar no trabalho'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvze47gk0ll2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 08 Nov 2026 10:11:16 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "O que derrota de Trump nas eleições legislativas significa para a disputa da Presidência dos EUA em 2028",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3gr88p29z28o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 07 Nov 2026 17:33:43 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Dana, por favor, aceite o cargo!': Trump convida presidente do UFC para ser secretário de imprensa da Casa Branca",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c623dj01rkero?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 07 Nov 2026 22:36:53 GMT",
-      "tema": "mundo",
       "resumo": null
     },
     {
