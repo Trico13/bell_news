@@ -1,129 +1,129 @@
 {
-  "gerado_em": "2026-11-10T03:09:28.731Z",
+  "gerado_em": "2026-11-10T17:29:48.000Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 22.2,
-    "min": 12.2,
-    "chuva": 6
+    "max": 23.5,
+    "min": 12.1,
+    "chuva": 26
   },
   "noticias": [
     {
-      "titulo": "Em todo Brasil, 39 locais de prova do Enem são afetados pela queda de energia, causada por temporais",
+      "titulo": "Saiba quais os 40 bairros que podem ficar sem água por três dias em Porto Alegre",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/09/em-todo-brasil-39-locais-de-prova-do-enem-sao-afetados-pela-queda-de-energia-causada-por-temporais.ghtml",
-      "hora": "Tue, 10 Nov 2026 02:06:42 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Atendimento móvel da Âmbar Energia chega a dez bairros de Manaus nesta semana; veja locais e datas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/11/09/atendimento-movel-da-ambar-energia-chega-a-dez-bairros-de-manaus-nesta-semana.ghtml",
-      "hora": "Tue, 10 Nov 2026 01:55:45 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Filipinas suspendem importações de carne suína; país asiático é o principal comprador do produto brasileiro",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/09/filipinas-suspende-importacoes-de-carne-suina-pais-asiatico-e-o-principal-comprador-do-produto-brasileiro.ghtml",
-      "hora": "Tue, 10 Nov 2026 01:51:40 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Chuvas fortes reduzem produção de trigo e Brasil terá que aumentar em 20% a importação do cereal para atender demanda interna",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/09/chuvas-fortes-reduzem-producao-de-trigo-e-brasil-tera-que-aumentar-em-20percent-a-importacao-do-cereal-para-atender-a-demanda-interna.ghtml",
-      "hora": "Tue, 10 Nov 2026 01:34:24 -0000",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/10/40-bairros-sem-agua-porto-alegre.ghtml",
+      "hora": "Tue, 10 Nov 2026 17:19:17 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Governo prorroga desoneração da gasolina e do etanol por mais 30 dias",
+      "titulo": "Moradores deixam imóvel após desabamento em Coronel Fabriciano",
       "fonte": "G1",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/09/governo-prorroga-deseneracao-da-gasolina-e-do-etanol-por-mais-30-dias.ghtml",
-      "hora": "Tue, 10 Nov 2026 01:34:09 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Pantanal está alagando cada vez menos, afirma estudo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/09/pantanal-esta-alagando-cada-vez-menos-afirma-estudo.ghtml",
-      "hora": "Tue, 10 Nov 2026 01:26:21 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "PM apreende drogas escondidas no alto de árvore em Santo Antônio de Pádua",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/09/pm-apreende-drogas-escondidas-no-alto-de-arvore-em-santo-antonio-de-padua.ghtml",
-      "hora": "Tue, 10 Nov 2026 01:20:00 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "COP31: ONU afirma que países precisam fazer mais para conter aquecimento do planeta",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/09/cop31-onu-afirma-que-paises-precisam-fazer-mais-para-conter-aquecimento-do-planeta.ghtml",
-      "hora": "Tue, 10 Nov 2026 01:18:50 -0000",
+      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/10/moradores-deixam-imovel-apos-desabamento-em-coronel-fabriciano.ghtml",
+      "hora": "Tue, 10 Nov 2026 17:18:58 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Arthur Henrique anuncia ex-procuradora de Boa Vista para Secretaria de Planejamento",
+      "titulo": "Motorista de Camaro que atingiu e matou motociclista na Anhanguera nega consumo de álcool e excesso de velocidade em depoimento",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/09/arthur-henrique-anuncia-ex-procuradora-de-boa-vista-para-secretaria-de-planejamento.ghtml",
-      "hora": "Tue, 10 Nov 2026 01:04:38 -0000",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/10/motorista-de-camaro-que-atingiu-e-matou-motociclista-na-anhanguera-nega-consumo-de-alcool-e-excesso-de-velocidade-em-depoimento.ghtml",
+      "hora": "Tue, 10 Nov 2026 17:17:12 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Papa Leão XIV reúne mais de 2,5 milhões de fiéis em Buenos Aires",
+      "titulo": "Sem salário e proibidos de sair: como viviam 17 paraguaios resgatados em situação de trabalho escravo no interior de SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/09/papa-leao-xiv-reune-mais-de-25-milhoes-de-fieis-em-buenos-aires.ghtml",
-      "hora": "Tue, 10 Nov 2026 01:03:52 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Festival traz o Japão para Campo Grande com shows, cosplay e oficinas de culinária oriental ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/09/festival-traz-o-japao-para-campo-grande-com-shows-cosplay-e-oficinas-de-culinaria-oriental.ghtml",
-      "hora": "Tue, 10 Nov 2026 00:59:58 -0000",
+      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/11/10/sem-salario-e-proibidos-de-sair-como-viviam-17-paraguaios-resgatados-em-situacao-de-trabalho-escravo-no-interior-de-sp.ghtml",
+      "hora": "Tue, 10 Nov 2026 17:16:50 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Homem fica ferido após ataque a tiros em Resende",
+      "titulo": "É #FATO: Foto mostra papa Leão XIV segurando carne em churrasco no Uruguai; veja imagem",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/09/homem-fica-ferido-apos-ataque-a-tiros-em-resende.ghtml",
-      "hora": "Tue, 10 Nov 2026 00:52:05 -0000",
+      "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/11/10/e-fato-foto-mostra-papa-leao-xiv-segurando-carne-em-churrasco-no-uruguai-veja-imagem.ghtml",
+      "hora": "Tue, 10 Nov 2026 17:16:46 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Polícia de Goiás prende 9 suspeitos de movimentar R$ 10 bilhões em apostas ilegais e fraudes eletrônicas",
+      "titulo": "Sargento reformado da PM presta depoimento sobre morte de jovem baleada em posto no MA",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/09/policia-de-goias-prende-9-suspeitos-de-movimentar-r-10-bilhoes-em-apostas-ilegais-e-fraudes-eletronicas.ghtml",
-      "hora": "Tue, 10 Nov 2026 00:50:31 -0000",
-      "tema": "checagem",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/10/sargento-reformado-da-pm-presta-depoimento-sobre-morte-de-jovem-baleada-em-posto-no-ma.ghtml",
+      "hora": "Tue, 10 Nov 2026 17:13:38 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Inscrições para concurso da Marinha com salários de R$ 9 mil acabam nesta terça-feira",
+      "titulo": "Adolescente de 16 anos é detido após ser filmado ao espancar cachorro em Cajuru, SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/11/09/inscricoes-para-concurso.ghtml",
-      "hora": "Tue, 10 Nov 2026 00:46:24 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/10/jovem-flagrado-por-cameras-ao-espancar-filhote-de-cachorro-em-cajuru-sp-e-detido-pela-policia.ghtml",
+      "hora": "Tue, 10 Nov 2026 17:13:10 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Super Sete hoje: resultado do concurso 920 e números sorteados",
+      "titulo": "Funai reconhece estudos de duas terras indígenas com áreas no AM; territórios somam 1,5 milhão de hectares",
       "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/super-sete/noticia/2026/11/09/super-sete-hoje-resultado-do-concurso-920-e-numeros-sorteados.ghtml",
-      "hora": "Tue, 10 Nov 2026 00:45:57 -0000",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/10/funai-reconhece-estudos-de-duas-terras-indigenas-com-areas-no-am-territorios-somam-15-milhao-de-hectares.ghtml",
+      "hora": "Tue, 10 Nov 2026 17:12:41 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Temporal no Crato danifica estrutura do Geopark Araripe: 'grande avaria'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ce/ceara/cariri/noticia/2026/11/10/temporal-no-crato-danifica-estrutura-do-geopark-araripe-grande-avaria.ghtml",
+      "hora": "Tue, 10 Nov 2026 17:12:22 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Preso por matar companheira tinha histórico de agressões; filho de 4 anos encontrou a mãe morta e pediu ajuda",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/10/preso-por-matar-companheira-tinha-historico-de-agressoes-filho-de-4-anos-encontrou-a-mae-morta-e-pediu-ajuda.ghtml",
+      "hora": "Tue, 10 Nov 2026 17:08:56 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Itapeva inicia desinfecção de reservatórios após identificar parasita na água; bairros podem ser afetados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/10/itapeva-inicia-desinfeccao-de-reservatorios-apos-identificar-parasita-na-agua-bairros-podem-ser-afetados.ghtml",
+      "hora": "Tue, 10 Nov 2026 17:07:34 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: EPTV 1 Sul de Minas de terça-feira, 10 de novembro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/11/10/videos-eptv-1-sul-de-minas-de-terca-feira-10-de-novembro-de-2026.ghtml",
+      "hora": "Tue, 10 Nov 2026 17:04:56 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Vão Livre do MASP: programação gratuita em novembro tem show de Paola Ribeiro cantando Björk, cinema, espetáculo infantil e mais",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/10/vao-livre-do-masp-programacao-gratuita-em-novembro.ghtml",
+      "hora": "Tue, 10 Nov 2026 17:01:36 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Resumão diário #2224: PF no Rio mira grupo que tentou aliciar funcionário para furtar livros raros; Mulher é atropelada por criminoso durante roubo de carro em SP e mais",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/11/10/resumao-diario-2224-pf-no-rio-mira-grupo-que-tentou-aliciar-funcionario-para-furtar-livros-raros-mulher-e-atropelada-por-criminoso-durante-roubo-de-carro-em-sp-e-mais.ghtml",
+      "hora": "Tue, 10 Nov 2026 17:01:01 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "MPRJ denuncia 11 pessoas por tráfico de drogas e domínio territorial em Volta Redonda",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/10/mprj-denuncia-11-pessoas-por-trafico-de-drogas-e-dominio-territorial-em-volta-redonda.ghtml",
+      "hora": "Tue, 10 Nov 2026 17:00:21 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -248,11 +248,67 @@
       "resumo": null
     },
     {
-      "titulo": "'Quanto mais estudei a Bíblia, menos consegui acreditar': os teólogos que perderam a fé e se tornaram ateus",
+      "titulo": "Brasil não deveria aumentar o salário mínimo, mas se livrar dele, diz o economista John Cochrane",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmd79wy45093o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 09 Nov 2026 16:36:14 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c5pvgv1x940xo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 10 Nov 2026 16:39:55 GMT",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Vídeo de FHC em casa é investigado pela polícia: o que se sabe sobre imagens",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6y43492vrzxo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 10 Nov 2026 13:06:00 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "O novo esconderijo da cocaína no Porto de Santos",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ckzd622ryd0do?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 10 Nov 2026 08:25:44 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Sobrevivente de Epstein diz que executivo que segue ativo em agência de modelos a enviou para casa do abusador",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck87z72lje93o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 10 Nov 2026 14:58:13 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Quem é o autor brasileiro que foi parar na lista de livros imperdíveis do New York Times",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqe9lek89jgzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 10 Nov 2026 16:20:40 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que infidelidade do chefe da Nvidia com suposta espiã da China preocupa EUA e o setor de IA",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crlykyp7w1kzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 10 Nov 2026 09:24:11 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'Quase morri depois de uma dor de dente virar sepse e causar uma doença cardíaca rara'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cv62y2ep56k8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 10 Nov 2026 11:34:29 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Lara Resende: 'Bolsa Rentista desequilibra contas, não o Bolsa Família'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/watch/cwzd6dn6jvj6o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 09 Nov 2026 14:03:46 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -264,18 +320,10 @@
       "resumo": null
     },
     {
-      "titulo": "O que se sabe sobre suposta espiã chinesa suspeita de ter affair com o CEO da Nvidia",
+      "titulo": "O avanço do bolsonarismo no lugar onde o MST nasceu",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6g7x7r3399do?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 09 Nov 2026 19:36:32 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Trump questiona integridade das eleições de meio de mandato após ter aceitado os resultados anteriormente",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq3696x6xrkjo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 09 Nov 2026 20:39:03 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c6pwg9950wxko?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 09 Nov 2026 09:00:54 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -285,46 +333,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c6n8d8x9ee17o?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 09 Nov 2026 12:27:15 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Victoria colombiana: a fascinante descoberta de uma vitória-régia gigante na América do Sul que pode ser vista do espaço",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmdx3xz3x6x9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 09 Nov 2026 21:16:17 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "França acusa Irã pelos ataques hacker em refrigeradores de supermercados",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c893z3ldzpz3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 09 Nov 2026 16:58:10 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "COP31 começa sob alerta de que 2026 pode ser ano mais quente da história",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwgkvk10rpk3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 09 Nov 2026 16:17:24 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Bolsa Rentista desequilibra contas, não o Bolsa Família'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/watch/cwzd6dn6jvj6o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 09 Nov 2026 14:03:46 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "O avanço do bolsonarismo no lugar onde o MST nasceu",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6pwg9950wxko?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 09 Nov 2026 09:00:54 GMT",
-      "tema": "mundo",
       "resumo": null
     },
     {
@@ -349,14 +357,6 @@
       "link": "https://www.bbc.com/portuguese/watch/ck5ynyp4nj6wo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 09 Nov 2026 19:40:33 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "A escritora brasileira que virou sensação com romance sobre neandertais",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwm24k534kr4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 07 Nov 2026 14:52:29 GMT",
-      "tema": "cultura",
       "resumo": null
     }
   ]
