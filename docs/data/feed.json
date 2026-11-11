@@ -1,129 +1,113 @@
 {
-  "gerado_em": "2026-11-11T00:59:39.891Z",
+  "gerado_em": "2026-11-11T17:42:26.218Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 23.2,
-    "min": 12.1,
-    "chuva": 45
+    "max": 26.7,
+    "min": 14.9,
+    "chuva": 73
   },
   "noticias": [
     {
-      "titulo": "Copom indica que vai ser preciso manter juros altos por mais tempo para segurar inflação",
+      "titulo": "Nunes diz que vai investigar denúncias de desvio no Esporte, mas vai chamar vice para conversa: 'Pedir pra ele ter mais cautela'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/10/copom-indica-que-vai-ser-preciso-manter-juros-altos-por-mais-tempo-para-segurar-inflacao.ghtml",
-      "hora": "Wed, 11 Nov 2026 00:49:40 -0000",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/11/nunes-diz-que-vai-investigar-denuncias-de-desvio-no-esporte-mas-vai-chamar-vice-para-conversa-pedir-pra-ele-ter-mais-cautela.ghtml",
+      "hora": "Wed, 11 Nov 2026 17:23:19 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem é preso suspeito de extorquir R$ 20 mil usando vídeos íntimos no MA",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/11/homem-e-preso-suspeito-de-extorquir-r-20-mil-usando-videos-intimos-no-ma.ghtml",
+      "hora": "Wed, 11 Nov 2026 17:23:09 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Preso por matar frentista já havia apontado arma para policial em discussão de trânsito no Rio",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/11/preso-por-matar-frentista-ja-havia-apontado-arma-para-policial-em-discussao-de-transito-no-rio.ghtml",
+      "hora": "Wed, 11 Nov 2026 17:22:12 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Sargento é explulso da Polícia Militar por atirar em funcionário da Compesa",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/11/sargento-e-explulso-da-policia-militar-por-atirar-em-funcionario-da-compesa.ghtml",
+      "hora": "Wed, 11 Nov 2026 17:21:19 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Comprar na planta permite planejar pagamentos e personalizar o imóvel",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pr/parana/especial-publicitario/vectra-30-anos-transformando-londrina/noticia/2026/11/11/comprar-na-planta-permite-planejar-pagamentos-e-personalizar-o-imovel.ghtml",
+      "hora": "Wed, 11 Nov 2026 17:20:27 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Suspeito de se vestir de mulher para furtar prédio no DF já se passou por corretor de imóveis em outros crimes; relembre",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/11/suspeito-de-se-vestir-de-mulher-para-furtar-predio-no-df-ja-se-passou-por-corretor-de-imoveis-em-outros-crimes-relembre.ghtml",
+      "hora": "Wed, 11 Nov 2026 17:16:22 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Seca atinge quase 92% do território da Paraíba, aponta Monitor de Secas",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/11/seca-atinge-quase-92percent-do-territorio-da-paraiba-aponta-monitor-de-secas.ghtml",
+      "hora": "Wed, 11 Nov 2026 17:14:04 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "'Quatro anos depois vai continuar solto', diz mãe de jovem morto por motorista de Land Rover após terceiro adiamento de júri em SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/11/quatro-anos-depois-vai-continuar-solto-diz-mae-de-jovem-morto-por-motorista-de-land-rover-apos-terceiro-adiamento-de-juri-em-sp.ghtml",
+      "hora": "Wed, 11 Nov 2026 17:13:32 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Homem morre após policial usar spray de pimenta e fechar compartimento de viatura em MG",
+      "titulo": "Mulher é presa suspeita de aplicar golpes em 10 ex-namorados e causar prejuízo de R$ 2,5 milhões em SC",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/10/homem-morre-apos-policial-usar-spray-de-pimenta-e-fechar-compartimento-de-viatura-em-mg.ghtml",
-      "hora": "Wed, 11 Nov 2026 00:46:42 -0000",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/11/mulher-presa-suspeita-aplicar-golpes-10-ex-namorados-causar-prejuizo-r-25-milhoes-sc.ghtml",
+      "hora": "Wed, 11 Nov 2026 17:12:47 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Resumão diário do JN: Porto de Santos, o maior do Brasil, é alvo de ataque cibernético; Banco Central indica que juros vão continuar elevados ",
+      "titulo": "Procurado por homicídio de frentista a golpes de enxada em Prudente é preso ao fazer mudança em outra cidade",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/10/resumao-diario-do-jn-porto-de-santos-o-maior-do-brasil-e-alvo-de-ataque-cibernetico-banco-central-indica-que-juros-vao-continuar-elevados.ghtml",
-      "hora": "Wed, 11 Nov 2026 00:42:21 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/11/procurado-por-homicidio-de-frentista-a-golpes-de-enxada-em-prudente-e-preso-ao-fazer-mudanca-em-outra-cidade.ghtml",
+      "hora": "Wed, 11 Nov 2026 17:12:43 -0000",
+      "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Mega-Sena 3084: aposta digital de SC acerta cinco números e leva R$ 28 mil",
+      "titulo": "Venezuelano em bicicleta elétrica caseira morre após ser atropelado por carro em Linhares",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/10/mega-sena-3084-resultado-santa-catarina.ghtml",
-      "hora": "Wed, 11 Nov 2026 00:39:57 -0000",
+      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/11/venezuelano-em-bicicleta-eletrica-caseira-morre-apos-ser-atropelado-por-carro-em-linhares.ghtml",
+      "hora": "Wed, 11 Nov 2026 17:09:24 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Eneva abre 32 vagas de emprego para atuação em complexo de energia no Amazonas; veja as oportunidades",
+      "titulo": "Pré-Caju 2026: SMTT altera itinerários de linhas de ônibus na Orla de Atalaia; confira mudanças",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/11/10/eneva-abre-32-vagas-de-emprego-para-atuacao-em-complexo-de-energia-no-amazonas-veja-as-oportunidades.ghtml",
-      "hora": "Wed, 11 Nov 2026 00:38:59 -0000",
+      "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/11/pre-caju-2026-smtt-altera-itinerarios-de-linhas-de-onibus-na-orla-de-atalaia-confira-mudancas.ghtml",
+      "hora": "Wed, 11 Nov 2026 17:06:48 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Papa Leão XIV celebra missa para mais de meio milhão de fiéis no interior da Argentina",
+      "titulo": "Questão do Enem sobre misoginia em sermões medievais é criticada por intolerância religiosa",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/10/papa-leao-xiv-celebra-missa-para-mais-de-meio-milhao-de-fieis-no-interior-da-argentina.ghtml",
-      "hora": "Wed, 11 Nov 2026 00:37:37 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Instrutor de autoescola é preso suspeito de importunação sexual contra aluna em Hortolândia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/10/instrutor-de-autoescola-e-preso-suspeito-de-importunacao-sexual-contra-aluna-em-hortolandia.ghtml",
-      "hora": "Wed, 11 Nov 2026 00:32:31 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Dia de Sorte hoje: resultado do concurso 1344 e números sorteados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/11/10/dia-de-sorte-hoje-resultado-do-concurso-1344-e-numeros-sorteados.ghtml",
-      "hora": "Wed, 11 Nov 2026 00:31:19 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Lotofácil hoje: resultado do concurso 3826 e números sorteados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/lotofacil/noticia/2026/11/10/lotofacil-hoje-resultado-do-concurso-3826-e-numeros-sorteados.ghtml",
-      "hora": "Wed, 11 Nov 2026 00:31:08 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Timemania hoje: resultado do concurso 2466 e números sorteados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/timemania/noticia/2026/11/10/timemania-hoje-resultado-do-concurso-2466-e-numeros-sorteados.ghtml",
-      "hora": "Wed, 11 Nov 2026 00:31:08 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Quina hoje: resultado do concurso 7164 e números sorteados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/quina/noticia/2026/11/10/quina-hoje-resultado-do-concurso-7164-e-numeros-sorteados.ghtml",
-      "hora": "Wed, 11 Nov 2026 00:30:54 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-      "hora": "Wed, 11 Nov 2026 00:29:18 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Mostra Ambiental de Cinema tem filmes, teatro e oficinas em Fernando de Noronha",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/11/10/mostra-ambiental-de-cinema-tem-filmes-teatro-e-oficinas-em-fernando-de-noronha.ghtml",
-      "hora": "Wed, 11 Nov 2026 00:27:24 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Reportagem do g1 vence Prêmio Abapa de Jornalismo 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/10/reportagem-do-g1-vence-premio-abapa-de-jornalismo-2026.ghtml",
-      "hora": "Wed, 11 Nov 2026 00:27:03 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Mega-Sena: ganhador de quase R$ 60 milhões ainda não retirou prêmio",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/11/10/mega-sena-ganhador-de-quase-r-60-milhoes-ainda-nao-retirou-premio.ghtml",
-      "hora": "Wed, 11 Nov 2026 00:21:49 -0000",
+      "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/11/questao-do-enem-sobre-misoginia-em-sermoes-medievais-e-criticada-por-intolerancia-religiosa.ghtml",
+      "hora": "Wed, 11 Nov 2026 17:06:32 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -248,6 +232,70 @@
       "resumo": null
     },
     {
+      "titulo": "Quem vai cuidar dos idosos do Brasil? Por que o envelhecimento acelerado é o 'desafio do século'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c60qkxv44pq8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 11 Nov 2026 08:31:43 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "3 pontos para entender a primeira greve geral na Espanha em 14 anos",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c58j4le1w32ro?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 11 Nov 2026 10:49:58 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "O 'teste de motorista' que fez empresa desistir de contratação — e qual o peso da gentileza no trabalho",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c23x8zn0vzro?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 11 Nov 2026 16:26:05 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Um bilhão de refeições no lixo todo dia: como evitar desperdício de alimentos em casa?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmpdgd74g0l9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 11 Nov 2026 16:37:12 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Qual é o risco de doença grave nos olhos por uso de Ozempic e Mounjaro que gerou alerta de agência dos EUA",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwjd7k12v4x5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 11 Nov 2026 15:29:31 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Vini Jr. envia mensagem surpresa para menino que perdeu as pernas na guerra do Sudão: 'Fiquei sabendo da sua história'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6lymngxz92xo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 11 Nov 2026 10:06:13 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Tempestade Charles em Portugal fecha escolas e cancela voos; o que se sabe",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cr4gndejkdnvo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 11 Nov 2026 13:29:55 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Jensen Huang: O papel do CEO da Nvidia investigado por caso com suposta espiã na guerra tecnológica entre EUA e China",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmg474pw776wo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 11 Nov 2026 08:58:25 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Brasil não deveria aumentar o salário mínimo, mas se livrar dele, diz o economista John Cochrane",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c5pvgv1x940xo?at_medium=RSS&at_campaign=rss",
@@ -264,74 +312,18 @@
       "resumo": null
     },
     {
-      "titulo": "'Quando falam do fim do mundo, pensam em meteoros, vírus ou tsunami, mas poucos imaginam um choque ontológico'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq5yny2krjpeo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 10 Nov 2026 19:24:36 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Ele gastou R$ 275 mil em Labubus e fez até dentes inspirados nos bonecos, mas e agora que a febre passou?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm1dwdyr40wwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 10 Nov 2026 17:58:42 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Testosterona funciona para aumentar força? O que é verdade ou mito sobre o 'suco'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/watch/cmgeleelyyrzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 10 Nov 2026 20:28:39 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem é o autor brasileiro que foi parar na lista de livros imperdíveis do New York Times",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqe9lek89jgzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 10 Nov 2026 16:20:40 GMT",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "O novo esconderijo da cocaína no Porto de Santos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckzd622ryd0do?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 10 Nov 2026 08:25:44 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "'Quase morri depois de uma dor de dente virar sepse e causar uma doença cardíaca rara'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cv62y2ep56k8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 10 Nov 2026 11:34:29 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Como ter amigos imaginários nos ajuda na vida real: 'Éramos inseparáveis'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c9203024nmxpo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 10 Nov 2026 21:42:43 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "A batalha do novo Parlamento de Israel que pode decidir o futuro político de Netanyahu",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqzrdrzk0546o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 10 Nov 2026 20:16:28 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
       "titulo": "O avanço do bolsonarismo no lugar onde o MST nasceu",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c6pwg9950wxko?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 09 Nov 2026 09:00:54 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Homens de meia-idade e com ensino médio: o perfil de quem elegeu os deputados campeões de voto em SP nas eleições de 2026 ",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm3r5v2el35vo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 11 Nov 2026 17:25:50 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -356,14 +348,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/watch/c83vqv960zzyo?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 09 Nov 2026 19:28:02 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "O que os números mostram sobre as alegações de fraude nas eleições",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/watch/ck5ynyp4nj6wo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 09 Nov 2026 19:40:33 GMT",
       "tema": "brasil",
       "resumo": null
     }
