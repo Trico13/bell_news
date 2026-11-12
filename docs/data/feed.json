@@ -1,113 +1,121 @@
 {
-  "gerado_em": "2026-11-11T17:42:26.218Z",
+  "gerado_em": "2026-11-12T02:06:51.274Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 26.7,
+    "max": 27.1,
     "min": 14.9,
-    "chuva": 73
+    "chuva": 67
   },
   "noticias": [
     {
-      "titulo": "Nunes diz que vai investigar denúncias de desvio no Esporte, mas vai chamar vice para conversa: 'Pedir pra ele ter mais cautela'",
+      "titulo": "Na COP31, Lula cobra que países ricos cumpram compromissos para frear o aquecimento do planeta",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/11/nunes-diz-que-vai-investigar-denuncias-de-desvio-no-esporte-mas-vai-chamar-vice-para-conversa-pedir-pra-ele-ter-mais-cautela.ghtml",
-      "hora": "Wed, 11 Nov 2026 17:23:19 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/na-cop31-lula-cobra-que-paises-ricos-cumpram-compromissos-para-frear-o-aquecimento-do-planeta.ghtml",
+      "hora": "Thu, 12 Nov 2026 01:41:14 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Homem é preso suspeito de extorquir R$ 20 mil usando vídeos íntimos no MA",
+      "titulo": "Após encontros em Abu Dhabi, negociação entre Rússia e Ucrânia para o fim da guerra não avança",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/11/homem-e-preso-suspeito-de-extorquir-r-20-mil-usando-videos-intimos-no-ma.ghtml",
-      "hora": "Wed, 11 Nov 2026 17:23:09 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/apos-encontros-em-abu-dhabi-negociacao-entre-russia-e-ucrania-para-o-fim-da-guerra-nao-avanca.ghtml",
+      "hora": "Thu, 12 Nov 2026 01:24:11 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Preso por matar frentista já havia apontado arma para policial em discussão de trânsito no Rio",
+      "titulo": "USF abre vagas para inserção gratuita de DIU em Campo Grande; veja como agendar",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/11/preso-por-matar-frentista-ja-havia-apontado-arma-para-policial-em-discussao-de-transito-no-rio.ghtml",
-      "hora": "Wed, 11 Nov 2026 17:22:12 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Sargento é explulso da Polícia Militar por atirar em funcionário da Compesa",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/11/sargento-e-explulso-da-policia-militar-por-atirar-em-funcionario-da-compesa.ghtml",
-      "hora": "Wed, 11 Nov 2026 17:21:19 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Comprar na planta permite planejar pagamentos e personalizar o imóvel",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pr/parana/especial-publicitario/vectra-30-anos-transformando-londrina/noticia/2026/11/11/comprar-na-planta-permite-planejar-pagamentos-e-personalizar-o-imovel.ghtml",
-      "hora": "Wed, 11 Nov 2026 17:20:27 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Suspeito de se vestir de mulher para furtar prédio no DF já se passou por corretor de imóveis em outros crimes; relembre",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/11/suspeito-de-se-vestir-de-mulher-para-furtar-predio-no-df-ja-se-passou-por-corretor-de-imoveis-em-outros-crimes-relembre.ghtml",
-      "hora": "Wed, 11 Nov 2026 17:16:22 -0000",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/11/usf-abre-vagas-para-insercao-gratuita-de-diu-em-campo-grande-veja-como-agendar.ghtml",
+      "hora": "Thu, 12 Nov 2026 01:19:56 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Seca atinge quase 92% do território da Paraíba, aponta Monitor de Secas",
+      "titulo": "Mais de 6 mil escolas na Itália recebem ameaça de bomba: 'Se acontecesse alguma coisa, não poderia me perdoar', diz diretora",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/11/seca-atinge-quase-92percent-do-territorio-da-paraiba-aponta-monitor-de-secas.ghtml",
-      "hora": "Wed, 11 Nov 2026 17:14:04 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/mais-de-6-mil-escolas-na-italia-recebem-ameaca-de-bomba-se-acontecesse-alguma-coisa-nao-poderia-me-perdoar-diz-diretora.ghtml",
+      "hora": "Thu, 12 Nov 2026 01:18:55 -0000",
+      "tema": "checagem",
+      "resumo": null
+    },
+    {
+      "titulo": "Carolina Dieckmann canta Preta Gil em festa pré-casamento em Fernando de Noronha; VÍDEO",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/11/11/carolina-dieckmann-canta-preta-gil-em-festa-pre-casamento-em-fernando-de-noronha-video.ghtml",
+      "hora": "Thu, 12 Nov 2026 01:17:47 -0000",
+      "tema": "entretenimento",
+      "resumo": null
+    },
+    {
+      "titulo": "Americanas tem prejuízo de R$ 352 milhões no 3º trimestre",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/11/prejuizo-americanas.ghtml",
+      "hora": "Thu, 12 Nov 2026 01:15:50 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "'Quatro anos depois vai continuar solto', diz mãe de jovem morto por motorista de Land Rover após terceiro adiamento de júri em SP",
+      "titulo": "Espanha tem dia de greve geral pela primeira vez em 14 anos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/11/quatro-anos-depois-vai-continuar-solto-diz-mae-de-jovem-morto-por-motorista-de-land-rover-apos-terceiro-adiamento-de-juri-em-sp.ghtml",
-      "hora": "Wed, 11 Nov 2026 17:13:32 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Mulher é presa suspeita de aplicar golpes em 10 ex-namorados e causar prejuízo de R$ 2,5 milhões em SC",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/11/mulher-presa-suspeita-aplicar-golpes-10-ex-namorados-causar-prejuizo-r-25-milhoes-sc.ghtml",
-      "hora": "Wed, 11 Nov 2026 17:12:47 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/espanha-tem-dia-de-greve-geral-pela-primeira-vez-em-14-anos.ghtml",
+      "hora": "Thu, 12 Nov 2026 01:10:59 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Procurado por homicídio de frentista a golpes de enxada em Prudente é preso ao fazer mudança em outra cidade",
+      "titulo": "Polícia Civil de Minas Gerais investiga morte de um homem depois de abordagem da PM",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/11/procurado-por-homicidio-de-frentista-a-golpes-de-enxada-em-prudente-e-preso-ao-fazer-mudanca-em-outra-cidade.ghtml",
-      "hora": "Wed, 11 Nov 2026 17:12:43 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Venezuelano em bicicleta elétrica caseira morre após ser atropelado por carro em Linhares",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/11/11/venezuelano-em-bicicleta-eletrica-caseira-morre-apos-ser-atropelado-por-carro-em-linhares.ghtml",
-      "hora": "Wed, 11 Nov 2026 17:09:24 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/policia-civil-de-minas-gerais-investiga-morte-de-um-homem-depois-de-abordagem-da-pm.ghtml",
+      "hora": "Thu, 12 Nov 2026 01:05:12 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Pré-Caju 2026: SMTT altera itinerários de linhas de ônibus na Orla de Atalaia; confira mudanças",
+      "titulo": "No Rio, mais de 5 milhões de pessoas vivem em áreas dominadas pelo tráfico de drogas ou por milícias",
       "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/11/pre-caju-2026-smtt-altera-itinerarios-de-linhas-de-onibus-na-orla-de-atalaia-confira-mudancas.ghtml",
-      "hora": "Wed, 11 Nov 2026 17:06:48 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/no-rio-mais-de-5-milhoes-de-pessoas-vivem-em-areas-dominadas-pelo-trafico-de-drogas-ou-por-milicias.ghtml",
+      "hora": "Thu, 12 Nov 2026 01:00:14 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "TCE suspende licitação de R$ 2,3 milhões para coleta de lixo no interior de Roraima",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/11/tce-suspende-licitacao-de-r-23-milhoes-para-coleta-de-lixo-no-interior-de-roraima.ghtml",
+      "hora": "Thu, 12 Nov 2026 00:57:51 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Questão do Enem sobre misoginia em sermões medievais é criticada por intolerância religiosa",
+      "titulo": "+Milionária hoje: resultado do concurso 406 e números sorteados",
       "fonte": "G1",
-      "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/11/questao-do-enem-sobre-misoginia-em-sermoes-medievais-e-criticada-por-intolerancia-religiosa.ghtml",
-      "hora": "Wed, 11 Nov 2026 17:06:32 -0000",
+      "link": "https://g1.globo.com/loterias/milionaria/noticia/2026/11/11/milionaria-hoje-resultado-do-concurso-406-e-numeros-sorteados.ghtml",
+      "hora": "Thu, 12 Nov 2026 00:55:48 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Golfinho de 3 metros de comprimento é encontrado morto em praia de SC",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/11/golfinho-encontrado-morto-praia-sao-francisco-sul.ghtml",
+      "hora": "Thu, 12 Nov 2026 00:52:39 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Super Sete hoje: resultado do concurso 921 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/super-sete/noticia/2026/11/11/super-sete-hoje-resultado-do-concurso-921-e-numeros-sorteados.ghtml",
+      "hora": "Thu, 12 Nov 2026 00:50:48 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Dia de Sorte hoje: resultado do concurso 1345 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/11/11/dia-de-sorte-hoje-resultado-do-concurso-1345-e-numeros-sorteados.ghtml",
+      "hora": "Thu, 12 Nov 2026 00:50:34 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -232,6 +240,22 @@
       "resumo": null
     },
     {
+      "titulo": "As 'armadilhas' que Lula terá de desarmar na política externa já a partir do ano que vem",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cvlyd0zjnn4wo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 11 Nov 2026 19:48:44 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "A acirrada disputa que levou democrata a se tornar 1º senador negro eleito pelo Mississippi em 140 anos",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq1k93r1j47vo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 12 Nov 2026 01:27:49 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Quem vai cuidar dos idosos do Brasil? Por que o envelhecimento acelerado é o 'desafio do século'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c60qkxv44pq8o?at_medium=RSS&at_campaign=rss",
@@ -240,15 +264,15 @@
       "resumo": null
     },
     {
-      "titulo": "3 pontos para entender a primeira greve geral na Espanha em 14 anos",
+      "titulo": "O que colocar na mochila de emergência e por que você deve ter uma — preventivamente",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c58j4le1w32ro?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 11 Nov 2026 10:49:58 GMT",
-      "tema": "mundo",
+      "link": "https://www.bbc.com/portuguese/articles/cm62p37dgxzzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 11 Nov 2026 20:53:39 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "O 'teste de motorista' que fez empresa desistir de contratação — e qual o peso da gentileza no trabalho",
+      "titulo": "O executivo que foi grosseiro com motorista e perdeu vaga em multinacional: o 'teste de gentileza' que o Duolingo aplica para altos cargos",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c23x8zn0vzro?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 11 Nov 2026 16:26:05 GMT",
@@ -256,10 +280,18 @@
       "resumo": null
     },
     {
-      "titulo": "Um bilhão de refeições no lixo todo dia: como evitar desperdício de alimentos em casa?",
+      "titulo": "O catolicismo 'de esquerda' que nasceu na América Latina nos anos 1960",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmpdgd74g0l9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 11 Nov 2026 16:37:12 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c9vgrgyvyjg5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 11 Nov 2026 21:26:26 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "3 pontos para entender a primeira greve geral na Espanha em 14 anos",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c58j4le1w32ro?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 11 Nov 2026 10:49:58 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -272,6 +304,14 @@
       "resumo": null
     },
     {
+      "titulo": "Um bilhão de refeições no lixo todo dia: como evitar desperdício de alimentos em casa?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmpdgd74g0l9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 11 Nov 2026 16:37:12 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Vini Jr. envia mensagem surpresa para menino que perdeu as pernas na guerra do Sudão: 'Fiquei sabendo da sua história'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c6lymngxz92xo?at_medium=RSS&at_campaign=rss",
@@ -280,19 +320,19 @@
       "resumo": null
     },
     {
-      "titulo": "Tempestade Charles em Portugal fecha escolas e cancela voos; o que se sabe",
+      "titulo": "As críticas à troca de delegados da PF no caso Master: 'Levanta graves suspeitas'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr4gndejkdnvo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 11 Nov 2026 13:29:55 GMT",
-      "tema": "mundo",
+      "link": "https://www.bbc.com/portuguese/articles/c6wy47lmwz1no?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 11 Nov 2026 15:30:42 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Jensen Huang: O papel do CEO da Nvidia investigado por caso com suposta espiã na guerra tecnológica entre EUA e China",
+      "titulo": "Polícia Civil de São Paulo indicia homem que gravou vídeos de FHC por difamação contra pessoa idosa",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmg474pw776wo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 11 Nov 2026 08:58:25 GMT",
-      "tema": "mundo",
+      "link": "https://www.bbc.com/portuguese/articles/c6y43492vrzxo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 10 Nov 2026 13:06:00 GMT",
+      "tema": "sp",
       "resumo": null
     },
     {
@@ -301,22 +341,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c5pvgv1x940xo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 10 Nov 2026 16:39:55 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Vídeo de FHC em casa é investigado pela polícia: o que se sabe sobre imagens",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6y43492vrzxo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 10 Nov 2026 13:06:00 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "O avanço do bolsonarismo no lugar onde o MST nasceu",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6pwg9950wxko?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 09 Nov 2026 09:00:54 GMT",
-      "tema": "mundo",
       "resumo": null
     },
     {
@@ -333,22 +357,6 @@
       "link": "https://www.bbc.com/portuguese/watch/cwzd6dn6jvj6o?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 09 Nov 2026 14:03:46 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Fux suspende processos sobre proibição de bets em todo país; o que acontece agora",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6n8d8x9ee17o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 09 Nov 2026 12:27:15 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "O que acontece com o bolsonarismo com Flávio nos EUA?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/watch/c83vqv960zzyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 09 Nov 2026 19:28:02 GMT",
-      "tema": "brasil",
       "resumo": null
     }
   ]
