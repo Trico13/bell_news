@@ -1,122 +1,130 @@
 {
-  "gerado_em": "2026-11-13T01:40:23.334Z",
+  "gerado_em": "2026-11-13T17:29:50.785Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 25.8,
-    "min": 16.7,
+    "max": 26.4,
+    "min": 17,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "O Arco Norte ganha peso; o que Itacoatiara pode ganhar com a rota dos grãos?",
+      "titulo": "O mercado de grãos está mais complexo. Os profissionais estão preparados?",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/amazonia-negocios/noticia/2026/11/12/o-arco-norte-ganha-peso-o-que-itacoatiara-pode-ganhar-com-a-rota-dos-graos.ghtml",
-      "hora": "Fri, 13 Nov 2026 01:35:54 -0000",
+      "link": "https://g1.globo.com/pr/parana/especial-publicitario/agrinvest-alem-da-porteira/noticia/2026/11/13/o-mercado-de-graos-esta-mais-complexo-os-profissionais-estao-preparados.ghtml",
+      "hora": "Fri, 13 Nov 2026 17:13:52 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Justiça torna réu Milton Leite, ex-presidente da Câmara Municipal de São Paulo",
+      "titulo": "Polícia apreende submetralhadora 'dos Simpsons' no RS",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/12/justica-torna-reu-milton-leite-ex-presidente-da-camara-municipal-de-sao-paulo.ghtml",
-      "hora": "Fri, 13 Nov 2026 01:33:30 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Ruas escolhe delegado Lauro Rangel para comandar a Segurança Pública do RJ; Robson da Costa será secretário da Polícia Civil",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/12/douglas-ruas-escolhe-cupula-da-seguranca-publica-do-rj.ghtml",
-      "hora": "Fri, 13 Nov 2026 01:32:02 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Vídeo: bombeira civil é presa suspeita de matar homem no Centro das Tapioqueiras, em Fortaleza",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/12/video-bombeira-civil-e-presa-suspeita-de-matar-homem-no-centro-das-tapioqueiras-em-fortaleza.ghtml",
-      "hora": "Fri, 13 Nov 2026 01:28:35 -0000",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/13/policia-apreende-submetralhadora-dos-simpsons-no-rs.ghtml",
+      "hora": "Fri, 13 Nov 2026 17:09:19 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Na COP31, Lula volta a cobrar investimentos dos países mais ricos para preservação de florestas",
+      "titulo": "VÍDEOS: EPTV 1 Sul de Minas de sexta-feira, 13 de novembro de 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/12/na-cop31-lula-volta-a-cobrar-investimentos-dos-paises-mais-ricos-para-preservacao-de-florestas.ghtml",
-      "hora": "Fri, 13 Nov 2026 01:24:37 -0000",
+      "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/11/13/videos-eptv-1-sul-de-minas-de-sexta-feira-13-de-novembro-de-2026.ghtml",
+      "hora": "Fri, 13 Nov 2026 17:09:11 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Na 'terra das escolas', unidades serão fechadas e alunos de Itapetininga transferidos a partir de 2027; entenda",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/13/na-terra-das-escolas-unidades-serao-fechadas-e-alunos-de-itapetininga-transferidos-a-partir-de-2027-entenda.ghtml",
+      "hora": "Fri, 13 Nov 2026 17:07:58 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "VÍDEO: Soldado dá bronca em secretário de Guerra dos EUA por risadas e recebe medalha",
+      "titulo": "VÍDEO: Na Alemanha, alpacas 'invadem' casa de repouso e alegram idosos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/12/video-soldado-da-bronca-em-secretario-de-guerra-dos-eua-por-risadas-e-recebe-medalha.ghtml",
-      "hora": "Fri, 13 Nov 2026 01:17:13 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/13/alpacas-alemanha-idosos.ghtml",
+      "hora": "Fri, 13 Nov 2026 17:06:41 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Itapira alega colapso no sistema de captação de água e decreta emergência hídrica; entenda",
+      "titulo": "Engenharia, natureza e cultura nos pontos turísticos de Foz do Iguaçu ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/12/itapira-alega-colapso-no-sistema-de-captacao-de-agua-e-decreta-emergencia-hidrica-entenda.ghtml",
-      "hora": "Fri, 13 Nov 2026 01:13:45 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Representantes dos EUA se reúnem com os presidentes da Rússia e da Ucrânia após negociações de paz não avançarem",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/12/representantes-dos-eua-se-reunem-com-os-presidentes-da-russia-e-da-ucrania-apos-negociacoes-de-paz-nao-avancarem.ghtml",
-      "hora": "Fri, 13 Nov 2026 01:12:06 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Campos tem previsão de chuva à tarde nesta sexta; máxima chega a 27°C ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/12/campos-tem-previsao-de-chuva-a-tarde-nesta-sexta-maxima-chega-a-27c.ghtml",
-      "hora": "Fri, 13 Nov 2026 01:11:16 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Novas ameaças de bomba na Europa reforçam suspeitas de guerra híbrida",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/12/novas-ameacas-de-bomba-na-europa-reforcam-suspeitas-de-guerra-hibrida.ghtml",
-      "hora": "Fri, 13 Nov 2026 01:03:43 -0000",
+      "link": "https://g1.globo.com/pr/parana/especial-publicitario/visit-iguassu/visite-foz-do-iguacu/noticia/2026/11/13/engenharia-natureza-e-cultura-nos-pontos-turisticos-de-foz-do-iguacu.ghtml",
+      "hora": "Fri, 13 Nov 2026 17:03:58 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Governo dos EUA anuncia recorde de deportações e detenções de imigrantes ilegais",
+      "titulo": "Atriz Neusa Borges é internada com pneumonia aos 84 anos no Rio",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/12/governo-dos-eua-anuncia-recorde-de-deportacoes-e-detencoes-de-imigrantes-ilegais.ghtml",
-      "hora": "Fri, 13 Nov 2026 00:56:10 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/atriz-e-internada-no-rio.ghtml",
+      "hora": "Fri, 13 Nov 2026 17:03:51 -0000",
+      "tema": "entretenimento",
       "resumo": null
     },
     {
-      "titulo": "Irmãos acreanos com doença rara viajam aos EUA para avaliação em estudo clínico: 'Grande conquista'",
+      "titulo": "Jovem é preso com drogas, munições e mais de R$ 8 mil durante operação em Montes Claros",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/12/irmaos-acreanos-com-doenca-rara-viajam-aos-eua-para-avaliacao-em-estudo-clinico-grande-conquista.ghtml",
-      "hora": "Fri, 13 Nov 2026 00:54:42 -0000",
+      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/13/jovem-e-preso-com-drogas-municoes-e-mais-de-r-8-mil-durante-operacao-em-montes-claros.ghtml",
+      "hora": "Fri, 13 Nov 2026 17:03:04 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Chefe da Nvidia pede demissão em meio a escândalo de espionagem e a revelação de novos casos extraconjugais",
+      "titulo": "Hospital São José inaugura UTI reformada com investimento de R$ 4,2 milhões",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/12/chefe-da-nvidia-pede-demissao-em-meio-a-escandalo-de-espionagem-e-a-revelacao-de-novos-casos-extraconjugais.ghtml",
-      "hora": "Fri, 13 Nov 2026 00:51:09 -0000",
+      "link": "https://g1.globo.com/sc/santa-catarina/especial-publicitario/hospital-sao-jose/noticia/2026/11/13/hospital-sao-jose-inaugura-uti-reformada-com-investimento-de-r-42-milhoes.ghtml",
+      "hora": "Fri, 13 Nov 2026 17:03:03 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Operação nacional da PF fiscaliza 15 empresas de segurança no AP e encontra irregularidades em 4",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/13/operacao-nacional-da-pf-fiscaliza-15-empresas-de-seguranca-no-ap-e-encontra-irregularidades-em-4.ghtml",
+      "hora": "Fri, 13 Nov 2026 17:02:18 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Após abrir turnê do Maroon 5 no Brasil, Lagum volta a Rio Preto com música nova: 'Nosso melhor show’, diz guitarrista",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/13/apos-abrir-turne-do-maroon-5-no-brasil-lagum-volta-a-rio-preto-com-musica-nova-nosso-melhor-show-diz-guitarrista.ghtml",
+      "hora": "Fri, 13 Nov 2026 17:01:43 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Onça-parda, veado e pica-pau: registros de câmera de monitoramento ajudam a preservar habitats da fauna silvestre no PI",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/13/onca-parda-veado-e-pica-pau-habitats.ghtml",
+      "hora": "Fri, 13 Nov 2026 17:01:29 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Resumão diário do JN: Dino mantém em 16 de dezembro o início da escala 5x2; escândalos extraconjugais derrubam Jensen Huang da presidência da Nvidia",
+      "titulo": "Ponte desaba durante passagem de caminhão com máquina pesada em Novo Repartimento, no Pará",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/12/resumao-diario-do-jn-dino-mantem-em-16-de-dezembro-o-inicio-da-escala-5x2-escandalos-extraconjugais-derrubam-jensen-huang-da-presidencia-da-nvidia.ghtml",
-      "hora": "Fri, 13 Nov 2026 00:48:03 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/pa/para/noticia/2026/11/13/ponte-desaba-durante-passagem-de-caminhao-com-maquina-pesada-em-novo-repartimento-no-para.ghtml",
+      "hora": "Fri, 13 Nov 2026 17:00:09 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Taubaté tem 46 câmeras de comerciantes integradas ao sistema de monitoramento da Prefeitura; número está estagnado desde abril",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/13/taubate-tem-46-cameras-de-comerciantes-compartilhadas-com-a-prefeitura-numero-nao-aumenta-desde-abril.ghtml",
+      "hora": "Fri, 13 Nov 2026 16:59:33 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "“Emocionadíssimo”, diz Mestrinho após vencer Grammy Latino com João Gomes e Jota.pê",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/13/emocionadissimo-diz-mestrinho-apos-vencer-grammy-latino-com-joao-gomes-e-jotape.ghtml",
+      "hora": "Fri, 13 Nov 2026 16:57:21 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
@@ -240,6 +248,46 @@
       "resumo": null
     },
     {
+      "titulo": "Outlook voltou: por que demorou para Microsoft resolver o problema?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cw808r14nmjgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 13 Nov 2026 15:27:36 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Microsoft diz que fila de e-mails 'se aproxima do normal' após falha global no Outlook; o que se sabe",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6wy49w32epwo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 13 Nov 2026 15:18:41 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Amazônia queimando afeta a saúde e o bolso do Brasil inteiro, diz bióloga dedicada a combater o fogo na floresta",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cr20v7g9jyy3o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 13 Nov 2026 09:31:58 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Lesões no tornozelo são mais comuns do que você imagina — veja como proteger o seu",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqgkl7nz7y2zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 13 Nov 2026 17:20:16 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'Rosa e Azul':  a história sombria do quadro mais famoso do Masp — e o fim trágico de uma das meninas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmy4xjed4x1ko?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 13 Nov 2026 08:45:07 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
       "titulo": "Mostrar na novela um Nordeste do atraso e a Faria Lima pulsante é vender que só um Brasil 'dá certo', diz pesquisador",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c6grey09e9n1o?at_medium=RSS&at_campaign=rss",
@@ -248,18 +296,10 @@
       "resumo": null
     },
     {
-      "titulo": "O que se sabe de falha na Microsoft que deixou fora do ar Outlook e afetou Teams, Microsoft 365 e outras plataformas",
+      "titulo": "Como Jensen Huang foi de 'visionário da IA' à queda em desgraça por causa de decisões amorosas",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6wy49w32epwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 13 Nov 2026 01:17:57 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Meta exibe mais de 700 anúncios de bets proibidas, revela levantamento da BBC",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw4gnvzzdjr7o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 12 Nov 2026 21:18:29 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/ckwy8vdnwwlyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 13 Nov 2026 10:32:39 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -280,26 +320,10 @@
       "resumo": null
     },
     {
-      "titulo": "Jensen Huang: como CEO da Nvidia foi de 'rock star' da IA à saída dramática ",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqvg2ll5xgx2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 12 Nov 2026 16:20:22 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
       "titulo": "As acusações de 'festas sexuais em troca de contratos' que levaram à investigação do ex-presidente colombiano Gustavo Petro",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm174ll0nvj9o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 12 Nov 2026 18:18:24 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "CEO da Nvidia renuncia após caso com suposta espiã chinesa: quem assumirá o comando da empresa?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cx1l053gmq5zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 12 Nov 2026 16:40:11 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -341,14 +365,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c6y43492vrzxo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 10 Nov 2026 13:06:00 GMT",
       "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "A operação de Bukele que teria destruído casa de líder de facção no Haiti",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cv2d9gn4901po?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 11 Nov 2026 19:41:48 GMT",
-      "tema": "mundo",
       "resumo": null
     }
   ]
