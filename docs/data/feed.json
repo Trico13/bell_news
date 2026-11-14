@@ -1,130 +1,122 @@
 {
-  "gerado_em": "2026-11-13T17:29:50.785Z",
+  "gerado_em": "2026-11-14T01:17:13.536Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 26.4,
+    "max": 27.1,
     "min": 17,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "O mercado de grãos está mais complexo. Os profissionais estão preparados?",
+      "titulo": "Ministério Público acusa Santiago Peña de chefiar organização criminosa criada para fraudar o sistema financeiro do Paraguai",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pr/parana/especial-publicitario/agrinvest-alem-da-porteira/noticia/2026/11/13/o-mercado-de-graos-esta-mais-complexo-os-profissionais-estao-preparados.ghtml",
-      "hora": "Fri, 13 Nov 2026 17:13:52 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Polícia apreende submetralhadora 'dos Simpsons' no RS",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/13/policia-apreende-submetralhadora-dos-simpsons-no-rs.ghtml",
-      "hora": "Fri, 13 Nov 2026 17:09:19 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: EPTV 1 Sul de Minas de sexta-feira, 13 de novembro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/11/13/videos-eptv-1-sul-de-minas-de-sexta-feira-13-de-novembro-de-2026.ghtml",
-      "hora": "Fri, 13 Nov 2026 17:09:11 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Na 'terra das escolas', unidades serão fechadas e alunos de Itapetininga transferidos a partir de 2027; entenda",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/13/na-terra-das-escolas-unidades-serao-fechadas-e-alunos-de-itapetininga-transferidos-a-partir-de-2027-entenda.ghtml",
-      "hora": "Fri, 13 Nov 2026 17:07:58 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEO: Na Alemanha, alpacas 'invadem' casa de repouso e alegram idosos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/13/alpacas-alemanha-idosos.ghtml",
-      "hora": "Fri, 13 Nov 2026 17:06:41 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Engenharia, natureza e cultura nos pontos turísticos de Foz do Iguaçu ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pr/parana/especial-publicitario/visit-iguassu/visite-foz-do-iguacu/noticia/2026/11/13/engenharia-natureza-e-cultura-nos-pontos-turisticos-de-foz-do-iguacu.ghtml",
-      "hora": "Fri, 13 Nov 2026 17:03:58 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/13/ministerio-publico-acusa-santiago-pena-de-chefiar-organizacao-criminosa-criada-para-fraudar-o-sistema-financeiro-do-paraguai.ghtml",
+      "hora": "Sat, 14 Nov 2026 00:58:31 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Atriz Neusa Borges é internada com pneumonia aos 84 anos no Rio",
+      "titulo": "Homem é preso suspeito de matar jovem durante festival católico em Sobral, no Ceará",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/atriz-e-internada-no-rio.ghtml",
-      "hora": "Fri, 13 Nov 2026 17:03:51 -0000",
-      "tema": "entretenimento",
-      "resumo": null
-    },
-    {
-      "titulo": "Jovem é preso com drogas, munições e mais de R$ 8 mil durante operação em Montes Claros",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/13/jovem-e-preso-com-drogas-municoes-e-mais-de-r-8-mil-durante-operacao-em-montes-claros.ghtml",
-      "hora": "Fri, 13 Nov 2026 17:03:04 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Hospital São José inaugura UTI reformada com investimento de R$ 4,2 milhões",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/especial-publicitario/hospital-sao-jose/noticia/2026/11/13/hospital-sao-jose-inaugura-uti-reformada-com-investimento-de-r-42-milhoes.ghtml",
-      "hora": "Fri, 13 Nov 2026 17:03:03 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Operação nacional da PF fiscaliza 15 empresas de segurança no AP e encontra irregularidades em 4",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/13/operacao-nacional-da-pf-fiscaliza-15-empresas-de-seguranca-no-ap-e-encontra-irregularidades-em-4.ghtml",
-      "hora": "Fri, 13 Nov 2026 17:02:18 -0000",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/13/homem-e-preso-suspeito-de-matar-jovem-durante-festival-catolico-em-sobral-no-ceara.ghtml",
+      "hora": "Sat, 14 Nov 2026 00:57:55 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Após abrir turnê do Maroon 5 no Brasil, Lagum volta a Rio Preto com música nova: 'Nosso melhor show’, diz guitarrista",
+      "titulo": "Alemanha, França, Itália, Polônia e Reino Unido vão representar a Europa nas próximas negociações de paz entre Ucrânia e Rússia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/13/apos-abrir-turne-do-maroon-5-no-brasil-lagum-volta-a-rio-preto-com-musica-nova-nosso-melhor-show-diz-guitarrista.ghtml",
-      "hora": "Fri, 13 Nov 2026 17:01:43 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/13/alemanha-franca-italia-polonia-e-reino-unido-vao-representar-a-europa-nas-proximas-negociacoes-de-paz-entre-ucrania-e-russia.ghtml",
+      "hora": "Sat, 14 Nov 2026 00:51:31 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Onça-parda, veado e pica-pau: registros de câmera de monitoramento ajudam a preservar habitats da fauna silvestre no PI",
+      "titulo": "Resumão diário do JN:  EUA suspendem todas as decolagens no país após problemas na comunicação com aviões; Jensen Huang é intimado a depor em comissão do Congresso dos EUA",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/13/onca-parda-veado-e-pica-pau-habitats.ghtml",
-      "hora": "Fri, 13 Nov 2026 17:01:29 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/13/resumao-diario-do-jn-eua-suspendem-todos-os-voos-no-pais-apos-problemas-na-comunicacao-com-avioes-jensen-huang-e-intimado-a-depor-em-comissao-do-congresso-dos-eua.ghtml",
+      "hora": "Sat, 14 Nov 2026 00:50:48 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Lotofácil 3829: cinco apostas de MT acertam 14 números e ganham R$ 1,7 mil cada",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/13/lotofacil-3829-cinco-apostas-de-mt-acertam-14-numeros-e-ganham-r-17-mil-cada.ghtml",
+      "hora": "Sat, 14 Nov 2026 00:50:48 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Ponte desaba durante passagem de caminhão com máquina pesada em Novo Repartimento, no Pará",
+      "titulo": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de sexta-feira, 13 de novembro de 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/13/ponte-desaba-durante-passagem-de-caminhao-com-maquina-pesada-em-novo-repartimento-no-para.ghtml",
-      "hora": "Fri, 13 Nov 2026 17:00:09 -0000",
-      "tema": "cultura",
+      "link": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-sexta-feira-13-de-novembro-de-2026.ghtml",
+      "hora": "Sat, 14 Nov 2026 00:50:22 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Taubaté tem 46 câmeras de comerciantes integradas ao sistema de monitoramento da Prefeitura; número está estagnado desde abril",
+      "titulo": "Resultados das Loterias Caixa",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/13/taubate-tem-46-cameras-de-comerciantes-compartilhadas-com-a-prefeitura-numero-nao-aumenta-desde-abril.ghtml",
-      "hora": "Fri, 13 Nov 2026 16:59:33 -0000",
-      "tema": "cultura",
+      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "hora": "Sat, 14 Nov 2026 00:47:50 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "“Emocionadíssimo”, diz Mestrinho após vencer Grammy Latino com João Gomes e Jota.pê",
+      "titulo": "Lotomania hoje: resultado do concurso 2999 e números sorteados",
       "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/13/emocionadissimo-diz-mestrinho-apos-vencer-grammy-latino-com-joao-gomes-e-jotape.ghtml",
-      "hora": "Fri, 13 Nov 2026 16:57:21 -0000",
-      "tema": "cultura",
+      "link": "https://g1.globo.com/loterias/lotomania/noticia/2026/11/13/lotomania-hoje-resultado-do-concurso-2999-e-numeros-sorteados.ghtml",
+      "hora": "Sat, 14 Nov 2026 00:46:20 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "+Milionária hoje: resultado do concurso 407 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/milionaria/noticia/2026/11/13/milionaria-hoje-resultado-do-concurso-407-e-numeros-sorteados.ghtml",
+      "hora": "Sat, 14 Nov 2026 00:46:19 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Lotofácil hoje: resultado do concurso 3829 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/lotofacil/noticia/2026/11/13/lotofacil-hoje-resultado-do-concurso-3829-e-numeros-sorteados.ghtml",
+      "hora": "Sat, 14 Nov 2026 00:46:10 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Super Sete hoje: resultado do concurso 922 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/super-sete/noticia/2026/11/13/super-sete-hoje-resultado-do-concurso-922-e-numeros-sorteados.ghtml",
+      "hora": "Sat, 14 Nov 2026 00:46:09 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Dupla Sena hoje: resultado do concurso 3032 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/dupla-sena/noticia/2026/11/13/dupla-sena-hoje-resultado-do-concurso-3032-e-numeros-sorteados.ghtml",
+      "hora": "Sat, 14 Nov 2026 00:45:59 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Júri condena três acusados de matar torcedor do Vasco no DF por homicídio qualificado e corrupção de menores",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/13/juri-condena-tres-acusados-de-matar-torcedor-do-vasco-no-df-por-homicidio-qualificado-e-corrupcao-de-menores.ghtml",
+      "hora": "Sat, 14 Nov 2026 00:45:55 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Dia de Sorte hoje: resultado do concurso 1347 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/11/13/dia-de-sorte-hoje-resultado-do-concurso-1347-e-numeros-sorteados.ghtml",
+      "hora": "Sat, 14 Nov 2026 00:45:54 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -248,18 +240,26 @@
       "resumo": null
     },
     {
-      "titulo": "Outlook voltou: por que demorou para Microsoft resolver o problema?",
+      "titulo": "EUA suspendem todos os voos do país por problema em sistemas de comunicação: o que se sabe",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw808r14nmjgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 13 Nov 2026 15:27:36 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c54gnly4kzdpo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 14 Nov 2026 00:50:54 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Microsoft diz que fila de e-mails 'se aproxima do normal' após falha global no Outlook; o que se sabe",
+      "titulo": "Apagão do Outlook afetou empresas e até os prazos de ações no Judiciário: dá para pedir indenização à Microsoft?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6wy49w32epwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 13 Nov 2026 15:18:41 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cq62pdgrer0po?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 13 Nov 2026 19:49:20 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Outlook voltou: por que demorou para Microsoft resolver o problema?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cw808r14nmjgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 13 Nov 2026 15:27:36 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -272,19 +272,11 @@
       "resumo": null
     },
     {
-      "titulo": "Lesões no tornozelo são mais comuns do que você imagina — veja como proteger o seu",
+      "titulo": "Como crescimento da energia solar 'escandalosamente barata' desafia todas as projeções",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqgkl7nz7y2zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 13 Nov 2026 17:20:16 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/ck98z89d1073o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 13 Nov 2026 18:55:33 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Rosa e Azul':  a história sombria do quadro mais famoso do Masp — e o fim trágico de uma das meninas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmy4xjed4x1ko?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 13 Nov 2026 08:45:07 GMT",
-      "tema": "cultura",
       "resumo": null
     },
     {
