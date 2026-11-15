@@ -1,130 +1,122 @@
 {
-  "gerado_em": "2026-11-14T16:22:14.687Z",
+  "gerado_em": "2026-11-15T00:45:19.235Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 26.6,
+    "max": 27.2,
     "min": 16.5,
     "chuva": 18
   },
   "noticias": [
     {
-      "titulo": "Carro pega fogo e interdita faixa da Rodovia Anhanguera em Campinas",
+      "titulo": "Santarém, no Norte do Brasil, recebe reforço contra incêndios que ameaçam territórios indígenas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/transito/noticia/2026/11/14/carro-pega-fogo-e-interdita-faixa-da-rodovia-anhanguera-em-campinas.ghtml",
-      "hora": "Sat, 14 Nov 2026 16:08:36 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/14/santarem-no-norte-do-brasil-recebe-reforco-contra-incendios-que-ameacam-territorios-indigenas.ghtml",
+      "hora": "Sun, 15 Nov 2026 00:23:27 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem é morto a tiros durante assalto e Palmas registra dois assassinatos em menos de 24 horas",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/14/homem-e-morto-a-tiros-durante-assalto-e-palmas-registra-dois-assassinatos-em-menos-de-24-horas.ghtml",
+      "hora": "Sun, 15 Nov 2026 00:18:38 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: DF1 de sábado, 14 de novembro de 2026",
+      "titulo": "Policial comove ao fingir abordagem para doar cesta básica a idoso; vídeo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-sabado-14-de-novembro-de-2026.ghtml",
-      "hora": "Sat, 14 Nov 2026 16:08:12 -0000",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/11/14/policial-comove-ao-fingir-abordagem-para-doar-cesta-basica-a-idoso-video.ghtml",
+      "hora": "Sun, 15 Nov 2026 00:11:57 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Papa Leão XIV coroa imagem da Virgem Imaculada, padroeira de Chiclayo, no Peru",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/14/papa-leao-xiv-coroa-imagem-da-virgem-imaculada-padroeira-de-chiclayo-no-peru.ghtml",
+      "hora": "Sun, 15 Nov 2026 00:09:40 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Distribuição de água é feita sob escolta policial em bairro de Fortaleza após ameaças de facção",
+      "titulo": "Mulher tem casa destruída pela 3ª vez após chuva em Cosmópolis: 'Não vai dar para salvar quase nada' ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/14/distribuicao-de-agua-e-feita-sob-escolta-policial-em-bairro-de-fortaleza-apos-ameacas-de-faccao.ghtml",
-      "hora": "Sat, 14 Nov 2026 16:07:35 -0000",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/14/mulher-tem-casa-destruida-pela-3a-vez-apos-chuva-em-cosmopolis-nao-vai-dar-para-salvar-quase-nada.ghtml",
+      "hora": "Sun, 15 Nov 2026 00:06:18 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Câmera flagra fuga de dupla após ataque a motorista de aplicativo; VEJA",
+      "titulo": "Donos de bares de Varginha dizem que estão sendo impactados pela quantidade de eventos promovidos pela prefeitura",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/14/camera-flagra-fuga-de-dupla-apos-ataque-a-motorista-de-aplicativo-veja.ghtml",
-      "hora": "Sat, 14 Nov 2026 16:06:18 -0000",
+      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/14/donos-de-bares-de-varginha-dizem-que-estao-sendo-impactados-pela-quantidade-de-eventos-promovidos-pela-prefeitura.ghtml",
+      "hora": "Sat, 14 Nov 2026 23:57:34 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Agência Federal de Aviação americana criou programa de modernização que nunca foi implementado, diz piloto",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/14/agencia-federal-de-aviacao-americana-criou-programa-de-modernizacao-que-nunca-foi-implementado-diz-piloto.ghtml",
+      "hora": "Sat, 14 Nov 2026 23:55:19 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Comissão do Senado discute federalização do caso das crianças desaparecidas no MA",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/14/comissao-senado-discute-federalizacao-caso-irmaos-desaparecidos-bacabal-maranhao.ghtml",
+      "hora": "Sat, 14 Nov 2026 23:47:22 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: MG2 de sábado, 14 de novembro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/minas-gerais/videos-mg2/playlist/videos-mg2-de-sabado-14-de-novembro-de-2026.ghtml",
+      "hora": "Sat, 14 Nov 2026 23:45:54 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Aviso meteorológico é cancelado após redução na previsão de chuvas e ventos em Sergipe",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/14/aviso-meteorologico-e-cancelado-apos-reducao-na-previsao-de-chuvas-e-ventos-em-sergipe.ghtml",
+      "hora": "Sat, 14 Nov 2026 23:41:24 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Troca de cabos em área remota dos EUA é a causa de pane aérea aérea, segundo governo Trump",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/14/troca-de-cabos-em-area-remota-dos-eua-e-a-causa-de-pane-aerea-aerea-segundo-governo-trump.ghtml",
+      "hora": "Sat, 14 Nov 2026 23:39:50 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEO: jovem encontra tubarão encalhado em praia no RS e consegue devolvê-lo ao mar",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/14/video-tubarao-encalhado-praia-rs-mar.ghtml",
+      "hora": "Sat, 14 Nov 2026 23:34:33 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Justiça concede liminar e suspende Prova do Laço de Guareí por falta de alvará e risco de acidentes",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/14/liminar-suspende-prova-do-laco-de-guarei.ghtml",
+      "hora": "Sat, 14 Nov 2026 23:22:32 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Mulher morre e filho de 11 anos fica em estado grave após carro ser arrastado por caminhão",
+      "titulo": "Árvore de Natal de 55 metros de altura é inaugurada no Parque Villa-Lobos, Zona Oeste de SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/14/mulher-morre-e-filho-fica-em-estado-grave-apos-carro-ser-arrastado-por-caminhao-em-onda-verde.ghtml",
-      "hora": "Sat, 14 Nov 2026 16:06:06 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
-      "hora": "Sat, 14 Nov 2026 16:04:51 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml",
-      "hora": "Sat, 14 Nov 2026 16:04:39 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "TV Integração de Uberaba ao vivo: assista aos telejornais ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
-      "hora": "Sat, 14 Nov 2026 16:04:28 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
-      "hora": "Sat, 14 Nov 2026 16:04:17 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Assista ao Gazeta Meio Dia - edição regional",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-gazeta-meio-dia-edicao-regional.ghtml",
-      "hora": "Sat, 14 Nov 2026 16:03:44 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Assista ao Gazeta Meio Dia ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-gazeta-meio-dia.ghtml",
-      "hora": "Sat, 14 Nov 2026 16:03:22 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Mulher é presa após furto de oito peças de picanha avaliadas em R$ 1,1 mil em supermercado de Piracicaba",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/14/mulher-e-presa-apos-furto-de-oito-pecas-de-picanha-avaliadas-em-r-11-mil-em-supermercado-de-piracicaba.ghtml",
-      "hora": "Sat, 14 Nov 2026 16:02:51 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Bahia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
-      "hora": "Sat, 14 Nov 2026 16:02:44 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: EPTV 1 Sul de Minas de sábado, 14 de novembro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/11/14/videos-eptv-1-sul-de-minas-de-sabado-14-de-novembro-de-2026.ghtml",
-      "hora": "Sat, 14 Nov 2026 16:02:34 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Assista ao EPTV1",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv1.ghtml",
-      "hora": "Sat, 14 Nov 2026 16:02:06 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/14/arvore-de-natal-de-55-metros-de-altura-e-inaugurada-no-parque-villa-lobos-zona-oeste-de-sp.ghtml",
+      "hora": "Sat, 14 Nov 2026 23:21:26 -0000",
+      "tema": "sp",
       "resumo": null
     },
     {
@@ -248,35 +240,35 @@
       "resumo": null
     },
     {
+      "titulo": "De onde surgiu a teoria de que haverá um 'apagão mundial' no dia 17 de novembro — e por que ele é improvável",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c57429m97421o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 14 Nov 2026 18:01:00 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "A nova onda de drogas sintéticas caseiras que se espalha pelos EUA",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c65ynevx7g5jo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 14 Nov 2026 20:25:56 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Como troca de cabos levou ao maior caos aéreo nos EUA desde o 11 de Setembro, segundo o governo Trump",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ckd71ne91y79o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 14 Nov 2026 18:06:39 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Uma nova nação está sendo imaginada com avanço dos evangélicos no Brasil, diz filósofo Paulo Arantes",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cqly4nnregnjo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 14 Nov 2026 11:40:45 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "EUA ainda têm 2,5 mil voos cancelados após suspensão por problema de comunicação: o que se sabe após a retomada",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c54gnly4kzdpo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 14 Nov 2026 13:07:15 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Como canetas emagrecedoras têm 'revolucionado' o tratamento de diabetes",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c8g46qzzn3gvo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 14 Nov 2026 14:47:39 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que nem os criadores de 'Grand Theft Auto' puderam jogar 'GTA 6', o maior lançamento da história dos games",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmx2xnpeked2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 14 Nov 2026 16:03:39 GMT",
-      "tema": "cultura",
       "resumo": null
     },
     {
@@ -288,6 +280,30 @@
       "resumo": null
     },
     {
+      "titulo": "'Me disseram que meu bebê havia morrido... 42 anos depois, ele me mandou um e-mail'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm2kl0qy9x97o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 14 Nov 2026 22:15:15 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que o México arrecada tão poucos impostos (e como financia seus crescentes benefícios sociais)",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmn8077z3xl6o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 14 Nov 2026 19:06:17 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'Eu não pinto gordas': o que está por trás do estilo único de Botero",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqd09mr2e3eko?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 14 Nov 2026 23:54:04 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
       "titulo": "Mostrar na novela um Nordeste do atraso e a Faria Lima pulsante é vender que só um Brasil 'dá certo', diz pesquisador",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c6grey09e9n1o?at_medium=RSS&at_campaign=rss",
@@ -296,35 +312,11 @@
       "resumo": null
     },
     {
-      "titulo": "Como crescimento da energia solar 'escandalosamente barata' desafia todas as projeções",
+      "titulo": "A revolução no tratamento de diabetes com as 'canetas emagrecedoras",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck98z89d1073o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 13 Nov 2026 18:55:33 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c8g46qzzn3gvo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 14 Nov 2026 14:47:39 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Como Jensen Huang foi de 'visionário da IA' à queda em desgraça por causa de decisões amorosas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckwy8vdnwwlyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 13 Nov 2026 10:32:39 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Os brasileiros que decidiram morar nas grandes metrópoles da China: 'A liberdade muda nossa forma de viver'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c235j4dgpz9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 12 Nov 2026 08:26:27 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Mãe de menino brasileiro que teve dedo mutilado em Portugal contesta investigação: 'Como se a vida dele não valesse nada'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck0jxpxl6q24o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 12 Nov 2026 20:55:16 GMT",
-      "tema": "brasil",
       "resumo": null
     },
     {
@@ -336,7 +328,7 @@
       "resumo": null
     },
     {
-      "titulo": "Quem vai cuidar dos idosos do Brasil? Por que o envelhecimento acelerado é o 'desafio do século'",
+      "titulo": "Quem vai cuidar dos idosos do Brasil? Por que envelhecimento acelerado é 'desafio do século'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c60qkxv44pq8o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 11 Nov 2026 08:31:43 GMT",
