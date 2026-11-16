@@ -1,130 +1,126 @@
 {
-  "gerado_em": "2026-11-15T16:48:35.535Z",
+  "gerado_em": "2026-11-16T00:45:40.215Z",
   "modo": "palavras-chave",
-  "clima": {
-    "max": 29.2,
-    "min": 17.5,
-    "chuva": 90
-  },
+  "clima": null,
   "noticias": [
     {
-      "titulo": "Apoio da família, viagem do interior para capital e expectativa de venezuelana marcam segundo dia do Enem em Boa Vista",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/15/apoio-da-familia-viagem-do-interior-para-capital-e-expectativa-de-venezuelana-marcam-segundo-dia-do-enem-em-boa-vista.ghtml",
-      "hora": "Sun, 15 Nov 2026 16:35:30 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Enem 2026: Rio de Janeiro tem mais de 363 mil inscritos para o segundo dia de provas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/15/enem-2026-rio-de-janeiro-segundo-dia-de-provas.ghtml",
-      "hora": "Sun, 15 Nov 2026 16:34:25 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultado da Mega-Sena 3086: aposta de Parnaíba acerta a quina e outras 13 apostas fazem a quadra; veja valores",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/15/resultado-da-mega-sena-3086.ghtml",
-      "hora": "Sun, 15 Nov 2026 16:33:46 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "PM apreende mais de 15 quilos de drogas escondidos em embarcação no Porto de Parintins",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/15/pm-apreende-mais-de-15-quilos-de-drogas-escondidos-em-embarcacao-no-porto-de-parintins.ghtml",
-      "hora": "Sun, 15 Nov 2026 16:33:32 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Começam as provas do segundo dia de Enem; g1 terá cobertura especial com correção das questões",
+      "titulo": "Gabarito e correção do Enem: g1 mostra respostas do 2º dia do Enem",
       "fonte": "G1",
       "link": "https://g1.globo.com/educacao/enem/2026/ao-vivo/enem-2026-gabarito-correcao-das-questoes-videos-cadernos-prova.ghtml",
-      "hora": "Sun, 15 Nov 2026 16:30:28 -0000",
+      "hora": "Mon, 16 Nov 2026 00:34:40 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Candidato chega após fechamento dos portões do Enem em Fortaleza e atribui atraso à frota reduzida do metrô",
+      "titulo": "IA fora de controle: agentes da OpenAI invadiram sistemas de outras empresas durante testes",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/educacao/noticia/2026/11/15/candidato-chega-apos-fechamento-dos-portoes-do-enem-em-fortaleza-e-atribui-atraso-a-frota-reduzida-do-metro.ghtml",
-      "hora": "Sun, 15 Nov 2026 16:25:51 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Pré-Caju 2026: Ivete, Bell Marques e Léo Santana comandam último dia da folia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/pre-caju/noticia/2026/11/15/pre-caju-2026-ivete-bell-marques-e-leo-santana-comandam-ultimo-dia-da-folia.ghtml",
-      "hora": "Sun, 15 Nov 2026 16:23:55 -0000",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/11/15/ia-fora-de-controle-agentes-da-openai-invadiram-sistemas-de-outras-empresas-durante-testes.ghtml",
+      "hora": "Mon, 16 Nov 2026 00:28:40 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Juntos nos estudos e na prova: irmãos fazem o Enem na mesma sala em Belém: ‘A gente está bem preparado’",
+      "titulo": "Chuva alaga ruas de SP e provoca transbordamento de córrego na Zona Leste; vídeos mostram estragos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/15/juntos-nos-estudos-e-na-prova-irmaos-fazem-o-enem-na-mesma-sala-em-belem-a-gente-esta-bem-preparado.ghtml",
-      "hora": "Sun, 15 Nov 2026 16:23:36 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Três apostas de MS acertam a quina da Mega-Sena e uma leva quase R$ 100 mil",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/15/tres-apostas-de-ms-acertam-a-quina-da-mega-sena-e-uma-leva-quase-r-100-mil.ghtml",
-      "hora": "Sun, 15 Nov 2026 16:21:56 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Se esse menino tivesse sumido, eu não sei nem o que eu ia fazer', diz mãe de bebê após tentativa de sequestro em maternidade de BH",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/15/se-esse-menino-tivesse-sumido-eu-nao-sei-nem-o-que-eu-ia-fazer-diz-mae-de-bebe-apos-tentativa-de-sequestro-em-maternidade-de-bh.ghtml",
-      "hora": "Sun, 15 Nov 2026 16:20:45 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Aos 61 anos, candidato ganha apoio da família para fazer o Enem e mira carreira na engenharia civil",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2026/11/15/aos-61-anos-candidato-ganha-apoio-familia-fazer-enem-mira-carreira-engenharia-civil.ghtml",
-      "hora": "Sun, 15 Nov 2026 16:19:33 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: AB2 de sábado, 14 de novembro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/al/alagoas/edicao/2026/11/15/videos-ab2-de-sabado-14-de-novembro-de-2026.ghtml",
-      "hora": "Sun, 15 Nov 2026 16:19:21 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Criança esquecida a bordo pela família em Porto Alegre ficou 15 minutos sem os responsáveis; piloto pediu ajuda à torre de comando",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/15/crianca-esquecida-a-bordo-pela-familia-em-porto-alegre-ficou-15-minutos-sem-os-responsaveis-piloto-pediu-ajuda-a-torre-de-comando.ghtml",
-      "hora": "Sun, 15 Nov 2026 16:18:00 -0000",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/15/chuva-alaga-ruas-de-sp-e-provoca-transbordamento-de-corrego-na-zona-leste-videos-mostram-estragos.ghtml",
+      "hora": "Mon, 16 Nov 2026 00:24:52 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Enem 2026: ministro da Educação cita tentativas de ataques hacker à página do Inep e diz que governo está controlando situação",
+      "titulo": "Certidão de nascimento, RG e passaporte brasileiro: como estrangeiro ligado a Osama Bin Laden pagou R$ 200 mil por documentos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/enem-2026-ministro-da-educacao-cita-tentativas-de-ataques-hacker-a-pagina-do-inep-e-diz-que-governo-esta-controlando-situacao.ghtml",
-      "hora": "Sun, 15 Nov 2026 16:17:26 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/11/15/certidao-de-nascimento-rg-e-passaporte-brasileiro-como-estrangeiro-ligado-a-osama-bin-laden-pagou-r-200-mil-por-documentos.ghtml",
+      "hora": "Mon, 16 Nov 2026 00:18:40 -0000",
+      "tema": "entretenimento",
       "resumo": null
     },
     {
-      "titulo": "Prefeitura de Araruama flagra descarte irregular de entulho às margens do Rio Mataruna",
+      "titulo": "Enem 2026: questão sobre sites de namoro podia ser resolvida sem cálculos?",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/15/prefeitura-de-araruama-flagra-descarte-irregular-de-entulho-as-margens-do-rio-mataruna.ghtml",
-      "hora": "Sun, 15 Nov 2026 16:14:35 -0000",
+      "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/enem-2026-questao-sobre-sites-de-namoro.ghtml",
+      "hora": "Mon, 16 Nov 2026 00:17:35 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem morre após queda de parapente; vídeo",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/15/homem-morrer-apos-queda-de-parapente-video.ghtml",
+      "hora": "Mon, 16 Nov 2026 00:08:52 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Foliões lotam a Orla da Atalaia para se despedir do Pré-Caju 2026; confira fotos e vídeos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/se/sergipe/pre-caju/noticia/2026/11/15/folioes-lotam-a-orla-da-atalaia-para-se-despedir-do-pre-caju-2026-confira-fotos-e-videos.ghtml",
+      "hora": "Mon, 16 Nov 2026 00:03:56 -0000",
       "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Mansões, carros de luxo e empresas: a vida de ostentação de Ricardo Magro nos EUA, que deve R$ 50 bilhões em impostos no Brasil",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/11/15/mansoes-carros-de-luxo-e-empresas-a-vida-de-ostentacao-de-ricardo-magro-nos-eua-que-deve-r-50-bilhoes-em-impostos-no-brasil.ghtml",
+      "hora": "Sun, 15 Nov 2026 23:57:27 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Rafaella Wanderley, filha de Cristiana Oliveira, retira tumor benigno da cabeça",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/15/rafaella-wanderley-filha-de-cristiana-oliveira-retira-tumor-benigno-da-cabeca.ghtml",
+      "hora": "Sun, 15 Nov 2026 23:39:18 -0000",
+      "tema": "entretenimento",
+      "resumo": null
+    },
+    {
+      "titulo": "Claudionor Germano morre aos 94 anos; veja fotos do cantor",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/15/claudionor-germano-fotos.ghtml",
+      "hora": "Sun, 15 Nov 2026 23:35:43 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Mãe é presa após jogar filha de 4 anos de viaduto no Centro de SP; criança morreu",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/15/mae-e-presa-apos-jogar-filha-de-4-anos-de-viaduto-no-centro-de-sp-crianca-morreu.ghtml",
+      "hora": "Sun, 15 Nov 2026 23:28:03 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Vídeo mostra momento em que árvore se parte ao meio e cai em praça no PI",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/15/video-arvore-cai.ghtml",
+      "hora": "Sun, 15 Nov 2026 23:27:25 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Golfinho é encontrado morto em praia do litoral de São Paulo; VÍDEO",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/15/golfinho-e-encontrado-morto-em-praia-do-litoral-de-sao-paulo-video.ghtml",
+      "hora": "Sun, 15 Nov 2026 23:22:37 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Questão de matemática sobre campeonato de futebol deve ser anulada, dizem professores",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/questao-de-matematica-do-enem-2026-e-passivel-de-anulacao-diz-professor.ghtml",
+      "hora": "Sun, 15 Nov 2026 23:08:57 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "TJMG apura vazamento de arquivos após ataque cibernético",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/15/tjmg-apura-vazamento-de-arquivos-apos-ataque-cibernetico.ghtml",
+      "hora": "Sun, 15 Nov 2026 23:07:52 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -248,23 +244,23 @@
       "resumo": null
     },
     {
-      "titulo": "Por que Trump está sob pressão por escândalo sexual na Nvidia",
+      "titulo": "Como China finalmente reduziu emissão de poluentes e planeja 'revolução de energias renováveis' ",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm4gn9ly3qq6o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 15 Nov 2026 10:50:20 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/ckpqgqq307xlo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 15 Nov 2026 17:36:42 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "15 de novembro é feriado de quê? Por que historiadores acreditam que a monarquia sofreu 'um golpe'",
+      "titulo": "Como foi a volta de Ronaldinho Gaúcho aos gramados, aos 46 anos",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqjd7lpvj452o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 15 Nov 2026 13:10:42 GMT",
-      "tema": "mundo",
+      "link": "https://www.bbc.com/portuguese/articles/cv5y151l9kxwo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 15 Nov 2026 21:54:22 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "A mulher que está há anos presa em ilha paradisíaca por problema com visto: 'Viajaria até algemada, amarrada e amordaçada'",
+      "titulo": "A mulher que está há anos presa em ilha paradisíaca por problema com visto: 'Viajaria até algemada'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cjy5xldlxn1do?at_medium=RSS&at_campaign=rss",
       "hora": "Sun, 15 Nov 2026 15:39:41 GMT",
@@ -272,18 +268,10 @@
       "resumo": null
     },
     {
-      "titulo": "'Descobriram um tratamento para a demência do meu filho de 5 anos, mas ele custa mais de R$ 20 milhões'",
+      "titulo": "'Por que minha família branca nunca me disse que eu era negra?'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqgklye785xko?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 15 Nov 2026 12:03:28 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "As pessoas que só precisam dormir 4 horas por dia — e como a genética explica isso",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw99e005k17lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 15 Nov 2026 11:12:20 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c8p3v9dw7pwpo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 15 Nov 2026 23:59:48 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -296,18 +284,42 @@
       "resumo": null
     },
     {
-      "titulo": "Como troca de cabos levou ao maior caos aéreo nos EUA desde o 11 de Setembro, segundo o governo Trump",
+      "titulo": "O ídolo do judô que está sacudindo a eleição presidencial da França com candidatura surpresa",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckd71ne91y79o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 14 Nov 2026 18:06:39 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c6m2lm7g7l1jo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 15 Nov 2026 19:01:01 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "'Me disseram que meu bebê havia morrido... 42 anos depois, ele me mandou um e-mail'",
+      "titulo": "'Descobriram um tratamento para a demência do meu filho de 5 anos, mas ele custa mais de R$ 20 milhões'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm2kl0qy9x97o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 14 Nov 2026 22:15:15 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cqgklye785xko?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 15 Nov 2026 12:03:28 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Como sobrevivi a uma explosão que deixou 650 mortos: 'As cortinas grudaram no teto'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c3x29ldq242wo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 15 Nov 2026 17:29:54 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que 15 de novembro é feriado e o que um 'golpe na monarquia' tem a ver com a data?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqjd7lpvj452o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 15 Nov 2026 13:10:42 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "As pessoas que só precisam dormir 4 horas por dia — e como a genética explica isso",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cw99e005k17lo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 15 Nov 2026 11:12:20 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -317,14 +329,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cqly4nnregnjo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 14 Nov 2026 11:40:45 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que o México arrecada tão poucos impostos (e como financia seus crescentes benefícios sociais)",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmn8077z3xl6o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 14 Nov 2026 19:06:17 GMT",
-      "tema": "mundo",
       "resumo": null
     },
     {
@@ -340,14 +344,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c60qkxv44pq8o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 11 Nov 2026 08:31:43 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "As 'armadilhas' que Lula terá de desarmar na política externa já a partir do ano que vem",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvlyd0zjnn4wo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 11 Nov 2026 19:48:44 GMT",
       "tema": "brasil",
       "resumo": null
     },
