@@ -1,125 +1,121 @@
 {
-  "gerado_em": "2026-11-16T00:45:40.215Z",
+  "gerado_em": "2026-11-16T19:59:42.191Z",
   "modo": "palavras-chave",
-  "clima": null,
+  "clima": {
+    "max": 24.5,
+    "min": 18.4,
+    "chuva": 100
+  },
   "noticias": [
     {
-      "titulo": "Gabarito e correção do Enem: g1 mostra respostas do 2º dia do Enem",
+      "titulo": "Ministério da Saúde vai enviar doses extras da vacina contra a Covid-19; veja quem precisa tomar e a cada quanto tempo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/educacao/enem/2026/ao-vivo/enem-2026-gabarito-correcao-das-questoes-videos-cadernos-prova.ghtml",
-      "hora": "Mon, 16 Nov 2026 00:34:40 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "IA fora de controle: agentes da OpenAI invadiram sistemas de outras empresas durante testes",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/fantastico/noticia/2026/11/15/ia-fora-de-controle-agentes-da-openai-invadiram-sistemas-de-outras-empresas-durante-testes.ghtml",
-      "hora": "Mon, 16 Nov 2026 00:28:40 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Chuva alaga ruas de SP e provoca transbordamento de córrego na Zona Leste; vídeos mostram estragos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/15/chuva-alaga-ruas-de-sp-e-provoca-transbordamento-de-corrego-na-zona-leste-videos-mostram-estragos.ghtml",
-      "hora": "Mon, 16 Nov 2026 00:24:52 -0000",
+      "link": "https://g1.globo.com/saude/noticia/2026/11/16/ministerio-da-saude-vai-enviar-doses-extras-da-vacina-contra-a-covid-19-veja-quem-precisa-tomar-e-a-cada-quanto-tempo.ghtml",
+      "hora": "Mon, 16 Nov 2026 19:47:16 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Certidão de nascimento, RG e passaporte brasileiro: como estrangeiro ligado a Osama Bin Laden pagou R$ 200 mil por documentos",
+      "titulo": "Em Terra Santa, crianças e fiéis fazem caminhada silenciosa contra queimadas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/fantastico/noticia/2026/11/15/certidao-de-nascimento-rg-e-passaporte-brasileiro-como-estrangeiro-ligado-a-osama-bin-laden-pagou-r-200-mil-por-documentos.ghtml",
-      "hora": "Mon, 16 Nov 2026 00:18:40 -0000",
-      "tema": "entretenimento",
-      "resumo": null
-    },
-    {
-      "titulo": "Enem 2026: questão sobre sites de namoro podia ser resolvida sem cálculos?",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/enem-2026-questao-sobre-sites-de-namoro.ghtml",
-      "hora": "Mon, 16 Nov 2026 00:17:35 -0000",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/16/em-terra-santa-criancas-e-fieis-fazem-caminhada-silenciosa-contra-queimadas.ghtml",
+      "hora": "Mon, 16 Nov 2026 19:47:11 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Homem morre após queda de parapente; vídeo",
+      "titulo": "Apple é investigada no Cade por barrar PIX por aproximação no iPhone; entenda a disputa ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/15/homem-morrer-apos-queda-de-parapente-video.ghtml",
-      "hora": "Mon, 16 Nov 2026 00:08:52 -0000",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/16/apple-e-investigada-no-cade-por-barrar-pix-por-aproximacao-no-iphone-entenda-a-disputa.ghtml",
+      "hora": "Mon, 16 Nov 2026 19:45:44 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "ExpoBeleza 2026 reúne expositores do setor de estética e bem-estar em Manaus",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/11/16/expobeleza-2026-reune-expositores-do-setor-de-estetica-e-bem-estar-em-manaus.ghtml",
+      "hora": "Mon, 16 Nov 2026 19:45:32 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Foliões lotam a Orla da Atalaia para se despedir do Pré-Caju 2026; confira fotos e vídeos",
+      "titulo": "Arena promove integração na Corrida Unimed Teresina",
       "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/pre-caju/noticia/2026/11/15/folioes-lotam-a-orla-da-atalaia-para-se-despedir-do-pre-caju-2026-confira-fotos-e-videos.ghtml",
-      "hora": "Mon, 16 Nov 2026 00:03:56 -0000",
+      "link": "https://g1.globo.com/pi/piaui/especial-publicitario/unimed-teresina/sos-unimed/noticia/2026/11/16/arena-promove-integracao-na-corrida-unimed-teresina.ghtml",
+      "hora": "Mon, 16 Nov 2026 19:44:47 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Mansões, carros de luxo e empresas: a vida de ostentação de Ricardo Magro nos EUA, que deve R$ 50 bilhões em impostos no Brasil",
+      "titulo": "Governo do Amapá cancela festa de Réveillon e diz que repasse para o Carnaval ficará para 2027",
       "fonte": "G1",
-      "link": "https://g1.globo.com/fantastico/noticia/2026/11/15/mansoes-carros-de-luxo-e-empresas-a-vida-de-ostentacao-de-ricardo-magro-nos-eua-que-deve-r-50-bilhoes-em-impostos-no-brasil.ghtml",
-      "hora": "Sun, 15 Nov 2026 23:57:27 -0000",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/16/governo-do-amapa-cancela-festa-de-reveillon-e-diz-que-repasse-para-o-carnaval-ficara-para-2027.ghtml",
+      "hora": "Mon, 16 Nov 2026 19:43:26 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Rafaella Wanderley, filha de Cristiana Oliveira, retira tumor benigno da cabeça",
+      "titulo": "Santarém vence edital nacional, garante R$ 988 mil e é a única selecionada do Norte",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/15/rafaella-wanderley-filha-de-cristiana-oliveira-retira-tumor-benigno-da-cabeca.ghtml",
-      "hora": "Sun, 15 Nov 2026 23:39:18 -0000",
-      "tema": "entretenimento",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/16/santarem-vence-edital-nacional-garante-r-988-mil-e-e-a-unica-selecionada-do-norte.ghtml",
+      "hora": "Mon, 16 Nov 2026 19:42:08 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Claudionor Germano morre aos 94 anos; veja fotos do cantor",
+      "titulo": "VÍDEO: veja momento em que forro de igreja desaba durante chuva forte no interior de SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/15/claudionor-germano-fotos.ghtml",
-      "hora": "Sun, 15 Nov 2026 23:35:43 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Mãe é presa após jogar filha de 4 anos de viaduto no Centro de SP; criança morreu",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/15/mae-e-presa-apos-jogar-filha-de-4-anos-de-viaduto-no-centro-de-sp-crianca-morreu.ghtml",
-      "hora": "Sun, 15 Nov 2026 23:28:03 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Vídeo mostra momento em que árvore se parte ao meio e cai em praça no PI",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/15/video-arvore-cai.ghtml",
-      "hora": "Sun, 15 Nov 2026 23:27:25 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Golfinho é encontrado morto em praia do litoral de São Paulo; VÍDEO",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/15/golfinho-e-encontrado-morto-em-praia-do-litoral-de-sao-paulo-video.ghtml",
-      "hora": "Sun, 15 Nov 2026 23:22:37 -0000",
+      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/11/16/video-veja-momento-em-que-forro-de-igreja-desaba-durante-chuva-forte-no-interior-de-sp.ghtml",
+      "hora": "Mon, 16 Nov 2026 19:41:05 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Questão de matemática sobre campeonato de futebol deve ser anulada, dizem professores",
+      "titulo": "João Pessoa inicia cadastro para matrículas de novatos na rede municipal para o ano letivo de 2027",
       "fonte": "G1",
-      "link": "https://g1.globo.com/educacao/enem/2026/noticia/2026/11/15/questao-de-matematica-do-enem-2026-e-passivel-de-anulacao-diz-professor.ghtml",
-      "hora": "Sun, 15 Nov 2026 23:08:57 -0000",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/16/joao-pessoa-inicia-cadastro-para-matriculas-de-novatos-na-rede-municipal-para-o-ano-letivo-de-2027.ghtml",
+      "hora": "Mon, 16 Nov 2026 19:38:23 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "TJMG apura vazamento de arquivos após ataque cibernético",
+      "titulo": "Frei Gilson em Juiz de Fora: show para 30 mil pessoas tem alterações no trânsito e ônibus extras",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/15/tjmg-apura-vazamento-de-arquivos-apos-ataque-cibernetico.ghtml",
-      "hora": "Sun, 15 Nov 2026 23:07:52 -0000",
+      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/16/frei-gilson-em-juiz-de-fora-show-para-30-mil-pessoas-tem-alteracoes-no-transito-e-onibus-extras.ghtml",
+      "hora": "Mon, 16 Nov 2026 19:37:27 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Após acidente que matou casal e crianças a caminho de seminário no Paraná, mãe recebe alta para acompanhar enterro do filho",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/16/acidente-morte-casal-criancas-parana.ghtml",
+      "hora": "Mon, 16 Nov 2026 19:36:39 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição Regiões de segunda-feira, 16 de novembro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/edicao/2026/11/16/videos-jornal-anhanguera-1-edicao-regioes-de-segunda-feira-16-de-novembro-de-2026.ghtml",
+      "hora": "Mon, 16 Nov 2026 19:36:10 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Hemominas alerta para baixa nos estoques de sangue em MG; saiba quem pode doar e como fazer",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/16/hemominas-alerta-para-baixa-nos-estoques-de-sangue-em-mg-saiba-quem-pode-doar-e-como-fazer.ghtml",
+      "hora": "Mon, 16 Nov 2026 19:35:09 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Volta Redonda passa a oferecer transplantes de rim pelo SUS",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/16/volta-redonda-passa-a-oferecer-transplantes-de-rim-pelo-sus.ghtml",
+      "hora": "Mon, 16 Nov 2026 19:33:37 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -244,34 +240,42 @@
       "resumo": null
     },
     {
-      "titulo": "Como China finalmente reduziu emissão de poluentes e planeja 'revolução de energias renováveis' ",
+      "titulo": "O que aprendi ao passar 14 anos acompanhando famílias que não saem da pobreza:  'Muito além de decisões pessoais'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckpqgqq307xlo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 15 Nov 2026 17:36:42 GMT",
-      "tema": "mundo",
+      "link": "https://www.bbc.com/portuguese/articles/cm3eg8e5y0jvo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 16 Nov 2026 18:23:55 GMT",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Como foi a volta de Ronaldinho Gaúcho aos gramados, aos 46 anos",
+      "titulo": "Lula vai conseguir emplacar 4 ministros no STF ou ficará refém de Senado bolsonarista?",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cv5y151l9kxwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 15 Nov 2026 21:54:22 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c5n49ln0l4xeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 16 Nov 2026 08:46:29 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "A mulher que está há anos presa em ilha paradisíaca por problema com visto: 'Viajaria até algemada'",
+      "titulo": "'Meu nome é Pattinson, Robert Pattinson': como o astro de Crepúsculo virou o novo James Bond, o 007",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjy5xldlxn1do?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 15 Nov 2026 15:39:41 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c8wy53qwzn4no?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 16 Nov 2026 18:09:33 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "'Por que minha família branca nunca me disse que eu era negra?'",
+      "titulo": "O alerta após vídeo de FHC investigado pela polícia: 'Redes estão cheias de posts feitos por quem deveria proteger os vulneráveis'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c8p3v9dw7pwpo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 15 Nov 2026 23:59:48 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c8p3v923q2y4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 16 Nov 2026 16:22:33 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que Lindsay Clancy, acusada de matar os 3 filhos, será julgada novamente no ano que vem",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6vg29vpwllqo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 16 Nov 2026 18:16:11 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -284,42 +288,34 @@
       "resumo": null
     },
     {
-      "titulo": "O ídolo do judô que está sacudindo a eleição presidencial da França com candidatura surpresa",
+      "titulo": "Como foi a volta de Ronaldinho Gaúcho aos gramados, aos 46 anos",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6m2lm7g7l1jo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 15 Nov 2026 19:01:01 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cv5y151l9kxwo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 15 Nov 2026 21:54:22 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Quem é o 1º senador negro do Mississippi em 140 anos e por que tão poucos foram eleitos nos EUA?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwe9kj4xmy2po?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 16 Nov 2026 09:43:38 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "'Descobriram um tratamento para a demência do meu filho de 5 anos, mas ele custa mais de R$ 20 milhões'",
+      "titulo": "Quem foi o 'chefe dos chefes', que revolucionou o narcotráfico do México e morreu aos 80 anos",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqgklye785xko?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 15 Nov 2026 12:03:28 GMT",
-      "tema": "mundo",
+      "link": "https://www.bbc.com/portuguese/articles/ck3rgq8yenj7o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 16 Nov 2026 14:06:37 GMT",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Como sobrevivi a uma explosão que deixou 650 mortos: 'As cortinas grudaram no teto'",
+      "titulo": "A mulher que está há anos presa em ilha paradisíaca por problema com visto",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3x29ldq242wo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 15 Nov 2026 17:29:54 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que 15 de novembro é feriado e o que um 'golpe na monarquia' tem a ver com a data?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqjd7lpvj452o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 15 Nov 2026 13:10:42 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "As pessoas que só precisam dormir 4 horas por dia — e como a genética explica isso",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw99e005k17lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 15 Nov 2026 11:12:20 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cjy5xldlxn1do?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 15 Nov 2026 15:39:41 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -332,10 +328,18 @@
       "resumo": null
     },
     {
-      "titulo": "Amazônia queimando afeta a saúde e o bolso do Brasil inteiro, diz bióloga dedicada a combater o fogo na floresta",
+      "titulo": "Amazônia queimando afeta a saúde e o bolso do Brasil inteiro, diz bióloga que combate fogo na floresta",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cr20v7g9jyy3o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 13 Nov 2026 09:31:58 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Os segredos dos últimos anos de Belchior",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/watch/c6x2wnkg33y7o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 16 Nov 2026 16:39:15 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -353,14 +357,6 @@
       "link": "https://www.bbc.com/portuguese/articles/c6grey09e9n1o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 12 Nov 2026 23:45:42 GMT",
       "tema": "entretenimento",
-      "resumo": null
-    },
-    {
-      "titulo": "O que colocar na mochila como kit de emergência e por que você deve ter uma — preventivamente",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm62p37dgxzzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 11 Nov 2026 20:53:39 GMT",
-      "tema": "brasil",
       "resumo": null
     }
   ]
