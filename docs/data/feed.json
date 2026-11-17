@@ -1,126 +1,106 @@
 {
-  "gerado_em": "2026-11-17T03:23:52.896Z",
+  "gerado_em": "2026-11-17T18:56:30.980Z",
   "modo": "palavras-chave",
-  "clima": null,
+  "clima": {
+    "max": 28,
+    "min": 18.1,
+    "chuva": 4
+  },
   "noticias": [
     {
-      "titulo": "Município desenvolve tecnologia para catalogar população animal",
+      "titulo": "Justiça do DF manda marcar nova audiência no processo de Adriana Villela na 1ª instância",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/11/17/municipio-desenvolve-tecnologia-para-catalogar-populacao-animal.ghtml",
-      "hora": "Tue, 17 Nov 2026 03:05:01 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Quando a procura aumenta, ter estrutura por trás da compra faz diferença",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/11/17/quando-a-procura-aumenta-ter-estrutura-por-tras-da-compra-faz-diferenca.ghtml",
-      "hora": "Tue, 17 Nov 2026 03:05:00 -0000",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/17/justica-do-df-manda-marcar-nova-audiencia-no-processo-de-adriana-villela-na-1a-instancia.ghtml",
+      "hora": "Tue, 17 Nov 2026 18:48:59 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Macaé conquista prêmio estadual de excelência em Segurança Pública",
+      "titulo": "Carro capota após avanço de preferencial e atinge moto parada em Santarém; placa de sinalização estava virada",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/11/17/macae-conquista-premio-estadual-de-excelencia-em-seguranca-publica.ghtml",
-      "hora": "Tue, 17 Nov 2026 03:03:01 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Adolescentes vão mais às urnas e registram maior comparecimento desde 2014",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/17/eleicoes-2026-comparecimento-adolescentes-segundo-turno-20214.ghtml",
-      "hora": "Tue, 17 Nov 2026 03:00:01 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Concurso da Câmara: inscrições terminam nesta terça; salário passa de R$ 32 mil",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/17/concurso-da-camara-inscricoes-terminam.ghtml",
-      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Mega-Sena pode pagar R$ 34 milhões nesta terça-feira; g1 transmite ao vivo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/17/mega-sena-pode-pagar-r-34-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
-      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Caso videogame-bomba: o que se sabe e o que falta saber sobre aparelho com explosivo enviado à loja de Santo André",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/17/caso-videogame-bomba-o-que-se-sabe-e-o-que-falta-saber-sobre-aparelho-com-explosivo-enviado-a-loja-de-santo-andre.ghtml",
-      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Sete ataques e oito mortes em 6 horas: saiba quais devem ser as consequências da madrugada de crimes no RS",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/17/consequencias-ataques-porto-alegre.ghtml",
-      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Nova diretriz sobre câncer de próstata crava idade para rastreamento e expõe desigualdade no acesso a exames e tratamentos ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/saude/noticia/2026/11/17/nova-diretriz-sobre-cancer-de-prostata-crava-idade-para-rastreamento-e-expoe-desigualdade-no-acesso-a-exames-e-tratamentos.ghtml",
-      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Caso Master completa um ano com Vorcaro preso, expectativa de denúncia e crise no STF",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/17/caso-master-completa-um-ano-com-vorcaro-preso-expectativa-de-denuncia-e-crise-no-stf.ghtml",
-      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Aneel pode decidir nesta terça sobre caducidade da concessão da Enel-SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/17/aneel-pode-decidir-nesta-terca-sobre-caducidade-da-concessao-da-enel-sp.ghtml",
-      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Temporal deixa 19 municípios da BA em emergência; governador alinha medidas para cidade onde família foi salva em telhado",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/17/temporal-deixa-19-municipios-da-ba-em-emergencia.ghtml",
-      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Recém-nascido abandonado em caixa de papelão em UPA é entregue a família acolhedora de forma temporária",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/17/recem-nascido-abandonado-em-caixa-de-papelao-em-upa-e-entregue-a-familia-acolhedora-de-forma-temporaria.ghtml",
-      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/17/carro-capota-apos-avanco-de-preferencial-e-atinge-moto-parada-em-santarem-placa-de-sinalizacao-estava-virada.ghtml",
+      "hora": "Tue, 17 Nov 2026 18:47:50 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Ajuste fiscal: Senado vota destaques ao projeto do governo nesta terça; veja o que pode mudar no texto",
+      "titulo": "14 vinhos indispensáveis para começar uma adega",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/17/ajuste-fiscal-senado-vota-destaques-ao-projeto-do-governo-nesta-terca-veja-o-que-pode-mudar-no-texto.ghtml",
-      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
+      "link": "https://g1.globo.com/pr/parana/especial-publicitario/porto-a-porto/guia-do-vinho-e-da-gastronomia/noticia/2026/11/17/14-vinhos-indispensaveis-para-comecar-uma-adega.ghtml",
+      "hora": "Tue, 17 Nov 2026 18:47:13 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Com Papai Noel, Caravana de Natal percorre bairros de Maceió; veja trajeto e data",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/al/alagoas/noticia/2026/11/17/com-papai-noel-caravana-de-natal-percorre-bairros-de-maceio-veja-trajeto-e-data.ghtml",
+      "hora": "Tue, 17 Nov 2026 18:44:29 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Feira do Livro de Teresina receberá 118 novas lojas até dezembro, diz prefeitura",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/17/feira-livro-teresina.ghtml",
+      "hora": "Tue, 17 Nov 2026 18:43:47 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "'O sonho dele era ser mergulhador': quem era o subtenente dos Bombeiros encontrado morto no Maranhão",
+      "titulo": "Paralisação de médicos em UBS de Santa Luzia impacta atendimentos à população nesta terça ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/17/o-sonho-dele-era-ser-mergulhador-quem-era-o-subtenente-dos-bombeiros-encontrado-morto-no-maranhao.ghtml",
-      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/17/paralisacao-de-medicos-em-ubs-de-santa-luzia-impacta-atendimentos-a-populacao-nesta-terca.ghtml",
+      "hora": "Tue, 17 Nov 2026 18:43:45 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Escola particular é condenada a pagar indenização de R$ 100 mil por post que atacava campanha sobre famílias LGBTQIA+",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/17/escola-particular-e-condenada-post-campanha-familias-lgbtqia.ghtml",
+      "hora": "Tue, 17 Nov 2026 18:42:26 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Rhodes & Co faz do desfile de verão 2027 um manifesto de elegância e memória",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-carlos-regiao/especial-publicitario/rhodes-co/noticia/2026/11/17/rhodes-and-co-faz-do-desfile-de-verao-2027-um-manifesto-de-elegancia-e-memoria.ghtml",
+      "hora": "Tue, 17 Nov 2026 18:40:29 -0000",
       "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Alerta vermelho: Timóteo registra índice de 6,9% de infestação pelo Aedes aegypti e entra em situação de alto risco",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/17/alerta-vermelho-timoteo-registra-indice-de-69percent-de-infestacao-pelo-aedes-aegypti-e-entra-em-situacao-de-alto-risco.ghtml",
+      "hora": "Tue, 17 Nov 2026 18:39:35 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Caso Davi Fiúza: Justiça aceita denúncia do MP e sete policiais militares vão a júri popular por homicídio na BA",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/17/caso-davi-fiuza.ghtml",
+      "hora": "Tue, 17 Nov 2026 18:36:37 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Empresas usaram R$ 200 bilhões em créditos para pagar tributos até setembro; Senado debate restrição no ajuste fiscal",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/17/creditos-tributarios-empresas-ajuste-fiscal.ghtml",
+      "hora": "Tue, 17 Nov 2026 18:32:53 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Lula se reúne com ministro do Trabalho para últimos ajustes no decreto que regulamentará fim da escala 6x1",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/17/lula-se-reune-com-ministro-do-trabalho-para-ajustes-no-decreto-que-regulamentara-fim-da-escala-6x1.ghtml",
+      "hora": "Tue, 17 Nov 2026 18:32:06 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -244,82 +224,82 @@
       "resumo": null
     },
     {
-      "titulo": "O que aprendi ao passar 14 anos acompanhando famílias que não saem da pobreza:  'Muito além de decisões pessoais'",
+      "titulo": "O 'exército das avós': os números que mostram as responsáveis pelo pico de comparecimento nas eleições",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm3eg8e5y0jvo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 16 Nov 2026 18:23:55 GMT",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Clientes relatam problemas no acesso aos serviços de grandes bancos dos EUA: o que se sabe",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6y0xnk5xjzno?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 17 Nov 2026 02:49:37 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cm9w9lyvv1exo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 17 Nov 2026 17:22:00 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "'Meu nome é Pattinson, Robert Pattinson': como o astro de Crepúsculo virou o novo James Bond, o 007",
+      "titulo": "Por que EUA perderam certificado de eliminação do sarampo após 26 anos",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c8wy53qwzn4no?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 16 Nov 2026 18:09:33 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cq78258y8np9o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 17 Nov 2026 18:50:31 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "O alerta após vídeo de FHC investigado pela polícia: 'Redes estão cheias de posts feitos por quem deveria proteger os vulneráveis'",
+      "titulo": "Drones, carros autônomos e robôs: o que a China vai mostrar a Trump e Putin — e a vida difícil dos trabalhadores fora da 'cidade das maravilhas'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c8p3v923q2y4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 16 Nov 2026 16:22:33 GMT",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que Lindsay Clancy, acusada de matar os 3 filhos, será julgada novamente no ano que vem",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6vg29vpwllqo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 16 Nov 2026 18:16:11 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmkgk37l1nv0o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 17 Nov 2026 16:33:24 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Apagão em 17 de novembro é verdade? De onde surgiu a teoria e por que ela é improvável",
+      "titulo": "Até onde o dólar pode subir? Por que o real é a moeda que mais perdeu valor desde a reeleição de Lula",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c57429m97421o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 14 Nov 2026 18:01:00 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Como foi a volta de Ronaldinho Gaúcho aos gramados, aos 46 anos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cv5y151l9kxwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 15 Nov 2026 21:54:22 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmj4r9klkqego?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 17 Nov 2026 13:42:05 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Quem é o 1º senador negro do Mississippi em 140 anos e por que tão poucos foram eleitos nos EUA?",
+      "titulo": "De Batman a James Bond: as pistas sobre o que esperar do 007 de Robert Pattinson",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwe9kj4xmy2po?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 16 Nov 2026 09:43:38 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem foi o 'chefe dos chefes', que revolucionou o narcotráfico do México e morreu aos 80 anos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck3rgq8yenj7o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 16 Nov 2026 14:06:37 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cwm2mlmrn93lo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 17 Nov 2026 16:14:13 GMT",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "A mulher que está há anos presa em ilha paradisíaca por problema com visto",
+      "titulo": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjy5xldlxn1do?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 15 Nov 2026 15:39:41 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cklyw32d9n7vo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 17 Nov 2026 15:15:18 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "'Perturbador': mulher que acusa Russell Brand reage à mensagem que ele enviou de dentro da prisão",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c804w7wppw5ko?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 17 Nov 2026 17:11:33 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'Tenho uma deformidade física congênita que escondi dos meus pais e colegas de escola'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cv1j60zn5p3eo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 17 Nov 2026 14:39:48 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Perito diz que fotos da autópsia de Epstein sugerem que ele foi assassinado na prisão",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmx2r6kwkkq5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 17 Nov 2026 13:04:56 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Em áudio | O caso da herdeira alemã acusada de encomendar o sequestro dos próprios filhos que levou a um escândalo de espionagem",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/listen/cm9w9lw77gw8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 17 Nov 2026 16:21:06 GMT",
       "tema": "mundo",
       "resumo": null
     },
