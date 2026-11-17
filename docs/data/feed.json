@@ -1,122 +1,126 @@
 {
-  "gerado_em": "2026-11-16T19:59:42.191Z",
+  "gerado_em": "2026-11-17T03:23:52.896Z",
   "modo": "palavras-chave",
-  "clima": {
-    "max": 24.5,
-    "min": 18.4,
-    "chuva": 100
-  },
+  "clima": null,
   "noticias": [
     {
-      "titulo": "Ministério da Saúde vai enviar doses extras da vacina contra a Covid-19; veja quem precisa tomar e a cada quanto tempo",
+      "titulo": "Município desenvolve tecnologia para catalogar população animal",
       "fonte": "G1",
-      "link": "https://g1.globo.com/saude/noticia/2026/11/16/ministerio-da-saude-vai-enviar-doses-extras-da-vacina-contra-a-covid-19-veja-quem-precisa-tomar-e-a-cada-quanto-tempo.ghtml",
-      "hora": "Mon, 16 Nov 2026 19:47:16 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Em Terra Santa, crianças e fiéis fazem caminhada silenciosa contra queimadas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/16/em-terra-santa-criancas-e-fieis-fazem-caminhada-silenciosa-contra-queimadas.ghtml",
-      "hora": "Mon, 16 Nov 2026 19:47:11 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Apple é investigada no Cade por barrar PIX por aproximação no iPhone; entenda a disputa ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/16/apple-e-investigada-no-cade-por-barrar-pix-por-aproximacao-no-iphone-entenda-a-disputa.ghtml",
-      "hora": "Mon, 16 Nov 2026 19:45:44 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "ExpoBeleza 2026 reúne expositores do setor de estética e bem-estar em Manaus",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/11/16/expobeleza-2026-reune-expositores-do-setor-de-estetica-e-bem-estar-em-manaus.ghtml",
-      "hora": "Mon, 16 Nov 2026 19:45:32 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Arena promove integração na Corrida Unimed Teresina",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/especial-publicitario/unimed-teresina/sos-unimed/noticia/2026/11/16/arena-promove-integracao-na-corrida-unimed-teresina.ghtml",
-      "hora": "Mon, 16 Nov 2026 19:44:47 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Governo do Amapá cancela festa de Réveillon e diz que repasse para o Carnaval ficará para 2027",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/16/governo-do-amapa-cancela-festa-de-reveillon-e-diz-que-repasse-para-o-carnaval-ficara-para-2027.ghtml",
-      "hora": "Mon, 16 Nov 2026 19:43:26 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Santarém vence edital nacional, garante R$ 988 mil e é a única selecionada do Norte",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/16/santarem-vence-edital-nacional-garante-r-988-mil-e-e-a-unica-selecionada-do-norte.ghtml",
-      "hora": "Mon, 16 Nov 2026 19:42:08 -0000",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/11/17/municipio-desenvolve-tecnologia-para-catalogar-populacao-animal.ghtml",
+      "hora": "Tue, 17 Nov 2026 03:05:01 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "VÍDEO: veja momento em que forro de igreja desaba durante chuva forte no interior de SP",
+      "titulo": "Quando a procura aumenta, ter estrutura por trás da compra faz diferença",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/11/16/video-veja-momento-em-que-forro-de-igreja-desaba-durante-chuva-forte-no-interior-de-sp.ghtml",
-      "hora": "Mon, 16 Nov 2026 19:41:05 -0000",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/11/17/quando-a-procura-aumenta-ter-estrutura-por-tras-da-compra-faz-diferenca.ghtml",
+      "hora": "Tue, 17 Nov 2026 03:05:00 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Macaé conquista prêmio estadual de excelência em Segurança Pública",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/11/17/macae-conquista-premio-estadual-de-excelencia-em-seguranca-publica.ghtml",
+      "hora": "Tue, 17 Nov 2026 03:03:01 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Adolescentes vão mais às urnas e registram maior comparecimento desde 2014",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/11/17/eleicoes-2026-comparecimento-adolescentes-segundo-turno-20214.ghtml",
+      "hora": "Tue, 17 Nov 2026 03:00:01 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Concurso da Câmara: inscrições terminam nesta terça; salário passa de R$ 32 mil",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2026/11/17/concurso-da-camara-inscricoes-terminam.ghtml",
+      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Mega-Sena pode pagar R$ 34 milhões nesta terça-feira; g1 transmite ao vivo",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/17/mega-sena-pode-pagar-r-34-milhoes-nesta-terca-feira-g1-transmite-ao-vivo.ghtml",
+      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "João Pessoa inicia cadastro para matrículas de novatos na rede municipal para o ano letivo de 2027",
+      "titulo": "Caso videogame-bomba: o que se sabe e o que falta saber sobre aparelho com explosivo enviado à loja de Santo André",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/16/joao-pessoa-inicia-cadastro-para-matriculas-de-novatos-na-rede-municipal-para-o-ano-letivo-de-2027.ghtml",
-      "hora": "Mon, 16 Nov 2026 19:38:23 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Frei Gilson em Juiz de Fora: show para 30 mil pessoas tem alterações no trânsito e ônibus extras",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/16/frei-gilson-em-juiz-de-fora-show-para-30-mil-pessoas-tem-alteracoes-no-transito-e-onibus-extras.ghtml",
-      "hora": "Mon, 16 Nov 2026 19:37:27 -0000",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/17/caso-videogame-bomba-o-que-se-sabe-e-o-que-falta-saber-sobre-aparelho-com-explosivo-enviado-a-loja-de-santo-andre.ghtml",
+      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Após acidente que matou casal e crianças a caminho de seminário no Paraná, mãe recebe alta para acompanhar enterro do filho",
+      "titulo": "Sete ataques e oito mortes em 6 horas: saiba quais devem ser as consequências da madrugada de crimes no RS",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/11/16/acidente-morte-casal-criancas-parana.ghtml",
-      "hora": "Mon, 16 Nov 2026 19:36:39 -0000",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/17/consequencias-ataques-porto-alegre.ghtml",
+      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição Regiões de segunda-feira, 16 de novembro de 2026",
+      "titulo": "Nova diretriz sobre câncer de próstata crava idade para rastreamento e expõe desigualdade no acesso a exames e tratamentos ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/edicao/2026/11/16/videos-jornal-anhanguera-1-edicao-regioes-de-segunda-feira-16-de-novembro-de-2026.ghtml",
-      "hora": "Mon, 16 Nov 2026 19:36:10 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Hemominas alerta para baixa nos estoques de sangue em MG; saiba quem pode doar e como fazer",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/16/hemominas-alerta-para-baixa-nos-estoques-de-sangue-em-mg-saiba-quem-pode-doar-e-como-fazer.ghtml",
-      "hora": "Mon, 16 Nov 2026 19:35:09 -0000",
+      "link": "https://g1.globo.com/saude/noticia/2026/11/17/nova-diretriz-sobre-cancer-de-prostata-crava-idade-para-rastreamento-e-expoe-desigualdade-no-acesso-a-exames-e-tratamentos.ghtml",
+      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Volta Redonda passa a oferecer transplantes de rim pelo SUS",
+      "titulo": "Caso Master completa um ano com Vorcaro preso, expectativa de denúncia e crise no STF",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/16/volta-redonda-passa-a-oferecer-transplantes-de-rim-pelo-sus.ghtml",
-      "hora": "Mon, 16 Nov 2026 19:33:37 -0000",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/17/caso-master-completa-um-ano-com-vorcaro-preso-expectativa-de-denuncia-e-crise-no-stf.ghtml",
+      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Aneel pode decidir nesta terça sobre caducidade da concessão da Enel-SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/17/aneel-pode-decidir-nesta-terca-sobre-caducidade-da-concessao-da-enel-sp.ghtml",
+      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Temporal deixa 19 municípios da BA em emergência; governador alinha medidas para cidade onde família foi salva em telhado",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/17/temporal-deixa-19-municipios-da-ba-em-emergencia.ghtml",
+      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Recém-nascido abandonado em caixa de papelão em UPA é entregue a família acolhedora de forma temporária",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/17/recem-nascido-abandonado-em-caixa-de-papelao-em-upa-e-entregue-a-familia-acolhedora-de-forma-temporaria.ghtml",
+      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
       "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Ajuste fiscal: Senado vota destaques ao projeto do governo nesta terça; veja o que pode mudar no texto",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/17/ajuste-fiscal-senado-vota-destaques-ao-projeto-do-governo-nesta-terca-veja-o-que-pode-mudar-no-texto.ghtml",
+      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "'O sonho dele era ser mergulhador': quem era o subtenente dos Bombeiros encontrado morto no Maranhão",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/17/o-sonho-dele-era-ser-mergulhador-quem-era-o-subtenente-dos-bombeiros-encontrado-morto-no-maranhao.ghtml",
+      "hora": "Tue, 17 Nov 2026 03:00:00 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
@@ -248,11 +252,11 @@
       "resumo": null
     },
     {
-      "titulo": "Lula vai conseguir emplacar 4 ministros no STF ou ficará refém de Senado bolsonarista?",
+      "titulo": "Clientes relatam problemas no acesso aos serviços de grandes bancos dos EUA: o que se sabe",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5n49ln0l4xeo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 16 Nov 2026 08:46:29 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6y0xnk5xjzno?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 17 Nov 2026 02:49:37 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -320,6 +324,14 @@
       "resumo": null
     },
     {
+      "titulo": "Lula vai conseguir emplacar 4 ministros no STF ou ficará refém de Senado bolsonarista?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c5n49ln0l4xeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 16 Nov 2026 08:46:29 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "Uma nova nação brasileira está sendo imaginada com o avanço dos evangélicos, diz filósofo Paulo Arantes",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cqly4nnregnjo?at_medium=RSS&at_campaign=rss",
@@ -344,19 +356,11 @@
       "resumo": null
     },
     {
-      "titulo": "Quem vai cuidar dos idosos do Brasil? Por que envelhecimento acelerado é 'desafio do século'",
+      "titulo": "As 'cidades perdidas' da Amazônia que ficaram ocultas por séculos",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c60qkxv44pq8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 11 Nov 2026 08:31:43 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Mostrar na novela um Nordeste do atraso e a Faria Lima pulsante é vender que só um Brasil 'dá certo', diz pesquisador",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6grey09e9n1o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 12 Nov 2026 23:45:42 GMT",
-      "tema": "entretenimento",
+      "link": "https://www.bbc.com/portuguese/watch/c9e85x7ly1x6o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 16 Nov 2026 20:26:08 GMT",
+      "tema": "mundo",
       "resumo": null
     }
   ]
