@@ -1,106 +1,126 @@
 {
-  "gerado_em": "2026-11-17T18:56:30.980Z",
+  "gerado_em": "2026-11-18T02:44:00.400Z",
   "modo": "palavras-chave",
-  "clima": {
-    "max": 28,
-    "min": 18.1,
-    "chuva": 4
-  },
+  "clima": null,
   "noticias": [
     {
-      "titulo": "Justiça do DF manda marcar nova audiência no processo de Adriana Villela na 1ª instância",
+      "titulo": "Amazônia Que Eu Quero encerra encontros de embaixadores de 2026 e prepara Caderno de Soluções",
       "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/17/justica-do-df-manda-marcar-nova-audiencia-no-processo-de-adriana-villela-na-1a-instancia.ghtml",
-      "hora": "Tue, 17 Nov 2026 18:48:59 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Carro capota após avanço de preferencial e atinge moto parada em Santarém; placa de sinalização estava virada",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/17/carro-capota-apos-avanco-de-preferencial-e-atinge-moto-parada-em-santarem-placa-de-sinalizacao-estava-virada.ghtml",
-      "hora": "Tue, 17 Nov 2026 18:47:50 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "14 vinhos indispensáveis para começar uma adega",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pr/parana/especial-publicitario/porto-a-porto/guia-do-vinho-e-da-gastronomia/noticia/2026/11/17/14-vinhos-indispensaveis-para-comecar-uma-adega.ghtml",
-      "hora": "Tue, 17 Nov 2026 18:47:13 -0000",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/17/amazonia-que-eu-quero-encerra-encontros-de-embaixadores-de-2026-e-prepara-caderno-de-solucoes.ghtml",
+      "hora": "Wed, 18 Nov 2026 02:21:14 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Com Papai Noel, Caravana de Natal percorre bairros de Maceió; veja trajeto e data",
+      "titulo": "Santa Luzia, na Grande BH, confirma casos de sarna humana",
       "fonte": "G1",
-      "link": "https://g1.globo.com/al/alagoas/noticia/2026/11/17/com-papai-noel-caravana-de-natal-percorre-bairros-de-maceio-veja-trajeto-e-data.ghtml",
-      "hora": "Tue, 17 Nov 2026 18:44:29 -0000",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/17/santa-luzia-na-grande-bh-confirma-casos-de-sarna-humana.ghtml",
+      "hora": "Wed, 18 Nov 2026 02:18:35 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Feira do Livro de Teresina receberá 118 novas lojas até dezembro, diz prefeitura",
+      "titulo": "Wataru Ogawa, sobrevivente das bombas de Hiroshima e Nagasaki, morre aos 97 anos em SC",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/17/feira-livro-teresina.ghtml",
-      "hora": "Tue, 17 Nov 2026 18:43:47 -0000",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/17/wataru-ogawa-sobrevivente-das-bombas-de-hiroshima-e-nagasaki-morre-aos-97-anos-em-sc.ghtml",
+      "hora": "Wed, 18 Nov 2026 02:13:20 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Paralisação de médicos em UBS de Santa Luzia impacta atendimentos à população nesta terça ",
+      "titulo": "Jovem sai da prisão 14 dias após família lutar para provar engano e que crime foi praticado pelo irmão no RJ: 'Tem 15 anos. Dá tempo de corrigir'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/17/paralisacao-de-medicos-em-ubs-de-santa-luzia-impacta-atendimentos-a-populacao-nesta-terca.ghtml",
-      "hora": "Tue, 17 Nov 2026 18:43:45 -0000",
+      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/11/17/jovem-sai-da-prisao-14-dias-apos-familia-provar-engano-e-apontar-irmao-como-autor-de-crime-no-rj-tem-15-anos-da-tempo-de-corrigir.ghtml",
+      "hora": "Wed, 18 Nov 2026 02:11:51 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Escola particular é condenada a pagar indenização de R$ 100 mil por post que atacava campanha sobre famílias LGBTQIA+",
+      "titulo": "Loteca hoje: resultado do concurso 1283 e números sorteados",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/17/escola-particular-e-condenada-post-campanha-familias-lgbtqia.ghtml",
-      "hora": "Tue, 17 Nov 2026 18:42:26 -0000",
+      "link": "https://g1.globo.com/loterias/loteca/noticia/2026/11/17/loteca-hoje-resultado-do-concurso-1283-e-numeros-sorteados.ghtml",
+      "hora": "Wed, 18 Nov 2026 01:56:02 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Rhodes & Co faz do desfile de verão 2027 um manifesto de elegância e memória",
+      "titulo": "Vaticano exibe ao mundo 3 obras de Aleijadinho",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-carlos-regiao/especial-publicitario/rhodes-co/noticia/2026/11/17/rhodes-and-co-faz-do-desfile-de-verao-2027-um-manifesto-de-elegancia-e-memoria.ghtml",
-      "hora": "Tue, 17 Nov 2026 18:40:29 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/17/vaticano-exibe-ao-mundo-3-obras-de-aleijadinho.ghtml",
+      "hora": "Wed, 18 Nov 2026 01:53:24 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Alerta vermelho: Timóteo registra índice de 6,9% de infestação pelo Aedes aegypti e entra em situação de alto risco",
+      "titulo": "Papa Leão XIV diz que não pretende autorizar ordenação de homens casados, mas não descarta retomar discussão no futuro",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/17/alerta-vermelho-timoteo-registra-indice-de-69percent-de-infestacao-pelo-aedes-aegypti-e-entra-em-situacao-de-alto-risco.ghtml",
-      "hora": "Tue, 17 Nov 2026 18:39:35 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/17/papa-leao-xiv-diz-que-nao-pretende-autorizar-ordenacao-de-homens-casados-mas-nao-descarta-retomar-discussao-no-futuro.ghtml",
+      "hora": "Wed, 18 Nov 2026 01:38:58 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Caso Davi Fiúza: Justiça aceita denúncia do MP e sete policiais militares vão a júri popular por homicídio na BA",
+      "titulo": "Ucrânia bombardeia ponte símbolo da ocupação russa no país",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/17/caso-davi-fiuza.ghtml",
-      "hora": "Tue, 17 Nov 2026 18:36:37 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Empresas usaram R$ 200 bilhões em créditos para pagar tributos até setembro; Senado debate restrição no ajuste fiscal",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/17/creditos-tributarios-empresas-ajuste-fiscal.ghtml",
-      "hora": "Tue, 17 Nov 2026 18:32:53 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Lula se reúne com ministro do Trabalho para últimos ajustes no decreto que regulamentará fim da escala 6x1",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/17/lula-se-reune-com-ministro-do-trabalho-para-ajustes-no-decreto-que-regulamentara-fim-da-escala-6x1.ghtml",
-      "hora": "Tue, 17 Nov 2026 18:32:06 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/17/ucrania-bombardeia-ponte-simbolo-da-ocupacao-russa-no-pais.ghtml",
+      "hora": "Wed, 18 Nov 2026 01:34:33 -0000",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Espancadores deixam em estado grave professor que tentou proteger mulher de agressão",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/17/espancadores-deixam-em-estado-grave-professor-que-tentou-proteger-mulher-de-agressao.ghtml",
+      "hora": "Wed, 18 Nov 2026 01:27:37 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Rede Educa retoma gravações da terceira edição com aula sobre inovação e bioeconomia na Amazônia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/17/rede-educa-retoma-gravacoes-da-terceira-edicao-com-aula-sobre-inovacao-e-bioeconomia-na-amazonia.ghtml",
+      "hora": "Wed, 18 Nov 2026 01:17:52 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Rodovias federais registram mais de mil roubos, furtos e saques de cargas em 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/17/rodovias-federais-registram-mais-de-mil-roubos-furtos-e-saques-de-cargas-em-2026.ghtml",
+      "hora": "Wed, 18 Nov 2026 01:16:32 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "No Rio, Polícia Federal descobre fábrica capaz de produzir cerca de 3 mil fuzis por ano",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/17/no-rio-policia-federal-descobre-fabrica-capaz-de-produzir-cerca-de-3-mil-fuzis-por-ano.ghtml",
+      "hora": "Wed, 18 Nov 2026 01:10:16 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Senado reagenda para quarta-feira (18) a análise das propostas de mudança ao projeto de lei de ajuste das contas públicas",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/17/senado-reagenda-para-quarta-feira-18-a-analise-das-propostas-de-mudanca-ao-projeto-de-lei-de-ajuste-das-contas-publicas.ghtml",
+      "hora": "Wed, 18 Nov 2026 01:01:31 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Quina 7170: duas apostas de MT acertam quatro números e ganham R$ 2,2 mil",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/17/quina-7170-duas-apostas-de-mt-acertam-quatro-numeros-e-ganham-r-22-mil.ghtml",
+      "hora": "Wed, 18 Nov 2026 00:57:04 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Lotofácil 3832: seis apostas de MT acertam 14 números e ganham R$ 1,8 mil; prêmio principal acumulou",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/17/lotofacil-3832-seis-apostas-de-mt-acertam-14-numeros-e-ganham-r-18-mil-premio-principal-acumulou.ghtml",
+      "hora": "Wed, 18 Nov 2026 00:48:26 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -227,7 +247,7 @@
       "titulo": "O 'exército das avós': os números que mostram as responsáveis pelo pico de comparecimento nas eleições",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm9w9lyvv1exo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 17 Nov 2026 17:22:00 GMT",
+      "hora": "Tue, 17 Nov 2026 20:07:30 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -240,19 +260,19 @@
       "resumo": null
     },
     {
+      "titulo": "Férias, alistamento militar e 'viagem falsa' à Nova Zelândia: as loucuras que fãs de 'GTA 6' estão fazendo pelo lançamento",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c50mdvd0v0xko?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 17 Nov 2026 21:49:20 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Drones, carros autônomos e robôs: o que a China vai mostrar a Trump e Putin — e a vida difícil dos trabalhadores fora da 'cidade das maravilhas'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmkgk37l1nv0o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 17 Nov 2026 16:33:24 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Até onde o dólar pode subir? Por que o real é a moeda que mais perdeu valor desde a reeleição de Lula",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmj4r9klkqego?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 17 Nov 2026 13:42:05 GMT",
-      "tema": "brasil",
       "resumo": null
     },
     {
@@ -267,7 +287,7 @@
       "titulo": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cklyw32d9n7vo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 17 Nov 2026 15:15:18 GMT",
+      "hora": "Wed, 18 Nov 2026 00:31:56 GMT",
       "tema": "brasil",
       "resumo": null
     },
