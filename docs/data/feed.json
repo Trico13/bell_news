@@ -1,126 +1,122 @@
 {
-  "gerado_em": "2026-11-18T02:44:00.400Z",
+  "gerado_em": "2026-11-18T18:38:40.101Z",
   "modo": "palavras-chave",
-  "clima": null,
+  "clima": {
+    "max": 29.1,
+    "min": 18,
+    "chuva": 55
+  },
   "noticias": [
     {
-      "titulo": "Amazônia Que Eu Quero encerra encontros de embaixadores de 2026 e prepara Caderno de Soluções",
+      "titulo": "Ministério da Saúde anuncia envio de mais de mil frascos de vacina contra mpox ao município do Rio",
       "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/17/amazonia-que-eu-quero-encerra-encontros-de-embaixadores-de-2026-e-prepara-caderno-de-solucoes.ghtml",
-      "hora": "Wed, 18 Nov 2026 02:21:14 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Santa Luzia, na Grande BH, confirma casos de sarna humana",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/17/santa-luzia-na-grande-bh-confirma-casos-de-sarna-humana.ghtml",
-      "hora": "Wed, 18 Nov 2026 02:18:35 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Wataru Ogawa, sobrevivente das bombas de Hiroshima e Nagasaki, morre aos 97 anos em SC",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/17/wataru-ogawa-sobrevivente-das-bombas-de-hiroshima-e-nagasaki-morre-aos-97-anos-em-sc.ghtml",
-      "hora": "Wed, 18 Nov 2026 02:13:20 -0000",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/18/ministerio-da-saude-anuncia-envio-de-mais-de-mil-frascos-de-vacina-contra-mpox-ao-municipio-do-rio.ghtml",
+      "hora": "Wed, 18 Nov 2026 18:34:35 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Jovem sai da prisão 14 dias após família lutar para provar engano e que crime foi praticado pelo irmão no RJ: 'Tem 15 anos. Dá tempo de corrigir'",
+      "titulo": "Toyota Tacoma feita na Argentina será vendida no Brasil",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/11/17/jovem-sai-da-prisao-14-dias-apos-familia-provar-engano-e-apontar-irmao-como-autor-de-crime-no-rj-tem-15-anos-da-tempo-de-corrigir.ghtml",
-      "hora": "Wed, 18 Nov 2026 02:11:51 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/carros/noticia/2026/11/18/toyota-tacoma-feita-na-argentina-sera-vendida-no-brasil.ghtml",
+      "hora": "Wed, 18 Nov 2026 18:32:32 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Loteca hoje: resultado do concurso 1283 e números sorteados",
+      "titulo": "Dois homens são presos com drogas, munições e celulares em Conselheiro Pena",
       "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/loteca/noticia/2026/11/17/loteca-hoje-resultado-do-concurso-1283-e-numeros-sorteados.ghtml",
-      "hora": "Wed, 18 Nov 2026 01:56:02 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Vaticano exibe ao mundo 3 obras de Aleijadinho",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/17/vaticano-exibe-ao-mundo-3-obras-de-aleijadinho.ghtml",
-      "hora": "Wed, 18 Nov 2026 01:53:24 -0000",
+      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/18/dois-homens-sao-presos-com-drogas-municoes-e-celulares-em-conselheiro-pena.ghtml",
+      "hora": "Wed, 18 Nov 2026 18:32:13 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Papa Leão XIV diz que não pretende autorizar ordenação de homens casados, mas não descarta retomar discussão no futuro",
+      "titulo": "Tributária: alíquota de 11,3% para imposto federal valerá só em 2027 e, segundo Receita, pode subir ou descer depois; entenda",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/17/papa-leao-xiv-diz-que-nao-pretende-autorizar-ordenacao-de-homens-casados-mas-nao-descarta-retomar-discussao-no-futuro.ghtml",
-      "hora": "Wed, 18 Nov 2026 01:38:58 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Ucrânia bombardeia ponte símbolo da ocupação russa no país",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/17/ucrania-bombardeia-ponte-simbolo-da-ocupacao-russa-no-pais.ghtml",
-      "hora": "Wed, 18 Nov 2026 01:34:33 -0000",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/18/tributaria-aliquota-de-113percent-para-imposto-federal-valera-so-em-2027-e-segundo-receita-pode-subir-ou-descer-depois-entenda.ghtml",
+      "hora": "Wed, 18 Nov 2026 18:28:42 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Espancadores deixam em estado grave professor que tentou proteger mulher de agressão",
+      "titulo": "Além do tabu: disfunção erétil pode indicar doenças cardíacas e metabólicas",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/17/espancadores-deixam-em-estado-grave-professor-que-tentou-proteger-mulher-de-agressao.ghtml",
-      "hora": "Wed, 18 Nov 2026 01:27:37 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Rede Educa retoma gravações da terceira edição com aula sobre inovação e bioeconomia na Amazônia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/17/rede-educa-retoma-gravacoes-da-terceira-edicao-com-aula-sobre-inovacao-e-bioeconomia-na-amazonia.ghtml",
-      "hora": "Wed, 18 Nov 2026 01:17:52 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Rodovias federais registram mais de mil roubos, furtos e saques de cargas em 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/17/rodovias-federais-registram-mais-de-mil-roubos-furtos-e-saques-de-cargas-em-2026.ghtml",
-      "hora": "Wed, 18 Nov 2026 01:16:32 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "No Rio, Polícia Federal descobre fábrica capaz de produzir cerca de 3 mil fuzis por ano",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/17/no-rio-policia-federal-descobre-fabrica-capaz-de-produzir-cerca-de-3-mil-fuzis-por-ano.ghtml",
-      "hora": "Wed, 18 Nov 2026 01:10:16 -0000",
+      "link": "https://g1.globo.com/sp/bauru-marilia/especial-publicitario/unimed-centro-oeste-paulista/noticia/2026/11/18/alem-do-tabu-disfuncao-eretil-pode-indicar-doencas-cardiacas-e-metabolicas.ghtml",
+      "hora": "Wed, 18 Nov 2026 18:28:41 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Senado reagenda para quarta-feira (18) a análise das propostas de mudança ao projeto de lei de ajuste das contas públicas",
+      "titulo": "Ralo, sifão e válvula: pequenos detalhes do banheiro",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/17/senado-reagenda-para-quarta-feira-18-a-analise-das-propostas-de-mudanca-ao-projeto-de-lei-de-ajuste-das-contas-publicas.ghtml",
-      "hora": "Wed, 18 Nov 2026 01:01:31 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/pr/parana/especial-publicitario/panorama/guia-da-construcao-panorama/noticia/2026/11/18/ralo-sifao-e-valvula-pequenos-detalhes-do-banheiro.ghtml",
+      "hora": "Wed, 18 Nov 2026 18:28:16 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Quina 7170: duas apostas de MT acertam quatro números e ganham R$ 2,2 mil",
+      "titulo": "Inmet emite alerta de tempestade para Campos e outras nove cidades do Norte Fluminense",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/17/quina-7170-duas-apostas-de-mt-acertam-quatro-numeros-e-ganham-r-22-mil.ghtml",
-      "hora": "Wed, 18 Nov 2026 00:57:04 -0000",
+      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/18/inmet-emite-alerta-de-tempestade-para-campos-e-outras-nove-cidades-do-norte-fluminense.ghtml",
+      "hora": "Wed, 18 Nov 2026 18:28:05 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Lotofácil 3832: seis apostas de MT acertam 14 números e ganham R$ 1,8 mil; prêmio principal acumulou",
+      "titulo": "UTI Neonatal de Santarém atendeu 281 bebês; hospital orienta sobre cuidados com prematuros",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/17/lotofacil-3832-seis-apostas-de-mt-acertam-14-numeros-e-ganham-r-18-mil-premio-principal-acumulou.ghtml",
-      "hora": "Wed, 18 Nov 2026 00:48:26 -0000",
+      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/18/uti-neonatal-de-santarem-atendeu-281-bebes-hospital-orienta-sobre-cuidados-com-prematuros.ghtml",
+      "hora": "Wed, 18 Nov 2026 18:27:42 -0000",
       "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Chuva com granizo e rajadas de vento provoca alagamento em Volta Redonda",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/18/chuva-com-granizo-e-rajadas-de-vento-provoca-alagamento-em-volta-redonda.ghtml",
+      "hora": "Wed, 18 Nov 2026 18:26:28 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "SUV premium e Bacio di Latte são apostas de shopping para o Natal",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/colinas-shopping/noticia/2026/11/18/suv-premium-e-bacio-di-latte-sao-apostas-de-shopping-para-o-natal.ghtml",
+      "hora": "Wed, 18 Nov 2026 18:25:51 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Rejunte: como escolher a cor e cuidar das juntas do piso",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pr/parana/especial-publicitario/panorama/guia-da-construcao-panorama/noticia/2026/11/18/rejunte-como-escolher-a-cor-e-cuidar-das-juntas-do-piso.ghtml",
+      "hora": "Wed, 18 Nov 2026 18:25:08 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Yanomami é esfaqueado no peito durante discussão na orla de Caracaraí, no interior de Roraima",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/18/yanomami-e-esfaqueado-no-peito-durante-discussao-na-orla-de-caracarai-no-interior-de-roraima.ghtml",
+      "hora": "Wed, 18 Nov 2026 18:25:00 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Andrei Rodrigues diz que vai entregar HD com mensagens e relatórios dos delegados para Fachin ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/18/andrei-rodrigues-diz-que-vai-enviar-hd-com-mensagens-e-relatorios-dos-delegados-para-fachin.ghtml",
+      "hora": "Wed, 18 Nov 2026 18:24:57 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Suéllen Rosim diz que visita a empresa favorecida em licitação foi institucional e nega ter discutido concessão do lixo",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/18/suellen-rosim-depoe-na-camara-de-bauru-em-comissao-processante.ghtml",
+      "hora": "Wed, 18 Nov 2026 18:24:52 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
@@ -244,82 +240,106 @@
       "resumo": null
     },
     {
-      "titulo": "O 'exército das avós': os números que mostram as responsáveis pelo pico de comparecimento nas eleições",
+      "titulo": "Por que encontro histórico com Xi e Trump já é uma vitória para Putin",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm9w9lyvv1exo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 17 Nov 2026 20:07:30 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cvp86k97y0g8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 18 Nov 2026 16:14:08 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Por que EUA perderam certificado de eliminação do sarampo após 26 anos",
+      "titulo": "Reunião pode dividir o mundo em três? Por que cúpula entre Trump, Xi e Putin deixa a Europa preocupada",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq78258y8np9o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 17 Nov 2026 18:50:31 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cqx2ey1zxjymo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 18 Nov 2026 14:54:26 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Férias, alistamento militar e 'viagem falsa' à Nova Zelândia: as loucuras que fãs de 'GTA 6' estão fazendo pelo lançamento",
+      "titulo": "A falha crítica descoberta na linguagem de programação usada por 90% das grandes empresas do mundo",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c50mdvd0v0xko?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 17 Nov 2026 21:49:20 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cqy7rgm85vzno?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 18 Nov 2026 17:33:55 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Drones, carros autônomos e robôs: o que a China vai mostrar a Trump e Putin — e a vida difícil dos trabalhadores fora da 'cidade das maravilhas'",
+      "titulo": "'Não podíamos pagar uma casa para nossa família, então decidimos comprar uma junto com desconhecidos'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmkgk37l1nv0o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 17 Nov 2026 16:33:24 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c64gnx55rxzlo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 18 Nov 2026 17:10:12 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "De Batman a James Bond: as pistas sobre o que esperar do 007 de Robert Pattinson",
+      "titulo": "Quem são os sete jovens fundadores da Anthropic que estão prestes a se tornarem multibilionários",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwm2mlmrn93lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 17 Nov 2026 16:14:13 GMT",
-      "tema": "cultura",
+      "link": "https://www.bbc.com/portuguese/articles/cmn0dykxex82o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 18 Nov 2026 16:53:08 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
+      "titulo": "Por que encontro raro com indígenas awás isolados preocupa autoridades brasileiras",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cklyw32d9n7vo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 18 Nov 2026 00:31:56 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmx29j0v4lnwo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 18 Nov 2026 18:07:31 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "'Perturbador': mulher que acusa Russell Brand reage à mensagem que ele enviou de dentro da prisão",
+      "titulo": "Os filhos que lutam na Justiça para apagar nomes de pais ausentes ou abusivos dos documentos",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c804w7wppw5ko?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 17 Nov 2026 17:11:33 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c79gpqyrdy2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 18 Nov 2026 08:20:00 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Saída de Jensen Huang da Nvidia pode frear a onda da IA?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm3eg1nq1ynpo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 18 Nov 2026 14:14:05 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "'Tenho uma deformidade física congênita que escondi dos meus pais e colegas de escola'",
+      "titulo": "Férias, alistamento militar e 'viagem falsa': as loucuras de fãs pelo lançamento de 'GTA 6'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cv1j60zn5p3eo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 17 Nov 2026 14:39:48 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c50mdvd0v0xko?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 18 Nov 2026 11:30:49 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Perito diz que fotos da autópsia de Epstein sugerem que ele foi assassinado na prisão",
+      "titulo": "De Machado de Assis a Alexandre Dumas, os grandes nomes cuja origem negra está sendo resgatada",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmx2r6kwkkq5o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 17 Nov 2026 13:04:56 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c9y7rgx8k033o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 18 Nov 2026 16:47:14 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Em áudio | O caso da herdeira alemã acusada de encomendar o sequestro dos próprios filhos que levou a um escândalo de espionagem",
+      "titulo": "'Sociedade se sente traída por Suzane von Richthofen' porque se vê nela, diz consultora de documentário",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/listen/cm9w9lw77gw8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 17 Nov 2026 16:21:06 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c60mdv3k3wdpo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 18 Nov 2026 10:26:41 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "'A gente não tem cara de panaca': como samba-enredo inspirado na Constituinte de 1988 virou último sucesso de Gonzaguinha",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6kgr9zp38xgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 18 Nov 2026 10:34:23 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O 'exército das avós': os números que mostram as responsáveis pelo pico de comparecimento nas eleições",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm9w9lyvv1exo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 17 Nov 2026 20:07:30 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -332,35 +352,11 @@
       "resumo": null
     },
     {
-      "titulo": "Uma nova nação brasileira está sendo imaginada com o avanço dos evangélicos, diz filósofo Paulo Arantes",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqly4nnregnjo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 14 Nov 2026 11:40:45 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Amazônia queimando afeta a saúde e o bolso do Brasil inteiro, diz bióloga que combate fogo na floresta",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr20v7g9jyy3o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 13 Nov 2026 09:31:58 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
       "titulo": "Os segredos dos últimos anos de Belchior",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/watch/c6x2wnkg33y7o?at_medium=RSS&at_campaign=rss",
       "hora": "Mon, 16 Nov 2026 16:39:15 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "As 'cidades perdidas' da Amazônia que ficaram ocultas por séculos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/watch/c9e85x7ly1x6o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 16 Nov 2026 20:26:08 GMT",
-      "tema": "mundo",
       "resumo": null
     }
   ]
