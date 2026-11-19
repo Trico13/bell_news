@@ -1,122 +1,122 @@
 {
-  "gerado_em": "2026-11-18T18:38:40.101Z",
+  "gerado_em": "2026-11-19T02:15:52.557Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 29.1,
+    "max": 29.5,
     "min": 18,
-    "chuva": 55
+    "chuva": 91
   },
   "noticias": [
     {
-      "titulo": "Ministério da Saúde anuncia envio de mais de mil frascos de vacina contra mpox ao município do Rio",
+      "titulo": "Profissionais do Ano anuncia os vencedores da 48ª edição",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/18/ministerio-da-saude-anuncia-envio-de-mais-de-mil-frascos-de-vacina-contra-mpox-ao-municipio-do-rio.ghtml",
-      "hora": "Wed, 18 Nov 2026 18:34:35 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/18/profissionais-do-ano-anuncia-os-vencedores-da-48a-edicao.ghtml",
+      "hora": "Thu, 19 Nov 2026 01:54:06 -0000",
+      "tema": "entretenimento",
+      "resumo": null
+    },
+    {
+      "titulo": "IBGE: mesmo sendo a maioria da população no Brasil, pessoas pretas e pardas ocupam apenas 30% dos cargos de gerência",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/18/ibge-mesmo-sendo-a-maioria-da-populacao-no-brasil-pessoas-pretas-e-pardas-ocupam-apenas-30percent-dos-cargos-de-gerencia.ghtml",
+      "hora": "Thu, 19 Nov 2026 01:33:54 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Toyota Tacoma feita na Argentina será vendida no Brasil",
+      "titulo": "Três mulheres e um homem são presos com 9,6 kg de drogas e R$ 18 mil em dinheiro em Boa Vista",
       "fonte": "G1",
-      "link": "https://g1.globo.com/carros/noticia/2026/11/18/toyota-tacoma-feita-na-argentina-sera-vendida-no-brasil.ghtml",
-      "hora": "Wed, 18 Nov 2026 18:32:32 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Dois homens são presos com drogas, munições e celulares em Conselheiro Pena",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/18/dois-homens-sao-presos-com-drogas-municoes-e-celulares-em-conselheiro-pena.ghtml",
-      "hora": "Wed, 18 Nov 2026 18:32:13 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Tributária: alíquota de 11,3% para imposto federal valerá só em 2027 e, segundo Receita, pode subir ou descer depois; entenda",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/18/tributaria-aliquota-de-113percent-para-imposto-federal-valera-so-em-2027-e-segundo-receita-pode-subir-ou-descer-depois-entenda.ghtml",
-      "hora": "Wed, 18 Nov 2026 18:28:42 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Além do tabu: disfunção erétil pode indicar doenças cardíacas e metabólicas",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/bauru-marilia/especial-publicitario/unimed-centro-oeste-paulista/noticia/2026/11/18/alem-do-tabu-disfuncao-eretil-pode-indicar-doencas-cardiacas-e-metabolicas.ghtml",
-      "hora": "Wed, 18 Nov 2026 18:28:41 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Ralo, sifão e válvula: pequenos detalhes do banheiro",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pr/parana/especial-publicitario/panorama/guia-da-construcao-panorama/noticia/2026/11/18/ralo-sifao-e-valvula-pequenos-detalhes-do-banheiro.ghtml",
-      "hora": "Wed, 18 Nov 2026 18:28:16 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Inmet emite alerta de tempestade para Campos e outras nove cidades do Norte Fluminense",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/18/inmet-emite-alerta-de-tempestade-para-campos-e-outras-nove-cidades-do-norte-fluminense.ghtml",
-      "hora": "Wed, 18 Nov 2026 18:28:05 -0000",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/18/tres-mulheres-e-um-homem-sao-presos-com-96-kg-de-drogas-e-r-18-mil-em-dinheiro-em-boa-vista.ghtml",
+      "hora": "Thu, 19 Nov 2026 01:26:22 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "UTI Neonatal de Santarém atendeu 281 bebês; hospital orienta sobre cuidados com prematuros",
+      "titulo": "Sarna humana chega a 7 cidades, fecha mais uma creche e soma pelo menos 126 casos confirmados em MS ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/18/uti-neonatal-de-santarem-atendeu-281-bebes-hospital-orienta-sobre-cuidados-com-prematuros.ghtml",
-      "hora": "Wed, 18 Nov 2026 18:27:42 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Chuva com granizo e rajadas de vento provoca alagamento em Volta Redonda",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/18/chuva-com-granizo-e-rajadas-de-vento-provoca-alagamento-em-volta-redonda.ghtml",
-      "hora": "Wed, 18 Nov 2026 18:26:28 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "SUV premium e Bacio di Latte são apostas de shopping para o Natal",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/especial-publicitario/colinas-shopping/noticia/2026/11/18/suv-premium-e-bacio-di-latte-sao-apostas-de-shopping-para-o-natal.ghtml",
-      "hora": "Wed, 18 Nov 2026 18:25:51 -0000",
+      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/18/sarna-humana-chega-a-7-cidades-fecha-mais-uma-creche-e-soma-pelo-menos-126-casos-confirmados-em-ms.ghtml",
+      "hora": "Thu, 19 Nov 2026 01:21:46 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Rejunte: como escolher a cor e cuidar das juntas do piso",
+      "titulo": "Bicampeã olímpica de vôlei, Paula Pequeno posa pela primeira vez com as duas medalhas após ter a de Pequim roubada: 'Dia especial'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pr/parana/especial-publicitario/panorama/guia-da-construcao-panorama/noticia/2026/11/18/rejunte-como-escolher-a-cor-e-cuidar-das-juntas-do-piso.ghtml",
-      "hora": "Wed, 18 Nov 2026 18:25:08 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Yanomami é esfaqueado no peito durante discussão na orla de Caracaraí, no interior de Roraima",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/18/yanomami-e-esfaqueado-no-peito-durante-discussao-na-orla-de-caracarai-no-interior-de-roraima.ghtml",
-      "hora": "Wed, 18 Nov 2026 18:25:00 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Andrei Rodrigues diz que vai entregar HD com mensagens e relatórios dos delegados para Fachin ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/18/andrei-rodrigues-diz-que-vai-enviar-hd-com-mensagens-e-relatorios-dos-delegados-para-fachin.ghtml",
-      "hora": "Wed, 18 Nov 2026 18:24:57 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/18/bicampea-olimpica-de-volei-paula-pequeno-posa-pela-primeira-vez-com-as-duas-medalhas-apos-ter-a-de-pequim-roubada-dia-especial.ghtml",
+      "hora": "Thu, 19 Nov 2026 01:14:01 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Suéllen Rosim diz que visita a empresa favorecida em licitação foi institucional e nega ter discutido concessão do lixo",
+      "titulo": "Proposta de ajuste fiscal do governo volta a repercutir no mercado financeiro",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/18/suellen-rosim-depoe-na-camara-de-bauru-em-comissao-processante.ghtml",
-      "hora": "Wed, 18 Nov 2026 18:24:52 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/18/proposta-de-ajuste-fiscal-do-governo-volta-a-repercutir-no-mercado-financeiro.ghtml",
+      "hora": "Thu, 19 Nov 2026 01:01:49 -0000",
       "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultados das Loterias Caixa",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "hora": "Thu, 19 Nov 2026 00:50:13 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Agefis apreende 156 quilos de alimentos irregulares em supermercado de Fortaleza",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/18/agefis-apreende-de-alimentos-irregulares-em-supermercado-fortaleza.ghtml",
+      "hora": "Thu, 19 Nov 2026 00:46:47 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "+Milionária hoje: resultado do concurso 408 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/milionaria/noticia/2026/11/18/milionaria-hoje-resultado-do-concurso-408-e-numeros-sorteados.ghtml",
+      "hora": "Thu, 19 Nov 2026 00:46:28 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Super Sete hoje: resultado do concurso 924 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/super-sete/noticia/2026/11/18/super-sete-hoje-resultado-do-concurso-924-e-numeros-sorteados.ghtml",
+      "hora": "Thu, 19 Nov 2026 00:46:23 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Dia de Sorte hoje: resultado do concurso 1351 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/11/18/dia-de-sorte-hoje-resultado-do-concurso-1351-e-numeros-sorteados.ghtml",
+      "hora": "Thu, 19 Nov 2026 00:46:04 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Lotomania hoje: resultado do concurso 3001 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/lotomania/noticia/2026/11/18/lotomania-hoje-resultado-do-concurso-3001-e-numeros-sorteados.ghtml",
+      "hora": "Thu, 19 Nov 2026 00:45:59 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Foragido após prisão em força-tarefa de ataques com oito mortos em Porto Alegre se entrega à polícia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/18/foragido-prisao-ataques-oito-mortos-porto-alegre-se-entrega-policia.ghtml",
+      "hora": "Thu, 19 Nov 2026 00:45:49 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Dupla Sena hoje: resultado do concurso 3034 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/dupla-sena/noticia/2026/11/18/dupla-sena-hoje-resultado-do-concurso-3034-e-numeros-sorteados.ghtml",
+      "hora": "Thu, 19 Nov 2026 00:45:44 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -256,10 +256,10 @@
       "resumo": null
     },
     {
-      "titulo": "A falha crítica descoberta na linguagem de programação usada por 90% das grandes empresas do mundo",
+      "titulo": "'Grand Theft Auto 6' é uma obra-prima, dizem os críticos: 'Não há nada igual'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqy7rgm85vzno?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 18 Nov 2026 17:33:55 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cj20qkl5w1qpo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 18 Nov 2026 19:27:01 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -275,12 +275,12 @@
       "titulo": "Quem são os sete jovens fundadores da Anthropic que estão prestes a se tornarem multibilionários",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmn0dykxex82o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 18 Nov 2026 16:53:08 GMT",
+      "hora": "Wed, 18 Nov 2026 22:42:02 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Por que encontro raro com indígenas awás isolados preocupa autoridades brasileiras",
+      "titulo": "O raro encontro com indígenas awás isolados na Amazônia — e por que preocupa autoridades brasileiras",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmx29j0v4lnwo?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 18 Nov 2026 18:07:31 GMT",
@@ -288,26 +288,26 @@
       "resumo": null
     },
     {
-      "titulo": "Os filhos que lutam na Justiça para apagar nomes de pais ausentes ou abusivos dos documentos",
+      "titulo": "O disco de ouro com mensagens para extraterrestres levado pela sonda Voyager 1 (e como eles poderão decifrá-lo)",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c79gpqyrdy2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 18 Nov 2026 08:20:00 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Saída de Jensen Huang da Nvidia pode frear a onda da IA?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm3eg1nq1ynpo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 18 Nov 2026 14:14:05 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cm0rkq4x2e1yo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 18 Nov 2026 19:54:28 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Férias, alistamento militar e 'viagem falsa': as loucuras de fãs pelo lançamento de 'GTA 6'",
+      "titulo": "A falha crítica descoberta na linguagem de programação usada por 90% das grandes empresas do mundo",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c50mdvd0v0xko?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 18 Nov 2026 11:30:49 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cqy7rgm85vzno?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 18 Nov 2026 17:33:55 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Fungos zumbis são vegetarianos? Estudo na Amazônia revela relação inesperada com plantas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cx987yn9jz54o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 18 Nov 2026 19:43:57 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -320,11 +320,11 @@
       "resumo": null
     },
     {
-      "titulo": "'Sociedade se sente traída por Suzane von Richthofen' porque se vê nela, diz consultora de documentário",
+      "titulo": "Os filhos que lutam na Justiça para apagar nomes de pais ausentes ou abusivos dos documentos",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c60mdv3k3wdpo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 18 Nov 2026 10:26:41 GMT",
-      "tema": "cultura",
+      "link": "https://www.bbc.com/portuguese/articles/c79gpqyrdy2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 18 Nov 2026 08:20:00 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -336,19 +336,19 @@
       "resumo": null
     },
     {
+      "titulo": "'Sociedade se sente traída por Suzane von Richthofen' porque se vê nela, diz consultora de documentário",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c60mdv3k3wdpo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 18 Nov 2026 10:26:41 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
       "titulo": "O 'exército das avós': os números que mostram as responsáveis pelo pico de comparecimento nas eleições",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm9w9lyvv1exo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 17 Nov 2026 20:07:30 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Lula vai conseguir emplacar 4 ministros no STF ou ficará refém de Senado bolsonarista?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5n49ln0l4xeo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 16 Nov 2026 08:46:29 GMT",
-      "tema": "brasil",
       "resumo": null
     },
     {
