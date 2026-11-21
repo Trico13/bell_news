@@ -1,129 +1,129 @@
 {
-  "gerado_em": "2026-11-20T18:18:30.761Z",
+  "gerado_em": "2026-11-21T01:57:56.727Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 33.5,
+    "max": 33.9,
     "min": 22.2,
-    "chuva": 79
+    "chuva": 69
   },
   "noticias": [
     {
-      "titulo": "Ex-BBB Ana Carolina Madeira tem celular roubado em SP, e ladrão faz empréstimo em seu nome",
+      "titulo": "Exposição na Casa Roberto Marinho reúne 300 obras da arte brasileira e internacional no Rio",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/20/ex-bbb-ana-carolina-madeira-tem-celular-roubado-em-sp-e-ladrao-faz-emprestimo-em-seu-nome.ghtml",
-      "hora": "Fri, 20 Nov 2026 18:11:26 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/exposicao-na-casa-roberto-marinho-reune-300-obras-da-arte-brasileira-e-internacional-no-rio.ghtml",
+      "hora": "Sat, 21 Nov 2026 01:43:29 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Polícia apreende produtos de origem estrangeira em veículo em Pirapozinho",
+      "titulo": "Pedro Sampaio gravou clipe de 'Bate Coxa' em Feira de Santana antes de estrear na Micareta",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/20/policia-apreende-produtos-de-origem-estrangeira-em-veiculo-em-pirapozinho.ghtml",
-      "hora": "Fri, 20 Nov 2026 18:10:41 -0000",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/20/pedro-sampaio-gravou-clipe-em-feira-de-santana-antes-de-estrear-na-micareta.ghtml",
+      "hora": "Sat, 21 Nov 2026 01:37:44 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Consciência Negra: espetáculo no Rio dá vida personagens que marcaram a história do Brasil",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/consciencia-negra-espetaculo-no-rio-da-vida-personagens-que-marcaram-a-historia-do-brasil.ghtml",
+      "hora": "Sat, 21 Nov 2026 01:35:43 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Moradores reclamam de demora do Saae para fechar buracos em vias de Sorocaba",
+      "titulo": "Homem é declarado culpado por incêndio letal em Los Angeles em 2025 e pode pegar 40 anos de prisão",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/20/moradores-reclamam-de-demora-do-saae-para-fechar-buracos-em-vias-de-sorocaba.ghtml",
-      "hora": "Fri, 20 Nov 2026 18:09:03 -0000",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/20/suspeito-de-iniciar-incendio-letal-em-los-angeles-e-declarado-culpado.ghtml",
+      "hora": "Sat, 21 Nov 2026 01:34:30 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Eletricista instala 950 mil luzes de Natal e abre própria casa para visitação em SC: 'Presente para a comunidade'",
+      "titulo": "Novembro Azul: novo protocolo muda orientação para diagnóstico precoce do câncer de próstata",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/20/eletricista-instala-950-mil-lampadas-natal-propria-casa-blumenau.ghtml",
-      "hora": "Fri, 20 Nov 2026 18:03:42 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Motociclista de aplicativo é arremessado após colisão com carro e motorista foge sem prestar socorro; VÍDEO",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/20/motociclista-de-aplicativo-arremessado-colisao-carro-video.ghtml",
-      "hora": "Fri, 20 Nov 2026 18:01:28 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem acusado de matar policial civil durante operação em Juazeiro é condenado a 143 anos de prisão",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/20/homem-acusado-de-matar-policial-civil-durante-operacao-em-juazeiro-e-condenado-a-143-anos-de-prisao.ghtml",
-      "hora": "Fri, 20 Nov 2026 18:01:02 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Natal retira 75 mil toneladas de resíduos do sistema de drenagem em 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/20/natal-retira-75-mil-toneladas-de-residuos-do-sistema-de-drenagem-em-2026.ghtml",
-      "hora": "Fri, 20 Nov 2026 17:59:57 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Polícia prende trio suspeito de tráfico de drogas durante operação em Taquarituba",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/20/policia-prende-trio-suspeito-de-trafico-de-drogas-durante-operacao-em-taquarituba.ghtml",
-      "hora": "Fri, 20 Nov 2026 17:59:02 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/novembro-azul-novo-protocolo-muda-orientacao-para-diagnostico-precoce-do-cancer-de-prostata.ghtml",
+      "hora": "Sat, 21 Nov 2026 01:26:36 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Animais atingidos por enchente em distrito recebem ração e terão atendimento veterinário",
+      "titulo": "Quase 100 milhões de brasileiros começam a receber o 13º salário; benefício deve movimentar R$ 400 bilhões na economia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/20/animais-atingidos-por-enchente-em-distrito-recebem-racao-e-terao-atendimento-veterinario.ghtml",
-      "hora": "Fri, 20 Nov 2026 17:57:18 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/quase-100-milhoes-de-brasileiros-comecam-a-receber-o-13o-salario-beneficio-deve-movimentar-r-400-bilhoes-na-economia.ghtml",
+      "hora": "Sat, 21 Nov 2026 01:16:11 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Carros em alta velocidade batem em perseguição na Avenida Brasil; crianças ficam feridas",
+      "titulo": "Juros nos EUA e ajuste fiscal no Brasil: o que está por trás da disparada do dólar",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/20/carros-batem-avenida-brasil.ghtml",
-      "hora": "Fri, 20 Nov 2026 17:55:11 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/juros-nos-eua-e-ajuste-fiscal-no-brasil-o-que-esta-por-tras-da-disparada-do-dolar.ghtml",
+      "hora": "Sat, 21 Nov 2026 01:01:51 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "UFLA apura vazamento de dados acadêmicos de estudantes após divulgação de arquivo em aplicativos de mensagens",
+      "titulo": "Países europeus reagem após ataques da Rússia à Ucrânia matarem oito pessoas e atingirem embaixadas em Kiev",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/20/ufla-apura-vazamento-de-dados-academicos-de-estudantes-apos-divulgacao-de-arquivo-em-aplicativos-de-mensagens.ghtml",
-      "hora": "Fri, 20 Nov 2026 17:54:34 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/paises-europeus-reagem-apos-ataques-da-russia-a-ucrania-matarem-oito-pessoas-e-atingirem-embaixadas-em-kiev.ghtml",
+      "hora": "Sat, 21 Nov 2026 00:47:47 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Imagens mostram antes e depois de empresas atingidas por temporal em Tupanciretã, no RS",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/20/antes-e-depois-empresas-temporal-tupancireta-rs.ghtml",
+      "hora": "Sat, 21 Nov 2026 00:47:10 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Incêndio destrói duas lojas e atinge casa na Cidade Operária, em São Luís",
+      "titulo": "VÍDEOS: JL2 de sexta-feira, 20 de novembro",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ma/maranhao/noticia/2026/11/20/incendio-destroi-duas-lojas-e-atinge-casa-na-cidade-operaria-em-sao-luis.ghtml",
-      "hora": "Fri, 20 Nov 2026 17:54:29 -0000",
+      "link": "https://g1.globo.com/pa/para/edicao/2026/11/20/videos-jl2-de-sexta-feira-20-de-novembro.ghtml",
+      "hora": "Sat, 21 Nov 2026 00:46:36 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: JL1 de sexta-feira, 20 de novembro",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pa/para/edicao/2026/11/20/videos-jl1-de-sexta-feira-20-de-novembro.ghtml",
+      "hora": "Sat, 21 Nov 2026 00:45:46 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Tempestade atinge cidades do Vale do Paraíba e causa alagamentos em Lorena e Aparecida nesta sexta",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/20/tempestade-atinge-cidades-do-vale-do-paraiba-e-causa-alagamentos-em-lorena-e-aparecida-nesta-sexta-feira.ghtml",
+      "hora": "Sat, 21 Nov 2026 00:44:42 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Tremor de terra é sentido no Acre e assusta moradores de Rio Branco e Cruzeiro do Sul",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/20/tremor-de-terra-e-sentido-e-assusta-moradores-no-acre.ghtml",
+      "hora": "Sat, 21 Nov 2026 00:41:53 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Polícia investiga como execução mortes de tio e sobrinho baleados na cabeça e no peito em bar em SP",
+      "titulo": "Irmã de Gabi Morais é presa dois dias depois da ex-jogadora, em Fortaleza",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/20/policia-investiga-como-execucao-mortes-de-tio-e-sobrinho-baleados-na-cabeca-e-no-peito-em-bar-em-sp.ghtml",
-      "hora": "Fri, 20 Nov 2026 17:53:12 -0000",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/20/irma-gabi-morais-presa-fortaleza.ghtml",
+      "hora": "Sat, 21 Nov 2026 00:39:11 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "BH cria carteira de identificação para pessoas com deficiência; veja o que diz a lei",
+      "titulo": "Bayer pagará até US$ 7,25 bilhões em acordo judicial com pacientes que alegam ter desenvolvido câncer após uso de herbicida",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/20/bh-cria-carteira-de-identificacao-para-pessoas-com-deficiencia.ghtml",
-      "hora": "Fri, 20 Nov 2026 17:51:49 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Hemose abre neste sábado para reforçar estoques de sangue em Sergipe",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/20/hemose-abre-neste-sabado-para-reforcar-estoques-de-sangue-em-sergipe.ghtml",
-      "hora": "Fri, 20 Nov 2026 17:49:56 -0000",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/20/bayer-pagara-ate-us-725-bilhoes-em-acordo-judicial-com-pacientes-que-alegam-ter-desenvolvido-cancer-apos-uso-de-herbicida.ghtml",
+      "hora": "Sat, 21 Nov 2026 00:38:30 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -251,7 +251,7 @@
       "titulo": "'A cidade acabou': a destruição causada por temporal que provocou mortes no RS",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cqdr1xmyg3kzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 20 Nov 2026 17:03:23 GMT",
+      "hora": "Sat, 21 Nov 2026 01:16:58 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -288,6 +288,14 @@
       "resumo": null
     },
     {
+      "titulo": "Míssil russo atinge a Polônia e primeiro-ministro fala em 'provocação'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c699en8vvy34o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 20 Nov 2026 19:59:14 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
       "titulo": "A viagem de 8 anos que levou sonda a 'planeta misterioso' do sistema solar",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c8vg2d3nkqe3o?at_medium=RSS&at_campaign=rss",
@@ -308,14 +316,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/ckr5g3l3r540o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 20 Nov 2026 08:38:41 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que Justiça anulou condenação da Marinha por ataque à memória de João Cândido, 116 anos após Revolta da Chibata",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwjd735m9093o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 19 Nov 2026 18:54:25 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -344,18 +344,18 @@
       "resumo": null
     },
     {
+      "titulo": "Por que Justiça anulou condenação da Marinha por ataque à memória de João Cândido, 116 anos após Revolta da Chibata",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwjd735m9093o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 19 Nov 2026 18:54:25 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "O raro encontro de indígenas awás isolados com outra aldeia na Amazônia — e por que preocupa autoridades brasileiras",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmx29j0v4lnwo?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 18 Nov 2026 18:07:31 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Dengo, bunda, chochilo: as palavras que você usa no dia a dia e que tem influência de mulheres negras escravizadas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c9376nq11lwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 19 Nov 2026 16:54:57 GMT",
       "tema": "brasil",
       "resumo": null
     }
