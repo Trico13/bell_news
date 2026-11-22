@@ -1,110 +1,130 @@
 {
-  "gerado_em": "2026-11-21T17:05:56.558Z",
+  "gerado_em": "2026-11-22T00:56:36.001Z",
   "modo": "palavras-chave",
-  "clima": null,
+  "clima": {
+    "max": 31,
+    "min": 20.3,
+    "chuva": 94
+  },
   "noticias": [
     {
-      "titulo": "Jovem de 19 anos morre em acidente entre moto e carro em Ceará-Mirim",
+      "titulo": "Morre aos 103 anos Joe Wallach, executivo que ajudou a consolidar a TV Globo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/21/jovem-de-19-anos-morre-em-acidente-entre-moto-e-carro-em-ceara-mirim.ghtml",
-      "hora": "Sat, 21 Nov 2026 16:55:03 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/morre-aos-103-anos-joe-wallach-executivo-que-ajudou-a-consolidar-a-tv-globo.ghtml",
+      "hora": "Sun, 22 Nov 2026 00:36:54 -0000",
+      "tema": "entretenimento",
+      "resumo": null
+    },
+    {
+      "titulo": "Fim de ano pode abrir 530 mil vagas temporárias; número de contratações deve crescer 1,5% em relação a 2025",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/fim-de-ano-deve-abrir-530-mil-vagas-temporarias-20percent-dos-trabalhadores-podem-ser-efetivados.ghtml",
+      "hora": "Sun, 22 Nov 2026 00:19:15 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Após temporal que deixou 5 mortos, moradores e voluntários começam a reconstruir Tupanciretã (RS)",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/temporal-deixa-5-mortos-e-mais-de-8-mil-imoveis-atingidos-em-tupancireta-rs-cidade-comeca-reconstrucao.ghtml",
+      "hora": "Sat, 21 Nov 2026 23:58:42 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Com Psirico e Tony Salles, blocos Lá Vem Elas e Lá Vem Eles arrastam foliões na Micareta de Feira",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/21/com-psirico-e-tony-salles-blocos-la-vem-elas-e-la-vem-eles-arrastam-folioes-na-micareta-de-feira.ghtml",
+      "hora": "Sat, 21 Nov 2026 23:57:40 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: Jornal Anhanguera 2ª edição de sábado, 21 de novembro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/playlist/videos-jornal-anhanguera-2-edicao-de-sabado-21-de-novembro-de-2026.ghtml",
+      "hora": "Sat, 21 Nov 2026 23:57:33 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Motociclista de 38 anos morre após grave acidente em estrada vicinal no interior de SP",
+      "titulo": "Incêndios florestais crescem 25% na PB e atingem mais de 3 mil hectares de vegetação em menos de um ano",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/11/21/motociclista-de-38-anos-morre-apos-grave-acidente-em-estrada-vicinal-no-interior-de-sp.ghtml",
-      "hora": "Sat, 21 Nov 2026 16:52:36 -0000",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/21/incendios-florestais-crescem-25percent-na-pb-e-atingem-mais-de-3-mil-hectares-de-vegetacao-em-menos-de-um-ano.ghtml",
+      "hora": "Sat, 21 Nov 2026 23:53:02 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: JA 2ª Edição TO de sábado, 21 de novembro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/to/tocantins/edicao/2026/11/21/videos-ja-2-edicao-to-de-sabado-21-de-novembro-de-2026.ghtml",
+      "hora": "Sat, 21 Nov 2026 23:50:20 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Homem é preso por agredir mãe de 75 anos e descumprir medida protetiva em Campinas",
+      "titulo": "Black Friday e Natal devem movimentar R$ 9 bilhões no comércio de Campinas e região",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/21/homem-e-preso-por-agredir-mae-de-75-anos-e-descumprir-medida-protetiva-em-campinas.ghtml",
-      "hora": "Sat, 21 Nov 2026 16:49:17 -0000",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/21/black-friday-e-natal-devem-movimentar-r-9-bilhoes-no-comercio-de-campinas-e-regiao.ghtml",
+      "hora": "Sat, 21 Nov 2026 23:47:43 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Temporal provoca alagamentos e deixa moradores desalojados em Mercês",
+      "titulo": "Mulher é flagrada tentando entrar com drogas na região íntima em presídio de João Pessoa",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/21/temporal-provoca-alagamentos-e-deixa-moradores-desalojados-em-merces.ghtml",
-      "hora": "Sat, 21 Nov 2026 16:49:04 -0000",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/21/mulher-e-flagrada-tentando-entrar-com-drogas-escondidas-na-regiao-intima-em-presidio-de-joao-pessoa.ghtml",
+      "hora": "Sat, 21 Nov 2026 23:39:52 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Mais de 770 vagas de estágio serão abertas até o início de 2027 na Paraíba",
+      "titulo": "Vídeo: Mulher é morta a facada após briga em via pública de Calçoene",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/21/mais-de-770-vagas-de-estagio-serao-abertas-ate-o-inicio-de-2027-na-paraiba.ghtml",
-      "hora": "Sat, 21 Nov 2026 16:46:21 -0000",
+      "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/21/mulher-e-morta-a-facada-apos-briga-em-via-publica-de-calcoene.ghtml",
+      "hora": "Sat, 21 Nov 2026 23:36:33 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: MG2 de sábado, 21 de novembro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/minas-gerais/videos-mg2/playlist/videos-mg2-de-sabado-21-de-novembro-de-2026.ghtml",
+      "hora": "Sat, 21 Nov 2026 23:30:06 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Família denuncia suspeita de agressão contra idoso em clínica particular após encontrar ferimentos pelo corpo; vítima foi internada",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/21/familia-denuncia-suspeita-de-agressao-contra-idoso-em-clinica-particular-apos-encontrar-ferimentos-pelo-corpo-vitima-foi-internada.ghtml",
+      "hora": "Sat, 21 Nov 2026 23:25:48 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Porto de Santos reforça segurança e controle de acessos após ataque hacker",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2026/11/21/porto-de-santos-reforca-seguranca-e-controle-de-acessos-apos-ataque-hacker.ghtml",
+      "hora": "Sat, 21 Nov 2026 23:20:52 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Assista aos telejornais da TV Liberal",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
+      "hora": "Sat, 21 Nov 2026 23:19:48 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Petrolina terá mutirão para regularizar Tarifa Social de energia a partir de segunda (23)",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/11/21/mutirao-tarifa-social-petrolina.ghtml",
+      "hora": "Sat, 21 Nov 2026 23:17:05 -0000",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Inscrições para 350 vagas em cursos gratuitos do Sesc terminam neste domingo (22)",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/21/inscricoes-para-350-vagas-em-cursos-gratuitos-do-sesc-terminam-neste-domingo-22.ghtml",
-      "hora": "Sat, 21 Nov 2026 16:44:02 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Projeto com histórias em quadrinhos da Biblioteca Pública do AM ganha destaque em evento na Colômbia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/21/projeto-com-historias-em-quadrinhos-da-biblioteca-publica-do-am-ganha-destaque-em-evento-na-colombia.ghtml",
-      "hora": "Sat, 21 Nov 2026 16:42:31 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "TJSP declara inconstitucional lei que proibia atividades de Halloween nas escolas municipais de Tatuí",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/21/tjsp-declara-inconstitucional-lei-que-proibia-atividades-de-halloween-nas-escolas-municipais-de-tatui.ghtml",
-      "hora": "Sat, 21 Nov 2026 16:33:54 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Dois homens são baleados em bar no bairro Doutor João Alves, em Montes Claros",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/grande-minas/noticia/2026/11/21/dois-homens-sao-baleados-em-bar-no-bairro-doutor-joao-alves-em-montes-claros.ghtml",
-      "hora": "Sat, 21 Nov 2026 16:27:17 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Primeiro cruzeiro da temporada chega a Belém com mais de 1,2 mil pessoas a bordo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/21/primeiro-cruzeiro-da-temporada-chega-a-belem-com-mais-de-12-mil-pessoas-a-bordo.ghtml",
-      "hora": "Sat, 21 Nov 2026 16:26:28 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: Jornal Anhanguera 1ª Edição deste sábado, 21 de  novembro de 2026 ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/edicao/2026/11/21/videos-jornal-anhanguera-1-edicao-deste-sabado-21-de-novembro-de-2026.ghtml",
-      "hora": "Sat, 21 Nov 2026 16:25:23 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Natal na Praça da Liberdade: iluminação é inaugurada neste sábado e trânsito tem interdições em BH",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/21/natal-na-praca-da-liberdade-iluminacao-e-inaugurada-neste-sabado-e-transito-tem-interdicoes-em-bh.ghtml",
-      "hora": "Sat, 21 Nov 2026 16:24:24 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem é suspeito de matar a companheira a facadas durante discussão, em Rio Verde",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/11/21/homem-e-suspeito-de-matar-a-companheira-a-facadas-em-rio-verde.ghtml",
-      "hora": "Sat, 21 Nov 2026 16:21:12 -0000",
-      "tema": "mundo",
       "resumo": null
     },
     {
@@ -228,11 +248,27 @@
       "resumo": null
     },
     {
-      "titulo": "Como governos Lula e Trump pretendem acabar com a 'guerra fria dos vistos diplomáticos'",
+      "titulo": "Os cidadãos impedidos pelo governo Ortega de voltar à Nicarágua: 'Sou ilegal no meu próprio país'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwz0k3r4npexo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 21 Nov 2026 09:01:48 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c60rknr0jg4zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 21 Nov 2026 17:51:39 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que aplaudir durante o pouso de um avião pode irritar as pessoas, segundo especialistas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm5y1xg8xqjqo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 21 Nov 2026 21:41:51 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'O futuro para mulheres na pós-menopausa não é catastrófico, é libertador'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c94g1gk54e2ro?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 21 Nov 2026 18:47:47 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -244,10 +280,18 @@
       "resumo": null
     },
     {
-      "titulo": "Ataques cibernéticos, IA ou atualizações pendentes: o que há por trás da onda de apagões dos últimos dias",
+      "titulo": "Como governos Lula e Trump pretendem acabar com a 'guerra fria dos vistos diplomáticos'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3grendp775qo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 21 Nov 2026 09:21:47 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cwz0k3r4npexo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 21 Nov 2026 09:01:48 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Quem são os awá, grupo indígena isolado que fez contato com outra aldeia no Maranhão",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6pw4d0292plo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 20 Nov 2026 13:54:29 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -268,34 +312,10 @@
       "resumo": null
     },
     {
-      "titulo": "'A cidade acabou': a destruição causada por temporal que provocou mortes no RS",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqdr1xmyg3kzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 21 Nov 2026 01:16:58 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
       "titulo": "Como comprimido diário é a grande esperança contra um dos cânceres mais letais",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c3ewvk8vglp1o?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 20 Nov 2026 15:18:29 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "A batalha na Justiça para apagar homenagem a expoente do racismo científico no Brasil",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm4gn08l5ldeo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 20 Nov 2026 14:11:01 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Fiona, hipopótamo que viralizou nas redes por nascimento prematuro, morre após engolir gorro de lã em zoológico",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjn502p90dzxo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 20 Nov 2026 17:41:18 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -308,11 +328,19 @@
       "resumo": null
     },
     {
-      "titulo": "A história de racismo e especulação imobiliária por trás do 1º gibi a cair na Fuvest",
+      "titulo": "'A cidade acabou': a destruição causada por temporal que provocou mortes no RS",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c64gn0p13gypo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 20 Nov 2026 11:14:53 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cqdr1xmyg3kzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 21 Nov 2026 01:16:58 GMT",
       "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "A batalha na Justiça para apagar homenagem a expoente do racismo científico no Brasil",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm4gn08l5ldeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 20 Nov 2026 14:11:01 GMT",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -337,14 +365,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cwjd735m9093o?at_medium=RSS&at_campaign=rss",
       "hora": "Thu, 19 Nov 2026 18:54:25 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "O raro encontro de indígenas awás isolados com outra aldeia na Amazônia — e por que preocupa autoridades brasileiras",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmx29j0v4lnwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 18 Nov 2026 18:07:31 GMT",
-      "tema": "brasil",
       "resumo": null
     }
   ]
