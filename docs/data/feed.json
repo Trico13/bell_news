@@ -1,130 +1,126 @@
 {
-  "gerado_em": "2026-11-22T00:56:36.001Z",
+  "gerado_em": "2026-11-22T17:37:16.498Z",
   "modo": "palavras-chave",
-  "clima": {
-    "max": 31,
-    "min": 20.3,
-    "chuva": 94
-  },
+  "clima": null,
   "noticias": [
     {
-      "titulo": "Morre aos 103 anos Joe Wallach, executivo que ajudou a consolidar a TV Globo",
+      "titulo": "Festival de Bandas reúne 17 atrações gratuitas em Teresina; confira a programação",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/morre-aos-103-anos-joe-wallach-executivo-que-ajudou-a-consolidar-a-tv-globo.ghtml",
-      "hora": "Sun, 22 Nov 2026 00:36:54 -0000",
-      "tema": "entretenimento",
-      "resumo": null
-    },
-    {
-      "titulo": "Fim de ano pode abrir 530 mil vagas temporárias; número de contratações deve crescer 1,5% em relação a 2025",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/fim-de-ano-deve-abrir-530-mil-vagas-temporarias-20percent-dos-trabalhadores-podem-ser-efetivados.ghtml",
-      "hora": "Sun, 22 Nov 2026 00:19:15 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Após temporal que deixou 5 mortos, moradores e voluntários começam a reconstruir Tupanciretã (RS)",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/temporal-deixa-5-mortos-e-mais-de-8-mil-imoveis-atingidos-em-tupancireta-rs-cidade-comeca-reconstrucao.ghtml",
-      "hora": "Sat, 21 Nov 2026 23:58:42 -0000",
+      "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/22/festival-em-teresina.ghtml",
+      "hora": "Sun, 22 Nov 2026 17:30:17 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Com Psirico e Tony Salles, blocos Lá Vem Elas e Lá Vem Eles arrastam foliões na Micareta de Feira",
+      "titulo": "Caminhão cegonha com carros pega fogo na BR-174, em Roraima",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/21/com-psirico-e-tony-salles-blocos-la-vem-elas-e-la-vem-eles-arrastam-folioes-na-micareta-de-feira.ghtml",
-      "hora": "Sat, 21 Nov 2026 23:57:40 -0000",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/22/caminhao-cegonha-com-carros-pega-fogo-na-br-174-em-roraima.ghtml",
+      "hora": "Sun, 22 Nov 2026 17:27:13 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Empresa que teve silos destruídos estima prejuízo de R$ 19 milhões em Tupanciretã, no RS",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/22/empresa-prejuizo-tupancireta-rs.ghtml",
+      "hora": "Sun, 22 Nov 2026 17:25:53 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: Jornal Anhanguera 2ª edição de sábado, 21 de novembro de 2026",
+      "titulo": "'Experiência imersiva': Parque da Biquinha recebe a 4ª edição do Festival de Artes Híbridas de Sorocaba",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/playlist/videos-jornal-anhanguera-2-edicao-de-sabado-21-de-novembro-de-2026.ghtml",
-      "hora": "Sat, 21 Nov 2026 23:57:33 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Incêndios florestais crescem 25% na PB e atingem mais de 3 mil hectares de vegetação em menos de um ano",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/21/incendios-florestais-crescem-25percent-na-pb-e-atingem-mais-de-3-mil-hectares-de-vegetacao-em-menos-de-um-ano.ghtml",
-      "hora": "Sat, 21 Nov 2026 23:53:02 -0000",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/22/experiencia-imersiva-parque-da-biquinha-recebe-a-4a-edicao-do-festival-de-artes-hibridas-de-sorocaba.ghtml",
+      "hora": "Sun, 22 Nov 2026 17:25:30 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "VÍDEOS: JA 2ª Edição TO de sábado, 21 de novembro de 2026",
+      "titulo": "Homem morre após ser agredido e deixado ferido em frente de casa em Várzea Grande (MT)",
       "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/edicao/2026/11/21/videos-ja-2-edicao-to-de-sabado-21-de-novembro-de-2026.ghtml",
-      "hora": "Sat, 21 Nov 2026 23:50:20 -0000",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/22/homem-morre-apos-ser-agredido-e-deixado-ferido-em-frente-de-casa-em-varzea-grande-mt.ghtml",
+      "hora": "Sun, 22 Nov 2026 17:15:25 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Black Friday e Natal devem movimentar R$ 9 bilhões no comércio de Campinas e região",
+      "titulo": "Mega-Sena 3089: apostas de Sergipe acertam a quadra; veja cidades e valores",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/21/black-friday-e-natal-devem-movimentar-r-9-bilhoes-no-comercio-de-campinas-e-regiao.ghtml",
-      "hora": "Sat, 21 Nov 2026 23:47:43 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Mulher é flagrada tentando entrar com drogas na região íntima em presídio de João Pessoa",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/21/mulher-e-flagrada-tentando-entrar-com-drogas-escondidas-na-regiao-intima-em-presidio-de-joao-pessoa.ghtml",
-      "hora": "Sat, 21 Nov 2026 23:39:52 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Vídeo: Mulher é morta a facada após briga em via pública de Calçoene",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/21/mulher-e-morta-a-facada-apos-briga-em-via-publica-de-calcoene.ghtml",
-      "hora": "Sat, 21 Nov 2026 23:36:33 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "VÍDEOS: MG2 de sábado, 21 de novembro de 2026",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/videos-mg2/playlist/videos-mg2-de-sabado-21-de-novembro-de-2026.ghtml",
-      "hora": "Sat, 21 Nov 2026 23:30:06 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Família denuncia suspeita de agressão contra idoso em clínica particular após encontrar ferimentos pelo corpo; vítima foi internada",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/21/familia-denuncia-suspeita-de-agressao-contra-idoso-em-clinica-particular-apos-encontrar-ferimentos-pelo-corpo-vitima-foi-internada.ghtml",
-      "hora": "Sat, 21 Nov 2026 23:25:48 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Porto de Santos reforça segurança e controle de acessos após ataque hacker",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2026/11/21/porto-de-santos-reforca-seguranca-e-controle-de-acessos-apos-ataque-hacker.ghtml",
-      "hora": "Sat, 21 Nov 2026 23:20:52 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Assista aos telejornais da TV Liberal",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
-      "hora": "Sat, 21 Nov 2026 23:19:48 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Petrolina terá mutirão para regularizar Tarifa Social de energia a partir de segunda (23)",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/11/21/mutirao-tarifa-social-petrolina.ghtml",
-      "hora": "Sat, 21 Nov 2026 23:17:05 -0000",
+      "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/22/mega-sena-3089-apostas-de-sergipe.ghtml",
+      "hora": "Sun, 22 Nov 2026 17:12:29 -0000",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Bombeiros de MG resgatam criança de 6 anos que ficou com dedo preso em roda de carro",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/22/bombeiros-de-mg-resgatam-crianca-de-6-anos-que-ficou-com-dedo-preso-em-roda-de-carro.ghtml",
+      "hora": "Sun, 22 Nov 2026 17:10:29 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Quem era o cabeleireiro encontrado morto dentro de casa com marcas de faca no Tocantins",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/22/quem-era-o-cabeleireiro-encontrado-morto-dentro-de-casa-com-marcas-de-faca-no-tocantins.ghtml",
+      "hora": "Sun, 22 Nov 2026 17:09:17 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Incêndio em fábrica de doces deixa mortos e dezenas de desaparecidos na Indonésia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/22/incendio-em-fabrica-de-doces-deixa-mortos-e-dezenas-de-desaparecidos-na-indonesia.ghtml",
+      "hora": "Sun, 22 Nov 2026 17:08:52 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "PM é preso após disparar arma na rua e ameaçar vigilantes de parque na Zona Leste de SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/22/pm-e-preso-apos-disparar-arma-na-rua-e-ameacar-vigilantes-de-parque-na-zona-leste-de-sp.ghtml",
+      "hora": "Sun, 22 Nov 2026 17:06:46 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Morre no hospital homem baleado em Barra Mansa",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/22/morre-homem-baleado-em-barra-mansa.ghtml",
+      "hora": "Sun, 22 Nov 2026 17:02:16 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Chuva forte, ventos de até 60 km/h e granizo: Vale do Paraíba e região têm alertas para tempestades",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/22/chuva-forte-ventos-de-ate-60-kmh-e-granizo-vale-do-paraiba-e-regiao-tem-alertas-para-tempestades.ghtml",
+      "hora": "Sun, 22 Nov 2026 17:01:31 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem morre atropelado por ônibus em Florianópolis; vítima carregava documento de alta hospitalar do mesmo dia ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/22/homem-morre-atropelado-por-onibus-beira-mar-norte-florianopolis.ghtml",
+      "hora": "Sun, 22 Nov 2026 17:00:01 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Adolescente sofre traumatismo craniano ao bater bicicleta elétrica em monte de barro no AC; VÍDEO",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/22/adolescente-sofre-traumatismo-craniano-ao-bater-bicicleta-eletrica-em-monte-de-barro-no-ac-video.ghtml",
+      "hora": "Sun, 22 Nov 2026 16:57:01 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "'Eu gosto de estudar': médico de 67 anos presta vestibular da Unesp para tentar vaga em história",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-carlos-regiao/educacao/noticia/2026/11/22/eu-gosto-de-estudar-medico-de-67-anos-presta-vestibular-da-unesp-para-tentar-vaga-em-historia.ghtml",
+      "hora": "Sun, 22 Nov 2026 16:57:01 -0000",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -248,6 +244,46 @@
       "resumo": null
     },
     {
+      "titulo": "COP31 termina sem acordo após impasse sobre combustíveis fósseis",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq742zpk1ln4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 22 Nov 2026 15:56:42 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Por dentro do antigo gasoduto onde a Ucrânia vem lutando em uma guerra subterrânea",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm2d94xr6l1eo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 22 Nov 2026 09:40:48 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Como um adolescente e sua mãe ajudaram a resgatar uma garota desaparecida após um encontro em um jogo online",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm8x08negze2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 22 Nov 2026 12:00:07 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "A 'utopia socialista' que levou um grupo de australianos idealistas ao Paraguai há mais de 130 anos",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqrkgxv7xxgzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 22 Nov 2026 11:21:38 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Os 20 melhores destinos de viagem em 2027",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6n4k8qk9ngeo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 22 Nov 2026 12:03:31 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Os cidadãos impedidos pelo governo Ortega de voltar à Nicarágua: 'Sou ilegal no meu próprio país'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c60rknr0jg4zo?at_medium=RSS&at_campaign=rss",
@@ -264,6 +300,14 @@
       "resumo": null
     },
     {
+      "titulo": "Por que grande parte da fibra que seu corpo precisa acaba no lixo (e como aproveitá-la melhor em suas refeições)",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c3ly7g7nen1go?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 22 Nov 2026 10:37:32 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
       "titulo": "'O futuro para mulheres na pós-menopausa não é catastrófico, é libertador'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c94g1gk54e2ro?at_medium=RSS&at_campaign=rss",
@@ -276,54 +320,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cr3wgxxzw81xo?at_medium=RSS&at_campaign=rss",
       "hora": "Sat, 21 Nov 2026 15:24:06 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Como governos Lula e Trump pretendem acabar com a 'guerra fria dos vistos diplomáticos'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwz0k3r4npexo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 21 Nov 2026 09:01:48 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem são os awá, grupo indígena isolado que fez contato com outra aldeia no Maranhão",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6pw4d0292plo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 20 Nov 2026 13:54:29 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Seu filho mente? Por que este pode ser um bom sinal",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckedqlnqg3yvo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 21 Nov 2026 11:23:42 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "O que uma antiga cidade subterrânea da Turquia pode nos ensinar sobre como escapar do calor e do frio extremos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5x2w0nvk0nwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 21 Nov 2026 10:51:36 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Como comprimido diário é a grande esperança contra um dos cânceres mais letais",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3ewvk8vglp1o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 20 Nov 2026 15:18:29 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem gritou de dor em execução que durou uma hora no Texas, nos Estados Unidos",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c84gn75r49eno?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 20 Nov 2026 16:47:33 GMT",
       "tema": "mundo",
       "resumo": null
     },
