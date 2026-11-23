@@ -1,125 +1,121 @@
 {
-  "gerado_em": "2026-11-22T17:37:16.498Z",
+  "gerado_em": "2026-11-23T01:24:01.085Z",
   "modo": "palavras-chave",
-  "clima": null,
+  "clima": {
+    "max": 31.8,
+    "min": 20.6,
+    "chuva": 100
+  },
   "noticias": [
     {
-      "titulo": "Festival de Bandas reúne 17 atrações gratuitas em Teresina; confira a programação",
+      "titulo": "Mulher na garupa de moto morre atingida por linha de pipa com cerol em Piracicaba",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/22/festival-em-teresina.ghtml",
-      "hora": "Sun, 22 Nov 2026 17:30:17 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Caminhão cegonha com carros pega fogo na BR-174, em Roraima",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/22/caminhao-cegonha-com-carros-pega-fogo-na-br-174-em-roraima.ghtml",
-      "hora": "Sun, 22 Nov 2026 17:27:13 -0000",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/11/22/mulher-na-garupa-de-moto-morre-atingida-por-linha-de-pipa-com-cerol-em-piracicaba.ghtml",
+      "hora": "Mon, 23 Nov 2026 01:02:59 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Empresa que teve silos destruídos estima prejuízo de R$ 19 milhões em Tupanciretã, no RS",
+      "titulo": "Alinne Rosa aposta em lingerie para puxar trio elétrico na Micareta de Feira: 'Gostosa'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/22/empresa-prejuizo-tupancireta-rs.ghtml",
-      "hora": "Sun, 22 Nov 2026 17:25:53 -0000",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/22/alinne-rosa-aposta-em-lingerie-para-puxar-trio-eletrico-na-micareta-de-feira.ghtml",
+      "hora": "Mon, 23 Nov 2026 01:01:09 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "'Experiência imersiva': Parque da Biquinha recebe a 4ª edição do Festival de Artes Híbridas de Sorocaba",
+      "titulo": "'O Dentista das Feras': veja todos os episódios da série ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/22/experiencia-imersiva-parque-da-biquinha-recebe-a-4a-edicao-do-festival-de-artes-hibridas-de-sorocaba.ghtml",
-      "hora": "Sun, 22 Nov 2026 17:25:30 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Homem morre após ser agredido e deixado ferido em frente de casa em Várzea Grande (MT)",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/22/homem-morre-apos-ser-agredido-e-deixado-ferido-em-frente-de-casa-em-varzea-grande-mt.ghtml",
-      "hora": "Sun, 22 Nov 2026 17:15:25 -0000",
+      "link": "https://g1.globo.com/fantastico/playlist/o-dentista-das-feras-veja-todos-os-episodios-da-serie.ghtml",
+      "hora": "Mon, 23 Nov 2026 00:56:03 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Mega-Sena 3089: apostas de Sergipe acertam a quadra; veja cidades e valores",
+      "titulo": "Pablo reflete sobre crescimento do arrocha e celebra momento do gênero",
       "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/22/mega-sena-3089-apostas-de-sergipe.ghtml",
-      "hora": "Sun, 22 Nov 2026 17:12:29 -0000",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/22/pablo-reflete-sobre-crescimento-do-arrocha.ghtml",
+      "hora": "Mon, 23 Nov 2026 00:34:16 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Americana completa um ano com rim de porco geneticamente modificado",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/11/22/americana-completa-um-ano-com-rim-de-porco-geneticamente-modificado.ghtml",
+      "hora": "Mon, 23 Nov 2026 00:26:39 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Bombeiros de MG resgatam criança de 6 anos que ficou com dedo preso em roda de carro",
+      "titulo": "Não foi tornado: meteorologistas explicam 'supercélula' e microexplosão que devastaram cidade no RS",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/22/bombeiros-de-mg-resgatam-crianca-de-6-anos-que-ficou-com-dedo-preso-em-roda-de-carro.ghtml",
-      "hora": "Sun, 22 Nov 2026 17:10:29 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Quem era o cabeleireiro encontrado morto dentro de casa com marcas de faca no Tocantins",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/22/quem-era-o-cabeleireiro-encontrado-morto-dentro-de-casa-com-marcas-de-faca-no-tocantins.ghtml",
-      "hora": "Sun, 22 Nov 2026 17:09:17 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Incêndio em fábrica de doces deixa mortos e dezenas de desaparecidos na Indonésia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/22/incendio-em-fabrica-de-doces-deixa-mortos-e-dezenas-de-desaparecidos-na-indonesia.ghtml",
-      "hora": "Sun, 22 Nov 2026 17:08:52 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "PM é preso após disparar arma na rua e ameaçar vigilantes de parque na Zona Leste de SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/22/pm-e-preso-apos-disparar-arma-na-rua-e-ameacar-vigilantes-de-parque-na-zona-leste-de-sp.ghtml",
-      "hora": "Sun, 22 Nov 2026 17:06:46 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Morre no hospital homem baleado em Barra Mansa",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/22/morre-homem-baleado-em-barra-mansa.ghtml",
-      "hora": "Sun, 22 Nov 2026 17:02:16 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Chuva forte, ventos de até 60 km/h e granizo: Vale do Paraíba e região têm alertas para tempestades",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/22/chuva-forte-ventos-de-ate-60-kmh-e-granizo-vale-do-paraiba-e-regiao-tem-alertas-para-tempestades.ghtml",
-      "hora": "Sun, 22 Nov 2026 17:01:31 -0000",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/11/22/nao-foi-tornado-meteorologistas-explicam-supercelula-e-microexplosao-que-devastaram-cidade-no-rs.ghtml",
+      "hora": "Mon, 23 Nov 2026 00:02:08 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Homem morre atropelado por ônibus em Florianópolis; vítima carregava documento de alta hospitalar do mesmo dia ",
+      "titulo": "MPE defende rejeição de recurso de coligação de Paes que pede 2º turno no RJ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/22/homem-morre-atropelado-por-onibus-beira-mar-norte-florianopolis.ghtml",
-      "hora": "Sun, 22 Nov 2026 17:00:01 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/22/mpe-defende-rejeicao-de-recurso-de-coligacao-de-paes-que-pede-2o-turno-no-rj.ghtml",
+      "hora": "Sun, 22 Nov 2026 23:51:20 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Adolescente sofre traumatismo craniano ao bater bicicleta elétrica em monte de barro no AC; VÍDEO",
+      "titulo": "Trio de Bruno Magnata para duas vezes no meio do circuito e atrasa quase uma hora na Micareta de Feira",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/22/adolescente-sofre-traumatismo-craniano-ao-bater-bicicleta-eletrica-em-monte-de-barro-no-ac-video.ghtml",
-      "hora": "Sun, 22 Nov 2026 16:57:01 -0000",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/22/trio-de-bruno-magnata-para-duas-vezes-na-micareta-de-feira.ghtml",
+      "hora": "Sun, 22 Nov 2026 23:50:38 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "'Eu gosto de estudar': médico de 67 anos presta vestibular da Unesp para tentar vaga em história",
+      "titulo": "Da costa do Pará à Mauritânia: como perícia da PF deu nome a migrantes mortos em barco à deriva",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-carlos-regiao/educacao/noticia/2026/11/22/eu-gosto-de-estudar-medico-de-67-anos-presta-vestibular-da-unesp-para-tentar-vaga-em-historia.ghtml",
-      "hora": "Sun, 22 Nov 2026 16:57:01 -0000",
+      "link": "https://g1.globo.com/fantastico/noticia/2026/11/22/da-costa-do-para-a-mauritania-como-pericia-da-pf-deu-nome-a-migrantes-mortos-em-barco-a-deriva.ghtml",
+      "hora": "Sun, 22 Nov 2026 23:49:48 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Experiência gastronômica imersiva com mágica e menu de cinco etapas estreia na América Latina em hotel de SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/22/experiencia-gastronomica-imersiva-com-magica-e-menu-de-cinco-etapas-estreia-na-america-latina-em-hotel-de-sp.ghtml",
+      "hora": "Sun, 22 Nov 2026 23:47:41 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Corpo de homem desaparecido após embarcação virar no Rio Araguaia é encontrado",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/22/corpo-de-homem-desaparecido-apos-embarcacao-virar-no-rio-araguaia-e-encontrado.ghtml",
+      "hora": "Sun, 22 Nov 2026 23:41:49 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Inmet emite alerta de tempestade e granizo para regiões Norte, Noroeste, Serrana e dos Lagos do RJ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/22/inmet-emite-alerta-de-tempestade-e-granizo-para-regioes-norte-noroeste-serrana-e-dos-lagos-do-rj.ghtml",
+      "hora": "Sun, 22 Nov 2026 23:32:35 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS da Unesp 2027: confira a resolução comentada de questões da 1ª fase ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-carlos-regiao/educacao/playlist/videos-da-unesp-2027-confira-a-resolucao-comentada-de-questoes-da-1-fase.ghtml",
+      "hora": "Sun, 22 Nov 2026 23:29:36 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Rosinha Garotinho anuncia fim de casamento com Anthony Garotinho",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/22/rosinha-garotinho-anuncia-fim-de-casamento-com-anthony-garotinho.ghtml",
+      "hora": "Sun, 22 Nov 2026 23:28:05 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -244,18 +240,42 @@
       "resumo": null
     },
     {
-      "titulo": "COP31 termina sem acordo após impasse sobre combustíveis fósseis",
+      "titulo": "O que os homens mais ricos da Rússia esperam para o futuro sem Putin",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq742zpk1ln4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 22 Nov 2026 15:56:42 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cmkgdx1w0dero?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 22 Nov 2026 23:32:59 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Por dentro do antigo gasoduto onde a Ucrânia vem lutando em uma guerra subterrânea",
+      "titulo": "COP31 termina sem acordo após impasse sobre combustíveis fósseis",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm2d94xr6l1eo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 22 Nov 2026 09:40:48 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cq742zpk1ln4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 22 Nov 2026 20:14:02 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'Fui coagida a ter um filho': como um bilionário enganou a DJ de sucesso Liv Nervo para que ela engravidasse",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmze7178k7d2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 22 Nov 2026 18:41:29 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Os significados ocultos na obra A Grande Onda, uma das mais conhecidas da arte japonesa",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm3wgpye8glyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 22 Nov 2026 17:35:47 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Os problemas de saúde causados pelo parto que nunca desaparecem",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/crx20xxz9pv2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 22 Nov 2026 21:11:27 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -284,10 +304,10 @@
       "resumo": null
     },
     {
-      "titulo": "Os cidadãos impedidos pelo governo Ortega de voltar à Nicarágua: 'Sou ilegal no meu próprio país'",
+      "titulo": "Como dois refrigeradores abandonados pelo exército dos EUA na Toscana deram origem ao sorvete italiano",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c60rknr0jg4zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 21 Nov 2026 17:51:39 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cqr7g87en4pno?at_medium=RSS&at_campaign=rss",
+      "hora": "Sun, 22 Nov 2026 19:34:31 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -300,34 +320,10 @@
       "resumo": null
     },
     {
-      "titulo": "Por que grande parte da fibra que seu corpo precisa acaba no lixo (e como aproveitá-la melhor em suas refeições)",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c3ly7g7nen1go?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 22 Nov 2026 10:37:32 GMT",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "'O futuro para mulheres na pós-menopausa não é catastrófico, é libertador'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c94g1gk54e2ro?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 21 Nov 2026 18:47:47 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'O câncer muda você': princesa Kate fala sobre doença em documentário da BBC",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cr3wgxxzw81xo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 21 Nov 2026 15:24:06 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
       "titulo": "'A cidade acabou': a destruição causada por temporal que provocou mortes no RS",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cqdr1xmyg3kzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sat, 21 Nov 2026 01:16:58 GMT",
+      "hora": "Sun, 22 Nov 2026 22:21:37 GMT",
       "tema": "mundo",
       "resumo": null
     },
