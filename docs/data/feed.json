@@ -1,121 +1,121 @@
 {
-  "gerado_em": "2026-11-23T21:53:34.522Z",
+  "gerado_em": "2026-11-24T20:29:18.927Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 28.6,
+    "max": 30.9,
     "min": 20.4,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Trump critica governador da Califórnia por converter 548 penas de morte em prisões perpétuas",
+      "titulo": "Consumidores afetados pela falta d’água no semiárido sergipano terão desconto na tarifa",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/23/trump-critica-governador-da-california-por-converter-548-penas-de-morte-em-prisoes-perpetuas.ghtml",
-      "hora": "Mon, 23 Nov 2026 21:42:46 -0000",
+      "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/24/falta-dagua-semiarido-sergipano-desconto.ghtml",
+      "hora": "Tue, 24 Nov 2026 20:17:18 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Companheira de vereador suspeito de violência doméstica depõe na presença dele em CP da Câmara de Marília",
+      "titulo": "Suspeito de praticar roubos disfarçado de entregador de delivery é preso na Grande João Pessoa; VÍDEO",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/23/companheira-de-vereador-suspeito-de-violencia-domestica-depoe-na-presenca-dele-em-cp-da-camara-de-marilia.ghtml",
-      "hora": "Mon, 23 Nov 2026 21:42:30 -0000",
-      "tema": "brasil",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/24/suspeito-de-praticar-roubos-disfarcado-de-entregador-de-delivery-e-preso-na-grande-joao-pessoa-video.ghtml",
+      "hora": "Tue, 24 Nov 2026 20:17:08 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Moradores nadam em correnteza após rios extravasarem no interior de SP; vídeo",
+      "titulo": "EPTV 2 Piracicaba ao vivo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/23/moradores-nadam-em-correnteza-apos-rios-extravasarem-no-interior-de-sp-video.ghtml",
-      "hora": "Mon, 23 Nov 2026 21:42:13 -0000",
+      "link": "https://g1.globo.com/sp/piracicaba-regiao/ao-vivo/eptv-2-piracicaba-ao-vivo.ghtml",
+      "hora": "Tue, 24 Nov 2026 20:16:06 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Vítima de supercélula que destruiu Tupanciretã tem identidade confirmada",
+      "titulo": "Stênio Garcia quer fazer exame de DNA para saber se é pai de homem de 34 anos, diz mulher",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/23/vitima-tupancireta.ghtml",
-      "hora": "Mon, 23 Nov 2026 21:40:50 -0000",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/24/stenio-garcia-quer-fazer-exame-de-dna-para-saber-se-e-pai-de-homem-de-34-anos-diz-mulher.ghtml",
+      "hora": "Tue, 24 Nov 2026 20:14:03 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Agenda Ribeirão - Empreendedorismo e Empregabilidade",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/agenda-ribeirao-empreendedorismo-e-empregabilidade.ghtml",
+      "hora": "Tue, 24 Nov 2026 20:13:56 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Feira gratuita reúne mais de 30 produtores de queijos artesanais em Salvador; público poderá degustar produtos",
+      "titulo": "Régis Bittencourt é liberada após remoção de passarela, mas ainda tem 55 km de congestionamento",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/o-que-fazer-em-salvador/noticia/2026/11/23/feira-reune-produtores-de-queijos-em-salvador.ghtml",
-      "hora": "Mon, 23 Nov 2026 21:39:27 -0000",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/24/regis-bittencourt-liberada-apos-remocao-passarela-congestionamento.ghtml",
+      "hora": "Tue, 24 Nov 2026 20:12:55 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Governo da Paraíba lança estratégia permanente de combate às organizações criminosas; entenda",
+      "titulo": "Idosa cai em fosso e morre esmagada por elevador em residencial geriátrico em Porto Alegre, diz polícia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/23/governo-da-paraiba-lanca-estrategia-permanente-de-combate-as-organizacoes-criminosas-entenda.ghtml",
-      "hora": "Mon, 23 Nov 2026 21:38:22 -0000",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/24/idosa-fosso-morre-elevador-residencial-geriatrico-porto-alegre-policia.ghtml",
+      "hora": "Tue, 24 Nov 2026 20:12:50 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Feira Pará Negócios reúne palestras sobre inovação, inteligência artificial e sustentabilidade em Belém",
+      "titulo": "Gerente de fazenda morre após ser esfaqueado por funcionário em Chapada dos Guimarães (MT)",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/para/noticia/2026/11/23/feira-para-negocios-espera-movimentar-r-40-milhoes-e-reunir-40-mil-visitantes-em-belem.ghtml",
-      "hora": "Mon, 23 Nov 2026 21:35:36 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Câmara deve votar nesta segunda-feira (23) projeto de ajuste fiscal do governo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/ao-vivo/ajuste-fiscal-camara-deputados.ghtml",
-      "hora": "Mon, 23 Nov 2026 21:35:27 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Compra Assistida: Juiz de Fora recebe feirão para famílias que perderam casas nas chuvas ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/23/compra-assistida-juiz-de-fora-recebe-feirao-para-familias-que-perderam-casas-nas-chuvas.ghtml",
-      "hora": "Mon, 23 Nov 2026 21:30:59 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Mutirão de emprego oferece 337 vagas em barracas da Praia do Futuro, em Fortaleza",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/suachance/noticia/2026/11/23/mutirao-de-emprego-oferece-337-vagas-em-barracas-da-praia-do-futuro-em-fortaleza.ghtml",
-      "hora": "Mon, 23 Nov 2026 21:28:55 -0000",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/24/gerente-de-fazenda-morre-apos-ser-esfaqueado-por-funcionario-em-chapada-dos-guimaraes-mt.ghtml",
+      "hora": "Tue, 24 Nov 2026 20:12:17 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Parques de Cuiabá ficam sem energia após suposta dívida de R$ 6,6 milhões",
+      "titulo": "Produção de soja em Tupanciretã teve perda de 95% após tempestade, aponta levantamento",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/23/parques-de-cuiaba-ficam-sem-energia-apos-suposta-divida-de-r-66-milhoes.ghtml",
-      "hora": "Mon, 23 Nov 2026 21:28:07 -0000",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/24/producao-de-soja-em-tupancireta-teve-perda-apos-tempestade-aponta-levantamento.ghtml",
+      "hora": "Tue, 24 Nov 2026 20:11:03 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "\nCorregedoria apura condutas de policiais que teriam dado bicicleta de ladrão à vítima assaltada em SP",
+      "titulo": "Conceição Evaristo 80 anos: autora participa de roda de conversa e sessão de autógrafos em SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/23/influenciadora-e-assaltada-recupera-celular-e-diz-que-ganhou-bicicleta-do-ladrao-de-policiais-1.ghtml",
-      "hora": "Mon, 23 Nov 2026 21:26:03 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Praias de Maricá têm 3,5 toneladas de lixo recolhidas após feriadão",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/23/praias-de-marica-tem-35-toneladas-de-lixo-recolhidas-apos-feriadao.ghtml",
-      "hora": "Mon, 23 Nov 2026 21:24:48 -0000",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/24/conceicao-evaristo-80-anos-autora-participa-de-roda-de-conversa-e-sessao-de-autografos-em-sp.ghtml",
+      "hora": "Tue, 24 Nov 2026 20:10:08 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Sargento de 41 anos morre após arma disparar acidentalmente dentro de mochila em Santiago",
+      "titulo": "Caminhão desce de ré, atinge carro e derruba poste em Bauru; trecho ficou sem energia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/23/sargento-morre-pistola-santiago-brigada-militar-itacurubi.ghtml",
-      "hora": "Mon, 23 Nov 2026 21:24:29 -0000",
+      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/24/caminhao-desce-de-re-atinge-carro-e-derruba-poste-em-bauru-trecho-ficou-sem-energia.ghtml",
+      "hora": "Tue, 24 Nov 2026 20:08:59 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Ação contra o crime organizado termina com 22 presos em cidades de MG; um suspeito morreu em confronto",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/24/acao-contra-o-crime-organizado-termina-com-22-presos-em-cidades-de-mg-um-suspeito-morreu-em-confronto.ghtml",
+      "hora": "Tue, 24 Nov 2026 20:08:46 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Mulher perde pedaço do calcanhar após suposto ataque de piranha em prainha; é o 4º acidente em 2 semanas",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/24/mulher-perde-pedaco-do-calcanhar-apos-suposto-ataque-de-piranha-em-prainha-no-noroeste-paulista.ghtml",
+      "hora": "Tue, 24 Nov 2026 20:07:42 -0000",
+      "tema": "entretenimento",
+      "resumo": null
+    },
+    {
+      "titulo": "Aluno com autismo é arrastado e agredido por policial em sala de aula em MT; vídeo",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/24/aluno-com-autismo-e-arrastado-e-agredido-por-policial-em-sala-de-aula-em-mt-video.ghtml",
+      "hora": "Tue, 24 Nov 2026 20:06:39 -0000",
       "tema": "mundo",
       "resumo": null
     },
@@ -240,10 +240,90 @@
       "resumo": null
     },
     {
+      "titulo": "Brasil terá recessão se Lula não fizer ajuste fiscal mais robusto, diz Eduardo Giannetti",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6d71g79qpe1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 24 Nov 2026 18:21:56 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O que se sabe e o que ainda não está definido sobre a posse de Lula em 2027",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmewv01z9n7wo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 24 Nov 2026 17:24:05 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Papa Francisco afirma em diário que teria visto o Diabo três vezes e as 'portas do inferno'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cjy5xw4egqp6o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 24 Nov 2026 15:42:57 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "O que o retorno de Jensen Huang à chefia da Nvdia ensina a Xi Jinping sobre Donald Trump",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck20vn7vnd37o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 24 Nov 2026 16:56:45 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "O premiado diretor de fotografia brasileiro por trás da nova série de 'Harry Potter': 'A expectativa dos fãs não me afeta'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ck3rgnqx82pro?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 24 Nov 2026 12:07:43 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Lula abriu arquivos de Bolsonaro, mas mantém sigilo sobre gastos e decisões do próprio mandato",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqdj1d3yd4pzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 24 Nov 2026 11:28:48 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Câmara aprova ajuste fiscal de Lula: por que pacote é tão polêmico e não deve ser suficiente, segundo economistas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqx2we1jgnzgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 24 Nov 2026 02:50:44 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Gisèle Pelicot tem fotos nuas divulgadas para promover livro e denuncia: 'Me sinto novamente humilhada, exposta e ferida'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmn4kqel07jyo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 24 Nov 2026 14:18:44 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que o RJ não sabe quantas crianças são mortas pela polícia",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cx24e9z27q30o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 24 Nov 2026 08:35:43 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "A cantora iraniana que levou 74 chicotadas por se apresentar sem véu no YouTube",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwlylr46j3n8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 24 Nov 2026 09:12:08 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "A tempestade perfeita (dentro e fora do Brasil) que faz preço do dólar chegar a R$ 6",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cwm253lr95zjo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 23 Nov 2026 18:27:19 GMT",
+      "hora": "Tue, 24 Nov 2026 09:20:45 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -251,64 +331,8 @@
       "titulo": "Plano de Moretti é um 'primeiro passo', e governo Lula pode fazer outros ajustes fiscais no futuro, afirma Laura Carvalho",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm1dvg9n5w2xo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 23 Nov 2026 12:46:58 GMT",
+      "hora": "Tue, 24 Nov 2026 03:01:46 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "A reviravolta que fez Jensen Huang voltar ao comando da Nvidia após escândalo de traição e espionagem",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5y4je03812wo?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 23 Nov 2026 15:14:34 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "O mais famoso problema da Matemática que funcionário da Anthropic diz ter solucionado com ajuda da IA",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c5y4jer308n4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 23 Nov 2026 17:44:13 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Há 200 anos, Brasil se comprometia a acabar com o 'tráfico negreiro' — só 'para inglês ver'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6gre2771yr8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 23 Nov 2026 10:54:26 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "A brasileira premiada que descobriu 6 novas espécies de tamanduá: 'Não conhecemos quase nada da nossa fauna'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvx2xkyy6254o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 23 Nov 2026 12:33:08 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "COP31 termina sem acordo e escancara divisão entre países sobre combustíveis fósseis",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq742zpk1ln4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 23 Nov 2026 13:58:49 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Queremos destruir o capitalismo': por dentro das manifestações dos 'black blocks' da esquerda radical na França",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqe8700d7e8do?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 23 Nov 2026 18:07:55 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Fui coagida a ter um filho': como um bilionário enganou a DJ de sucesso Liv Nervo para que ela engravidasse",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmze7178k7d2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 22 Nov 2026 18:41:29 GMT",
-      "tema": "cultura",
       "resumo": null
     },
     {
@@ -328,27 +352,11 @@
       "resumo": null
     },
     {
-      "titulo": "Hora extra mais cara com fim da 6x1? Veja conta com salário de R$ 3 mil e o que muda com decreto de Lula",
+      "titulo": "Há 200 anos, Brasil se comprometia a acabar com o 'tráfico negreiro' — só 'para inglês ver'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvlyjkw9zr5jo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 19 Nov 2026 20:39:07 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c6gre2771yr8o?at_medium=RSS&at_campaign=rss",
+      "hora": "Mon, 23 Nov 2026 10:54:26 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Sueli Carneiro, Milton Santos e Carolina Maria de Jesus: as negras e negros que deveriam ser mais estudados nas escolas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c78drpvdl93o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 20 Nov 2026 11:56:44 GMT",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que Justiça anulou condenação da Marinha por ataque à memória de João Cândido, 116 anos após Revolta da Chibata",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwjd735m9093o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 19 Nov 2026 18:54:25 GMT",
-      "tema": "mundo",
       "resumo": null
     }
   ]
