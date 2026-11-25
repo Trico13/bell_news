@@ -1,122 +1,122 @@
 {
-  "gerado_em": "2026-11-24T20:29:18.927Z",
+  "gerado_em": "2026-11-25T03:56:50.768Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 30.9,
-    "min": 20.4,
+    "max": 29.8,
+    "min": 21,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Consumidores afetados pela falta d’água no semiárido sergipano terão desconto na tarifa",
+      "titulo": "Covid: o crescimento acelerado no número de casos - O Assunto #1852",
       "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/24/falta-dagua-semiarido-sergipano-desconto.ghtml",
-      "hora": "Tue, 24 Nov 2026 20:17:18 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Suspeito de praticar roubos disfarçado de entregador de delivery é preso na Grande João Pessoa; VÍDEO",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pb/paraiba/noticia/2026/11/24/suspeito-de-praticar-roubos-disfarcado-de-entregador-de-delivery-e-preso-na-grande-joao-pessoa-video.ghtml",
-      "hora": "Tue, 24 Nov 2026 20:17:08 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "EPTV 2 Piracicaba ao vivo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/piracicaba-regiao/ao-vivo/eptv-2-piracicaba-ao-vivo.ghtml",
-      "hora": "Tue, 24 Nov 2026 20:16:06 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Stênio Garcia quer fazer exame de DNA para saber se é pai de homem de 34 anos, diz mulher",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/24/stenio-garcia-quer-fazer-exame-de-dna-para-saber-se-e-pai-de-homem-de-34-anos-diz-mulher.ghtml",
-      "hora": "Tue, 24 Nov 2026 20:14:03 -0000",
+      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/25/covid-o-crescimento-acelerado-no-numero-de-casos-o-assunto-1852.ghtml",
+      "hora": "Wed, 25 Nov 2026 03:30:00 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Agenda Ribeirão - Empreendedorismo e Empregabilidade",
+      "titulo": "Justiça derruba suspensão e restabelece regras para vale-refeição e alimentação; entenda",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/agenda-ribeirao-empreendedorismo-e-empregabilidade.ghtml",
-      "hora": "Tue, 24 Nov 2026 20:13:56 -0000",
+      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/25/justica-derruba-suspensao-e-restabelece-regras-para-vale-refeicao-e-alimentacao-entenda.ghtml",
+      "hora": "Wed, 25 Nov 2026 03:17:42 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Régis Bittencourt é liberada após remoção de passarela, mas ainda tem 55 km de congestionamento",
+      "titulo": "Black Friday: veja como evitar golpes e comprar com mais segurança",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/24/regis-bittencourt-liberada-apos-remocao-passarela-congestionamento.ghtml",
-      "hora": "Tue, 24 Nov 2026 20:12:55 -0000",
+      "link": "https://g1.globo.com/rj/regiao-serrana/especial-publicitario/sicredi-paranapanema-serrana-parcerias-impulsionam-a-regiao-serrana/noticia/2026/11/25/black-friday-veja-como-evitar-golpes-e-comprar-com-mais-seguranca.ghtml",
+      "hora": "Wed, 25 Nov 2026 03:05:00 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Idosa cai em fosso e morre esmagada por elevador em residencial geriátrico em Porto Alegre, diz polícia",
+      "titulo": "Uma parede pode ser suficiente para renovar todo o ambiente ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/24/idosa-fosso-morre-elevador-residencial-geriatrico-porto-alegre-policia.ghtml",
-      "hora": "Tue, 24 Nov 2026 20:12:50 -0000",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/11/25/uma-parede-pode-ser-suficiente-para-renovar-todo-o-ambiente.ghtml",
+      "hora": "Wed, 25 Nov 2026 03:04:00 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Gerente de fazenda morre após ser esfaqueado por funcionário em Chapada dos Guimarães (MT)",
+      "titulo": "Sicredi amplia presença e inaugura mais de mil agências em cinco anos no país",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/24/gerente-de-fazenda-morre-apos-ser-esfaqueado-por-funcionario-em-chapada-dos-guimaraes-mt.ghtml",
-      "hora": "Tue, 24 Nov 2026 20:12:17 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Produção de soja em Tupanciretã teve perda de 95% após tempestade, aponta levantamento",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/24/producao-de-soja-em-tupancireta-teve-perda-apos-tempestade-aponta-levantamento.ghtml",
-      "hora": "Tue, 24 Nov 2026 20:11:03 -0000",
+      "link": "https://g1.globo.com/rj/regiao-serrana/especial-publicitario/sicredi-paranapanema-serrana-parcerias-impulsionam-a-regiao-serrana/noticia/2026/11/25/sicredi-amplia-presenca-e-inaugura-mais-de-mil-agencias-em-cinco-anos-no-pais.ghtml",
+      "hora": "Wed, 25 Nov 2026 03:02:00 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Conceição Evaristo 80 anos: autora participa de roda de conversa e sessão de autógrafos em SP",
+      "titulo": "Ações do Novembro Negro celebraram a cultura afro-brasileira em Macaé",
       "fonte": "G1",
-      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/24/conceicao-evaristo-80-anos-autora-participa-de-roda-de-conversa-e-sessao-de-autografos-em-sp.ghtml",
-      "hora": "Tue, 24 Nov 2026 20:10:08 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Caminhão desce de ré, atinge carro e derruba poste em Bauru; trecho ficou sem energia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/24/caminhao-desce-de-re-atinge-carro-e-derruba-poste-em-bauru-trecho-ficou-sem-energia.ghtml",
-      "hora": "Tue, 24 Nov 2026 20:08:59 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Ação contra o crime organizado termina com 22 presos em cidades de MG; um suspeito morreu em confronto",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/24/acao-contra-o-crime-organizado-termina-com-22-presos-em-cidades-de-mg-um-suspeito-morreu-em-confronto.ghtml",
-      "hora": "Tue, 24 Nov 2026 20:08:46 -0000",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/11/25/acoes-do-novembro-negro-celebraram-a-cultura-afro-brasileira-em-macae.ghtml",
+      "hora": "Wed, 25 Nov 2026 03:02:00 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Mulher perde pedaço do calcanhar após suposto ataque de piranha em prainha; é o 4º acidente em 2 semanas",
+      "titulo": "Shakira no Réveillon de Balneário Camboriú terá área gratuita e camarotes; veja como assistir",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/24/mulher-perde-pedaco-do-calcanhar-apos-suposto-ataque-de-piranha-em-prainha-no-noroeste-paulista.ghtml",
-      "hora": "Tue, 24 Nov 2026 20:07:42 -0000",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/25/shakira-reveillon-balneario-camboriu-area-gratuita-camarotes-veja-como-assistir.ghtml",
+      "hora": "Wed, 25 Nov 2026 03:00:01 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "O que se sabe do caso do jovem morto em São Gonçalo após sair para festa; padrasto foi preso",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/25/o-que-se-sabe-do-caso-do-jovem-morto-em-sao-goncalo.ghtml",
+      "hora": "Wed, 25 Nov 2026 03:00:01 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Aliança, brincos e frustração: o que se sabe sobre eliminação de candidatos em concurso público no Ceará",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/25/alianca-brincos-e-frustracao-o-que-se-sabe-sobre-eliminacao-de-candidatos-em-concurso-publico-no-ceara.ghtml",
+      "hora": "Wed, 25 Nov 2026 03:00:00 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Prima de médica vítima de acidente desceu de carro pouco antes de batida que deixou quatro mortos: 'Vi que ele estava dirigindo agitado'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/25/prima-de-medica-vitima-de-acidente-desceu-de-carro-pouco-antes-de-batida-que-deixou-quatro-mortos-vi-que-ele-estava-dirigindo-agitado.ghtml",
+      "hora": "Wed, 25 Nov 2026 03:00:00 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Sequestros, carro-bomba, ataques com drones e explosivos: o que está acontecendo na Colômbia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/25/sequestros-carro-bomba-ataques-com-drones-e-explosivos-o-que-esta-acontecendo-na-colombia.ghtml",
+      "hora": "Wed, 25 Nov 2026 03:00:00 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Medo, sofrimento mental, queda na frequência escolar: estudo mostra impactos das operações Escudo e Verão nos moradores da Baixada Santista",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/25/medo-sofrimento-mental-queda-na-frequencia-escolar-estudo-mostra-impactos-das-operacoes-escudo-e-verao-nos-moradores-da-baixada-santista.ghtml",
+      "hora": "Wed, 25 Nov 2026 03:00:00 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "‘A galera nunca se acostumou direito com o fim’, diz Sandy sobre volta aos palcos com Junior após sete anos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/11/25/a-galera-nunca-se-acostumou-direito-com-o-fim-diz-sandy-sobre-volta-aos-palcos-com-junior-apos-sete-anos.ghtml",
+      "hora": "Wed, 25 Nov 2026 03:00:00 -0000",
       "tema": "entretenimento",
       "resumo": null
     },
     {
-      "titulo": "Aluno com autismo é arrastado e agredido por policial em sala de aula em MT; vídeo",
+      "titulo": "Governo Lula tem ao menos oito projetos econômicos para aprovar no Congresso até o fim de 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/24/aluno-com-autismo-e-arrastado-e-agredido-por-policial-em-sala-de-aula-em-mt-video.ghtml",
-      "hora": "Tue, 24 Nov 2026 20:06:39 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/25/governo-lula-tem-ao-menos-oito-projetos-economicos-para-aprovar-no-congresso-ate-o-fim-de-2026.ghtml",
+      "hora": "Wed, 25 Nov 2026 03:00:00 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -256,19 +256,19 @@
       "resumo": null
     },
     {
+      "titulo": "Por que as ondas de calor afetam mais as mulheres?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cjwx1n0xl6eo?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 24 Nov 2026 20:29:36 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "Papa Francisco afirma em diário que teria visto o Diabo três vezes e as 'portas do inferno'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cjy5xw4egqp6o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 24 Nov 2026 15:42:57 GMT",
       "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "O que o retorno de Jensen Huang à chefia da Nvdia ensina a Xi Jinping sobre Donald Trump",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck20vn7vnd37o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 24 Nov 2026 16:56:45 GMT",
-      "tema": "mundo",
       "resumo": null
     },
     {
