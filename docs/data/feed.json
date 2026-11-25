@@ -1,122 +1,122 @@
 {
-  "gerado_em": "2026-11-25T03:56:50.768Z",
+  "gerado_em": "2026-11-25T19:44:55.359Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 29.8,
-    "min": 21,
-    "chuva": 100
+    "max": 26.6,
+    "min": 20.8,
+    "chuva": 97
   },
   "noticias": [
     {
-      "titulo": "Covid: o crescimento acelerado no número de casos - O Assunto #1852",
+      "titulo": "Chuva forte e raios atingem a Região Metropolitana do Rio",
       "fonte": "G1",
-      "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/25/covid-o-crescimento-acelerado-no-numero-de-casos-o-assunto-1852.ghtml",
-      "hora": "Wed, 25 Nov 2026 03:30:00 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Justiça derruba suspensão e restabelece regras para vale-refeição e alimentação; entenda",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/25/justica-derruba-suspensao-e-restabelece-regras-para-vale-refeicao-e-alimentacao-entenda.ghtml",
-      "hora": "Wed, 25 Nov 2026 03:17:42 -0000",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/25/chuva-atinge-rio-de-janeiro.ghtml",
+      "hora": "Wed, 25 Nov 2026 19:35:35 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Black Friday: veja como evitar golpes e comprar com mais segurança",
+      "titulo": "O que fazer em Ponta Grossa em um fim de semana completo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-serrana/especial-publicitario/sicredi-paranapanema-serrana-parcerias-impulsionam-a-regiao-serrana/noticia/2026/11/25/black-friday-veja-como-evitar-golpes-e-comprar-com-mais-seguranca.ghtml",
-      "hora": "Wed, 25 Nov 2026 03:05:00 -0000",
+      "link": "https://g1.globo.com/pr/parana/especial-publicitario/ibis-ponta-grossa-destino-campos-gerais/noticia/2026/11/25/o-que-fazer-em-ponta-grossa-em-um-fim-de-semana-completo.ghtml",
+      "hora": "Wed, 25 Nov 2026 19:34:28 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Uma parede pode ser suficiente para renovar todo o ambiente ",
+      "titulo": "Black Friday: vale a pena checar ofertas na IA? Ferramentas falham em quase metade dos testes contra golpes",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/11/25/uma-parede-pode-ser-suficiente-para-renovar-todo-o-ambiente.ghtml",
-      "hora": "Wed, 25 Nov 2026 03:04:00 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Sicredi amplia presença e inaugura mais de mil agências em cinco anos no país",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-serrana/especial-publicitario/sicredi-paranapanema-serrana-parcerias-impulsionam-a-regiao-serrana/noticia/2026/11/25/sicredi-amplia-presenca-e-inaugura-mais-de-mil-agencias-em-cinco-anos-no-pais.ghtml",
-      "hora": "Wed, 25 Nov 2026 03:02:00 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Ações do Novembro Negro celebraram a cultura afro-brasileira em Macaé",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/11/25/acoes-do-novembro-negro-celebraram-a-cultura-afro-brasileira-em-macae.ghtml",
-      "hora": "Wed, 25 Nov 2026 03:02:00 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Shakira no Réveillon de Balneário Camboriú terá área gratuita e camarotes; veja como assistir",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/25/shakira-reveillon-balneario-camboriu-area-gratuita-camarotes-veja-como-assistir.ghtml",
-      "hora": "Wed, 25 Nov 2026 03:00:01 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "O que se sabe do caso do jovem morto em São Gonçalo após sair para festa; padrasto foi preso",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/25/o-que-se-sabe-do-caso-do-jovem-morto-em-sao-goncalo.ghtml",
-      "hora": "Wed, 25 Nov 2026 03:00:01 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Aliança, brincos e frustração: o que se sabe sobre eliminação de candidatos em concurso público no Ceará",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/25/alianca-brincos-e-frustracao-o-que-se-sabe-sobre-eliminacao-de-candidatos-em-concurso-publico-no-ceara.ghtml",
-      "hora": "Wed, 25 Nov 2026 03:00:00 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Prima de médica vítima de acidente desceu de carro pouco antes de batida que deixou quatro mortos: 'Vi que ele estava dirigindo agitado'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/25/prima-de-medica-vitima-de-acidente-desceu-de-carro-pouco-antes-de-batida-que-deixou-quatro-mortos-vi-que-ele-estava-dirigindo-agitado.ghtml",
-      "hora": "Wed, 25 Nov 2026 03:00:00 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Sequestros, carro-bomba, ataques com drones e explosivos: o que está acontecendo na Colômbia",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/25/sequestros-carro-bomba-ataques-com-drones-e-explosivos-o-que-esta-acontecendo-na-colombia.ghtml",
-      "hora": "Wed, 25 Nov 2026 03:00:00 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Medo, sofrimento mental, queda na frequência escolar: estudo mostra impactos das operações Escudo e Verão nos moradores da Baixada Santista",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/25/medo-sofrimento-mental-queda-na-frequencia-escolar-estudo-mostra-impactos-das-operacoes-escudo-e-verao-nos-moradores-da-baixada-santista.ghtml",
-      "hora": "Wed, 25 Nov 2026 03:00:00 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "‘A galera nunca se acostumou direito com o fim’, diz Sandy sobre volta aos palcos com Junior após sete anos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/em-cena/noticia/2026/11/25/a-galera-nunca-se-acostumou-direito-com-o-fim-diz-sandy-sobre-volta-aos-palcos-com-junior-apos-sete-anos.ghtml",
-      "hora": "Wed, 25 Nov 2026 03:00:00 -0000",
+      "link": "https://g1.globo.com/guia/guia-de-compras/casa/black-friday-sera-que-vale-a-pena-checar-ofertas-na-ia-ferramentas-falham-em-quase-metade-dos-testes-contra-golpes.ghtml",
+      "hora": "Wed, 25 Nov 2026 19:31:44 -0000",
       "tema": "entretenimento",
       "resumo": null
     },
     {
-      "titulo": "Governo Lula tem ao menos oito projetos econômicos para aprovar no Congresso até o fim de 2026",
+      "titulo": "Jovem morre após ser atingido por raio em fazenda no interior do Tocantins",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/25/governo-lula-tem-ao-menos-oito-projetos-economicos-para-aprovar-no-congresso-ate-o-fim-de-2026.ghtml",
-      "hora": "Wed, 25 Nov 2026 03:00:00 -0000",
+      "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/25/jovem-morre-apos-ser-atingido-por-raio-em-fazenda-no-interior-do-tocantins.ghtml",
+      "hora": "Wed, 25 Nov 2026 19:31:16 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Homem é preso com drogas durante ação do BAC em Volta Redonda ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/25/homem-e-preso-com-drogas-durante-acao-do-bac-em-volta-redonda.ghtml",
+      "hora": "Wed, 25 Nov 2026 19:31:04 -0000",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "RN tem lixões em 63 municípios e coleta seletiva chega a menos de um quarto das cidades",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/25/rn-tem-lixoes-em-63-municipios-e-coleta-seletiva-chega-a-menos-de-um-quarto-das-cidades.ghtml",
+      "hora": "Wed, 25 Nov 2026 19:29:57 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Condomínio é multado em mais de R$ 30 mil por construir área de lazer em área de preservação ambiental",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/25/multa-condominio-construcao-app-panorama.ghtml",
+      "hora": "Wed, 25 Nov 2026 19:28:45 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Governo de MT propõe contratar policiais temporários para liberar militares efetivos para as ruas",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/25/governo-de-mt-propoe-contratar-policiais-temporarios-para-liberar-militares-efetivos-para-as-ruas.ghtml",
+      "hora": "Wed, 25 Nov 2026 19:24:47 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Carro de motorista de app morto durante assalto seria usado em outros crimes no AC, diz polícia",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/25/carro-de-motorista-de-app-morto-durante-assalto-seria-usado-em-outros-crimes-no-ac-diz-policia.ghtml",
+      "hora": "Wed, 25 Nov 2026 19:24:19 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Região de Governador Valadares registra duas mortes por Covid-19 e 964 casos em uma semana",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/25/regiao-de-governador-valadares-registra-duas-mortes-por-covid-19-e-964-casos-em-uma-semana.ghtml",
+      "hora": "Wed, 25 Nov 2026 19:24:13 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Agronegócio: como escolher sua trilha de especialização?",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pr/parana/especial-publicitario/agrinvest-alem-da-porteira/noticia/2026/11/25/agronegocio-como-escolher-sua-trilha-de-especializacao.ghtml",
+      "hora": "Wed, 25 Nov 2026 19:23:42 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Bebê engasga com mingau e é salvo por policial em Roraima: 'dever cumprido'",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/25/bebe-engasga-com-mingau-e-e-salvo-por-policial-em-roraima-dever-cumprido.ghtml",
+      "hora": "Wed, 25 Nov 2026 19:23:37 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Material apreendido em fábrica clandestina daria para produzir mais de 100 fuzis no interior de SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/11/25/material-apreendido-em-fabrica-clandestina-daria-para-produzir-mais-de-100-fuzis-no-interior-de-sp.ghtml",
+      "hora": "Wed, 25 Nov 2026 19:23:02 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Centro educacional está sem água há uma semana; Prefeitura de SP manda alunos levarem garrafinha e oferece merenda seca",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/25/centro-educacional-esta-sem-agua-ha-uma-semana-prefeitura-de-sp-manda-alunos-levarem-garrafinha-e-oferece-merenda-seca.ghtml",
+      "hora": "Wed, 25 Nov 2026 19:23:00 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
@@ -240,42 +240,82 @@
       "resumo": null
     },
     {
-      "titulo": "Brasil terá recessão se Lula não fizer ajuste fiscal mais robusto, diz Eduardo Giannetti",
+      "titulo": "'Meio milhão de mortos': vazamento de dados revela números impressionantes de soldados russos que perderam a vida na guerra na Ucrânia",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6d71g79qpe1o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 24 Nov 2026 18:21:56 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "O que se sabe e o que ainda não está definido sobre a posse de Lula em 2027",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmewv01z9n7wo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 24 Nov 2026 17:24:05 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que as ondas de calor afetam mais as mulheres?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjwx1n0xl6eo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 24 Nov 2026 20:29:36 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/ckdd1zq7r56no?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 25 Nov 2026 19:43:08 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Papa Francisco afirma em diário que teria visto o Diabo três vezes e as 'portas do inferno'",
+      "titulo": "A influenciadora que ficou 2 meses internada em clínica psiquiátrica por um erro: 'Fui rotulada como psicótica por ser mulher'",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cjy5xw4egqp6o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 24 Nov 2026 15:42:57 GMT",
-      "tema": "cultura",
+      "link": "https://www.bbc.com/portuguese/articles/ck879j789y1zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 25 Nov 2026 17:30:06 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "O premiado diretor de fotografia brasileiro por trás da nova série de 'Harry Potter': 'A expectativa dos fãs não me afeta'",
+      "titulo": "Como o cristianismo moldou a figura do Diabo para combater outras religiões",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck3rgnqx82pro?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 24 Nov 2026 12:07:43 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c687934rr1vjo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 25 Nov 2026 14:49:11 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "'O Brasil inteiro procurando Belchior e ele na sala da minha casa': como foram os últimos anos do cantor no RS",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cvze7ly12z29o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 25 Nov 2026 10:04:46 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "A iraniana acusada de 'declarar guerra a Deus' após denunciar morte da filha",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c94gnk80med2o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 25 Nov 2026 11:15:08 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Julgamento de Van Hattem no STF é o primeiro round da guerra entre Senado e Supremo em 2027?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqdr13l5e830o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 25 Nov 2026 08:44:53 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "'Pago R$ 2 mil por mês para outra pessoa cuidar das burocracias do meu dia a dia — e vale a pena'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmy86gpl512eo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 25 Nov 2026 17:18:13 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Os riscos que Trump corre com a volta de Jensen Huang ao comando da Nvidia",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cqdj1xz29jkdo?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 25 Nov 2026 09:29:24 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "O 'modelo Bukele' pode acabar com as gangues do Haiti?",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/watch/ck0jx47477g6o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 25 Nov 2026 10:48:34 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Brasil terá recessão se Lula não fizer ajuste fiscal mais robusto, diz Eduardo Giannetti",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c6d71g79qpe1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Tue, 24 Nov 2026 18:21:56 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -296,26 +336,10 @@
       "resumo": null
     },
     {
-      "titulo": "Gisèle Pelicot tem fotos nuas divulgadas para promover livro e denuncia: 'Me sinto novamente humilhada, exposta e ferida'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmn4kqel07jyo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 24 Nov 2026 14:18:44 GMT",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
       "titulo": "Por que o RJ não sabe quantas crianças são mortas pela polícia",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cx24e9z27q30o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 24 Nov 2026 08:35:43 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "A cantora iraniana que levou 74 chicotadas por se apresentar sem véu no YouTube",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwlylr46j3n8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 24 Nov 2026 09:12:08 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -332,30 +356,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cm1dvg9n5w2xo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 24 Nov 2026 03:01:46 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "'A cidade acabou': a destruição causada por temporal que provocou mortes no RS",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqdr1xmyg3kzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Sun, 22 Nov 2026 22:21:37 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "A batalha na Justiça para apagar homenagem a expoente do racismo científico no Brasil",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm4gn08l5ldeo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 20 Nov 2026 14:11:01 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Há 200 anos, Brasil se comprometia a acabar com o 'tráfico negreiro' — só 'para inglês ver'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6gre2771yr8o?at_medium=RSS&at_campaign=rss",
-      "hora": "Mon, 23 Nov 2026 10:54:26 GMT",
       "tema": "brasil",
       "resumo": null
     }
