@@ -1,121 +1,129 @@
 {
-  "gerado_em": "2026-11-25T19:44:55.359Z",
+  "gerado_em": "2026-11-26T03:22:03.308Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 26.6,
-    "min": 20.8,
-    "chuva": 97
+    "max": 20.9,
+    "min": 17.1,
+    "chuva": 96
   },
   "noticias": [
     {
-      "titulo": "Chuva forte e raios atingem a Região Metropolitana do Rio",
+      "titulo": "Escolher cuba e monocomando em conjunto evita erros na bancada ",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/25/chuva-atinge-rio-de-janeiro.ghtml",
-      "hora": "Wed, 25 Nov 2026 19:35:35 -0000",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/11/26/escolher-cuba-e-monocomando-em-conjunto-evita-erros-na-bancada.ghtml",
+      "hora": "Thu, 26 Nov 2026 03:06:00 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Festival de Frutos do Mar movimenta Rio das Ostras de 26 a 29 de novembro",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/11/26/festival-de-frutos-do-mar-movimenta-rio-das-ostras-de-26-a-29-de-novembro.ghtml",
+      "hora": "Thu, 26 Nov 2026 03:05:01 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "O que fazer em Ponta Grossa em um fim de semana completo",
+      "titulo": "Prospera chega à 4ª edição com mais de mil atendimentos em São Pedro da Aldeia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pr/parana/especial-publicitario/ibis-ponta-grossa-destino-campos-gerais/noticia/2026/11/25/o-que-fazer-em-ponta-grossa-em-um-fim-de-semana-completo.ghtml",
-      "hora": "Wed, 25 Nov 2026 19:34:28 -0000",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prolagos/prolagos-nossa-natureza-movimenta-a-vida/noticia/2026/11/26/prospera-chega-a-4a-edicao-com-mais-de-mil-atendimentos-em-sao-pedro-da-aldeia.ghtml",
+      "hora": "Thu, 26 Nov 2026 03:03:00 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Black Friday: vale a pena checar ofertas na IA? Ferramentas falham em quase metade dos testes contra golpes",
+      "titulo": "Cursos gratuitos de Macaé garantem vaga offshore e economia a moradores",
       "fonte": "G1",
-      "link": "https://g1.globo.com/guia/guia-de-compras/casa/black-friday-sera-que-vale-a-pena-checar-ofertas-na-ia-ferramentas-falham-em-quase-metade-dos-testes-contra-golpes.ghtml",
-      "hora": "Wed, 25 Nov 2026 19:31:44 -0000",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/11/26/cursos-gratuitos-de-macae-garantem-vaga-offshore-e-economia-a-moradores.ghtml",
+      "hora": "Thu, 26 Nov 2026 03:02:00 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Leo Tomassini convida à escuta de valsa com Guinga enquanto aguarda a edição do álbum 'Jaula de gorila' em 2027",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/26/leo-tomassini-convida-a-escuta-de-valsa-com-guinga-enquanto-aguarda-a-edicao-do-album-jaula-de-gorila-em-2027.ghtml",
+      "hora": "Thu, 26 Nov 2026 03:01:00 -0000",
       "tema": "entretenimento",
       "resumo": null
     },
     {
-      "titulo": "Jovem morre após ser atingido por raio em fazenda no interior do Tocantins",
+      "titulo": "Mais de 270 socorristas voluntários e cinco ambulâncias são impedidos de atuar após prefeitura apontar irregularidades no RS; MP recorre",
       "fonte": "G1",
-      "link": "https://g1.globo.com/to/tocantins/noticia/2026/11/25/jovem-morre-apos-ser-atingido-por-raio-em-fazenda-no-interior-do-tocantins.ghtml",
-      "hora": "Wed, 25 Nov 2026 19:31:16 -0000",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/26/voluntarios-resgate-socorro-gravatai-secretaria-saude-mp-recorre.ghtml",
+      "hora": "Thu, 26 Nov 2026 03:00:01 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Homem é preso com drogas durante ação do BAC em Volta Redonda ",
+      "titulo": "Limite do cartão de quem usa o crédito rotativo com frequência será reduzido; entenda a mudança",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/25/homem-e-preso-com-drogas-durante-acao-do-bac-em-volta-redonda.ghtml",
-      "hora": "Wed, 25 Nov 2026 19:31:04 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "RN tem lixões em 63 municípios e coleta seletiva chega a menos de um quarto das cidades",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/25/rn-tem-lixoes-em-63-municipios-e-coleta-seletiva-chega-a-menos-de-um-quarto-das-cidades.ghtml",
-      "hora": "Wed, 25 Nov 2026 19:29:57 -0000",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/limite-do-cartao-de-quem-usa-o-credito-rotativo-com-frequencia-sera-reduzido-entenda-a-mudanca.ghtml",
+      "hora": "Thu, 26 Nov 2026 03:00:00 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Condomínio é multado em mais de R$ 30 mil por construir área de lazer em área de preservação ambiental",
+      "titulo": "Mega-Sena pode pagar R$ 75 milhões nesta quinta-feira; g1 transmite ao vivo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/25/multa-condominio-construcao-app-panorama.ghtml",
-      "hora": "Wed, 25 Nov 2026 19:28:45 -0000",
+      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/26/mega-sena-pode-pagar-r-75-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
+      "hora": "Thu, 26 Nov 2026 03:00:00 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Governo de MT propõe contratar policiais temporários para liberar militares efetivos para as ruas",
+      "titulo": "Quem é a brasileira presa na China sob suspeita de tráfico de drogas; mulher ficou desaparecida por 2 meses",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/25/governo-de-mt-propoe-contratar-policiais-temporarios-para-liberar-militares-efetivos-para-as-ruas.ghtml",
-      "hora": "Wed, 25 Nov 2026 19:24:47 -0000",
+      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/26/quem-e-a-brasileira-presa-na-china-sob-suspeita-de-trafico-de-drogas-mulher-ficou-desaparecida-por-2-meses.ghtml",
+      "hora": "Thu, 26 Nov 2026 03:00:00 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Prestações de contas de candidatos mostram repasses do Fundo Eleitoral acima dos valores recebidos por partidos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/26/prestacoes-de-contas-de-candidatos.ghtml",
+      "hora": "Thu, 26 Nov 2026 03:00:00 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Entenda esquema que simulava obras para extrair milhões de toneladas de minério ilegal em MG",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/26/entenda-esquema-que-simulava-obras-para-extrair-milhoes-de-toneladas-de-minerio-ilegal-em-mg.ghtml",
+      "hora": "Thu, 26 Nov 2026 03:00:00 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Fundador de igreja e pai de três: veja quem era o pastor morto a facadas durante culto, em Goiás",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/11/26/fundador-de-igreja-e-pai-de-tres-veja-quem-era-o-pastor-morto-a-facadas-durante-culto-em-goias.ghtml",
+      "hora": "Thu, 26 Nov 2026 03:00:00 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Carro de motorista de app morto durante assalto seria usado em outros crimes no AC, diz polícia",
+      "titulo": "Chuva de até 110 mm pode provocar alagamentos e inundações em SP, RJ, ES e MG nesta quinta-feira; veja a previsão do tempo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/25/carro-de-motorista-de-app-morto-durante-assalto-seria-usado-em-outros-crimes-no-ac-diz-policia.ghtml",
-      "hora": "Wed, 25 Nov 2026 19:24:19 -0000",
+      "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/26/chuva-de-ate-110-mm-pode-provocar-alagamentos-e-inundacoes-em-sp-rj-es-e-mg-nesta-quinta-feira-veja-a-previsao-do-tempo.ghtml",
+      "hora": "Thu, 26 Nov 2026 03:00:00 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Região de Governador Valadares registra duas mortes por Covid-19 e 964 casos em uma semana",
+      "titulo": "Herança: Câmara aprova projeto que prevê deserdação por 'interdição abusiva' de idosos; entenda",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/25/regiao-de-governador-valadares-registra-duas-mortes-por-covid-19-e-964-casos-em-uma-semana.ghtml",
-      "hora": "Wed, 25 Nov 2026 19:24:13 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Agronegócio: como escolher sua trilha de especialização?",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pr/parana/especial-publicitario/agrinvest-alem-da-porteira/noticia/2026/11/25/agronegocio-como-escolher-sua-trilha-de-especializacao.ghtml",
-      "hora": "Wed, 25 Nov 2026 19:23:42 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Bebê engasga com mingau e é salvo por policial em Roraima: 'dever cumprido'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/25/bebe-engasga-com-mingau-e-e-salvo-por-policial-em-roraima-dever-cumprido.ghtml",
-      "hora": "Wed, 25 Nov 2026 19:23:37 -0000",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/26/heranca-deserdacao-curatela-idosos-camara.ghtml",
+      "hora": "Thu, 26 Nov 2026 03:00:00 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Material apreendido em fábrica clandestina daria para produzir mais de 100 fuzis no interior de SP",
+      "titulo": "Três idosos e um que lutava para voltar a andar: o que se sabe sobre os cães mortos após enxurrada em canil no interior de SP",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/11/25/material-apreendido-em-fabrica-clandestina-daria-para-produzir-mais-de-100-fuzis-no-interior-de-sp.ghtml",
-      "hora": "Wed, 25 Nov 2026 19:23:02 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Centro educacional está sem água há uma semana; Prefeitura de SP manda alunos levarem garrafinha e oferece merenda seca",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/25/centro-educacional-esta-sem-agua-ha-uma-semana-prefeitura-de-sp-manda-alunos-levarem-garrafinha-e-oferece-merenda-seca.ghtml",
-      "hora": "Wed, 25 Nov 2026 19:23:00 -0000",
+      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/11/26/tres-idosos-e-um-que-lutava-para-voltar-a-andar-o-que-se-sabe-sobre-os-caes-mortos-apos-enxurrada-em-canil-no-interior-de-sp.ghtml",
+      "hora": "Thu, 26 Nov 2026 03:00:00 -0000",
       "tema": "cultura",
       "resumo": null
     },
@@ -240,6 +248,14 @@
       "resumo": null
     },
     {
+      "titulo": "Por que o Brasil vive surto de mpox? O que se sabe — e o que não se sabe — sobre os novos casos da doença",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq70269ke8l4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 25 Nov 2026 21:04:25 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "'Meio milhão de mortos': vazamento de dados revela números impressionantes de soldados russos que perderam a vida na guerra na Ucrânia",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/ckdd1zq7r56no?at_medium=RSS&at_campaign=rss",
@@ -248,10 +264,10 @@
       "resumo": null
     },
     {
-      "titulo": "A influenciadora que ficou 2 meses internada em clínica psiquiátrica por um erro: 'Fui rotulada como psicótica por ser mulher'",
+      "titulo": "A doença rara que levou influenciadora a clínica psiquiátrica por 2 meses: 'Fui rotulada como psicótica por ser mulher'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/ck879j789y1zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 25 Nov 2026 17:30:06 GMT",
+      "hora": "Wed, 25 Nov 2026 22:36:59 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -272,19 +288,19 @@
       "resumo": null
     },
     {
-      "titulo": "A iraniana acusada de 'declarar guerra a Deus' após denunciar morte da filha",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c94gnk80med2o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 25 Nov 2026 11:15:08 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
       "titulo": "Julgamento de Van Hattem no STF é o primeiro round da guerra entre Senado e Supremo em 2027?",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cqdr13l5e830o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 25 Nov 2026 08:44:53 GMT",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "'Não acho que possamos mais coexistir com bilionários', diz escritora Naomi Klein",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c60md8pz90pko?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 25 Nov 2026 20:36:29 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -309,14 +325,6 @@
       "link": "https://www.bbc.com/portuguese/watch/ck0jx47477g6o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 25 Nov 2026 10:48:34 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Brasil terá recessão se Lula não fizer ajuste fiscal mais robusto, diz Eduardo Giannetti",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c6d71g79qpe1o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 24 Nov 2026 18:21:56 GMT",
-      "tema": "brasil",
       "resumo": null
     },
     {
