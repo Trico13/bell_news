@@ -1,130 +1,114 @@
 {
-  "gerado_em": "2026-11-26T03:22:03.308Z",
+  "gerado_em": "2026-11-26T19:25:01.077Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 20.9,
-    "min": 17.1,
-    "chuva": 96
+    "max": 21.5,
+    "min": 16.7,
+    "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Escolher cuba e monocomando em conjunto evita erros na bancada ",
+      "titulo": "Cataratas do Iguaçu: entenda por que são uma das 7 Maravilhas do Mundo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/11/26/escolher-cuba-e-monocomando-em-conjunto-evita-erros-na-bancada.ghtml",
-      "hora": "Thu, 26 Nov 2026 03:06:00 -0000",
+      "link": "https://g1.globo.com/pr/parana/especial-publicitario/visit-iguassu/visite-foz-do-iguacu/noticia/2026/11/26/cataratas-do-iguacu-entenda-por-que-sao-uma-das-7-maravilhas-do-mundo.ghtml",
+      "hora": "Thu, 26 Nov 2026 19:14:38 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Justiça suspende pela segunda vez nomeação de professora cotista da UFPE em Caruaru",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/11/26/justica-suspende-pela-segunda-vez-nomeacao-de-professora-cotista-da-ufpe-em-caruaru.ghtml",
+      "hora": "Thu, 26 Nov 2026 19:11:34 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Justiça mantém eleição para presidente da Câmara de Mucajaí realizada em sessão extraordinária",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/26/justica-mantem-eleicao-para-presidente-da-camara-de-mucajai-realizada-em-sessao-extraordinaria.ghtml",
+      "hora": "Thu, 26 Nov 2026 19:09:21 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Festival de Frutos do Mar movimenta Rio das Ostras de 26 a 29 de novembro",
+      "titulo": "Clubes de futebol pedem mediação do STF para preservar patrocínio de bets",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/11/26/festival-de-frutos-do-mar-movimenta-rio-das-ostras-de-26-a-29-de-novembro.ghtml",
-      "hora": "Thu, 26 Nov 2026 03:05:01 -0000",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/26/clubes-de-futebol-pedem-mediacao-do-stf-para-preservar-patrocinio-de-bets.ghtml",
+      "hora": "Thu, 26 Nov 2026 19:09:20 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "MPSE pede interdição parcial ou limitação de público na Arena Batistão por falhas estruturais",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/26/mpse-pede-interdicao-parcial-ou-limitacao-de-publico-na-arena-batistao-por-falhas-estruturais.ghtml",
+      "hora": "Thu, 26 Nov 2026 19:09:09 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Prospera chega à 4ª edição com mais de mil atendimentos em São Pedro da Aldeia",
+      "titulo": "Durigan diz que discutirá novas medidas fiscais com Lula: 'Mostrar claramente o caminho para 2027'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prolagos/prolagos-nossa-natureza-movimenta-a-vida/noticia/2026/11/26/prospera-chega-a-4a-edicao-com-mais-de-mil-atendimentos-em-sao-pedro-da-aldeia.ghtml",
-      "hora": "Thu, 26 Nov 2026 03:03:00 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Cursos gratuitos de Macaé garantem vaga offshore e economia a moradores",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/11/26/cursos-gratuitos-de-macae-garantem-vaga-offshore-e-economia-a-moradores.ghtml",
-      "hora": "Thu, 26 Nov 2026 03:02:00 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Leo Tomassini convida à escuta de valsa com Guinga enquanto aguarda a edição do álbum 'Jaula de gorila' em 2027",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/26/leo-tomassini-convida-a-escuta-de-valsa-com-guinga-enquanto-aguarda-a-edicao-do-album-jaula-de-gorila-em-2027.ghtml",
-      "hora": "Thu, 26 Nov 2026 03:01:00 -0000",
-      "tema": "entretenimento",
-      "resumo": null
-    },
-    {
-      "titulo": "Mais de 270 socorristas voluntários e cinco ambulâncias são impedidos de atuar após prefeitura apontar irregularidades no RS; MP recorre",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/26/voluntarios-resgate-socorro-gravatai-secretaria-saude-mp-recorre.ghtml",
-      "hora": "Thu, 26 Nov 2026 03:00:01 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Limite do cartão de quem usa o crédito rotativo com frequência será reduzido; entenda a mudança",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/26/limite-do-cartao-de-quem-usa-o-credito-rotativo-com-frequencia-sera-reduzido-entenda-a-mudanca.ghtml",
-      "hora": "Thu, 26 Nov 2026 03:00:00 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Mega-Sena pode pagar R$ 75 milhões nesta quinta-feira; g1 transmite ao vivo",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/26/mega-sena-pode-pagar-r-75-milhoes-nesta-quinta-feira-g1-transmite-ao-vivo.ghtml",
-      "hora": "Thu, 26 Nov 2026 03:00:00 -0000",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/26/durigan-diz-que-discutira-novas-medidas-fiscais-com-lula-mostrar-claramente-o-caminho-para-2027.ghtml",
+      "hora": "Thu, 26 Nov 2026 19:08:44 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Quem é a brasileira presa na China sob suspeita de tráfico de drogas; mulher ficou desaparecida por 2 meses",
+      "titulo": "Empresário revela prejuízo de R$ 2,5 milhões com bets: 'Nenhuma aposta vale sua vida'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/26/quem-e-a-brasileira-presa-na-china-sob-suspeita-de-trafico-de-drogas-mulher-ficou-desaparecida-por-2-meses.ghtml",
-      "hora": "Thu, 26 Nov 2026 03:00:00 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Prestações de contas de candidatos mostram repasses do Fundo Eleitoral acima dos valores recebidos por partidos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/26/prestacoes-de-contas-de-candidatos.ghtml",
-      "hora": "Thu, 26 Nov 2026 03:00:00 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Entenda esquema que simulava obras para extrair milhões de toneladas de minério ilegal em MG",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/26/entenda-esquema-que-simulava-obras-para-extrair-milhoes-de-toneladas-de-minerio-ilegal-em-mg.ghtml",
-      "hora": "Thu, 26 Nov 2026 03:00:00 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Fundador de igreja e pai de três: veja quem era o pastor morto a facadas durante culto, em Goiás",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/11/26/fundador-de-igreja-e-pai-de-tres-veja-quem-era-o-pastor-morto-a-facadas-durante-culto-em-goias.ghtml",
-      "hora": "Thu, 26 Nov 2026 03:00:00 -0000",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/11/26/empresario-revela-prejuizo-de-r-25-milhoes-com-bets-nenhuma-aposta-vale-sua-vida.ghtml",
+      "hora": "Thu, 26 Nov 2026 19:07:47 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Chuva de até 110 mm pode provocar alagamentos e inundações em SP, RJ, ES e MG nesta quinta-feira; veja a previsão do tempo",
+      "titulo": "Homem é preso após criança de 5 anos se ferir com arma artesanal dele em Fortaleza",
       "fonte": "G1",
-      "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/26/chuva-de-ate-110-mm-pode-provocar-alagamentos-e-inundacoes-em-sp-rj-es-e-mg-nesta-quinta-feira-veja-a-previsao-do-tempo.ghtml",
-      "hora": "Thu, 26 Nov 2026 03:00:00 -0000",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/26/homem-e-preso-apos-crianca-de-5-anos-se-ferir-com-arma-artesanal-dele-em-fortaleza.ghtml",
+      "hora": "Thu, 26 Nov 2026 19:07:31 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Herança: Câmara aprova projeto que prevê deserdação por 'interdição abusiva' de idosos; entenda",
+      "titulo": "VÍDEO: Em estiagem, rio chega a medir até 5 centímetros de profundidade em cidade isolada do Acre",
       "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/26/heranca-deserdacao-curatela-idosos-camara.ghtml",
-      "hora": "Thu, 26 Nov 2026 03:00:00 -0000",
+      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/26/video-em-estiagem-rio-chega-a-medir-ate-5-centimetros-de-profundidade-em-cidade-isolada-do-acre.ghtml",
+      "hora": "Thu, 26 Nov 2026 19:06:56 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Policial que viralizou na Turquia chama atenção ao usar algemas como porta-alianças e usar farda operacional em casamento; vídeo ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/11/26/policial-que-viralizou-na-turquia-chama-atencao-ao-usar-algemas-como-porta-aliancas-e-usar-farda-operacional-em-casamento-video.ghtml",
+      "hora": "Thu, 26 Nov 2026 19:05:51 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "'Dracarys': por que as explosões do Ibama são contestadas na Justiça - depois de terem virado até meme",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/26/dracarys-por-que-as-explosoes-do-ibama-sao-contestadas-na-justica-depois-de-terem-virado-ate-meme.ghtml",
+      "hora": "Thu, 26 Nov 2026 19:05:39 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Governo de SP envia cestas básicas e kits de limpeza a famílias atingidas pela chuva em Sumaré",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/26/governo-de-sp-envia-cestas-basicas-e-kits-de-limpeza-a-familias-atingidas-pela-chuva-em-sumare.ghtml",
+      "hora": "Thu, 26 Nov 2026 19:04:18 -0000",
+      "tema": "sp",
+      "resumo": null
+    },
+    {
+      "titulo": "Operação prende suspeito de ataque a tiros que matou dois homens na BA e alcança outros quatro procurados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/26/operacao-prende-suspeito-de-ataque-a-tiros-na-ba.ghtml",
+      "hora": "Thu, 26 Nov 2026 19:04:05 -0000",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Três idosos e um que lutava para voltar a andar: o que se sabe sobre os cães mortos após enxurrada em canil no interior de SP",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/11/26/tres-idosos-e-um-que-lutava-para-voltar-a-andar-o-que-se-sabe-sobre-os-caes-mortos-apos-enxurrada-em-canil-no-interior-de-sp.ghtml",
-      "hora": "Thu, 26 Nov 2026 03:00:00 -0000",
-      "tema": "cultura",
       "resumo": null
     },
     {
@@ -248,11 +232,43 @@
       "resumo": null
     },
     {
-      "titulo": "Por que o Brasil vive surto de mpox? O que se sabe — e o que não se sabe — sobre os novos casos da doença",
+      "titulo": "'Dracarys': por que as explosões do Ibama são contestadas na Justiça - depois de terem virado até meme",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq70269ke8l4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 25 Nov 2026 21:04:25 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c34gn28r7j4ro?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 26 Nov 2026 18:26:09 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Cientistas encontram dezenas de espécies potencialmente novas em montanhas da Amazônia",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c95y1k8z7m6ro?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 26 Nov 2026 18:58:41 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Como campanha de Lula inspirou até a direita na eleição da Espanha — e as críticas ao presidente por se envolver na disputa",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cv0l341l4yd1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 26 Nov 2026 10:40:41 GMT",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O que revelam imagens do asteroide atingido deliberadamente pela Nasa para testar defesas da Terra",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmx29v1ekq9qo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 26 Nov 2026 08:44:10 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Espanha avalia risco ambiental após navio-tanque com 7 mil toneladas de diesel virar perto de Ibiza",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c60ev94d02jlo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 26 Nov 2026 16:08:49 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -264,23 +280,23 @@
       "resumo": null
     },
     {
-      "titulo": "A doença rara que levou influenciadora a clínica psiquiátrica por 2 meses: 'Fui rotulada como psicótica por ser mulher'",
+      "titulo": "Por que o Brasil vive surto de mpox? O que se sabe — e o que não se sabe — sobre os novos casos da doença",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ck879j789y1zo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 25 Nov 2026 22:36:59 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cq70269ke8l4o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 26 Nov 2026 13:59:51 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Morre Andy Taylor: o guitarrista que ajudou a levar o Duran Duran ao topo do mundo",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cj4gn6e490z0o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 26 Nov 2026 09:36:20 GMT",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Como o cristianismo moldou a figura do Diabo para combater outras religiões",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c687934rr1vjo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 25 Nov 2026 14:49:11 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'O Brasil inteiro procurando Belchior e ele na sala da minha casa': como foram os últimos anos do cantor no RS",
+      "titulo": "'O Brasil inteiro procurando Belchior e ele na sala da minha casa': como foram os últimos anos do cantor no Rio Grande do Sul",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cvze7ly12z29o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 25 Nov 2026 10:04:46 GMT",
@@ -293,38 +309,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cqdr13l5e830o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 25 Nov 2026 08:44:53 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "'Não acho que possamos mais coexistir com bilionários', diz escritora Naomi Klein",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c60md8pz90pko?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 25 Nov 2026 20:36:29 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Pago R$ 2 mil por mês para outra pessoa cuidar das burocracias do meu dia a dia — e vale a pena'",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cmy86gpl512eo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 25 Nov 2026 17:18:13 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Os riscos que Trump corre com a volta de Jensen Huang ao comando da Nvidia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqdj1xz29jkdo?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 25 Nov 2026 09:29:24 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "O 'modelo Bukele' pode acabar com as gangues do Haiti?",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/watch/ck0jx47477g6o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 25 Nov 2026 10:48:34 GMT",
-      "tema": "mundo",
       "resumo": null
     },
     {
@@ -356,14 +340,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cwm253lr95zjo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 24 Nov 2026 09:20:45 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Plano de Moretti é um 'primeiro passo', e governo Lula pode fazer outros ajustes fiscais no futuro, afirma Laura Carvalho",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm1dvg9n5w2xo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 24 Nov 2026 03:01:46 GMT",
       "tema": "brasil",
       "resumo": null
     }
