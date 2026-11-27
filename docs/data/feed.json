@@ -1,114 +1,122 @@
 {
-  "gerado_em": "2026-11-26T19:25:01.077Z",
+  "gerado_em": "2026-11-27T03:28:50.689Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 21.5,
-    "min": 16.7,
-    "chuva": 100
+    "max": 22.3,
+    "min": 16,
+    "chuva": 61
   },
   "noticias": [
     {
-      "titulo": "Cataratas do Iguaçu: entenda por que são uma das 7 Maravilhas do Mundo",
+      "titulo": "VÍDEOS: Jornal do Acre 2ª Edição desta quinta-feira, 26 de novembro de 2026",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pr/parana/especial-publicitario/visit-iguassu/visite-foz-do-iguacu/noticia/2026/11/26/cataratas-do-iguacu-entenda-por-que-sao-uma-das-7-maravilhas-do-mundo.ghtml",
-      "hora": "Thu, 26 Nov 2026 19:14:38 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Justiça suspende pela segunda vez nomeação de professora cotista da UFPE em Caruaru",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/11/26/justica-suspende-pela-segunda-vez-nomeacao-de-professora-cotista-da-ufpe-em-caruaru.ghtml",
-      "hora": "Thu, 26 Nov 2026 19:11:34 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Justiça mantém eleição para presidente da Câmara de Mucajaí realizada em sessão extraordinária",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/26/justica-mantem-eleicao-para-presidente-da-camara-de-mucajai-realizada-em-sessao-extraordinaria.ghtml",
-      "hora": "Thu, 26 Nov 2026 19:09:21 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Clubes de futebol pedem mediação do STF para preservar patrocínio de bets",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/26/clubes-de-futebol-pedem-mediacao-do-stf-para-preservar-patrocinio-de-bets.ghtml",
-      "hora": "Thu, 26 Nov 2026 19:09:20 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "MPSE pede interdição parcial ou limitação de público na Arena Batistão por falhas estruturais",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/26/mpse-pede-interdicao-parcial-ou-limitacao-de-publico-na-arena-batistao-por-falhas-estruturais.ghtml",
-      "hora": "Thu, 26 Nov 2026 19:09:09 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Durigan diz que discutirá novas medidas fiscais com Lula: 'Mostrar claramente o caminho para 2027'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/26/durigan-diz-que-discutira-novas-medidas-fiscais-com-lula-mostrar-claramente-o-caminho-para-2027.ghtml",
-      "hora": "Thu, 26 Nov 2026 19:08:44 -0000",
-      "tema": "sp",
-      "resumo": null
-    },
-    {
-      "titulo": "Empresário revela prejuízo de R$ 2,5 milhões com bets: 'Nenhuma aposta vale sua vida'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/11/26/empresario-revela-prejuizo-de-r-25-milhoes-com-bets-nenhuma-aposta-vale-sua-vida.ghtml",
-      "hora": "Thu, 26 Nov 2026 19:07:47 -0000",
+      "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quinta-feira-26-de-novembro-de-2026.ghtml",
+      "hora": "Fri, 27 Nov 2026 03:08:01 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Homem é preso após criança de 5 anos se ferir com arma artesanal dele em Fortaleza",
+      "titulo": "Uns e Outros é destaque na programação do “Ostrascycle Origens”",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/26/homem-e-preso-apos-crianca-de-5-anos-se-ferir-com-arma-artesanal-dele-em-fortaleza.ghtml",
-      "hora": "Thu, 26 Nov 2026 19:07:31 -0000",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/11/27/uns-e-outros-e-destaque-na-programacao-do-ostrascycle-origens.ghtml",
+      "hora": "Fri, 27 Nov 2026 03:05:00 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "VÍDEO: Em estiagem, rio chega a medir até 5 centímetros de profundidade em cidade isolada do Acre",
+      "titulo": "13º salário pode ajudar consumidores a começar 2027 com as contas em dia",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ac/acre/noticia/2026/11/26/video-em-estiagem-rio-chega-a-medir-ate-5-centimetros-de-profundidade-em-cidade-isolada-do-acre.ghtml",
-      "hora": "Thu, 26 Nov 2026 19:06:56 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prolagos/prolagos-nossa-natureza-movimenta-a-vida/noticia/2026/11/27/13o-salario-pode-ajudar-consumidores-a-comecar-2027-com-as-contas-em-dia.ghtml",
+      "hora": "Fri, 27 Nov 2026 03:04:00 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Policial que viralizou na Turquia chama atenção ao usar algemas como porta-alianças e usar farda operacional em casamento; vídeo ",
+      "titulo": "Últimos dias para aproveitar o Novembro Black Vilarejo",
       "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/11/26/policial-que-viralizou-na-turquia-chama-atencao-ao-usar-algemas-como-porta-aliancas-e-usar-farda-operacional-em-casamento-video.ghtml",
-      "hora": "Thu, 26 Nov 2026 19:05:51 -0000",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/11/27/ultimos-dias-para-aproveitar-o-novembro-black-vilarejo.ghtml",
+      "hora": "Fri, 27 Nov 2026 03:03:00 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "'Dracarys': por que as explosões do Ibama são contestadas na Justiça - depois de terem virado até meme",
+      "titulo": "Espetáculo Águas Dançantes estreia nesta sexta-feira na Lagoa de Imboassica",
       "fonte": "G1",
-      "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/26/dracarys-por-que-as-explosoes-do-ibama-sao-contestadas-na-justica-depois-de-terem-virado-ate-meme.ghtml",
-      "hora": "Thu, 26 Nov 2026 19:05:39 -0000",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/11/27/espetaculo-aguas-dancantes-estreia-nesta-sexta-feira-na-lagoa-de-imboassica.ghtml",
+      "hora": "Fri, 27 Nov 2026 03:03:00 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Governo de SP envia cestas básicas e kits de limpeza a famílias atingidas pela chuva em Sumaré",
+      "titulo": "Músico Digo Ferreira dá protagonismo à guitarra no toque do forró jazzístico que pauta o álbum 'Baião de cordas'",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/26/governo-de-sp-envia-cestas-basicas-e-kits-de-limpeza-a-familias-atingidas-pela-chuva-em-sumare.ghtml",
-      "hora": "Thu, 26 Nov 2026 19:04:18 -0000",
+      "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/27/musico-digo-ferreira-da-protagonismo-a-guitarra-no-toque-do-forro-jazzistico-que-pauta-o-album-baiao-de-cordas.ghtml",
+      "hora": "Fri, 27 Nov 2026 03:02:00 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Relatório do Senado retira redução de prazo para dirigentes de partidos assumirem estatais",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/27/relatorio-do-senado-retira-reducao-de-prazo-para-dirigentes-de-partidos-assumirem-estatais.ghtml",
+      "hora": "Fri, 27 Nov 2026 03:00:02 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Após atuar como porta-voz da economia na campanha, futuro de Durigan no governo Lula 4 é incerto",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/apos-atuar-como-porta-voz-da-economia-na-campanha-futuro-de-durigan-no-governo-lula-4-e-incerto.ghtml",
+      "hora": "Fri, 27 Nov 2026 03:00:02 -0000",
       "tema": "sp",
       "resumo": null
     },
     {
-      "titulo": "Operação prende suspeito de ataque a tiros que matou dois homens na BA e alcança outros quatro procurados",
+      "titulo": "Ordem de assassinato, tentativa de calar testemunha e plano de roubo de celular: entenda suspeitas contra o jogador Hayner, do Vila Nova",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/26/operacao-prende-suspeito-de-ataque-a-tiros-na-ba.ghtml",
-      "hora": "Thu, 26 Nov 2026 19:04:05 -0000",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/11/27/ordem-de-assassinato-tentativa-de-calar-testemunha-e-plano-de-roubo-de-celular-entenda-suspeitas-contra-o-jogador-hayner-do-vila-nova.ghtml",
+      "hora": "Fri, 27 Nov 2026 03:00:01 -0000",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Trabuco terá ajuste fiscal, juros e resistência no PT entre desafios à frente da Fazenda",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/trabuco-tera-ajuste-fiscal-juros-e-resistencia-no-pt-entre-desafios-a-frente-da-fazenda.ghtml",
+      "hora": "Fri, 27 Nov 2026 03:00:01 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Após EUA proporem taxar aviões brasileiros, Mauro Vieira oferece apoio à Embraer para buscar novos mercados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/27/apos-eua-proporem-taxar-avioes-brasileiros-mauro-vieira-oferece-apoio-a-embraer-para-buscar-novos-mercados.ghtml",
+      "hora": "Fri, 27 Nov 2026 03:00:01 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "'Patrimônio vai ser preservado', diz ministro sobre concessão do Forte Orange, monumento erguido pelos holandeses em 1631",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/27/patrimonio-vai-ser-preservado-diz-ministro-sobre-concessao-do-forte-orange-monumento-erguido-pelos-holandeses-em-1631.ghtml",
+      "hora": "Fri, 27 Nov 2026 03:00:01 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "TV na Black Friday: quais as diferenças entre LED, QLED, OLED e outras siglas  antes de comprar um televisor novo",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/guia/guia-de-compras/tecnologia/tv-na-black-friday-quais-as-diferencas-entre-led-qled-oled-e-outras-siglas-antes-de-comprar-um-televisor-novo.ghtml",
+      "hora": "Fri, 27 Nov 2026 03:00:01 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Shows de Wesley Safadão, Joelma e Sidney Magal, festival de K-pop, circo e feiras gratuitas: veja o que fazer em SP",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/guia/guia-sp/noticia/2026/11/27/shows-de-wesley-safadao-joelma-e-sidney-magal-festival-de-k-pop-circo-e-feiras-gratuitas-veja-o-que-fazer-em-sp.ghtml",
+      "hora": "Fri, 27 Nov 2026 03:00:00 -0000",
+      "tema": "cultura",
       "resumo": null
     },
     {
@@ -232,6 +240,30 @@
       "resumo": null
     },
     {
+      "titulo": "'Sereno', Trabuco é 'capaz de reduzir a tensão' com mercado, diz Lara Resende; veja a reação de outros economistas à escolha na Fazenda",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cv8e014e88xgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 27 Nov 2026 02:31:39 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Trabuco aceita convite de Lula: quem é o novo ministro da Fazenda que defende ajuste fiscal e redução 'das desigualdades'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c3gre9xxe92zo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 26 Nov 2026 23:47:02 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Nome de confiança da Faria Lima, executivo cultivou amizade com Lula à frente do Bradesco",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c3n0lrq5kgd1o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 27 Nov 2026 00:18:18 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
       "titulo": "'Dracarys': por que as explosões do Ibama são contestadas na Justiça - depois de terem virado até meme",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c34gn28r7j4ro?at_medium=RSS&at_campaign=rss",
@@ -248,11 +280,27 @@
       "resumo": null
     },
     {
-      "titulo": "Como campanha de Lula inspirou até a direita na eleição da Espanha — e as críticas ao presidente por se envolver na disputa",
+      "titulo": "Ex-agente do FBI relembra caso de golpistas que criaram até reality show com vítima para enganá-la",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cv0l341l4yd1o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 26 Nov 2026 10:40:41 GMT",
-      "tema": "brasil",
+      "link": "https://www.bbc.com/portuguese/articles/c8vg2nlwrwn6o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 26 Nov 2026 20:04:33 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "'Como descobri que um desconhecido foi enterrado no túmulo que comprei'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmlyj25w7nr5o?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 26 Nov 2026 20:20:52 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Muitas tarefas inacabadas? 5 medidas simples que podem ajudar",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmd718djy12xo?at_medium=RSS&at_campaign=rss",
+      "hora": "Thu, 26 Nov 2026 19:25:01 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -264,34 +312,10 @@
       "resumo": null
     },
     {
-      "titulo": "Espanha avalia risco ambiental após navio-tanque com 7 mil toneladas de diesel virar perto de Ibiza",
+      "titulo": "'Não acho que possamos mais coexistir com bilionários', diz escritora Naomi Klein",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c60ev94d02jlo?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 26 Nov 2026 16:08:49 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Meio milhão de mortos': vazamento de dados revela números impressionantes de soldados russos que perderam a vida na guerra na Ucrânia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/ckdd1zq7r56no?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 25 Nov 2026 19:43:08 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que o Brasil vive surto de mpox? O que se sabe — e o que não se sabe — sobre os novos casos da doença",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cq70269ke8l4o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 26 Nov 2026 13:59:51 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Morre Andy Taylor: o guitarrista que ajudou a levar o Duran Duran ao topo do mundo",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cj4gn6e490z0o?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 26 Nov 2026 09:36:20 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/c60md8pz90pko?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 25 Nov 2026 20:36:29 GMT",
       "tema": "mundo",
       "resumo": null
     },
@@ -333,14 +357,6 @@
       "link": "https://www.bbc.com/portuguese/articles/cx24e9z27q30o?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 24 Nov 2026 08:35:43 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "A tempestade perfeita (dentro e fora do Brasil) que faz preço do dólar chegar a R$ 6",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cwm253lr95zjo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 24 Nov 2026 09:20:45 GMT",
-      "tema": "brasil",
       "resumo": null
     }
   ]
