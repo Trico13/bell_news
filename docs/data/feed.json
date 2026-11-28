@@ -1,122 +1,130 @@
 {
-  "gerado_em": "2026-11-27T19:20:23.792Z",
+  "gerado_em": "2026-11-28T03:05:09.744Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 23.9,
+    "max": 23.1,
     "min": 16.6,
-    "chuva": 78
+    "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "Unimed Cuiabá alerta para uso seguro de canetas no tratamento do diabetes",
+      "titulo": "'Pelo Telefone': Brasil celebra 110 anos de registro do primeiro samba",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/especial-publicitario/unimed-cuiaba-unimed-cuiaba-ha-50-anos-cuidando-de-geracoes/noticia/2026/11/27/unimed-cuiaba-alerta-para-uso-seguro-de-canetas-no-tratamento-do-diabetes.ghtml",
-      "hora": "Fri, 27 Nov 2026 19:14:33 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Black Friday: Consumidora sai de casa às 4h30 e viaja mais de 40 km para comprar bicicleta em Teresina",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/27/black-friday-em-teresina.ghtml",
-      "hora": "Fri, 27 Nov 2026 19:13:03 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Black Friday no Amapá tem distribuição de senhas para filas e material de construção a R$ 1,99",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/27/black-friday-no-amapa-tem-distribuicao-senhas-para-filas-e-material-de-construcao-a-r-199.ghtml",
-      "hora": "Fri, 27 Nov 2026 19:11:52 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/27/pelo-telefone-brasil-celebra-110-anos-de-registro-do-primeiro-samba.ghtml",
+      "hora": "Sat, 28 Nov 2026 01:50:09 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Câmara de Campinas decide não fazer uso de força para retirar manifestantes e cancela sessão para votar reforma da Previdência",
+      "titulo": "Vacinação contra sarampo salvou 60 milhões de vidas no mundo nos últimos 25 anos, diz OMS",
       "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/27/camara-de-campinas-decide-nao-fazer-uso-de-forca-para-retirar-manifestantes-e-cancela-sessao-para-votar-reforma-da-previdencia.ghtml",
-      "hora": "Fri, 27 Nov 2026 19:09:23 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Brasileira transforma teatro em cenário de sonhos na Semana de Arte em Miami",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/economia/especial-publicitario/bradesco-bank-us/noticia/2026/11/27/brasileira-transforma-teatro-em-cenario-de-sonhos-na-semana-de-arte-em-miami.ghtml",
-      "hora": "Fri, 27 Nov 2026 19:08:10 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Zelador chora após ver guarita de prédio atingida por enchente em Americana: 'Terra arrasada'",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/27/zelador-chora-guarita-predio-atingida-enchente-americana-terra-arrasada.ghtml",
-      "hora": "Fri, 27 Nov 2026 19:06:56 -0000",
-      "tema": "cultura",
-      "resumo": null
-    },
-    {
-      "titulo": "Alagamento atinge 15 casas em Pouso Alegre; Defesa Civil monitora rios da região ",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/27/alagamento-atinge-15-casas-em-pouso-alegre-defesa-civil-monitora-rios-da-regiao.ghtml",
-      "hora": "Fri, 27 Nov 2026 19:06:31 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "TJMG mantém condenação e fiscal de Governador Valadares perde cargo após pedir propina a comerciante",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/27/tjmg-mantem-condenacao-e-fiscal-de-governador-valadares-perde-cargo-apos-pedir-propina-a-comerciante.ghtml",
-      "hora": "Fri, 27 Nov 2026 19:06:11 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Polícia apreende mais de 1,5 mil produtos para emagrecimento em laboratório clandestino de Fortaleza",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/27/policia-apreende-produtos-para-emagrecimento-em-laboratorio-clandestino-de-fortaleza.ghtml",
-      "hora": "Fri, 27 Nov 2026 19:05:49 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/27/vacinacao-contra-sarampo-salvou-60-milhoes-de-vidas-no-mundo-nos-ultimos-25-anos-diz-oms.ghtml",
+      "hora": "Sat, 28 Nov 2026 01:28:18 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Vídeos do g1 e TV Subaé - sexta-feira, 27 de novembro de 2026",
+      "titulo": "Expectativa de vida dos brasileiros chega a quase 77 anos",
       "fonte": "G1",
-      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/edicao/2026/11/27/videos-do-g1-e-tv-subae-sexta-feira-27-de-novembro-de-2026.ghtml",
-      "hora": "Fri, 27 Nov 2026 19:05:34 -0000",
-      "tema": "mundo",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/27/expectativa-de-vida-dos-brasileiros-chega-a-quase-77-anos.ghtml",
+      "hora": "Sat, 28 Nov 2026 01:21:56 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Recital 'A Hora do Brega' homenageia programa de rádio nesta sexta-feira (27) na Orla de Santarém",
+      "titulo": "De operadora de caixa a advogada: conheça história de esposa de promotor de Justiça que viralizou com homenagem após ela registrar sua primeira ação judicial",
       "fonte": "G1",
-      "link": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/27/recital-a-hora-do-brega-homenageia-programa-de-radio-nesta-sexta-feira-27-na-orla-de-santarem.ghtml",
-      "hora": "Fri, 27 Nov 2026 19:03:40 -0000",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/11/27/de-operadora-de-caixa-a-advogada-conheca-historia-de-esposa-de-promotor-de-justica-que-viralizou-com-homenagem-apos-ela-registrar-sua-primeira-acao-judicial.ghtml",
+      "hora": "Sat, 28 Nov 2026 01:21:07 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Putin apresenta novo submarino nuclear",
+      "titulo": "Alimentação e saúde pesam cada vez mais no orçamento das famílias, afirma IBGE",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/27/putin-apresenta-novo-submarino-nuclear.ghtml",
-      "hora": "Fri, 27 Nov 2026 19:02:25 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/27/alimentacao-e-saude-pesam-cada-vez-mais-no-orcamento-das-familias-afirma-ibge.ghtml",
+      "hora": "Sat, 28 Nov 2026 01:09:44 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Dominguinho e República do Reggae causam mudanças na operação do metrô de Salvador",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/27/mudanca-no-metro-de-salvador.ghtml",
+      "hora": "Sat, 28 Nov 2026 01:06:04 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Corpo de homem é resgatado em escavação de garimpo no Parque Nacional do Juruena em MT",
+      "titulo": "Taxa de desemprego no Brasil atinge o menor patamar da série histórica",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/27/corpo-de-homem-e-resgatado-em-escavacao-de-garimpo-no-parque-nacional-do-juruena-em-mt.ghtml",
-      "hora": "Fri, 27 Nov 2026 19:02:09 -0000",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/27/taxa-de-desemprego-no-brasil-atinge-o-menor-patamar-da-serie-historica.ghtml",
+      "hora": "Sat, 28 Nov 2026 01:00:49 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Lotofácil 3840: apostas de cinco cidades de MT acertam 14 números e ganham até R$ 6,7 mil",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/27/lotofacil-3840-apostas-de-cinco-cidades-de-mt-acertam-14-numeros-e-ganham-ate-r-67-mil.ghtml",
+      "hora": "Sat, 28 Nov 2026 00:59:14 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "VÍDEO: acidente na BR-101 em Sergipe deixa dois motoristas feridos",
+      "titulo": "Operação destrói balsas, pistas de pouso e causa R$ 7,7 milhões em prejuízo ao garimpo ilegal em RR",
       "fonte": "G1",
-      "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/27/acidente-na-br-101-em-sergipe-deixa-dois-motoristas-feridos.ghtml",
-      "hora": "Fri, 27 Nov 2026 19:02:07 -0000",
+      "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/27/operacao-destroi-balsas-pistas-de-pouso-e-causa-r-77-milhoes-em-prejuizo-ao-garimpo-ilegal-em-rr.ghtml",
+      "hora": "Sat, 28 Nov 2026 00:55:07 -0000",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "+Milionária hoje: resultado do concurso 411 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/milionaria/noticia/2026/11/27/milionaria-hoje-resultado-do-concurso-411-e-numeros-sorteados.ghtml",
+      "hora": "Sat, 28 Nov 2026 00:51:13 -0000",
       "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Lotomania hoje: resultado do concurso 3004 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/lotomania/noticia/2026/11/27/lotomania-hoje-resultado-do-concurso-3004-e-numeros-sorteados.ghtml",
+      "hora": "Sat, 28 Nov 2026 00:51:07 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Dia de Sorte hoje: resultado do concurso 1358 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/11/27/dia-de-sorte-hoje-resultado-do-concurso-1358-e-numeros-sorteados.ghtml",
+      "hora": "Sat, 28 Nov 2026 00:50:54 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Dupla Sena hoje: resultado do concurso 3037 e números sorteados",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/dupla-sena/noticia/2026/11/27/dupla-sena-hoje-resultado-do-concurso-3037-e-numeros-sorteados.ghtml",
+      "hora": "Sat, 28 Nov 2026 00:50:42 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Resultados das Loterias Caixa",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+      "hora": "Sat, 28 Nov 2026 00:48:10 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "\nMais de 100 entidades empresariais rejeitam projeto de lei já aprovado pela Câmara que diminui quarentena para indicados às agências reguladoras",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/27/mais-de-100-entidades-empresariais-rejeitam-projeto-de-lei-ja-aprovado-pela-camara-que-diminui-quarentena-para-indicados-as-agencias-reguladoras.ghtml",
+      "hora": "Sat, 28 Nov 2026 00:46:47 -0000",
+      "tema": "brasil",
       "resumo": null
     },
     {
@@ -280,6 +288,14 @@
       "resumo": null
     },
     {
+      "titulo": "Desfigurada aos 15 anos: as vidas devastadas por uma década de conflito em Camarões",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cjlydlky7wl7o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 27 Nov 2026 20:51:08 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
       "titulo": "O imigrante que ganhou US$ 1 milhão na loteria e foi preso pelo ICE: 'A sorte acabou'",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cw62pn5qz6m3o?at_medium=RSS&at_campaign=rss",
@@ -312,18 +328,18 @@
       "resumo": null
     },
     {
-      "titulo": "Cientistas encontram dezenas de espécies potencialmente novas em montanhas da Amazônia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c95y1k8z7m6ro?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 26 Nov 2026 18:58:41 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
       "titulo": "'O Brasil inteiro procurando Belchior e ele na sala da minha casa': como foram os últimos anos do cantor no Rio Grande do Sul",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cvze7ly12z29o?at_medium=RSS&at_campaign=rss",
       "hora": "Wed, 25 Nov 2026 10:04:46 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Ajuste fiscal: por que ele desagrada muita gente e divide economistas",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/watch/c64gnqg005zwo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 27 Nov 2026 22:28:55 GMT",
       "tema": "brasil",
       "resumo": null
     },
@@ -340,14 +356,6 @@
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cqdj1d3yd4pzo?at_medium=RSS&at_campaign=rss",
       "hora": "Tue, 24 Nov 2026 11:28:48 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Câmara aprova ajuste fiscal de Lula: por que pacote é tão polêmico e não deve ser suficiente, segundo economistas",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqx2we1jgnzgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 24 Nov 2026 02:50:44 GMT",
       "tema": "brasil",
       "resumo": null
     },
