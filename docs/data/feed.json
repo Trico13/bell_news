@@ -1,130 +1,122 @@
 {
-  "gerado_em": "2026-11-28T03:05:09.744Z",
+  "gerado_em": "2026-11-28T17:56:30.150Z",
   "modo": "palavras-chave",
   "clima": {
-    "max": 23.1,
-    "min": 16.6,
+    "max": 24.7,
+    "min": 16.8,
     "chuva": 100
   },
   "noticias": [
     {
-      "titulo": "'Pelo Telefone': Brasil celebra 110 anos de registro do primeiro samba",
+      "titulo": "Sanções e bloqueio dos EUA fazem moeda iraniana cair para 3 milhões por dólar e atingir mínima histórica",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/27/pelo-telefone-brasil-celebra-110-anos-de-registro-do-primeiro-samba.ghtml",
-      "hora": "Sat, 28 Nov 2026 01:50:09 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Vacinação contra sarampo salvou 60 milhões de vidas no mundo nos últimos 25 anos, diz OMS",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/27/vacinacao-contra-sarampo-salvou-60-milhoes-de-vidas-no-mundo-nos-ultimos-25-anos-diz-oms.ghtml",
-      "hora": "Sat, 28 Nov 2026 01:28:18 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Expectativa de vida dos brasileiros chega a quase 77 anos",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/27/expectativa-de-vida-dos-brasileiros-chega-a-quase-77-anos.ghtml",
-      "hora": "Sat, 28 Nov 2026 01:21:56 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "De operadora de caixa a advogada: conheça história de esposa de promotor de Justiça que viralizou com homenagem após ela registrar sua primeira ação judicial",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/11/27/de-operadora-de-caixa-a-advogada-conheca-historia-de-esposa-de-promotor-de-justica-que-viralizou-com-homenagem-apos-ela-registrar-sua-primeira-acao-judicial.ghtml",
-      "hora": "Sat, 28 Nov 2026 01:21:07 -0000",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/28/sancoes-e-bloqueio-dos-eua-fazem-moeda-iraniana-cair-para-3-milhoes-por-dolar-e-atingir-minima-historica.ghtml",
+      "hora": "Sat, 28 Nov 2026 17:46:23 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Alimentação e saúde pesam cada vez mais no orçamento das famílias, afirma IBGE",
+      "titulo": "Cabo Frio terá primeira escola cívico-militar da rede municipal",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/27/alimentacao-e-saude-pesam-cada-vez-mais-no-orcamento-das-familias-afirma-ibge.ghtml",
-      "hora": "Sat, 28 Nov 2026 01:09:44 -0000",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Dominguinho e República do Reggae causam mudanças na operação do metrô de Salvador",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/27/mudanca-no-metro-de-salvador.ghtml",
-      "hora": "Sat, 28 Nov 2026 01:06:04 -0000",
+      "link": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/11/28/cabo-frio-tera-primeira-escola-civico-militar-da-rede-municipal.ghtml",
+      "hora": "Sat, 28 Nov 2026 17:44:41 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Taxa de desemprego no Brasil atinge o menor patamar da série histórica",
+      "titulo": "Homem sai a pé de carro após batida e morre atropelado na Washington Luís em Rio Preto",
       "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/27/taxa-de-desemprego-no-brasil-atinge-o-menor-patamar-da-serie-historica.ghtml",
-      "hora": "Sat, 28 Nov 2026 01:00:49 -0000",
+      "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/28/homem-sai-a-pe-de-carro-apos-batida-e-morre-atropelado-na-washington-luis-em-rio-preto.ghtml",
+      "hora": "Sat, 28 Nov 2026 17:42:57 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Motociclista de aplicativo é baleado nas costas e passageiro é morto a tiros no Recife",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/28/motociclista-de-aplicativo-e-baleado-nas-costas-e-passageiro-e-morto-a-tiros-no-recife.ghtml",
+      "hora": "Sat, 28 Nov 2026 17:41:47 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Ônibus do transporte público cai em vala no bairro Pegorelli em Caraguatatuba",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/28/onibus-do-transporte-publico-cai-em-vala-no-bairro-pegorelli-em-caraguatatuba.ghtml",
+      "hora": "Sat, 28 Nov 2026 17:41:11 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Erika Cheung, a jovem que cresceu na pobreza e expôs a fraude milionária de Elizabeth Holmes na Theranos",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/28/erika-cheung-a-jovem-que-cresceu-na-pobreza-e-expos-a-fraude-milionaria-de-elizabeth-holmes-na-theranos.ghtml",
+      "hora": "Sat, 28 Nov 2026 17:38:46 -0000",
       "tema": "cultura",
       "resumo": null
     },
     {
-      "titulo": "Lotofácil 3840: apostas de cinco cidades de MT acertam 14 números e ganham até R$ 6,7 mil",
+      "titulo": "Nível do Rio Carangola sobe e se aproxima do estágio de alerta em Porciúncula",
       "fonte": "G1",
-      "link": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/27/lotofacil-3840-apostas-de-cinco-cidades-de-mt-acertam-14-numeros-e-ganham-ate-r-67-mil.ghtml",
-      "hora": "Sat, 28 Nov 2026 00:59:14 -0000",
+      "link": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/28/nivel-do-rio-carangola-sobe-e-se-aproxima-do-estagio-de-alerta-em-porciuncula.ghtml",
+      "hora": "Sat, 28 Nov 2026 17:32:11 -0000",
       "tema": "mundo",
       "resumo": null
     },
     {
-      "titulo": "Operação destrói balsas, pistas de pouso e causa R$ 7,7 milhões em prejuízo ao garimpo ilegal em RR",
+      "titulo": "Homem desaparece em praia turística de Florianópolis após grupo ser arrastado no mar",
       "fonte": "G1",
-      "link": "https://g1.globo.com/rr/roraima/noticia/2026/11/27/operacao-destroi-balsas-pistas-de-pouso-e-causa-r-77-milhoes-em-prejuizo-ao-garimpo-ilegal-em-rr.ghtml",
-      "hora": "Sat, 28 Nov 2026 00:55:07 -0000",
+      "link": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/28/homem-desaparece-praia-turistica-florianopolis-grupo-arrastado-mar.ghtml",
+      "hora": "Sat, 28 Nov 2026 17:31:13 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Pai de Felipe Araújo percorre gramado de joelhos após Vila Nova garantir acesso à Série A; cantor se emociona com vitória",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/go/goias/noticia/2026/11/28/pai-de-felipe-araujo-percorre-gramado-de-joelhos-apos-vila-nova-garantir-acesso-a-serie-a-cantor-comemorou-ao-lado-da-familia.ghtml",
+      "hora": "Sat, 28 Nov 2026 17:25:54 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "VÍDEOS: Jornal do Acre 1ª Edição deste sábado, 28 de novembro de 2026",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-deste-sabado-28-de-novembro-de-2026.ghtml",
+      "hora": "Sat, 28 Nov 2026 17:18:54 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Após 11 anos, Guarujá terá o retorno dos desfiles competitivos de Carnaval em 2027 ",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/28/apos-11-anos-guaruja-tera-o-retorno-dos-desfiles-competitivos-de-carnaval-em-2027.ghtml",
+      "hora": "Sat, 28 Nov 2026 17:16:06 -0000",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
+      "titulo": "Caramelo reencontra amigas após resgate em Teresópolis; trio aguarda adoção conjunta",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/11/28/caramelo-reencontra-amigas-apos-resgate-em-teresopolis-trio-aguarda-adocao-conjunta.ghtml",
+      "hora": "Sat, 28 Nov 2026 17:15:39 -0000",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Relatora da ONU que denunciou genocídio em Gaza é proibida de entrar na Costa Rica",
+      "fonte": "G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/28/relatora-da-onu-que-denunciou-genocidio-em-gaza-e-proibida-de-entrar-na-costa-rica.ghtml",
+      "hora": "Sat, 28 Nov 2026 17:15:18 -0000",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "+Milionária hoje: resultado do concurso 411 e números sorteados",
+      "titulo": "PM é preso suspeito de balear outro policial após discussão em bar de Fortaleza",
       "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/milionaria/noticia/2026/11/27/milionaria-hoje-resultado-do-concurso-411-e-numeros-sorteados.ghtml",
-      "hora": "Sat, 28 Nov 2026 00:51:13 -0000",
+      "link": "https://g1.globo.com/ce/ceara/noticia/2026/11/28/pm-e-preso-suspeito-de-balear-outro-policial-apos-discussao-em-bar-de-fortaleza.ghtml",
+      "hora": "Sat, 28 Nov 2026 17:09:18 -0000",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Lotomania hoje: resultado do concurso 3004 e números sorteados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/lotomania/noticia/2026/11/27/lotomania-hoje-resultado-do-concurso-3004-e-numeros-sorteados.ghtml",
-      "hora": "Sat, 28 Nov 2026 00:51:07 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Dia de Sorte hoje: resultado do concurso 1358 e números sorteados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/11/27/dia-de-sorte-hoje-resultado-do-concurso-1358-e-numeros-sorteados.ghtml",
-      "hora": "Sat, 28 Nov 2026 00:50:54 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Dupla Sena hoje: resultado do concurso 3037 e números sorteados",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/dupla-sena/noticia/2026/11/27/dupla-sena-hoje-resultado-do-concurso-3037-e-numeros-sorteados.ghtml",
-      "hora": "Sat, 28 Nov 2026 00:50:42 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Resultados das Loterias Caixa",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-      "hora": "Sat, 28 Nov 2026 00:48:10 -0000",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "\nMais de 100 entidades empresariais rejeitam projeto de lei já aprovado pela Câmara que diminui quarentena para indicados às agências reguladoras",
-      "fonte": "G1",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/27/mais-de-100-entidades-empresariais-rejeitam-projeto-de-lei-ja-aprovado-pela-camara-que-diminui-quarentena-para-indicados-as-agencias-reguladoras.ghtml",
-      "hora": "Sat, 28 Nov 2026 00:46:47 -0000",
-      "tema": "brasil",
       "resumo": null
     },
     {
@@ -248,6 +240,54 @@
       "resumo": null
     },
     {
+      "titulo": "Lula está cometendo o mesmo erro de Dilma em 2015, diz Jones Manoel",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cmp3e7ke9epzo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 28 Nov 2026 13:31:27 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "Tragédia da Chapecoense, 10 anos depois: 'Não deixo nada para amanhã. Perdoo hoje, abraço hoje'",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ckge32nj5zvxo?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 28 Nov 2026 14:44:46 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Erika Cheung, a jovem que cresceu na pobreza e expôs a fraude milionária de Elizabeth Holmes na Theranos",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cwg7ld5z0g8go?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 28 Nov 2026 17:41:28 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Por que os europeus estão comprando cada vez mais minicarros",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/ckd718pyyqw7o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 28 Nov 2026 16:22:52 GMT",
+      "tema": "mundo",
+      "resumo": null
+    },
+    {
+      "titulo": "Sociedade liderada por homens 'é uma grande bênção', diz à BBC pastor americano contra o voto feminino",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cq4gnz3epz83o?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 28 Nov 2026 14:01:58 GMT",
+      "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "O país cuja revolução de energia solar foi tão bem-sucedida que a rede elétrica está ficando para trás",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cm62pn93943no?at_medium=RSS&at_campaign=rss",
+      "hora": "Sat, 28 Nov 2026 14:13:51 GMT",
+      "tema": "cultura",
+      "resumo": null
+    },
+    {
       "titulo": "Os 3 principais problemas que Trabuco terá que enfrentar na Fazenda no quarto mandato de Lula ",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/c95y12eme1jgo?at_medium=RSS&at_campaign=rss",
@@ -256,35 +296,11 @@
       "resumo": null
     },
     {
-      "titulo": "Dólar cai e bolsa sobe: a reação do mercado - e de economistas - à escolha de Trabuco para a Fazenda",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cv8e014e88xgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 27 Nov 2026 13:53:59 GMT",
-      "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "A reação da imprensa internacional à indicação de Trabuco para o Ministério da Fazenda",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cw20x68drd43o?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 27 Nov 2026 10:21:42 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
       "titulo": "A escritora que desafia o pessimismo sobre o futuro da inteligência artificial",
       "fonte": "BBC Brasil",
       "link": "https://www.bbc.com/portuguese/articles/cmkgdelx0k1vo?at_medium=RSS&at_campaign=rss",
       "hora": "Fri, 27 Nov 2026 18:28:53 GMT",
       "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Os caminhoneiros que se arriscam e ganham pouco para entregar suas compras na Black Friday",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm4gnjx14j7lo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 27 Nov 2026 09:34:55 GMT",
-      "tema": "brasil",
       "resumo": null
     },
     {
@@ -304,35 +320,19 @@
       "resumo": null
     },
     {
-      "titulo": "Zelensky critica 'estranha amizade' entre Trump e Putin em entrevista à BBC: 'Putin é um agressor e assassino'",
+      "titulo": "Dólar cai e bolsa sobe: a reação do mercado - e de economistas - à escolha de Trabuco para a Fazenda",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cm5y1pwkr0wwo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 27 Nov 2026 12:14:12 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "Como a imigração transformou a Espanha na última década e passou a ser tema fundamental das eleições",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cj62p7w0n2zgo?at_medium=RSS&at_campaign=rss",
-      "hora": "Fri, 27 Nov 2026 09:50:53 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'Dracarys': por que as explosões do Ibama são contestadas na Justiça - depois de terem virado até meme",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/c34gn28r7j4ro?at_medium=RSS&at_campaign=rss",
-      "hora": "Thu, 26 Nov 2026 18:26:09 GMT",
-      "tema": "mundo",
-      "resumo": null
-    },
-    {
-      "titulo": "'O Brasil inteiro procurando Belchior e ele na sala da minha casa': como foram os últimos anos do cantor no Rio Grande do Sul",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cvze7ly12z29o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 25 Nov 2026 10:04:46 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cv8e014e88xgo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 27 Nov 2026 13:53:59 GMT",
       "tema": "brasil",
+      "resumo": null
+    },
+    {
+      "titulo": "A reação da imprensa internacional à indicação de Trabuco para o Ministério da Fazenda",
+      "fonte": "BBC Brasil",
+      "link": "https://www.bbc.com/portuguese/articles/cw20x68drd43o?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 27 Nov 2026 10:21:42 GMT",
+      "tema": "mundo",
       "resumo": null
     },
     {
@@ -344,27 +344,19 @@
       "resumo": null
     },
     {
-      "titulo": "Julgamento de Van Hattem no STF é o primeiro round da guerra entre Senado e Supremo em 2027?",
+      "titulo": "Os caminhoneiros que se arriscam e ganham pouco para entregar suas compras na Black Friday",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqdr13l5e830o?at_medium=RSS&at_campaign=rss",
-      "hora": "Wed, 25 Nov 2026 08:44:53 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cm4gnjx14j7lo?at_medium=RSS&at_campaign=rss",
+      "hora": "Fri, 27 Nov 2026 09:34:55 GMT",
       "tema": "brasil",
       "resumo": null
     },
     {
-      "titulo": "Lula abriu arquivos de Bolsonaro, mas mantém sigilo sobre gastos e decisões do próprio mandato",
+      "titulo": "'O Brasil inteiro procurando Belchior e ele na sala da minha casa': como foram os últimos anos do cantor no Rio Grande do Sul",
       "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cqdj1d3yd4pzo?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 24 Nov 2026 11:28:48 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cvze7ly12z29o?at_medium=RSS&at_campaign=rss",
+      "hora": "Wed, 25 Nov 2026 10:04:46 GMT",
       "tema": "brasil",
-      "resumo": null
-    },
-    {
-      "titulo": "Por que o RJ não sabe quantas crianças são mortas pela polícia",
-      "fonte": "BBC Brasil",
-      "link": "https://www.bbc.com/portuguese/articles/cx24e9z27q30o?at_medium=RSS&at_campaign=rss",
-      "hora": "Tue, 24 Nov 2026 08:35:43 GMT",
-      "tema": "mundo",
       "resumo": null
     }
   ]
